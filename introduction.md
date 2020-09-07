@@ -30,3 +30,8 @@ Après contribution vous pouvez obtenir des rôles sur notre serveur Discord.
 - Salons d’informations en direct
 - Création de guides
 - Ecriture d’articles sur le blog
+
+#### GrifGrif est bien évidamment le meilleur :)
+- Il fais la vaiselle et le café
+- il fait des film (et des fois il SE fais des film haha)
+- il est BG
