@@ -24,9 +24,3 @@ Après contribution vous pouvez obtenir des rôles sur notre serveur Discord.
 - Salon des contributeurs
 - Salons d’informations en direct
 - Création de guides
-
-#### Contributeur 3, vous avez écrit un minimum de 20 articles validés sur le wiki et le guide.
-- Salon des contributeurs
-- Salons d’informations en direct
-- Création de guides
-- Ecriture d’articles sur le blog
