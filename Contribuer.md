@@ -92,7 +92,7 @@ Une fois que vous êtes certain du contenu, cliquez sur "Create pull request". (
 ![Pull Request Creation addpage](https://i.discord.fr/Pwy.png)
 
 #### Création de la Pull Request
-Ici, vous pouvez pour la dernière fois modifier le titre et le commentaire d'ajout. Vérifiez s'il est complet et si possible sourcé (un article du support anglophonne par exemple). (Numéro 1)
+Ici, vous pouvez pour la dernière fois modifier le titre et le commentaire d'ajout. Vérifiez s'il est complet et si possible sourcé (un article du support anglophonne par exemple). **Attention ! N'oubliez pas de préciser votre ID d'utilisateur Discord pour que nous puissions garder votre compte de contribution à jour !** (Numéro 1)
 
 Enfin, pour terminer votre travail, cliquez sur "Create pull request". (Numéro 2)
 
