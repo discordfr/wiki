@@ -10,7 +10,7 @@ Dans cet article, vous apprendrez pas à pas à créer une page et à la modifie
 ### Comment modifier une page du Wiki #
 
 #### Sélection du Fichier
-Rendez vous sur la page [GitHub du Wiki](https://github.com/discordfr/wiki) puis choissisez le fichier que vous souhaitez éditer dans la liste.
+Rendez-vous sur la page [GitHub du Wiki](https://github.com/discordfr/wiki) puis choisissez le fichier que vous souhaitez éditer dans la liste.
 
 ![Choisir un Fichier](https://i.discord.fr/X6T.png)
 :::note Note
@@ -18,12 +18,12 @@ Les fichiers portent le nom du lien, par exemple Contribuer.md est le fichier co
 :::
 
 #### Débuter la modification
-Cliquez sur le petit logo de crayon (Modifier), GitHub alors créra automatiquement une "Fork" dans votre profil, ce qui vous permettra de modifier le document.
+Cliquez sur le petit logo de crayon (Modifier), GitHub alors créera automatiquement une "Fork" dans votre profil, ce qui vous permettra de modifier le document.
 
 ![Modifier](https://i.discord.fr/TPF.png)
 
 #### Valider la modification et la commenter
-Après avoir fait vos modifications, Mettez un commentaire qui explique précisément vos modifications, vous devez ___indiquer vos sources___ si vous en avez. (Numéro 1)
+Après avoir fait vos modifications, veillez à la mettre en page avec du Markdown, vous trouverez une boite d'aide plus bas, Mettez ensuite un commentaire qui explique précisément vos modifications, vous devez ___indiquer vos sources___ si vous en avez. (Numéro 1)
 
 Puis validez en appuyant sur le bouton "Propose changes" qui confirmera l'action. (Numéro 2)
 
@@ -68,7 +68,7 @@ Rendez vous sur la page [GitHub du Wiki](https://github.com/discordfr/wiki), ens
 ![Add file button](https://i.discord.fr/wtU.png)
 
 #### Ajouter le contenu de base
-Comme pour la modification, entrez le contenu initiale de la page. (Numéro 1)
+Comme pour la modification, entrez le contenu initiale de la page. Veillez à la mettre en page grâce au Markdown, vous trouverez une boite d'aide plus bas dans cet article. (Numéro 1)
 
 Une fois le contenu rempli, indiquez ce que cette page initiale contient, et ci-possible, ajoutez des sources. (Numéro 2)
 
@@ -114,6 +114,8 @@ Il faudra à l'équipe moins de deux semaines pour examiner votre nouvelle page.
 
 ### Bonus d'Aide au Markdown #
 
+Vous trouverez ci-dessous une petite boite d'aide au Markdown.
+
 | Syntaxe     |  Résultat   |
 | ----------- | ----------- |
 | # Titre 1  | ![Titre1](https://i.discord.fr/7hM.png)  |
@@ -130,7 +132,7 @@ Il faudra à l'équipe moins de deux semaines pour examiner votre nouvelle page.
 | \`code\` | `code` |
 | ********************* | ![séparateur](https://i.discord.fr/peU.png) |
 | \[Site de Discord FR\]\(https://discord.fr/) | [Site de Discord FR](https://discord.fr/) |
-| \!\[Logo de Discord FR\]\(https://i.discord.fr/JTH.png) | ![Logo de Discord FR](https://i.discord.fr/JTH.png)
+| \!\[Logo de Discord FR\]\(https://i.discord.fr/JTH.png) | ![Logo de Discord FR](https://i.discord.fr/JTH.png) |
 
 *********************
 
