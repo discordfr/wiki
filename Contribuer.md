@@ -1,10 +1,10 @@
 ---
 id: Contribuer
-title: Contribuer au Wiki de DiscordFR
-description: Contribuer est une chose importante pour le Wiki de DiscordFR, Apprenez comment nous aider sur cette page :)
+title: Contribuer au Wiki de Discord FR
+description: Contribuer est une chose importante pour le Wiki de Discord FR, Apprenez comment nous aider sur cette page :)
 image: https://i.discord.fr/9yU.png
 ---
-# Contribuer au Wiki de DiscordFR
+# Contribuer au Wiki de Discord FR
 Dans cet article, vous apprendrez pas à pas à créer une page et à la modifier pour devenir un vrai contributeur de ce Wiki. Elle vous expliquera les bases et quelques conseils utiles pour bien débuter.
 
 ### Comment modifier une page du Wiki #
@@ -51,7 +51,7 @@ Vous devez laisser coché la case "Allow edits by maintainers" pour nous autoris
 ![Pull Request Creation 2](https://i.discord.fr/Xf5.png)
 
 #### Vérification par l'équipe
-Si vous tombez sur la page suivante, vous n'avez plus rien à faire, le staff de DiscordFR et les contributeurs chevronnées examinerons votre modification.
+Si vous tombez sur la page suivante, vous n'avez plus rien à faire, le staff de Discord FR et les contributeurs chevronnées examinerons votre modification.
 
 ![Finish](https://i.discord.fr/bib.png)
 :::info Information
@@ -97,18 +97,40 @@ Ici vous pouvez pour la dernière fois modifier le titre et le commentaire d'ajo
 Ensuite pour terminer votre travail, appuyez sur "Create pull request". (Numéro 2)
 
 :::caution Attention !
-Vous devez laisser coché la case "Allow edits by maintainers" pour nous autoriser la correction de fautes ou tout simplement nous permettre j'ajouter les tags nécessaires pour que notre site web ultra méga high tech puisse fonctionner.
+Vous devez laisser coché la case "Allow edits by maintainers" pour nous autoriser la correction de fautes ou tout simplement nous permettre d'ajouter les tags nécessaires pour que les hamsters quantiques de notre site web puissent fonctionner !
 :::
 
 ![Pull Request Creation addpage 2](https://i.discord.fr/3n6.png)
 
 #### Vérification par l'équipe
-Si vous tombez sur la page suivante, vous n'avez plus rien à faire, le staff de DiscordFR et les contributeurs chevronnées examinerons votre nouvelle page.
+Si vous tombez sur la page suivante, vous n'avez plus rien à faire, le staff de Discord FR et les contributeurs chevronnées examinerons votre nouvelle page.
 
 ![Finish addpage](https://i.discord.fr/bib.png)
 :::info Information
 Il faudra à l'équipe moins de deux semaines pour examiner votre nouvelle page. Si cepandant vous constatez que cela prends plus de temps, vous pouvez directment nous contacter sur [Notre Discord](https://discord.gg/fr) en envoyant un Message Privé au bot Discord FR#9922.
 :::
+
+*********************
+
+### Bonus d'Aide au Markdown #
+
+| Syntaxe     |  Résultat   |
+| ----------- | ----------- |
+| # Titre 1  | ![Titre1](https://i.discord.fr/7hM.png)  |
+| ## Titre 2   | ![Titre2](https://i.discord.fr/vBy.png)|
+| ### Titre 3 | ![Titre3](https://i.discord.fr/Bif.png) |
+| #### Titre 4 | ![Titre4](https://i.discord.fr/Mfh.png) |
+| ##### Titre 5 | ![Titre5](https://i.discord.fr/QMk.png) |
+| ###### Titre 6 | ![Titre6](https://i.discord.fr/I7B.png) |
+| \*\*Gras\*\* | **Gras** |
+| \*Italique\* | *Italique* |
+| \*\*\*Les deux cap'tain\*\*\* | ***Les deux cap'tain*** |
+| > Citation | ![Citation](https://i.discord.fr/8uf.png) |
+| - Liste à point | ![listapoint](https://i.discord.fr/d9Y.png) |
+| \`code\` | `code` |
+| ********************* | ![séparateur](https://i.discord.fr/peU.png) |
+| \[Site de Discord FR\]\(https://discord.fr/) | [Site de Discord FR](https://discord.fr/) |
+| \!\[Logo de Discord FR\]\(https://i.discord.fr/JTH.png) | ![Logo de Discord FR](https://i.discord.fr/JTH.png)
 
 *********************
 
@@ -133,7 +155,7 @@ keywords:
   - discord
   - wiki
   - tutoriel
-description: Contribuer est une chose importante pour le Wiki de DiscordFR, Apprenez comment nous aider sur cette page :)
+description: Contribuer est une chose importante pour le Wiki de Discord FR, Apprenez comment nous aider sur cette page :)
 ---
 
 ```
