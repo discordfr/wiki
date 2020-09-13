@@ -1,8 +1,6 @@
 ---
 id: markdown
-title: LE Wiki Discord Français
-hide_title: true
-sidebar_label: Écriture Markdown
+title: Écriture Markdown
 ---
 
 Discord utilise le langage markdown pour permettre aux utilisateurs de mettre en forme leurs messages. Sa syntaxe simple lui permet d'éditer simplement et rapidement un message.
@@ -18,7 +16,7 @@ Affichera:
 <img alt="ExemplePhrase" src="https://i.discord.fr/HBj.png" class="docImage"/>
 
 ## Les blocs de citation
-Discord permet également de [citer](https://wiki.discord.fr/docs/fr/citations) d'autres messages. Cette mise en forme est faisable en mettant le signe `>` devant une nouvelle ligne. Ce qui donnera:
+Discord permet également de [citer](https://discord.fr/wiki/interface/salon-textuel/citations) d'autres messages. Cette mise en forme est faisable en mettant le signe `>` devant une nouvelle ligne. Ce qui donnera:
 
 <img alt="ExempleQuote" src="https://i.discord.fr/EV1.png" class="docImage"/>
 

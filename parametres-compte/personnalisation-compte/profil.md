@@ -1,12 +1,8 @@
 ---
 id: profil
-title: LE Wiki Discord Français
-hide_title: true
-sidebar_label: Profil Utilisateur
+title: Profil Utilisateur
 ---
-# Profil Utilisateur
-
-<img src="https://i.discord.fr/HEO.png">
+![Image](https://i.discord.fr/HEO.png)
 
 Le profil d'un utilisateur Discord est la vitrine qui va le mettre en valeur, il comporte plusieurs éléments:
 
