@@ -14,7 +14,7 @@ Rendez-vous sur la page [GitHub du Wiki](https://github.com/discordfr/wiki) puis
 
 ![Choisir un Fichier](https://i.discord.fr/X6T.png)
 :::note Note
-Les fichiers portent le nom du lien, par exemple Contribuer.md est le fichier correspondant au lien https://discord.fr/wiki/Contribuer.
+Les fichiers portent le nom du lien, par exemple Contribuer.md est le fichier correspondant au lien https://discord.fr/wiki/contribuer.
 :::
 
 #### Débuter la modification
