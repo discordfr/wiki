@@ -1,21 +1,20 @@
 ---
 id: introduction
-title: LE Wiki Discord Français
+title: Wiki Discord contributif en français
+description: Wiki contributif pour le logiciel Discord.
 hide_title: true
 sidebar_label: Introduction
 ---
 
 # Introduction
 
-Bienvenue sur le Wiki communautaire de Discord FR, vous trouverez ici de nombreuses aides et astuces en français.
-Vous découvrirez comment configurer votre serveur Discord, gérer vos bots et vos paramètres de compte. Même les chasseurs de badges trouveront ici leur bonheur.
-Welcome sur le wiki discord made in france.
+Bienvenue sur le Wiki communautaire de Discord FR. Vous trouverez ici de nombreuses aides et astuces en français. Vous découvrirez comment configurer votre serveur Discord, gérer vos bots et vos paramètres de compte. Même les chasseurs de badges trouveront ici leur bonheur. Welcome sur le wiki discord made in France.
 
 ## Comment puis-je contribuer au wiki ?
-Chacun peut contribuer, pour se faire il vous faut un compte github, pour obtenir les information technique rendez vous sur notre [page de contribution](https://github.com/discordfr/wiki/blob/master/CONTRIBUTING.md). 
+Chacun peut contribuer ; munissez-vous d'un compte GitHub, et rendez-vous sur notre [page de contribution](https://github.com/discordfr/wiki/blob/master/CONTRIBUTING.md). 
 
 ## Les avantages contributeurs
-Après contribution vous pouvez obtenir des rôles sur notre serveur Discord.
+Après contribution, vous pourrez obtenir des rôles sur notre serveur Discord.
 
 #### Contributeur 1, vous avez écrit un article sur le wiki validé par le staff.
 - Salon des contributeurs
@@ -29,4 +28,4 @@ Après contribution vous pouvez obtenir des rôles sur notre serveur Discord.
 - Salon des contributeurs
 - Salons d’informations en direct
 - Création de guides
-- Ecriture d’articles sur le blog
+- Création d’articles sur le blog
