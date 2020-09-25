@@ -11,7 +11,7 @@ sidebar_label: Introduction
 Bienvenue sur le Wiki communautaire de Discord FR. Vous trouverez ici de nombreuses aides et astuces en français. Vous découvrirez comment configurer votre serveur Discord, gérer vos bots et vos paramètres de compte. Même les chasseurs de badges trouveront ici leur bonheur. Welcome sur le wiki discord made in France.
 
 ## Comment puis-je contribuer au wiki ?
-Chacun peut contribuer ; munissez-vous d'un compte GitHub, et rendez-vous sur notre [page de contribution](https://github.com/discordfr/wiki/blob/master/CONTRIBUTING.md). 
+Chacun peut contribuer ; munissez-vous d'un compte GitHub, et rendez-vous sur notre [page de contribution](/wiki/contribuer). 
 
 ## Les avantages contributeurs
 Après contribution, vous pourrez obtenir des rôles sur notre serveur Discord.
