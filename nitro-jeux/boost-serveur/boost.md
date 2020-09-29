@@ -1,6 +1,6 @@
 ---
-id: boost
-title: Les boosts de serveur sur Discord
+id: nitroboosting
+title: Le Nitro Boosting
 keywords:
   - discord
   - nitro
@@ -8,6 +8,7 @@ keywords:
   - boost
   - tutoriel
   - serveur
+  - serveurs
 description: Utilisation des boosts de serveurs sur Discord
 ---
 
