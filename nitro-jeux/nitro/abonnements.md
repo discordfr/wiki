@@ -6,7 +6,7 @@
 ### Qu’est-ce que [Discord Nitro](https://support.discord.com/hc/fr/articles/115000435108-Discord-Nitro-Classic-Nitro), c'est quoi ?
 Les abonnements [Nitro](https://support.discord.com/hc/fr/articles/115000435108-Discord-Nitro-Classic-Nitro) sont fait pour que les utilisateurs aient une expérience premium sur le réseau, avec quatres offres différentes (hors boosts) par mois/an. Si vous possèdez l'une des offres, vous pourrez montrer depuis combien de temps vous supportez Discord avec Nitro ❤
 
-![Capture Nitro](https://u.freiik.com/%F0%9F%8F%A1%F0%9F%90%A1%F0%9F%A5%A5%F0%9F%8F%8E.png)
+![Capture Nitro](https://i.discord.fr/bRo.png)
 
 ### Nitro Classic ($4,99 par mois / $49,99 par an)
 Nitro Classic était pendant très longtemps le seul abonnement, désormais il est le petit frère de l'autre abonnement Nitro 😎.
@@ -34,4 +34,4 @@ Si vous utilisez Discord une fois par mois, cela est inutile d'avoir une fonctio
 ### Comment s'abonner ?
 Rien de plus simple, allez simplement dans vos paramètres et dans "Discord Nitro", et suivre les instructions écrites !
 
-![GIF comment acheter Nitro](https://u.freiik.com/%F0%9F%A6%98%F0%9F%8F%9A%F0%9F%96%B2%F0%9F%9A%AC.gif)
+![GIF comment acheter Nitro](https://i.discord.fr/jc3.gif)
