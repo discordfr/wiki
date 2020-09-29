@@ -1,6 +1,12 @@
-<p align="center"><img height="120" align="center" src="https://i.discord.fr/JTH.png" alt="logo"/></p>
-<h1 align="center">Discord FR</h1>
-
+---
+id: nitro
+title: Les divers abonnements Nitro
+keywords:
+  - discord
+  - nitro
+  - tutoriel
+  - nitro classic
+description: Abonnement Nitro sur Discord
 ---
 
 ### Qu’est-ce que [Discord Nitro](https://support.discord.com/hc/fr/articles/115000435108-Discord-Nitro-Classic-Nitro), c'est quoi ?
