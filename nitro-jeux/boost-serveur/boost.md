@@ -13,7 +13,7 @@ description: Utilisation des boosts de serveurs sur Discord
 ---
 
 ### Quel est le prix d'un boost ?
-Un boost coûte $4,99, mais si vous possèdez un abonnement Nitro, vous bénéficerez -30% sur l'achat de boost. Si vous possèdez un abonnement Nitro Classic 
+Un boost coûte $4,99, mais si vous possèdez un abonnement Nitro, vous bénéficerez -30% sur l'achat de boost.
 
 ### Qu'est-ce qu'un boost ?
 Un boost est un abonnement (inclut ou payé), qui permets de faire bénéficier un serveur de fonctionnalités. Vous aurez un badge sur votre profil, un rôle exculsif booster sur le serveur et l'affichage de l'icône boost à côté de ton profil dans la liste des membres. En fonction de la durée dans laquel vous boostez un serveur, vous pouvez avoir le badge qui change au fur et à mesure du temps.
