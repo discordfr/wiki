@@ -12,27 +12,25 @@ keywords:
 description: Utilisation des boosts de serveurs sur Discord
 ---
 
-### Quel est le prix d'un boost ?
-Un boost coûte $4,99, mais si vous possèdez un abonnement Nitro, vous bénéficerez -30% sur l'achat de boost.
-
 ### Qu'est-ce qu'un boost ?
-Un boost est un abonnement (inclut ou payé), qui permets de faire bénéficier un serveur de fonctionnalités. Vous aurez un badge sur votre profil, un rôle exculsif booster sur le serveur et l'affichage de l'icône boost à côté de ton profil dans la liste des membres. En fonction de la durée dans laquel vous boostez un serveur, vous pouvez avoir le badge qui change au fur et à mesure du temps.
+Un boost est un abonnement (inclut ou payé), qui permet de faire bénéficier un serveur de fonctionnalités. Booster un serveur lui permet de progresser et de passer aux niveaux supérieurs. Chaque niveau donne des avantages collectifs pour tout le serveur. L'utilisateur ayant boosté le serveur recevra un badge sur son profil discord, un rôle exclusif sur le serveur en question et l'affichage d'une icône boost à côté du pseudo dans la liste des utilisateurs sur ce serveur. En fonction de la durée dans laquelle vous boostez un serveur, vous pouvez avoir le badge qui change au fur et à mesure du temps.
 
-Capture d'écran :
 ![Badge boosteur](https://i.discord.fr/gkk.png)
 
-Les serveurs peuvent avoir trois niveaux :
-* ✨Niveau 1✨ - 2 Boosts de serveur
-* ✨Niveau 2✨ - 15 Boosts de serveur
-* ✨Niveau 3✨ - 30 Boosts de serveur
+### Quel est le prix d'un boost ?
+Un boost coûte $4,99, mais si l'utilisateur possède un abonnement Nitro, il bénéficie de -30% sur l'achat de boost.
 
-### Qu'est-ce que les niveaux de serveur ?
-Les niveaux de serveur, sont comme vous l'avez compris en fonction des boosts qui y sont ajouté. Par exemple, si vous boostez un serveur et que le serveur change de niveau, cela le montrera dans le message du boost:
+### Qu'est-ce que sont les niveaux de serveur ?
+Un niveau de serveur est un palier qui permet de débloquer des avantages au sein d'un serveur. Ils sont débloqués dès lors que le serveur a atteint un nombre de boost défini.
+
 ![Exemple boost](https://i.discord.fr/fda.png)
 
----
+Les serveurs peuvent avoir trois palier de boosts :
+* ✨Niveau 1✨ ➜ 2 Boosts sur le serveur
+* ✨Niveau 2✨ ➜ 15 Boosts sur le serveur
+* ✨Niveau 3✨ ➜ 30 Boosts sur le serveur
 
-Cependant, vous avez ci-dessous en fonction des niveaux, ses fonctionnalités uniques.
+Voici les fonctionnalités qui peuvent être débloquées à chaque palier:
 
 #### Niveau 1
 * 50 emplacements supplémentaire d'émoji du serveur (un total de 100)
@@ -56,7 +54,7 @@ Cependant, vous avez ci-dessous en fonction des niveaux, ses fonctionnalités un
 * URL personnalisée
 * Limite de téléchargement pour tous les membres de 100Mo
 
-### Comment procèder à l'achat de boost ?
-Rien de plus simple, allez sur le serveur et cliquez sur le nom du serveur, et sur "Boost de serveur" !
+### Comment procéder à l'achat de boost ?
+Pour cela, il faut se rendre sur le serveur en question, et cliquer sur "Boost de serveur". Si l'utilisateur possède des boosts incluses dans un abonnement Nitro, il peut également donner ses boosts au serveur avec le même bouton.
 
 ![Achat boost](https://i.discord.fr/Qel.gif)
