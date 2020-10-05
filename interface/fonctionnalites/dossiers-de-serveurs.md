@@ -21,7 +21,7 @@ Ou ouvrir le dossier et puis faire glisser le serveur juste après ou au milieu 
 
 ## Supprimer un dossier
 
-Pour supprimer un dossier, il suffit de faire glisser les serveurs hors du dossier. Après avoir bouger le dernier serveur, le dossiser sera supprimé.
+Pour supprimer un dossier, il suffit de faire glisser les serveurs hors du dossier. Après avoir bouger le dernier serveur, le dossier sera supprimé.
 
 ## Modifier un dossier
 
