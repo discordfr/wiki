@@ -15,7 +15,7 @@ L'authentification à deux facteurs, ou A2F est un programme développé pour la
 
 
 ### Quel programme choisir pour l'A2F ?
-Il est recommandé d'utiliser des services reconnus, comme [Authy](https://authy.com/), disponible sous presque tous les systèmes d'exploitation ou bien [Google Authentificator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), disponible seulement sous Android.
+Il est recommandé d'utiliser des services reconnus, comme [Authy](https://authy.com/), disponible sous presque tous les systèmes d'exploitation ou bien [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), disponible seulement sous Android.
 
 ### Comment le mettre en place sur Discord ?
 Rien de plus simple, il faudra juste aller dans vos paramètres, cliquez sur "Mon compte" et par la suite sur "Activer l'authentification à deux facteurs". Ensuite suivez les instructions sur l'écran !
