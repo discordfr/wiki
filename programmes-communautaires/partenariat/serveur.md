@@ -1,5 +1,15 @@
-# Les serveurs partenaires
-Vous voulez contribuer à cette page ? Faites une pull request sur [notre repository GitHub](https://github.com/discordfr/wiki). Suivez les instructions sur [notre page dédiée](https://discord.fr/wiki/contribuer).
+---
+id: serveurs-partenaires
+title: Les serveurs partenaires
+keywords:
+  - discord
+  - serveur
+  - serveurs
+  - partner
+  - partebaire
+  - partenaires
+description: Les serveurs partenaires sur Discord
+---
 
 Le partenariat discord est, pour nombre d'utilisateurs  discord, un _eldorado_, de par les avantages obtenus par les partenaires discord, mais aussi pour les serveurs partenaires, mais aussi par une reconnaissance officielle de discord pour une communauté. 
 Dans cet article, nous découvrirons le partenariat discord pour le serveur.
@@ -8,7 +18,7 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
 
 #### Activer la "Communauté de serveur" :
 
- ![Activer la communauté de serveur](https://miro.medium.com/max/1920/1*Yjw0A87ucungJbtjuw-2Pg.png)
+ ![Activer la communauté du serveur](https://i.discord.fr/y2u.png)
  
  Il faut tout d'abord configurer la communauté, Discord guide les utilisateurs tout au long de l'opération. 
  Il faut aussi : 
@@ -26,45 +36,40 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
  #### Postuler
  Une fois le serveur communautaire activé, il faut aller dans l'onglet "Partner program".
  
- ![Partner Program](https://zupimages.net/up/20/42/o7cb.png)
+ ![Partner Program](https://i.discord.fr/86q.png)
  
  Les conditions suivantes sont nécessaires pour postuler :
  - Avoir au moins 500 membres.
  - Avoir au moins 50 personnes actives (communiquant) sur le serveur par semaine.
- - Avoir au moins 100 visiteurs du serveur par semaine, qui ne participent pas forcément, mais qui "visitent le srveur".
- - Sur les 100 % d'utilisateurs "visitant" le serveur, que 20 % ne quittent pas le serveur, et ce chaque semaine sur une durée totale de 8 semaines.
+ - Avoir au moins 100 visiteurs, qui ne participent pas forcément, mais qui "visitent le srveur".
+ - Sur les utilisateurs "visitant" le serveur, il faut que 20 % ne quittent pas le serveur, et ce chaque semaine sur une durée totale de 8 semaines.
  
- Les statistiques de serveur sont disponibles ici : https://discord.com/developers/servers/identifiant-du-serveur
+ Les statistiques de serveurs sont disponibles ici : https://discord.com/developers/servers/
  
- Il est ensuite postuler dans la partie communautaire des paramètres du serveur, à l'onglet "Partner program".
- Une fois le formulaire rempli et envoyé, l'équipe discord va traiter cette candidature, et accepter cette dernière ou la refuser.
+ Une fois le formulaire rempli et envoyé, l'équipe discord va traiter cette candidature, et accepter ou refuser cette dernière.
  
  ## Fonctionnalités des serveurs partenaires
  
  #### Une bannière d'invitation de serveur personnalisée 
  
-La bannière personnalisée se trouve en haut des salons, elle s'obtient aussi avec le niveau 1 de [boosts de serveur](https://github.com/discordfr/wiki/blob/master/nitro-jeux/boost-serveur/boost.md).
+La bannière personnalisée se trouve à l'arriere plan d'une invitation, elle s'obtient également au le niveau 1 de [boosts de serveur](https://github.com/discordfr/wiki/blob/master/nitro-jeux/boost-serveur/boost.md).
 
-![Bannière d'invitation de serveur](https://zupimages.net/up/20/42/7yzx.png)
+![Bannière d'invitation de serveur](https://i.discord.fr/Y06.png)
 
-#### Une url personnalisée
+#### Une URL personnalisée
 
-L'url personnalisée permet d'avoir un lien d'invitation discord.gg/lien, elle s'obtient aussi avec le niveau 3 de [boosts de serveur](https://github.com/discordfr/wiki/blob/master/nitro-jeux/boost-serveur/boost.md).
+L'url personnalisée permet d'avoir un lien d'invitation discord.gg/lien, elle s'obtient également avec le niveau 3 de [boosts de serveur](https://github.com/discordfr/wiki/blob/master/nitro-jeux/boost-serveur/boost.md).
 
-![Url de serveur personnalisée](https://support.discord.com/hc/article_attachments/115002083112/PartnersVanityURL.png)
+![Url de serveur personnalisée](https://i.discord.fr/2w7.png)
 
-#### Des salons vocaus avec une meilleure qualité audio
+#### Des salons vocaux avec une meilleure qualité audio
 
-Le partenariat avec Discord permet en outre d'avoir des salons vocaux avec une qualité vocale jusqu'à 384 kbps.
+Le partenariat avec Discord permet d'avoir des salons vocaux avec une qualité audio qui peut aller jusqu'à 384 kbps.
 
-![Salon vocal 384 kbps exemple](https://zupimages.net/up/20/42/d22f.png)
+![Salon vocal 384 kbps exemple](https://i.discord.fr/xqm.png)
 
-#### Un logo exclusif
+#### Un badge exclusif
 
-En plus des avantages de partenaire en tant qu'utilisateur, un logo sera affiché à gauche du nom du serveur.
+En plus des avantages de partenaire en tant qu'utilisateur, un badge sera affiché à gauche du nom du serveur.
 
-![Badge serveur partner](https://cdn.discordapp.com/attachments/514860300340690981/766298279197278248/emoji.png)
-
-Merci d'avoir lu, n'hésitez pas à compléter cet article !
-
-![Discord partenariat](https://discord.com/assets/b288456d598c7745b6e39e02fb7d6650.svg)
+![Badge serveur partner](https://i.discord.fr/lC7.png)
