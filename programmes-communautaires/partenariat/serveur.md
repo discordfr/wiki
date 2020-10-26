@@ -21,7 +21,7 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
  ![Activer la communauté du serveur](https://i.discord.fr/y2u.png)
  
  Il faut tout d'abord configurer la communauté, Discord guide les utilisateurs tout au long de l'opération. 
- Il faut aussi : 
+ Pour cela, il faut:
  - Activer dans les paramètres de sécurité le niveau "Faible" : une adresse e-mail
  - Activer l'analyse des contenus médias des membres.
  - Paramétrer les notifications par défaut sur @mentions uniquement.
@@ -31,7 +31,7 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
  
  #### Serveurs communautaires
  
- Voici un [lien](https://github.com/discordfr/wiki/blob/master/programmes-communautaires/outils-communautaires/serveur-communautaire.md) pour plus d'informations sur les serveurs communautaires.
+ Voici un [lien](https://github.com/discordfr/wiki/blob/master/programmes-communautaires/outils-communautaires/serveur-communautaire.md) pour obtenir plus d'informations sur les serveurs communautaires.
  
  #### Postuler
  Une fois le serveur communautaire activé, il faut aller dans l'onglet "Partner program".
