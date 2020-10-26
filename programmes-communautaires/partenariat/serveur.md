@@ -11,7 +11,7 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
  ![Activer la communauté de serveur](https://miro.medium.com/max/1920/1*Yjw0A87ucungJbtjuw-2Pg.png)
  
  Il faut tout d'abord configurer la communauté, Discord guide les utilisateurs tout au long de l'opération. 
- Il faudra : 
+ Il faut aussi : 
  - Activer dans les paramètres de sécurité le niveau "Faible" : une adresse e-mail
  - Activer l'analyse des contenus médias des membres.
  - Paramétrer les notifications par défaut sur @mentions uniquement.
