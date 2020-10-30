@@ -63,6 +63,6 @@ Les tiers permettent d'obtenir des avantages divers entre ces dernières.
 * Possibilité de faire parti du groupe de modérateur Junior
 
 ### Comment contribuer à l'envoi de bug (accèder au Tier 2) ?
-Rien de plus simple, il suffit juste d'envoyer un message au robot DBug (qui se trouve tout en haut sur le serveur), et lui envoyer "!quiz". Vous aurez alors le fameux "Bug Hunter Quiz" à compléter !
+Rien de plus simple, il suffit juste d'envoyer un message au robot DBug (d'accès également tout en haut dans la liste des membres du serveur), et lui envoyer "!quiz". Vous aurez alors le fameux "Bug Hunter Quiz" à compléter !
 
 ![Accès au formulaire](https://u.freiik.com/%F0%9F%96%B1%F0%9F%9B%B6%F0%9F%A5%B0.png)
