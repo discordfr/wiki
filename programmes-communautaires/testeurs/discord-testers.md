@@ -20,7 +20,7 @@ Le serveur Discord Testers est officiel, les employés de l'entreprise le dirige
 ### Quels sont les différents tiers ?
 Les tiers permettent d'obtenir des avantages divers entre ces dernières.
 
-![Tableau des différents tiers](https://u.freiik.com/%F0%9F%98%83%F0%9F%95%B3%F0%9F%9B%A9.png)
+![Tableau des différents tiers](https://i.discord.fr/sab.png)
 
 #### Tier 1 (@everyone)
 ##### Pré-requis
