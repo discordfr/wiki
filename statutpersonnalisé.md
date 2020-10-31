@@ -33,3 +33,5 @@ description: L'utilisation de la fonction "statut personnalisé" sur Discord
 
 5) Enregistrer le statut personnalisé
 ![enregistrement du statut](https://i.discord.fr/lmN.png)
+
+
