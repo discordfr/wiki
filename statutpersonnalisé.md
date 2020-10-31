@@ -10,10 +10,25 @@ keywords:
 description: L'utilisation de la fonction "statut personnalisé" sur Discord
 ---
 ## Qu'est-ce qu'un statut personnalisé ?
-
+Un statut personnalisé est un petit texte qui est affiché en dessous de votre pseudo lorsque vous êtes en ligne, il peut être accompagné d'un emojie. 
 
 ## Procédure à suivre sur Ordinateur (Windows & Mac)
-1)
+1) Cliquer sur sa photo de profil (en bas à gauche). 
+![Photo de profil](https://i.discord.fr/I6h.png) 
+
+2) Cliquer sur : **"Définir un statut personnalisé"**
+![définission du statut](https://i.discord.fr/q8j.jpg)
+
+3) Cliquer sur la zone de texte, et entrer le statut souhaité
+![texte statut perssonalisé](https://i.discord.fr/bz5.png)
+
+*Vous pouvez également choisir un émoji personnalisé, en cliquant sur l'icone "😀", pour l'afficher à gauche de votre statut*
+ 
+4) Choisir le temps pendant lequel, le statut sera affiché
+![temps d'affichage du statut](https://i.discord.fr/OaR.png)
+
+5) Enregistrer le statut personnalisé
+![enregistrement du statut](https://i.discord.fr/7gS.png)
 
 
 ## Procédure à suivre sur Téléphone (IOS & Android):
