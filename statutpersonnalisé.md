@@ -41,11 +41,11 @@ Un statut personnalisé est un petit texte qui est affiché en dessous de votre 
 
 1) Ce rendre dans l'onglet "paramètres", puis cliquer sur "définir le statut".
 
-![Bouton statut perssonalisé](https://i.discord.fr/EIm.jpg)
+![Bouton statut perssonalisé](https://i.discord.fr/lTe.png)
 
 2) Cliquer sur : **"Définir un statut personnalisé"**
 
-![définission du statut](https://i.discord.fr/i98.jpg)
+![définission du statut](https://i.discord.fr/SXG.png)
 
 3) Cliquer sur la zone de texte, et entrer le statut souhaité
 
