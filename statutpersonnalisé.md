@@ -20,7 +20,7 @@ Un statut personnalisé est un petit texte qui est affiché en dessous de votre 
 
 2) Cliquer sur **"Définir un statut personnalisé"**
 
-![définission du statut pc](https://i.discord.fr/q8j.jpg)
+![définission du statut pc](https://i.discord.fr/q8j.png)
 
 3) Cliquer sur la zone de texte, et entrer le statut souhaité
 
