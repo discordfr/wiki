@@ -1,7 +1,7 @@
 # Les dossiers de serveurs
 ## Que sont les dossiers de serveurs ?
 
-Les dossiers de serveurs sont un moyen d'organiser vos serveurs en groupes très facilement. Vous pouvez modifier leurs noms et leurs couleurs !
+Les dossiers de serveurs sont un moyen d'organiser les serveurs en groupes très facilement. Leurs noms et leurs couleurs peuvent être facilement modifiés !
 
 ## Créer un dossier
 
@@ -11,7 +11,7 @@ Il suffit de faire glisser un serveur sur un autre serveur pour créer un nouvea
 
 ## Ajouter un serveur à un dossier
 
-Pour ajouter un serveur à un dossier que vous avez déjà créé, vous pouvez faire glisser le serveur sur le dossier fermé :
+Pour ajouter un serveur à un dossier qui a déja été créé, il suffit de faire glisser le serveur sur le dossier fermé :
 
 ![Faire glisser sur le dossier fermé](https://i.discord.fr/KaB.gif)
 
@@ -25,10 +25,10 @@ Pour supprimer un dossier, il suffit de faire glisser les serveurs hors du dossi
 
 ## Modifier un dossier
 
-Faites un clic-droit sur le dossier pour voir le menu, et choisissez « Paramètres du dossier » 
+Un dossier peut être modifié facilement, en faisant un clic-droit sur le dossier pour voir le menu, et puis en choisissant « Paramètres du dossier » 
 
 ![Clic-droit et menu](https://i.discord.fr/TlO.gif)
 
-Ça s'affichera un popup où vous pouvez modifier le nom du dossier et le couleur du dossier.
+Ça s'affichera un popup où le nom du dossier et le couleur du dossier peuvent être modifiés.
 
 ![Popup](https://i.discord.fr/XzK.png)
