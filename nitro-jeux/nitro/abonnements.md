@@ -2,11 +2,11 @@
    
 # Qu'est-ce qu'un Nitro ?
 
-Nitro, ou plus couramment Discord Nitro est un abonnement permettant de soutenir Discord. Il se divise en deux abonnements : Nitro Classic, et Nitro Games. Discord Nitro est affiché avec Wumpus, la mascotte de Discord. Vous pouvez acheter ce forfait, mais également l'acheter en cadeau, sous ce code : discord.gift/... . 
+Nitro, ou plus couramment Discord Nitro est un abonnement permettant de soutenir Discord. Il se divise en deux abonnements : Nitro Classic, et Nitro Games. Discord Nitro est affiché avec Wumpus, la mascotte de Discord. Tu pourras acheter ce forfait, mais également l'acheter en cadeau, sous ce code : discord.gift/... . 
 
 # Les avantages du Nitro
 
-Une fois le nitro activé sur votre compte vous obtenez plusieure avantage. Qui sont :
+Une fois le nitro activé sur ton compte tu obtiendras plusieure avantage. Qui sont :
 
 - Un accès global aux émojis personnalisés de tous serveurs dont vous faites partie
 - Un Tag Discord personnalisée
