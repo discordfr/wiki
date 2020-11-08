@@ -2,11 +2,11 @@
    
 # Qu'est-ce qu'un Nitro ?
 
-Nitro, ou plus couramment Discord Nitro est un abonnement permettant de soutenir Discord. Il se divise en deux abonnements : Nitro Classic, et Nitro (aniennement Nitro games). Tu pourras acheter ce forfait, mais également l'acheter en cadeau, sous ce code : discord.gift/... . 
+Nitro, ou plus couramment Discord Nitro est un abonnement permettant de soutenir Discord. Il se divise en deux abonnements : Nitro Classic, et Nitro (aniennement Nitro games). Ce sera possible de acheter ce forfait, mais également l'acheter en cadeau pour des amis ou tout simplement pour faire plaisir au autres, sous ce code : discord.gift/... . 
 
 # Les avantages du Nitro
 
-Une fois le nitro activé sur ton compte tu obtiendras plusieure avantage. Qui sont :
+Une fois le nitro activé, plusieures avantages se débloqueront . Qui sont :
 
 - Un accès global aux émojis personnalisés de tous serveurs dont vous faites partie
 - Un Tag Discord personnalisée
