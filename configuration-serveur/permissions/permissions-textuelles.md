@@ -1,4 +1,4 @@
-![Permissions](https://i.discord.fr/mqJ.png)
+![Permissions](https://i.discord.fr/s2u.png)
 
 #### • Envoyer des messages
 
