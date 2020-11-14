@@ -15,7 +15,7 @@ description: Utilisation des boosts de serveurs sur Discord
 ### Qu'est-ce qu'un boost ?
 Un boost est un abonnement (inclut ou payé), qui permet de faire bénéficier un serveur de fonctionnalités. Booster un serveur lui permet de progresser et de passer aux niveaux supérieurs. Chaque niveau donne des avantages collectifs pour tout le serveur. L'utilisateur ayant boosté le serveur recevra un badge sur son profil discord, un rôle exclusif sur le serveur en question et l'affichage d'une icône boost à côté du pseudo dans la liste des utilisateurs sur ce serveur. En fonction de la durée dans laquelle vous boostez un serveur, vous pouvez avoir le badge qui change au fur et à mesure du temps.
 
-![Badge boosteur](https://i.discord.fr/gkk.png)
+![Badge boosteur](https://i.discord.fr/jZ6.png)
 
 ### Quel est le prix d'un boost ?
 Un boost coûte $4,99, mais si l'utilisateur possède un abonnement Nitro, il bénéficie de -30% sur l'achat de boost.
@@ -25,21 +25,16 @@ Un niveau de serveur est un palier qui permet de débloquer des avantages au sei
 
 ![Exemple boost](https://i.discord.fr/fda.png)
 
-Les serveurs peuvent avoir trois palier de boosts :
-* ✨Niveau 1✨ ➜ 2 Boosts sur le serveur
-* ✨Niveau 2✨ ➜ 15 Boosts sur le serveur
-* ✨Niveau 3✨ ➜ 30 Boosts sur le serveur
-
 Voici les fonctionnalités qui peuvent être débloquées à chaque palier:
 
-#### Niveau 1
+#### ![Niveau 1](https://i.discord.fr/Mqp.png)
 * 50 emplacements supplémentaire d'émoji du serveur (un total de 100)
 * Qualité audio amélioré (128ko/s)
 * Icône du serveur animée
 * Arrière-plan d'invitation du serveur personnalisé
 * Stream en haute définition
 
-#### Niveau 2
+#### ![Niveau 2](https://i.discord.fr/2tw.png)
 * Avantage du niveau précédent
 * 50 emplacements supplémentaire d'émoji du serveur (un total de 150)
 * Qualité audio amélioré (256ko/s)
@@ -47,7 +42,7 @@ Voici les fonctionnalités qui peuvent être débloquées à chaque palier:
 * Limite de téléchargement pour tous les membres de 50Mo
 * Stream en 1080p 60fps
 
-#### Niveau 3
+#### ![Niveau 3](https://i.discord.fr/NDb.png)
 * Avantage du niveau précédent
 * 100 emplacements supplémentaire d'émoji du serveur (un total de 250)
 * Qualité audio amélioré (384ko/s)
