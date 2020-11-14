@@ -1,3 +1,15 @@
+---
+id: permissions-generales
+title: Permissions Générales
+keywords:
+  - discord
+  - serveur
+  - permissions
+  - tutoriel
+  - générales
+description: Les permissions générales
+---
+
 ![Permissions](https://i.discord.fr/YNX.png)
 
 #### • Administrateur
