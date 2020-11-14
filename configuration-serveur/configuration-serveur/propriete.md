@@ -87,4 +87,5 @@ Le nouveau propriétaire possède désormais la couronne 👑 (la propriété du
 
 
 
-:::caution Attention ! Si vous transferez votre serveur et qu'il fait partie d'un programme (tel que le programme partenaire), vous risquez de ne plus faire partie de ce programme après le transfert. :::
+:::caution Attention !
+Si vous transferez votre serveur et qu'il fait partie d'un programme (tel que le programme partenaire), vous risquez de ne plus faire partie de ce programme après le transfert. :::
