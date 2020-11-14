@@ -1,3 +1,15 @@
+---
+id: permissions-vocales
+title: Permissions Vocales
+keywords:
+  - discord
+  - serveur
+  - permissions
+  - tutoriel
+  - vocal
+description: Les rôles sur un serveur Discord
+---
+
 ![Permissions](https://i.discord.fr/ypS.png)
 
 #### • Se connecter
