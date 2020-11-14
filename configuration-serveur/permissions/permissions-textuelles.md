@@ -1,3 +1,15 @@
+---
+id: permissions-textuelles
+title: Permissions Textuelles
+keywords:
+  - discord
+  - serveur
+  - permissions
+  - tutoriel
+  - textuel
+description: Les permissions textuelles
+---
+
 ![Permissions](https://i.discord.fr/s2u.png)
 
 #### • Envoyer des messages
