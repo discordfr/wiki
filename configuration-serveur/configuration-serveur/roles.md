@@ -4,7 +4,6 @@ title: Les rôles
 keywords:
   - discord
   - serveur
-  - serveurs
   - tutoriel
   - roles
   - permissions
