@@ -1,4 +1,4 @@
-![Permissions](https://i.discord.fr/ZNw.png)
+![Permissions](https://i.discord.fr/ypS.png)
 
 #### • Se connecter
 
