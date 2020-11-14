@@ -28,22 +28,22 @@ Un niveau de serveur est un palier qui permet de débloquer des avantages au sei
 Voici les fonctionnalités qui peuvent être débloquées à chaque palier:
 
 #### ![Niveau 1](https://i.discord.fr/Mqp.png)
-* 50 emplacements supplémentaire d'émoji du serveur (un total de 100)
+* 50 emplacements supplémentaire d'émoji du serveur (pour un total de 100)
 * Qualité audio amélioré (128ko/s)
-* Icône du serveur animée
+* Icône de serveur animée
 * Arrière-plan d'invitation du serveur personnalisé
-* Stream en haute définition
+* Stream en haute définition (720p 60 fps) pour tous les membres
 
 #### ![Niveau 2](https://i.discord.fr/2tw.png)
-* Avantage du niveau précédent
-* 50 emplacements supplémentaire d'émoji du serveur (un total de 150)
+* Avantage du niveau 1
+* 50 emplacements supplémentaire d'émoji du serveur (pour un total de 150)
 * Qualité audio amélioré (256ko/s)
-* Bannière du serveur
+* Bannière de serveur
 * Limite de téléchargement pour tous les membres de 50Mo
-* Stream en 1080p 60fps
+* Stream en 1080p 60fps pour tous les membres
 
 #### ![Niveau 3](https://i.discord.fr/NDb.png)
-* Avantage du niveau précédent
+* Avantage du niveau 2
 * 100 emplacements supplémentaire d'émoji du serveur (un total de 250)
 * Qualité audio amélioré (384ko/s)
 * URL personnalisée
