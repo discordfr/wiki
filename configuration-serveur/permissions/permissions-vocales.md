@@ -7,7 +7,7 @@ keywords:
   - permissions
   - tutoriel
   - vocal
-description: Les rôles sur un serveur Discord
+description: Les permissions vocales
 ---
 
 ![Permissions](https://i.discord.fr/ypS.png)
