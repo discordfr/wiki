@@ -1,7 +1,7 @@
 # Les rôles
 
 ## Les permissions générales
-
+![test](https://i.discord.fr/YNX.png)
 ![Administrateur, voir les logs du serveur](https://i.discord.fr/0Me.png)
 
 #### • Administrateur
