@@ -80,15 +80,13 @@ Ce badge indique qu'un membre a souscrit à discord Nitro Classic ou discord Nit
 <br />
 
 ## Le badge de Boost de serveur <img src= "https://i.discord.fr/1cU.png" width="17" height="17">
-<img src="https://i.discord.fr/jZ6.png">
+<img src="https://i.discord.fr/zSo.png">
 Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un serveur. Il disparaît dès lors que le boost prend fin ou est annulé.
 
 <br />
 
 **Une spécifité unique à ce badge est son caractère évolutif selon les durées suivantes :**
-<img src="https://i.discord.fr/9hA.png" width="700" height="175">
-
-
+<img src="https://i.discord.fr/jZ6.png" width="700" height="175">
 
 <br />
 
