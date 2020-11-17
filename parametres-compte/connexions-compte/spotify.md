@@ -1,7 +1,14 @@
-# La connexion Spotify
-
-Spotify est un service streaming musical disponible sur plusieurs plateformes mais aussi sur le web. 
-
+---
+id: connexion-spotify
+title: La connexion Spotify
+keywords:
+  - discord
+  - spotify
+  - connexion
+  - musique
+  - tutoriel
+description: Spotify est un service streaming musical disponible sur plusieurs plateformes mais aussi sur le web. 
+---
 Il existe un abonnement sur Spotify permettant d'avoir un accès sans publicité et illimité à toutes les musiques.
 
 Il est possible depuis février 2018 de relier un compte Spotify avec Discord pour montrer ce que l'utilisateur écoute mais pas seulement. Il est en effet possible d'écouter à plusieurs une musique mais cette option ne reste disponible qu'aux utilisateurs ayant un abonnement Spotify Premium.
