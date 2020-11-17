@@ -1,6 +1,13 @@
 ---
 id: profil
-title: Profil Utilisateur
+title: Les profils sur discord
+keywords:
+  - discord
+  - profils
+  - personnalisation
+  - compte
+  - tutoriel
+description: Le profil utilisateur sur discord
 ---
 ![Image](https://i.discord.fr/HEO.png)
 
