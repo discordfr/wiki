@@ -1,2 +1,13 @@
-# Les logs
+---
+id: logs-serveurs
+title: Les logs
+keywords:
+  - discord
+  - serveur
+  - logs
+  - log
+  - configuration
+  - tutoriel
+description: Les logs de serveurs
+---
 Vous voulez contribuer à cette page ? Faites une pull request sur [notre repository GitHub](https://github.com/discordfr/wiki). Suivez les instructions sur [notre page dédiée](https://discord.fr/wiki/contribuer).
