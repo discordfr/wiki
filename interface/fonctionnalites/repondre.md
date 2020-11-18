@@ -20,6 +20,7 @@ Pour utiliser cette fonctionnalité sur pc, il y a deux façons :
 ![fontionnalité "répondre" sur pc en passant dessus](https://i.discord.fr/lqr.png)
 
 - Faire un clic droit sur un message et sélectionner “répondre”.
+![fontionnalité "répondre" sur pc par clic droit](https://i.discord.fr/c4Z.png
 
 Sur mobile, il suffira d’appuyer longuement sur un message et de sélectionner “répondre”.
 ![trouver "répondre"](https://i.discord.fr/JPa.jpg)
