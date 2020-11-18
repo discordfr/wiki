@@ -1,5 +1,5 @@
 ---
-id: modeles-serveur
+id: modeles
 title: Les modeles de serveurs
 keywords:
   - discord

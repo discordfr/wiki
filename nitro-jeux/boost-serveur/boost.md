@@ -1,5 +1,5 @@
 ---
-id: nitroboosting
+id: boost
 title: Le Nitro Boosting
 keywords:
   - discord

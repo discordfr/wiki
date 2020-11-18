@@ -1,5 +1,5 @@
 ---
-id: abonnements-nitro
+id: abonnements
 title: Les abonnements Nitro
 keywords:
   - discord

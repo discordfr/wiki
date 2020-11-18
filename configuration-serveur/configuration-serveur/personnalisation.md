@@ -1,5 +1,5 @@
 ---
-id: personnalisation-serveur
+id: personnalisation
 title: La personnalisation de serveur
 keywords:
   - discord

@@ -1,5 +1,5 @@
 ---
-id: serveurs-communautaires
+id: serveur-communautaire
 title: Les serveurs communautaires
 keywords:
   - discord

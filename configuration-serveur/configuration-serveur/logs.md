@@ -1,5 +1,5 @@
 ---
-id: logs-serveurs
+id: logs
 title: Les logs
 keywords:
   - discord
