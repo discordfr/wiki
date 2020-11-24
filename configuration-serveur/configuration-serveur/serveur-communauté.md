@@ -1,5 +1,5 @@
 # C'est quoi ?
-Le mode communoté, quand il est activé permet d'ajouter de nouvelles fonctionnalitées a votre serveur :
+Le mode communoté, quand il est activé permet d'ajouter de nouvelles fonctionnalités a votre serveur :
 <h3> 1. L'ecran d'acceuil </h3> 
 <img src="https://zupimages.net/up/20/48/lf5u.png">
 <h3> 2. Système de recherche discovery </h3>
@@ -13,28 +13,28 @@ Le mode communoté, quand il est activé permet d'ajouter de nouvelles fonctionn
 
 # Comment activer le mode communauté ? 
 <br>
-Etape 1 : Rendez vous dans les paramètres de votre serveur
+Etape 1 : Se rendre dans les paramètres du serveur en question
 <br>
 <img src="https://zupimages.net/up/20/48/4o3p.png">
 <br>
-Etape 2 : rendez vous dans l'onglet "Activer la communoté"
+Etape 2 : se rendre dans l'onglet "Activer la communoté"
 <br>
 <img src="https://zupimages.net/up/20/48/mtwl.png">
 <br>
-Etape 3 : Appuyez sur le boutton "Commencer"
+Etape 3 : Appuyer sur "Commencer"
 <br>
 <img src="https://zupimages.net/up/20/48/tz1p.png">
 <br>
-Etape 4 : Cochez toutes les cases et cliquez sur "Suivant"
+Etape 4 : Cocher toutes les cases et cliquer sur "Suivant"
 <br>
 <img src="https://zupimages.net/up/20/48/lsgs.png">
 <br>
-Etape 4 : Selectionnez les salons d'annonce / regle et, si vous n'en avez pas laissez "En créer un pour moi"
+Etape 4 : Selectionner les salons d'annonce / reglement ou laisser "En créer un pour moi"
 <br>
 <img src="https://zupimages.net/up/20/48/7yle.png">
 <br>
-Etape 5 : Cochez toutes les cases et cliquer sur "Terminer la configuration"
+Etape 5 : Cocher toutes les cases et cliquer sur "Terminer la configuration"
 <br>
 <img src="https://zupimages.net/up/20/48/4wra.png">
 <br>
-Et voila vous avez réussi !!
+Et voila c'est Terminé !!
