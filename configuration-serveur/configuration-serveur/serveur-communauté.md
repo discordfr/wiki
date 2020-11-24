@@ -1,5 +1,5 @@
 # C'est quoi ?
-Le mode communoté, quand il est activé permet d'ajouter de nouvelles fonctionnalités a votre serveur :
+Le mode communauté, quand il est activé permet d'ajouter de nouvelles fonctionnalités a votre serveur :
 <h3> 1. L'ecran d'acceuil </h3> 
 <img src="https://zupimages.net/up/20/48/lf5u.png">
 <h3> 2. Système de recherche discovery </h3>
@@ -17,7 +17,7 @@ Etape 1 : Se rendre dans les paramètres du serveur en question
 <br>
 <img src="https://zupimages.net/up/20/48/4o3p.png">
 <br>
-Etape 2 : se rendre dans l'onglet "Activer la communoté"
+Etape 2 : se rendre dans l'onglet "Activer la communauté"
 <br>
 <img src="https://zupimages.net/up/20/48/mtwl.png">
 <br>
