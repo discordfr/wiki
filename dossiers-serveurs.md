@@ -16,16 +16,16 @@ Les dossiers de serveurs sont très pratiques pour oraganiser et ranger ses serv
 
 ### Qu'est-ce que c'est ?
 C'est un regroupement de plusieurs serveurs au même endroit. *(voir images ci-dessous)*
-[Dossier ouvert](https://i.discord.fr/zJ1.png)
-[Dossier fermer](https://i.discord.fr/Xyy.png)
+![Dossier ouvert](https://i.discord.fr/zJ1.png)
+![Dossier fermer](https://i.discord.fr/Xyy.png)
 
 ### Comment les créer ?
 Maintenir appuyer sur un serveur en le faisant glisser par dessus un autre serveur (ou dossier).
-[création dossier](https://i.discord.fr/RUR.png)
+![création dossier](https://i.discord.fr/RUR.png)
 
 ### Comment les personnaliser ? *(uniquement sur ordinadeur)*
 Faire un clique droit sur le dossier puis sélectionner "Paramètres du dossier".
 Pour modifier le nom du dossier cliquer sur la zone de texte (1) et pour paramétrer la couleur appuyer sur celle souhaitée (2).
-[Personnalisation](https://i.discord.fr/fIy.png)
+![Personnalisation](https://i.discord.fr/fIy.png)
 
 Et voilà! Le dossier est maintenant créé
