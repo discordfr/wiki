@@ -13,7 +13,7 @@ description: La Hypesquad Events sur Discord
 La Hypesquad Events de Discord a pour but de représenter Discord lors d'évènements du monde entier à travers une association.
 Il ne faut pas la confondre avec la [Hypesquad Online](https://github.com/discordfr/wiki/blob/master/programmes-communautaires/hypesquad/hypesquad-online.md).
 
-![Hypesquad events image officielle](https://zupimages.net/up/20/45/93e9.png)
+![Hypesquad events image officielle](https://i.discord.fr/NxV.png)
 
 ## Postuler à la HypeSquad Events
 
@@ -32,7 +32,7 @@ Tout comme pour le partenariat Discord, des avantages sont octroyés en tant que
 
 Un badge est attribué aux membres de la Hypesquad Events :
  
-![Bagde HE](https://media.discordapp.net/attachments/514860300340690981/631791522362294273/emoji.png)
+![Bagde HE](https://i.discord.fr/CS2.png)
 
 #### Serveur exclusif
 
@@ -42,7 +42,7 @@ Un badge est attribué aux membres de la Hypesquad Events :
  
  Ils reçoivent un T-Shirt exclusif, ainsi que des Stickers à coller :
  
- ![T-Shirt HE](https://i.redd.it/mo66tjg56p911.png)
+ ![T-Shirt HE](https://i.discord.fr/yMT.png)
  
  #### Coordinateurs d'évènements
  
