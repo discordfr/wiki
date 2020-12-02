@@ -10,42 +10,42 @@ description: La Hypesquad Events sur Discord
 
 # La HypeSquad Events
 
-La Hypesquad Events de Discord a pour but de représenter Discord lors d'évènements du monde entier à travers une association.
-Il ne faut pas la confondre avec la [Hypesquad Online](https://github.com/discordfr/wiki/blob/master/programmes-communautaires/hypesquad/hypesquad-online.md).
+Le programme Hypesquad Events de Discord a pour but de représenter Discord lors d'évènements du monde entier à travers une association.
+Il ne faut pas confondre ce programme avec celui de la [Hypesquad Online](https://discord.fr/wiki/programmes-communautaires/hypesquad/hypesquad-online).
 
 ![Hypesquad events image officielle](https://i.discord.fr/NxV.png)
 
-## Postuler à la HypeSquad Events
+## Comment postuler à la HypeSquad Events ?
 
-Il faudra [postuler](https://discord.com/hypesquad) à la hypesquad Events, et être accepté afin de représenter Discord et d'obtenir les avantages, il faut avoir au minimum 16 ans pour postuler.
+Pour [postuler](https://discord.com/hypesquad) à la hypesquad Events, et être accepté afin de pouvoir représenter Discord et obtenir certains avantages, il faut avoir au minimum 16 ans.
 Il y a la possibilité d'être candidat en tant que:
  - Participants à des événement de jeu.
  - Coordinateurs d'évènements
  
-Le délai d'attente de réponse eut aller jusqu'à 48 heures (cf [site officiel](https://support.discord.com/hc/en-us/articles/360003374771-HypeSquad-Mega-FAQ).
+Le délai d'attente de réponse peut aller jusqu'à 48 heures (cf [site officiel](https://support.discord.com/hc/en-us/articles/360003374771-HypeSquad-Mega-FAQ)).
 
-## Avantages en tant que Hypesquad Events
+## Quels sont les avantages en tant que Hypesquad Events ?
 
 Tout comme pour le partenariat Discord, des avantages sont octroyés en tant que membre des Hypesquad Events. Ces avantages varient en fonction du "statut" (coordinateur d'évènements ou participant à des évènements).
 
-#### Badge
+#### Le Badge
 
 Un badge est attribué aux membres de la Hypesquad Events :
  
 ![Bagde HE](https://i.discord.fr/CS2.png)
 
-#### Serveur exclusif
+#### Un Serveur exclusif
 
- Ils ont accès à un serveur exclusif.
+ Les membres de la HypeSquad Events ont accès à un serveur exclusif et privé.
  
- #### T-Shirt exclusif
+#### Un T-Shirt exclusif
  
- Ils reçoivent un T-Shirt exclusif, ainsi que des Stickers à coller :
+ Les membres de la HypeSquad Events reçoivent un T-Shirt exclusif, ainsi que des Stickers à coller :
  
  ![T-Shirt HE](https://i.discord.fr/yMT.png)
  
- #### Coordinateurs d'évènements
+#### Coordinateurs d'évènements
  
- Les coordinateurs d'évènemnts recevront en outre une "grosse boîte pleine à craquer de goodies".
+ Les coordinateurs d'évènements recevront en outre une "grosse boîte pleine à craquer de goodies".
  
  ![Goodies HE](https://zupimages.net/up/20/45/nrx6.png)
