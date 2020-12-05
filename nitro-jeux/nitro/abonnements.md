@@ -32,7 +32,7 @@ Encore, il y a des avantages supplémentaires, comme :
 * Toutes les avantages de Nitro Classic
 * Partage de fichiers de 8Mo à ~~50Mo~~ 100Mo
 * Partage d'écran à la source
-* Deux boosts de serveur inclut (voir [ici](https://github.com/discordfr/wiki/blob/master/nitro-jeux/boost-serveur/boost.md))
+* Deux boosts de serveur inclut (voir [ici](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost))
 * -30% sur l'achat de boosts
 
 ### Comment s'abonner ?
