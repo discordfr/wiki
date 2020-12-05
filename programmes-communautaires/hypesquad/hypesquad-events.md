@@ -22,7 +22,7 @@ Il y a la possibilité d'être candidat en tant que:
  - Participants à des événement de jeu.
  - Coordinateurs d'évènements
  
-Le délai d'attente de réponse peut aller jusqu'à 48 heures (cf [site officiel](https://support.discord.com/hc/en-us/articles/360003374771-HypeSquad-Mega-FAQ)).
+Le délai d'attente de réponse peut aller jusqu'à 48 heures (cf le [site officiel](https://support.discord.com/hc/en-us/articles/360003374771-HypeSquad-Mega-FAQ)).
 
 ## Quels sont les avantages en tant que Hypesquad Events ?
 
@@ -31,8 +31,8 @@ Tout comme pour le partenariat Discord, des avantages sont octroyés en tant que
 #### Le Badge
 
 Un badge est attribué aux membres de la Hypesquad Events :
- 
-![Bagde HE](https://i.discord.fr/CS2.png)
+
+<img src="https://i.discord.fr/CS2.png" width="105" height="100" />  
 
 #### Un Serveur exclusif
 
@@ -42,10 +42,9 @@ Un badge est attribué aux membres de la Hypesquad Events :
  
  Les membres de la HypeSquad Events reçoivent un T-Shirt exclusif, ainsi que des Stickers à coller :
  
- ![T-Shirt HE](https://i.discord.fr/yMT.png)
+<img src="https://i.discord.fr/yMT.png" width="245" height="265" />
  
 #### Coordinateurs d'évènements
  
  Les coordinateurs d'évènements recevront en outre une "grosse boîte pleine à craquer de goodies".
- 
- ![Goodies HE](https://zupimages.net/up/20/45/nrx6.png)
+ <img src="https://i.discord.fr/kOf.png" width="260" height="265" />
