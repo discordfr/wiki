@@ -16,9 +16,9 @@ Les abonnements [Nitro](https://support.discord.com/hc/fr/articles/115000435108-
 ![Capture Nitro](https://i.discord.fr/bRo.png)
 
 ### Nitro Classic ($4,99 par mois / $49,99 par an)
-Nitro Classic était pendant très longtemps le seul abonnement. Désormais, il est l'abonnement classique du réseau.
+Nitro Classic était pendant très longtemps le seul abonnement. Désormais, il est l'abonnement "basique" de Discord Nitro.
 
-Cependant il y a des avantages, comme :
+L'abonnement octroie des avantages supplémentaires, comme; 
 * Utilisation des GIF en avatar
 * Choisir son discriminant Discord
 * Qualité de partage d'écran amélioré
@@ -28,7 +28,7 @@ Cependant il y a des avantages, comme :
 ### Nitro ($9,99 par mois / $99,99 par an)
 Nitro est l'abonnement le plus utilisé, avec le plus de bénéfices.
 
-Encore, il y a des avantages supplémentaires, comme :
+Encore une fois, il y a des avantages supplémentaires, comme :
 * Toutes les avantages de Nitro Classic
 * Partage de fichiers de 8Mo à ~~50Mo~~ 100Mo
 * Partage d'écran à la source
