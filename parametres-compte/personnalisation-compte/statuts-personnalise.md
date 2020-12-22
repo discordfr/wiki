@@ -1,63 +1,19 @@
 ---
 id: statuts-personnalise
-title: Les Statuts Personnalisé
+title: Les statuts personnalisés
 keywords:
   - discord
   - statut
   - statuts
-  - perssonalisé
-  - tutoriel
-description: L'utilisation de la fonction "statut personnalisé" sur Discord
+  - personnalisé
+description: L'utilisation des statuts personnalisés sur Discord
 ---
-Un statut personnalisé est un petit texte qui est affiché en dessous de votre pseudo lorsque vous êtes en ligne, il peut être accompagné d'un emoji (personnalisé si l'utilisateur possède un abonnement Discord Nitro).
+Un statut personnalisé se présente avec un texte qui s'affichera sur votre profil lorsque vous êtes en ligne. Ce dernier peut également être accompagné d'un emoji (personnalisé si l'utilisateur possède [Discord Nitro](https://github.com/discordfr/wiki/blob/master/nitro-jeux/nitro/abonnements.md).
 
-Mais comment définir un statut personnalisé ?
-## Procédure à suivre sur Ordinateur (Windows & Mac)
-### 1) Cliquer sur la photo de profil de l'utilisateur (en bas à gauche). 
+## Procédure à suivre
+### 1) Un clique sur la photo de profil de l'utilisateur (ou onglet paramètres sur smartphone)
+### 2) Un appui sur la catégorie visant le statut personnalisé
+### 3) Un texte, une durée (et un émoji) doivent être saisie
+### 4) L'enrengistrement permettera de l'appliquer sur le profil correspondant
 
-![Photo de profil pc](https://i.discord.fr/I6h.png) 
-
-### 2) Cliquer sur **"Définir un statut personnalisé"**
-
-![définission du statut pc](https://i.discord.fr/q8j.png)
-
-### 3) Cliquer sur la zone de texte, et entrer le statut souhaité
-
-![texte statut perssonalisé pc](https://i.discord.fr/bz5.png)
-
-*Vous pouvez également choisir un émoji personnalisé, en cliquant sur l'icone "😀", pour l'afficher à gauche de votre statut*
- 
-### 4) Choisir le temps pendant lequel, le statut sera affiché
-
-![temps d'affichage du statut pc](https://i.discord.fr/OaR.png)
-
-### 5) Enregistrer le statut personnalisé
-
-![enregistrement du statut pc](https://i.discord.fr/7gS.png)
-
-
-## Procédure à suivre sur Téléphone (IOS & Android):
-
-### 1) Ce rendre dans l'onglet "paramètres", puis cliquer sur "définir le statut".
-
-![Bouton statut perssonalisé](https://i.discord.fr/lTe.png)
-
-### 2) Cliquer sur : **"Définir un statut personnalisé"**
-
-![définission du statut](https://i.discord.fr/SXG.png)
-
-### 3) Cliquer sur la zone de texte, et entrer le statut souhaité
-
-![texte statut perssonalisé](https://i.discord.fr/hgt.png)
-
-*Vous pouvez également choisir un émoji personnalisé, en cliquant sur l'icone "😀", pour l'afficher à gauche de votre statut*
-
-### 4) Choisir le temps pendant lequel, le statut sera affiché
-
-![temps d'affichage du statut](https://i.discord.fr/Eio.png)
-
-5) Enregistrer le statut personnalisé
-
-![enregistrement du statut](https://i.discord.fr/lmN.png)
-
-
+![Mise en place d'un statut personnalisé](https://i.discord.fr/Oho.gif)
