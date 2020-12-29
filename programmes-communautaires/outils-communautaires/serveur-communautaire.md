@@ -105,3 +105,23 @@ Une fois la Discovery activée, vous pourrez configurer plusieurs options :
   - Le référencement.
   
 ![Référencement Discovery](https://i.discord.fr/t7m.png)
+
+> La possibilité de postuler au programme partenaire.
+
+La communauté de serveur donne accès à une page dédiée au partenariat Discord.
+
+![Programme Partenaire page de candidature](https://i.discord.fr/86q.png)
+
+> La gestion des critères d'accueil.
+
+![Critères d'accueil](https://i.discord.fr/1Wm.png)
+
+Il y a la possibilité d'ajouter : 
+- Des règles résumant celles du serveur.
+
+![Règles du serveur](https://i.discord.fr/rYJ.png)
+
+ - Une réponse courte.
+ - Un paragraphe.
+ - Un questionnaire à choix multiples.
+ - Une obligation de vérifier telle ou telle connexion Discord.
