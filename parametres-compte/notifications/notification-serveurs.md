@@ -1,13 +1,12 @@
 ---
-id: modeles
-title: Les modeles de serveurs
+id: notifications-serveurs
+title: Les notifications par serveurs 
 keywords:
   - discord
   - serveur
-  - serveurs
+  - notifications
+  - parametres
   - tutoriel
-  - modele
-  - template
-description: Les modeles de serveurs sur discord
+description: Les notifications par serveurs sur discord
 ---
 Vous voulez contribuer à cette page ? Faites une pull request sur [notre repository GitHub](https://github.com/discordfr/wiki). Suivez les instructions sur [notre page dédiée](https://discord.fr/wiki/contribuer).

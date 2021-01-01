@@ -1,13 +1,12 @@
 ---
-id: modeles
-title: Les modeles de serveurs
+id: personnalisation
+title: La personnalisation de serveur
 keywords:
   - discord
   - serveur
   - serveurs
   - tutoriel
-  - modele
-  - template
-description: Les modeles de serveurs sur discord
+  - personnaliser
+description: Personnaliser son serveur discord
 ---
 Vous voulez contribuer à cette page ? Faites une pull request sur [notre repository GitHub](https://github.com/discordfr/wiki). Suivez les instructions sur [notre page dédiée](https://discord.fr/wiki/contribuer).

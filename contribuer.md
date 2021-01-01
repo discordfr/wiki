@@ -14,7 +14,7 @@ Rendez-vous sur la page [GitHub du Wiki](https://github.com/discordfr/wiki) puis
 
 ![Choisir un Fichier](https://i.discord.fr/X6T.png)
 :::note Note
-Les fichiers portent le nom du lien, par exemple Contribuer.md est le fichier correspondant au lien https://discord.fr/wiki/contribuer.
+Les fichiers portent le nom du lien, par exemple contribuer.md est le fichier correspondant au lien https://discord.fr/wiki/contribuer.
 :::
 
 #### Débuter la modification
@@ -25,7 +25,7 @@ Cliquez sur le petit logo de crayon (Modifier), GitHub alors créera automatique
 #### Valider la modification et la commenter
 Après avoir fait vos modifications, veillez à la mettre en page avec du Markdown, vous trouverez une boîte d'aide plus bas ; ajoutez ensuite un commentaire qui explique précisément vos modifications ; vous devez ___indiquer vos sources___ si vous en avez. (Numéro 1)
 
-Enfin,q validez en appuyant sur le bouton "Propose changes" qui confirmera l'action. (Numéro 2)
+Enfin, validez en appuyant sur le bouton "Propose changes" qui confirmera l'action. (Numéro 2)
 
 ![Commenter](https://i.discord.fr/KYW.png)
 :::caution Attention !

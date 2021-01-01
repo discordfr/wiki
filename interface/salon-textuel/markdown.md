@@ -1,9 +1,14 @@
 ---
 id: markdown
-title: Écriture Markdown
+title: Ecriture Markdown
+keywords:
+  - discord
+  - markdown
+  - écriture
+  - ecriture
+  - tutoriel
+description: Discord utilise le langage markdown pour permettre aux utilisateurs de mettre en forme leurs messages. Sa syntaxe simple lui permet d'éditer simplement et rapidement un message.
 ---
-
-Discord utilise le langage markdown pour permettre aux utilisateurs de mettre en forme leurs messages. Sa syntaxe simple lui permet d'éditer simplement et rapidement un message.
 
 ## Syntaxe
 La syntaxe Markdown se caractérise par le positionnement de caractères simples comme `*`, `_` ou encore `>`. Par exemple, le code suivant:

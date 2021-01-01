@@ -1,13 +1,12 @@
 ---
-id: modeles
-title: Les modeles de serveurs
+id: applications-autorisees
+title: Les applications autorisées
 keywords:
   - discord
-  - serveur
-  - serveurs
+  - sécutité
+  - applications
+  - autorisées
   - tutoriel
-  - modele
-  - template
-description: Les modeles de serveurs sur discord
+description: Les applications autorisées sur son compte discord
 ---
 Vous voulez contribuer à cette page ? Faites une pull request sur [notre repository GitHub](https://github.com/discordfr/wiki). Suivez les instructions sur [notre page dédiée](https://discord.fr/wiki/contribuer).
