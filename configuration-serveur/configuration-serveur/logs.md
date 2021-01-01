@@ -1,6 +1,6 @@
 ---
 id: logs
-title: Les logs
+title: Les logs de serveur
 keywords:
   - discord
   - serveur
@@ -10,7 +10,6 @@ keywords:
   - tutoriel
 description: Les logs de serveurs
 ---
-# Les logs de serveur
 
 Les logs (ou "journaux") du serveur permettent, aux utilisateurs ayant la permission d'y accéder, d'accéder aux différentes opérations effectuées sur un serveur.
 

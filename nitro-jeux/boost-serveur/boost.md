@@ -17,8 +17,12 @@ Un boost est un abonnement (inclut ou payé), qui permet de faire bénéficier u
 
 ![Badge boosteur](https://i.discord.fr/jZ6.png)
 
+:::info Information
+Quelqu'un payant l'abonnement Nitro possède 2 boosts à utiliser comme il le souhaite.
+:::
+
 ### Quel est le prix d'un boost ?
-Un boost coûte $4,99, mais si l'utilisateur possède un abonnement Nitro, il bénéficie de -30% sur l'achat de boost.
+Un boost coûte 4,99 $US, mais si l'utilisateur possède un abonnement Nitro, il bénéficie de -30% sur l'achat d'un boost (soit 3;49 $US).
 
 ### Qu'est-ce que sont les niveaux de serveur ?
 Un niveau de serveur est un palier qui permet de débloquer des avantages au sein d'un serveur. Ils sont débloqués dès lors que le serveur a atteint un nombre de boost défini.
