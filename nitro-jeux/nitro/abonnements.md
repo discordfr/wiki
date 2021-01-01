@@ -1,6 +1,6 @@
 ---
 id: abonnements
-title: Les abonnements Nitro de Discord
+title: Les abonnements Nitro
 keywords:
   - discord
   - nitro
