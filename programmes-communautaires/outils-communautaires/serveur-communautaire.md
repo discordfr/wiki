@@ -31,7 +31,7 @@ Pour activer la Communauté de serveur, il faut se rendre dans les **Paramètres
  
  - La troisième et dernière étape consiste à définir les notifications par défaut du serveur sur `Mentions uniquement` ainsi qu'à retirer les permissions de modération au rôle `@everyone` (les permissions de modération sont celles de : gérer les messages, gérer les webhooks, expulser/bannir des membres, gérer les salons, gérer les rôles, gérer le serveur et la permission Administrateur).
  
-Il vous faudra en outre acceoter les [Lignes de conduite des Serveurs communautaires](https://support.discord.com/hc/fr/articles/360035969312-Lignes-de-conduite-des-serveurs-communautaires).
+Il faudra acceoter les [Lignes de conduite des Serveurs communautaires](https://support.discord.com/hc/fr/articles/360035969312-Lignes-de-conduite-des-serveurs-communautaires).
  
  <img alt="Troisième étape - Activer la communauté de serveur" src="https://i.discord.fr/H7v.png" width="" height="412" />
  
@@ -85,7 +85,7 @@ Un nouveau type de salon s'affichera alors.
 <img alt="Nouveau tyoe de salon" src="https://i.discord.fr/z9T.png" width="" height="425 />
 
 :::note Notes :
-1. Si vous éditez/supprimez un message publié d'un salon d'annonces, il s'éditera dans les autres serveurs. Si le message est supprimé, l'information `[Message d'origine supprimé].` s'affichera.
+1. Si un message publié d'un salon d'annonces est édité, il s'éditera dans les autres serveurs. Si le message est supprimé, l'information `[Message d'origine supprimé].` s'affichera.
 2. Pour qu'un message d'un salon d'annonces s'affiche sur les serveurs qui le suivent, il faut le publier.
 :::
 
@@ -102,7 +102,7 @@ Pour apparaître dans Discovery, il faut remplir plusieurs conditions :
 :::note
 Le nombre de membres pour être éligible à la découverte de serveurs est susceptible d'être réduit.
 
-Une fois la Discovery activée, vous pourrez configurer plusieurs options :
+Une fois la Discovery activée, il y a la possibilité de configurer plusieurs options :
  - Les images qui s'affichent, ainsi que l'emoji mis en valeur.
  
 <img alt="Image Discovery Activée" src="https://i.discord.fr/Bqw.png" width="" height="435" />
@@ -121,7 +121,7 @@ La communauté de serveur donne accès à une page dédiée au partenariat Disco
 
 <img alt="Critères d'accueil" src="https://i.discord.fr/1Wm.png" width="" height="435" />
 
-Il y a la possibilité d'ajouter : 
+Il y a aussi la possibilité d'ajouter : 
 - Des règles résumant celles du serveur.
 
 <img alt="Règles du serveur" src="https://i.discord.fr/rYJ.png" width="" height="335" /> 
