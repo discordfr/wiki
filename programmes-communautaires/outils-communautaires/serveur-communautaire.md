@@ -82,7 +82,7 @@ Les salons d'annonces permettent aux utilisateurs d'installer les annonces d'un 
 
 Un nouveau type de salon s'affichera alors.
 
-<img alt="Nouveau tyoe de salon" src="https://i.discord.fr/z9T.png" width="" height="425 />
+<img alt="Nouveau tyoe de salon" src="https://i.discord.fr/z9T.png" width="" height="425" />
 
 :::note Notes :
 1. Si un message publié d'un salon d'annonces est édité, il s'éditera dans les autres serveurs. Si le message est supprimé, l'information `[Message d'origine supprimé].` s'affichera.
