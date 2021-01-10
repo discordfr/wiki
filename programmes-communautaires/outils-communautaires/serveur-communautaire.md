@@ -63,7 +63,7 @@ Pour activer/configurer ce menu, il faut aller dans les Paramètres du serveur, 
 
  - Activer l'écran d'accueil.
 
-<img alt="Activer l'écran d'accueil" src="https://i.discord.fr/gzR.png" width="" height=445" />
+<img alt="Activer l'écran d'accueil" src="https://i.discord.fr/gzR.png" width="" height="445" />
 
  - Configurer l'écran d'accueil.
  
