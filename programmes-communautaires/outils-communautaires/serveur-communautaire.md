@@ -31,9 +31,9 @@ Pour activer la Communauté de serveur, il faut se rendre dans les **Paramètres
  
  - La troisième et dernière étape consiste à définir les notifications par défaut du serveur sur `Mentions uniquement` ainsi qu'à retirer les permissions de modération au rôle `@everyone` (les permissions de modération sont celles de : gérer les messages, gérer les webhooks, expulser/bannir des membres, gérer les salons, gérer les rôles, gérer le serveur et la permission Administrateur).
  
-Il faudra acceoter les [Lignes de conduite des Serveurs communautaires](https://support.discord.com/hc/fr/articles/360035969312-Lignes-de-conduite-des-serveurs-communautaires).
+Il faudra accepter les [Lignes de conduite des Serveurs communautaires](https://support.discord.com/hc/fr/articles/360035969312-Lignes-de-conduite-des-serveurs-communautaires).
  
- <img alt="Troisième étape - Activer la communauté de serveur" src="https://i.discord.fr/H7v.png" width="" height="412" />
+<img alt="Troisième étape - Activer la communauté de serveur" src="https://i.discord.fr/H7v.png" width="" height="412" />
  
 ## Avantages des serveurs communautaires
 
@@ -97,7 +97,7 @@ Discovery est un outil permettant aux utilisateurs de trouver rapidement et faci
 
 Pour apparaître dans Discovery, il faut remplir plusieurs conditions :
 
-<<img alt="Discovery conditions" src="https://i.discord.fr/d3l.png" width="" height="416" />
+<img alt="Discovery conditions" src="https://i.discord.fr/d3l.png" width="" height="416" />
 
 :::note
 Le nombre de membres pour être éligible à la découverte de serveurs est susceptible d'être réduit.
