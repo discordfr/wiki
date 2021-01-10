@@ -20,16 +20,16 @@ description: Gestion des émojis
 
 > Comment ajouter un emoji
 
--Pour ajouter un emoji il suffit d'aller dans **Paramètres du serveur**, puis [Émoji](https://i.imgur.com/ftpXo58.png)
+- Pour ajouter un emoji il suffit d'aller dans **Paramètres du serveur**, puis [Émoji](https://i.imgur.com/ftpXo58.png)
 
--Et de cliquer sur **Uploader un Émoji**
+- Et de cliquer sur **Uploader un Émoji**
 
 
 
 > Comment Modifier le nom d'un émoji
--Il suffit de cliquer sur le [nom de l'émoji](https://i.imgur.com/HPlckPI.png)
+- Il suffit de cliquer sur le [nom de l'émoji](https://i.imgur.com/HPlckPI.png)
 
--Puis de le modifier avec le [nouveau nom](https://i.imgur.com/S9XKj1f.png)
+- Puis de le modifier avec le [nouveau nom](https://i.imgur.com/S9XKj1f.png)
 
 
 > Comment supprimer un émoji
