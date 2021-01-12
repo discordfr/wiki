@@ -1,0 +1,11 @@
+addReviewers: true
+addAssignees: true
+
+reviewers: 
+  - IchiiDev
+  - PixelNotix
+
+skipKeywords:
+  - wip
+  
+numberOfReviewers: 1
