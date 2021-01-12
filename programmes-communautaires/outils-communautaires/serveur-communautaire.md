@@ -109,7 +109,7 @@ Une fois la Discovery activée, il y a la possibilité de configurer plusieurs o
  
   - Le référencement.
   
-<img alt="Référencement Discovery" src="https://i.discord.fr/t7m.png" width="" height="435 />
+<img alt="Référencement Discovery" src="https://i.discord.fr/t7m.png" width="" height="435" />
 
 > La possibilité de postuler au programme partenaire.
 
