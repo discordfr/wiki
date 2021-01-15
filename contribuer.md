@@ -40,7 +40,7 @@ Une fois que vous êtes certain du contenu, cliquez sur "Create pull request". (
 ![Pull Request Creation](https://i.discord.fr/5TM.png)
 
 #### Création de la Pull Request
-Ici vous pouvez pour la dernière fois modifier le titre et le commentaire d'ajout. Vérifiez s'il est complet et si possible sourcé (un article du support anglophonne par exemple). (Numéro 1)
+Ici vous pouvez pour la dernière fois modifier le titre et le commentaire d'ajout. Vérifiez s'il est complet et si possible sourcé (un article du support Discord anglophone par exemple). (Numéro 1)
 
 Ensuite pour terminer votre travail, cliquez sur "Create pull request". (Numéro 2)
 
@@ -63,7 +63,7 @@ Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cep
 ### Comment ajouter une page au Wiki #
 
 #### Créer une page vide prête à être remplie
-Rendez-vous sur la page [GitHub du Wiki](https://github.com/discordfr/wiki), ensuite choississez "Add File" puis "Create new file".
+Rendez-vous sur la page [GitHub du Wiki](https://github.com/discordfr/wiki), ensuite choisissez "Add File" puis "Create new file".
 
 ![Add file button](https://i.discord.fr/wtU.png)
 
@@ -79,7 +79,7 @@ Pensez à nommer votre fichier en haut (wiki/nom). **Mettez impérativement `.md
 Une fois la page correctement remplie, relisez-vous attentivement, puis ensuite cliquez simplement sur "Propose new file". (Numéro 3)
 
 :::caution Attention !
-Même si un membre de l'équipe passe derrière, relisez-vous. Les modifications ayant un nombre trop important de fautes d'orthographes seront écartés.
+Même si un membre de l'équipe passe derrière, relisez-vous. Les modifications ayant un nombre trop important de fautes d'orthographes ou d'erreurs de formulations seront écartés ou demanderont des modifications de votre part.
 :::
 
 ![Initial Content](https://i.discord.fr/o3A.png)
@@ -92,7 +92,7 @@ Une fois que vous êtes certain du contenu, cliquez sur "Create pull request". (
 ![Pull Request Creation addpage](https://i.discord.fr/Pwy.png)
 
 #### Création de la Pull Request
-Ici, vous pouvez pour la dernière fois modifier le titre et le commentaire d'ajout. Vérifiez s'il est complet et si possible sourcé (un article du support anglophonne par exemple). **Attention ! N'oubliez pas de préciser votre ID d'utilisateur Discord pour que nous puissions garder votre compte de contribution à jour !** (Numéro 1)
+Ici, vous pouvez pour la dernière fois modifier le titre et le commentaire d'ajout. Vérifiez s'il est complet et si possible sourcé (un article du support Discord anglophone par exemple). **Attention ! N'oubliez pas de préciser votre ID d'utilisateur Discord pour que nous puissions garder votre compte de contribution à jour !** (Numéro 1)
 
 Enfin, pour terminer votre travail, cliquez sur "Create pull request". (Numéro 2)
 
@@ -130,7 +130,7 @@ Vous trouverez ci-dessous une petite boîte d'aide au Markdown.
 | > Citation | ![Citation](https://i.discord.fr/8uf.png) |
 | - Liste à point | ![listapoint](https://i.discord.fr/d9Y.png) |
 | \`code\` | `code` |
-| ********************* | ![séparateur](https://i.discord.fr/peU.png) |
+| \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* | ![séparateur](https://i.discord.fr/peU.png) |
 | \[Site de Discord FR\]\(https://discord.fr/) | [Site de Discord FR](https://discord.fr/) |
 | \!\[Logo de Discord FR\]\(https://i.discord.fr/JTH.png) | ![Logo de Discord FR](https://i.discord.fr/JTH.png) |
 
@@ -162,7 +162,7 @@ description: Contribuer est une chose importante pour le Wiki de Discord FR, app
 
 ```
 :::tip Astuce
-N'hésitez pas à vous regarder des articles déjà en ligne, pour copier des éléments, comme ces boîtes d'informations ; ou consulter le site de Docusaurus, dont les boîtes sont expliquées [dans cet extrait](https://v2.docusaurus.io/docs/markdown-features/#calloutsadmonitions)
+N'hésitez pas à regarder des articles déjà en ligne, pour copier des éléments, comme ces boîtes d'informations ; ou consulter le site de Docusaurus, dont les boîtes sont expliquées [dans cet extrait](https://v2.docusaurus.io/docs/markdown-features/#calloutsadmonitions)
 :::
 
 #### Liens pour les nerds
