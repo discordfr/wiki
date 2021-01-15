@@ -107,14 +107,14 @@ Si vous tombez sur la page suivante, vous n'avez plus rien à faire, le staff de
 
 ![Finish addpage](https://i.discord.fr/bib.png)
 :::info Information
-Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cependant, si vous constatez que cela prend plus de temps, vous pouvez directement nous contacter sur [Notre Discord](https://discord.gg/fr) en envoyant un Message Privé au bot `@Discord FR#9922`.
+Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cependant, si vous constatez que cela prend plus de temps, vous pouvez directement nous contacter sur [Notre Discord](https://discord.gg/fr) en envoyant un Message Privé au bot `@Discord.fr#9922`.
 :::
 
 *********************
 
 ### Bonus d'Aide au Markdown #
 
-Vous trouverez ci-dessous une petite boîte d'aide au Markdown.
+Vous trouverez ci-dessous un petit tableau d'aide au Markdown, vous pouvez aussi aller voir [cette Cheat Sheet](https://markdownguide.org/cheat-sheet/) pour plus de contenu.
 
 | Syntaxe     |  Résultat   |
 | ----------- | ----------- |
