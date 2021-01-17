@@ -23,8 +23,7 @@ Il est possible de mentionner un salon dans un message en écrivant simplement s
 
 ![Exemple mention](https://i.discord.fr/alO.png)
 
-Pour en créer un , il faut tout d'abord faire un clic droit sur la liste des salons, puis faire un clic gauche sur Créer un salon, ou alors faire un clic gauche sur le plus (+) à côté d'une Catégorie (A la différence de la première méthode, c'est que celle-ci ajoute directement le salon dans une catégorie), puis éventuellement cocher la Salon privé, si vous voulez que le salon soit privé, et enfin cliquer sur Créer un salon.
-
+Pour en créer un , il suffit de faire un clic droit sur la liste des salons, puis de faire un clic gauche sur "Créer un salon". Il est aussi possible de faire un clic gauche sur le plus (+) à côté d'une Catégorie (A la différence de la première méthode, c'est que celle-ci ajoute directement le salon dans une catégorie). Puis éventuellement cocher la  case Salon privé, si vous voulez que le salon soit privé. Quand ceci est terminé, il faut juste de cliquer sur "créer un salon"!
 ![Exemple création](https://i.discord.fr/De7.png)
 
 Un peu à droite de la description, Il y a une cloche qui permet d'activer/de désactiver les notifications de ce salon là précis (si Il y a une mention dans un message, la notification sera quand même envoyé), vous avez en suite une épingle qui permet de voir tous les messages épinglés sur celui-ci, et enfin le dernier icône (deux personnages) permet de faire apparaître / disparaître le volet où l'on voit la liste des membres connectés / déconnectés du serveur.
