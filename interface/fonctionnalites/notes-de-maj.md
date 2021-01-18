@@ -18,4 +18,4 @@ lors de la rédemarrage de l'application après une nouvelle mise à jour.
 
 ### Comment les trouver
 Même après l'onglet des notes de mise à jour est fermé, il est possible de retrouver la dernière note dans les paramètres en cliquant sur « Notes de mise à jour ».
-![Trouver les notes de mise à jour](https://i.discord.fr/jXl.gif)
+![Trouver les notes de mise à jour](https://i.discord.fr/u1w.gif)
