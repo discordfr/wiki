@@ -9,10 +9,10 @@ keywords:
   - tutoriel
 description: Connexion via un QR Code sur discord
 ---
-### Qu'est-ce que la connexion par  QR code ?
-La connexion par Qr code est faite pour pouvoir se connecter rapidement à Discord sur un ordinateur, il suffit de scanner un QR code via Discord sur téléphone.
 
-### Comment se connecter via QR code ?
+La connexion par QR-Code est faite pour pouvoir se connecter rapidement à Discord sur un ordinateur, il suffit de scanner un QR code via Discord sur téléphone.
+
+## Comment se connecter via QR code ?
 
 1) Le qr-code à scanner se trouve sur la page de connection Discord.
 ![Repérage du qr-code](https://i.discord.fr/A86.png)
@@ -23,5 +23,6 @@ La connexion par Qr code est faite pour pouvoir se connecter rapidement à Disco
 3) Une fois le QR code scanné un message de confirmation apparait sur le téléphone.
 ![Message de confirmation](https://i.discord.fr/G9O.jpg)
 
-
-**Avertissement**: Scanner uniquement les QR codes provenant de votre ordinateur.
+:::warning
+Il est vivement conseillé de ne scanner que les QR-Codes provenant de son ordinateur, de nombreuses fraudes sont présentes et scanner un QR-Code inconnu peut mener à ouvrir une porte directe à son compte Discord.
+:::
