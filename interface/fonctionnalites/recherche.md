@@ -11,8 +11,9 @@ keywords:
 description: Les recherches de messages avancées sur Discord
 ---
 
-Sur Discord, il y a beaucoup de messages dans chaque salon, et il est possible de les chercher.
-En haut à droite, il y a une barre de recherche avec l'étiquette "Chercher".
+Sur Discord, il est possible de rechercher un ou plusieurs messages parmi tout
+ceux envoyés sur un serveur. En haut à droite, il y a une barre de recherche
+avec l'étiquette `Chercher`.
 
 <img alt="La barre de recherche" src="https://i.discord.fr/NPo.png" width="" height="435" />
 
