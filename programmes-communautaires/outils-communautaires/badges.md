@@ -73,6 +73,7 @@ Tout comme le précédent, **ce badge est devenu inobtenable** pour les vérific
 
 ## Le badge Discord Nitro <img src= "https://i.discord.fr/ptM.png" width="23" height="17" />
 <img src="https://i.discord.fr/gbB.png" />
+
 Ce badge indique qu'un membre a souscrit à discord Nitro Classic ou discord Nitro. Passer sa souris dessus indique la date de souscription. Il disparaît à la fin de l'abonnement nitro.
 
 > *Quelques caratéristiques issues de l'article discord permettant de les reconnaitre : spammer leurs propres émojis personnalisés, dire à voix haute leur pseudo comme si celui-ci était un vrai mot et afficher une image de profil animée de leur animé préféré.*
@@ -81,6 +82,7 @@ Ce badge indique qu'un membre a souscrit à discord Nitro Classic ou discord Nit
 
 ## Le badge de Boost de serveur <img src= "https://i.discord.fr/1cU.png" width="17" height="17" />
 <img src="https://i.discord.fr/zSo.png" />
+
 Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un serveur. Il disparaît dès lors que le boost prend fin ou est annulé.
 
 <br />
