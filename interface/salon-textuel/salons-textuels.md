@@ -16,7 +16,7 @@ Les salons textuels, sur Discord, permettent aux utilisateurs de discuter de fa�
 
 ## La création de salon textuel
 
-Afin de créer un salon textuel sur un serveur, il faut avoir la permission "Gérer les salons". Les salons textuels, tout comme les salons vocaus ou les salons d'annonces, peuvent être publics ou privés.
+Afin de créer un salon textuel sur un serveur, il faut avoir la permission "Gérer les salons". Les salons textuels, tout comme les salons vocaux ou les salons d'annonces, peuvent être publics ou privés.
 
 <img src="https://i.discord.fr/lcb.png" width="421" height="" /> 
 
@@ -25,7 +25,7 @@ Afin de créer un salon textuel sur un serveur, il faut avoir la permission "Gé
 Discord offre plusieurs possibilités aux utilisateurs afin de discuter :
  - Envoyer des messages, les modifier et les supprimer.
  - Ajouter des réactions.
- - Dicter le message.
+ - Dicter les messages.
  - Répondre à un message.
  
 Avec la permission "Gérer les messages, l'utilisateur peut en outre :
@@ -46,7 +46,7 @@ Il est possible de modifier le nom du salon.
 
 Il est possible d'ajouter une description du salon. [Markdown](https://discord.fr/wiki/interface/salon-textuel/markdown) y est partiellement autorisé, uniquement pour  mettre en gras, en italique ou souligner une partie de texte. Les emojis ou mention de salons y sont autorisés, il faut pour cela mentionner l'identifiant du salon ou l'id de l'emoji.
 
-<img src="https://i.discord.fr/TiC.png" widht="650" height="" />
+<img src="https://i.discord.fr/TiC.png" width="650" height="" />
 
 ### Le mode lent
 
