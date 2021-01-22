@@ -29,13 +29,13 @@ Comme bien d'autres plateformes de discussion, des emojis par défaut sont prés
 
 <img src="https://i.discord.fr/pos.png" width="645" height="" />
 
- - Utiliser les emojis :
+- Utiliser les emojis :
  
- Pour l'utiliser dans les messages, il suffit d'écrire :le_nom_de_votre_emoji:.
+  Pour l'utiliser dans les messages, il suffit d'écrire :le_nom_de_votre_emoji:.
  
- Pour l'utiliser en tant que réaction, il faut cliquer sur "Ajouter une réaction", puis sélectionner l'emoji souhaité.
+  Pour l'utiliser en tant que réaction, il faut cliquer sur "Ajouter une réaction", puis sélectionner l'emoji souhaité.
  
- <img src="https://i.discord.fr/icm.png" width="645" height="" />
+<img src="https://i.discord.fr/icm.png" width="645" height="" />
  
  
  :::note 
