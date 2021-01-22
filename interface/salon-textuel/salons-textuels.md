@@ -17,16 +17,17 @@ Un salon textuel est représenté à l'aide d'un **dièse** (#)
 
 Le nom d'un salon textuel est toujours écrit en minuscule et les espaces afin de séparer les mots sont toujours des traits d'union ( - ).
 
-Pour se rendre sur l'un d'eux sur le serveur il suffit de faire un clic-gauche sur le salon voulu dans la dans la catégorie concerné. On peut voir la description de celui-ci tout en haut, au centre de la fenêtre.
+Pour se rendre sur l'un d'eux sur le serveur il suffit de faire un clic gauche sur le salon voulu dans la catégorie concernée. On peut voir la description de celui-ci tout en haut, au centre de la fenêtre.
 
-Il est possible de mentionner un salon dans un message en écrivant simplement son nom précédé d'un dièse, ce qui permettra aux utilisateurs d'accéder au salon en cliquant sur sa mention (seulement les personnes autorisées si il s'agit d'un salon privé). 
+Il est possible de mentionner un salon dans un message en écrivant simplement son nom précédé d'un dièse, ce qui permettra aux utilisateurs d'accéder au salon en cliquant sur sa mention (seulement les personnes autorisées s'il s'agit d'un salon privé).
 
 ![Exemple mention](https://i.discord.fr/alO.png)
 
-Pour en créer un , il suffit de faire un clic droit sur la liste des salons et de faire un clic gauche sur "Créer un salon". Il est aussi possible de faire un clic gauche sur le plus (+) à côté d'une Catégorie (A la différence de la première méthode, c'est que celle-ci ajoute directement le salon dans une catégorie). Il est éventuellement possible de cocher la  case Salon privé, si vous voulez que le salon soit privé.
+Pour en créer un, il suffit de faire un clic droit sur la liste des salons et de faire un clic gauche sur "Créer un salon". Il est aussi possible de faire un clic gauche sur le plus (+) à côté d'une catégorie (A la différence de la première méthode, c'est que celle-ci ajoute directement le salon dans une catégorie). Il est éventuellement possible de cocher la  case Salon privé, si vous voulez que le salon soit privé.
+
 ![Exemple création](https://i.discord.fr/De7.png)
 
-Un peu à droite de la description, il y a une cloche qui permet d'activer/de désactiver les notifications de ce salon là précis (si Il y a une mention dans un message, la notification sera quand même envoyé), vous avez en suite une épingle qui permet de voir tous les messages épinglés sur celui-ci, et enfin le dernier icône (deux personnages) permet de faire apparaître / disparaître le volet où l'on voit la liste des membres connectés / déconnectés du serveur.
+Un peu à droite de la description, il y a une cloche qui permet d'activer/de désactiver les notifications de ce salon-là précis (s'il y a une mention dans un message, la notification sera quand même envoyée), vous avez ensuite une épingle qui permet de voir tous les messages épinglés sur celui-ci, et enfin la dernière icône (deux personnages) permet de faire apparaître / disparaître le volet où l'on voit la liste des membres connectés / déconnectés du serveur.
 
 ## Les fonctionnalités supplémentaires
 
