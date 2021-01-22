@@ -10,7 +10,7 @@ keywords:
   - salons textuels
 description: Les salons textuels sur discord
 ---
-Les salons textuels, sur Discord, permettent aux utilisateurs de discuter de façon textuelle.
+Les salons textuels, sur Discord, permettent aux utilisateurs de discuter par messages.
 
 ## La création de salons textuels
 
