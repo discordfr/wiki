@@ -9,7 +9,6 @@ keywords:
   - tutoriel
 description: Les émojis et les réactions sur discord
 ---
-# Les emojis et les réactions sur Discord
 
 Discord offre la possibilité à ses utilisateurs d'utiliser des emojis.
 
@@ -19,7 +18,7 @@ Sur Discord, les utilisateurs peuvent utiliser deux types d'emoji : les emojis p
 
 ## Les emojis par défaut
 
-Comme bien d'autres plateformes de discussion, des emojis par défaut sont présents sur Discord. Ces emojis sont utilisables sur n'importe quel serveur par n'importe qui sans restriction.
+Comme bien d'autres plateformes de discussion, des emojis par défaut, de type "unicode" stylisés par la suite, sont présents sur Discord. Ces emojis sont utilisables sur n'importe quel serveur par n'importe qui sans restriction.
 
 <img src="https://i.discord.fr/lE0.png" width="321" height="" />
 
@@ -39,6 +38,5 @@ Comme bien d'autres plateformes de discussion, des emojis par défaut sont prés
  
  
  :::note 
- Pour utiliser les emojis personnalisés d'un serveur sur d'autres serveurs ou via MP, il faut être abonné à [Nitro](https://discord.fr/wiki/nitro-jeux/nitro/abonnements).
- Pour utiliser des emojis animés, il faut être abonné à [Nitro](https://discord.fr/wiki/nitro-jeux/nitro/abonnements).
+L'abonnement à [Nitro](https://discord.fr/wiki/nitro-jeux/nitro/abonnements) est requis pour l'utilisation d'emojis animés, ou bien l'emploi d'emojis personnalisés sur d'autres serveurs que celui d'origine/via MP.
  :::
