@@ -31,7 +31,7 @@ La barre de recherche permet aux utilisateurs d'employer des préfixes pour spé
 Ces préfixes permettent de chercher par :
 - utilisateur
 - mentions
-- contient
+- contenu
 - date
 - salon
 
