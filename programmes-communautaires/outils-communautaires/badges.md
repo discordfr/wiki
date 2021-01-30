@@ -8,7 +8,7 @@ keywords:
   - tutoriel
 description: Il est possible de collecter des badges sur votre profil, la liste est disponible ci dessous. Le niveau d'obtention de chacun n'est pas le même, et certains demandent un grand dévouement !
 ---
-Il est possible de collecter des badges, visible sur le [profil](https://discord.fr/wiki/parametres-compte/personnalisation-compte/profil) de chaque utilisateur.
+Il est possible de collecter des badges, visible sur le [profil](https://discord.fr/wiki/parametres-compte/personnalisation-compte/profil/) de chaque utilisateur.
 
 *********************
 <br />
@@ -44,7 +44,7 @@ Ce badge est réservé aux membres participant à l'HypeSquad et qui assistent �
 
 Tout le monde peut postuler, mais il faut que le serveur remplisse des conditions, qui sont accessibles, tout comme la candidature, directement dans les paramètres du serveur. 
 
-Pour plus d'informations, [rendez vous sur l'article concernant le sujet](https://discord.fr/wiki)
+Pour plus d'informations, [rendez vous sur l'article concernant le sujet](https://discord.fr/wiki/)
 
 
 <br />
@@ -95,7 +95,7 @@ Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un
 ## Les badges de Bug Hunter <img src= "https://i.discord.fr/Ye7.png" width="17" height="17" /> <img src= "https://i.discord.fr/2F7.png" width="17" height="17" />
 > *Un génie dans le domaine de l'assurance qualité et dans le travail de détective, les badges Bug Hunter sont décernés aux membres les plus actifs de la communauté Bug Hunter. Quelqu'un avec ces badges passe probablement son temps à perfectionner son monolithe alimenté par redstone, qui lui sert également une calculatrice*
 
-Ces deux badges sont donnés pour récompenser les membres participants à la chasse aux bugs sur discord et sur le serveur officiel *(toutes les informations sont sur [cet article](https://discord.fr/wiki/programmes-communautaires/testeurs/discord-testers))*
+Ces deux badges sont donnés pour récompenser les membres participants à la chasse aux bugs sur discord et sur le serveur officiel *(toutes les informations sont sur [cet article](https://discord.fr/wiki/programmes-communautaires/testeurs/discord-testers/))*
 
 Plus précisément, le badge ci-dessous est donné à partir du Tiers 4 `Bug Tracker` sur le serveur `Discord Tester`.
 
