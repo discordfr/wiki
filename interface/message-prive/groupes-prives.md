@@ -9,4 +9,53 @@ keywords:
   - tutoriel
 description: Les groupes privés sur discord
 ---
-Vous voulez contribuer à cette page ? Faites une pull request sur [notre repository GitHub](https://github.com/discordfr/wiki). Suivez les instructions sur [notre page dédiée](https://discord.fr/wiki/contribuer).
+Ils permettent de discuter par groupes de 10 personnes maximum.
+
+## Sur Ordinateur :
+
+### Comment créer un groupe ?
+
+1) Se rendre dans la catégorie "Amis"
+<img alt="Categorie amis" src="https://i.discord.fr/CrU.png" width="" height="435" />
+
+2) Cliquer sur la petite icône suivante :
+<img alt="Icone création groupe" src="https://i.discord.fr/bfp.png" width="" height="435" />
+
+3) Sélectionner les utilisateurs voulus puis cliquer sur "Créer un groupe privé"
+<img alt="Selection membres groupe" src="https://i.discord.fr/kyJ.png" width="" height="435" />
+
+:::note Note
+Il est uniquement possible d'ajouter au groupe des personnes que l'on a en amis.
+:::
+
+### Comment paramétrer le groupe ?
+
+* Cliquer sur le **nom du groupe** pour le modifier [1].
+* Pour **ajouter des membres** cliquer sur l'icône [2].
+* Faire un clique droit dans la zone [3] pour **changer l'icône** du groupe ou le **quitter**.
+
+
+## Sur téléphone :
+
+### Comment créer un groupe ?
+
+1) Se rendre dans la catégorie "Amis" (rond bleu au dessus des serveurs)
+
+2) Cliquer sur la petite icône suivante :
+<img alt="Icone création groupe" src="https://i.discord.fr/sM4.png" width="" height="435" />
+
+3) Sélectionner les utilisateurs voulus puis cliquer en bas à droite.
+<img alt="Selection membres groupe" src="https://i.discord.fr/D7I.jpg" width="" height="435" />
+
+:::note Note
+Il est uniquement possible d'ajouter au groupe des personnes que l'on a en amis.
+:::
+
+### Comment paramétrer le groupe ?
+
+1) Maintenir appuyer sur le nom du groupe puis cliquer sur "Modifier le salon"
+
+2) Pour modifier l'icône du groupe il suffit de cliquer dessus (en vert sur l'image), pour le nom du groupe il fuat cliquer sur la zone de texte
+<img alt="Paramètres groupe" src="https://i.discord.fr/gZJ.jpg" width="" height="435" />
+
+3) Appuyer en haut à droite pour valider les modifications.
