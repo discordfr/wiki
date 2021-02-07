@@ -16,13 +16,13 @@ Ils permettent de discuter par groupes de 10 personnes maximum.
 ### Comment créer un groupe ?
 
 1) Se rendre dans la catégorie "Amis"
-<img alt="Categorie amis" src="https://i.discord.fr/CrU.png" width="" height="435" />
+<img alt="Categorie amis" src="https://i.discord.fr/CrU.png" />
 
 2) Cliquer sur la petite icône suivante :
-<img alt="Icone création groupe" src="https://i.discord.fr/bfp.png" width="" height="435" />
+<img alt="Icone création groupe" src="https://i.discord.fr/bfp.png" />
 
 3) Sélectionner les utilisateurs voulus puis cliquer sur "Créer un groupe privé"
-<img alt="Selection membres groupe" src="https://i.discord.fr/kyJ.png" width="" height="435" />
+<img alt="Selection membres groupe" src="https://i.discord.fr/kyJ.png" />
 
 :::note Note
 Il est uniquement possible d'ajouter au groupe des personnes que l'on a en amis.
@@ -42,10 +42,10 @@ Il est uniquement possible d'ajouter au groupe des personnes que l'on a en amis.
 1) Se rendre dans la catégorie "Amis" (rond bleu au dessus des serveurs)
 
 2) Cliquer sur la petite icône suivante :
-<img alt="Icone création groupe" src="https://i.discord.fr/sM4.png" width="" height="435" />
+<img alt="Icone création groupe" src="https://i.discord.fr/sM4.png" />
 
 3) Sélectionner les utilisateurs voulus puis cliquer en bas à droite.
-<img alt="Selection membres groupe" src="https://i.discord.fr/D7I.jpg" width="" height="435" />
+<img alt="Selection membres groupe" src="https://i.discord.fr/D7I.jpg" />
 
 :::note Note
 Il est uniquement possible d'ajouter au groupe des personnes que l'on a en amis.
@@ -56,6 +56,6 @@ Il est uniquement possible d'ajouter au groupe des personnes que l'on a en amis.
 1) Maintenir appuyer sur le nom du groupe puis cliquer sur "Modifier le salon"
 
 2) Pour modifier l'icône du groupe il suffit de cliquer dessus (en vert sur l'image), pour le nom du groupe il fuat cliquer sur la zone de texte
-<img alt="Paramètres groupe" src="https://i.discord.fr/gZJ.jpg" width="" height="435" />
+<img alt="Paramètres groupe" src="https://i.discord.fr/gZJ.jpg" />
 
 3) Appuyer en haut à droite pour valider les modifications.
