@@ -38,6 +38,6 @@ Aucun moyens trouvés pour éxécuter cela.
 ### • Android : 
 ![Voici](https://cdn.discordapp.com/attachments/802499772300001282/808714665618178078/unknown.png)
 
-:::tip 
-Lorsque vous fermez un message privé et que vous le ré-ouvrez après, la conversation aura été conservée
+:::tip
+Lorsque vous fermez un message privé, la conversation sera conservée après sa réouverture.
 :::
