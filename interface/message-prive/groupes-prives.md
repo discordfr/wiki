@@ -9,9 +9,19 @@ keywords:
   - tutoriel
 description: Les groupes privés sur discord
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 Ils permettent de discuter par groupes de 10 personnes maximum.
 
-## Sur Ordinateur :
+<Tabs
+  defaultValue=""
+  values={[
+    {label: 'Ordinateur', value: 'ordinateur'},
+    {label: 'Téléphone', value: 'téléphone'},
+  ]}>
+  
+<TabItem value="ordinateur">## Sur Ordinateur :</TabItem>
 
 ### Comment créer un groupe ?
 
@@ -35,8 +45,8 @@ Il est uniquement possible d'ajouter au groupe des personnes que l'on a en amis.
 * Faire un clique droit dans la zone [3] pour **changer l'icône** du groupe ou le **quitter**.
 
 
-## Sur téléphone :
-
+<TabItem value="téléphone">## Sur téléphone :</TabItem>
+</Tabs>;
 ### Comment créer un groupe ?
 
 1) Se rendre dans la catégorie "Amis" (rond bleu au dessus des serveurs)
