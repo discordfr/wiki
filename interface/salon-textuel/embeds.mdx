@@ -41,11 +41,18 @@ Les embeds permettent de communiquer plus d'informations qu'un message simple, l
 ### Tableau des limitations
 <table>
   <tr><td>Champ</td><td>Limite</td></tr>
+  <tr><td>Nom d'utilisateur*</td><td>80 caractères maximum</td>
+  <tr><td>Contenu*</td><td>2000 caractères maximum</td>
   <tr><td>Titre</td><td>256 caractères maximum</td></tr>
   <tr><td>Description</td><td>2048 caractères maximum</td></tr>
+  <tr><td>Fichiers*</td><td>10 fichiers maximum</td></tr>
   <tr><td>Fields</td><td>25 fields différents maximum</td></tr>
   <tr><td>Nom du field</td><td>256 caractères maximum par field</td></tr>
   <tr><td>Contenu du field</td><td>1024 caractères maximum par field</td></tr>
   <tr><td>Footer</td><td>2048 caractères maximum</td></tr>
-  <tr><td>Auteur</td><td>256</td></tr>
+  <tr><td>Auteur</td><td>256 caractères maximum</td></tr>
 </table>
+
+\*Cette limite ne s'applique que pour les webhooks
+
+Le nombre de caractères dans un embed (y compris **tous** les champs indiqués ci-dessus) ne peut pas dépasser 6000.
