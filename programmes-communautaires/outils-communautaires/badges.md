@@ -8,7 +8,7 @@ keywords:
   - tutoriel
 description: Il est possible de collecter des badges sur votre profil, la liste est disponible ci dessous. Le niveau d'obtention de chacun n'est pas le même, et certains demandent un grand dévouement !
 ---
-Il est possible de collecter des badges, visible sur le [profil](https://discord.fr/wiki/parametres-compte/personnalisation-compte/profil) de chaque utilisateur.
+Il est possible de collecter des badges, visible sur le [profil](https://discord.fr/wiki/parametres-compte/personnalisation-compte/profil/) de chaque utilisateur.
 
 *********************
 <br />
@@ -44,7 +44,7 @@ Ce badge est réservé aux membres participant à l'HypeSquad et qui assistent �
 
 Tout le monde peut postuler, mais il faut que le serveur remplisse des conditions, qui sont accessibles, tout comme la candidature, directement dans les paramètres du serveur. 
 
-Pour plus d'informations, [rendez vous sur l'article concernant le sujet](https://discord.fr/wiki)
+Pour plus d'informations, [rendez vous sur l'article concernant le sujet](https://discord.fr/wiki/)
 
 
 <br />
@@ -73,6 +73,7 @@ Tout comme le précédent, **ce badge est devenu inobtenable** pour les vérific
 
 ## Le badge Discord Nitro <img src= "https://i.discord.fr/ptM.png" width="23" height="17" />
 <img src="https://i.discord.fr/gbB.png" />
+
 Ce badge indique qu'un membre a souscrit à discord Nitro Classic ou discord Nitro. Passer sa souris dessus indique la date de souscription. Il disparaît à la fin de l'abonnement nitro.
 
 > *Quelques caratéristiques issues de l'article discord permettant de les reconnaitre : spammer leurs propres émojis personnalisés, dire à voix haute leur pseudo comme si celui-ci était un vrai mot et afficher une image de profil animée de leur animé préféré.*
@@ -81,6 +82,7 @@ Ce badge indique qu'un membre a souscrit à discord Nitro Classic ou discord Nit
 
 ## Le badge de Boost de serveur <img src= "https://i.discord.fr/1cU.png" width="17" height="17" />
 <img src="https://i.discord.fr/zSo.png" />
+
 Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un serveur. Il disparaît dès lors que le boost prend fin ou est annulé.
 
 <br />
@@ -93,7 +95,7 @@ Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un
 ## Les badges de Bug Hunter <img src= "https://i.discord.fr/Ye7.png" width="17" height="17" /> <img src= "https://i.discord.fr/2F7.png" width="17" height="17" />
 > *Un génie dans le domaine de l'assurance qualité et dans le travail de détective, les badges Bug Hunter sont décernés aux membres les plus actifs de la communauté Bug Hunter. Quelqu'un avec ces badges passe probablement son temps à perfectionner son monolithe alimenté par redstone, qui lui sert également une calculatrice*
 
-Ces deux badges sont donnés pour récompenser les membres participants à la chasse aux bugs sur discord et sur le serveur officiel *(toutes les informations sont sur [cet article](https://discord.fr/wiki/programmes-communautaires/testeurs/discord-testers))*
+Ces deux badges sont donnés pour récompenser les membres participants à la chasse aux bugs sur discord et sur le serveur officiel *(toutes les informations sont sur [cet article](https://discord.fr/wiki/programmes-communautaires/testeurs/discord-testers/))*
 
 Plus précisément, le badge ci-dessous est donné à partir du Tiers 4 `Bug Tracker` sur le serveur `Discord Tester`.
 

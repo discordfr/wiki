@@ -9,7 +9,6 @@ keywords:
   - tutoriel
 description: Les serveurs communautaires sur discord
 ---
-# Les serveurs communautaires
 
 Discord a mis en place, en août 2020 la possibilité de définir son serveur comme un **serveur communautaire**. Ce programme permet au serveur de débloquer plusieurs avantages.
 
