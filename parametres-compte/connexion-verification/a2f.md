@@ -11,13 +11,22 @@ keywords:
 description: Utilisation de l'authentification à deux facteurs sur Discord
 ---
 
-### Qu'est-ce que l'authentification à deux facteurs ?
-L'authentification à deux facteurs, ou A2F est un programme développé pour la vérification d'une identité. C'est-à-dire avoir deux facteurs, ici le mot de passe et un code PIN grâce à une application ou logiciel pour avoir accès au compte. Ce code PIN de six chiffres est unique et change toutes les trente secondes. Si le code est par conséquent valide, l'accès au compte est autorisé.
+## Le principe
+L'authentification à deux facteurs, ou A2F est un système servant à apporter une couche de sécurité supplémentaire à un compte en ligne. C'est-à-dire avoir deux facteurs différents requis pour s'authentifier. Sur Discord le mot de passe et un code renouvelé régulièrement grâce à une application mobile serait requis pour accéder à un compte. Ce code d'authentification est généré toutes les 30 secondes et déverrouillera le compte après avoir rentré le mot de passe.
 
-### Quel programme choisir pour l'A2F ?
+:::note
+La fonctionnalité de [QR Code](./qr-code.md) passera toujours outre l'authentification à deux facteurs
+:::
+
+## Codes de secours
+Dans le cas où un utilisateur perd son application d'authentification, Discord générera des codes de secours à l'activation de l'A2F. Il sera possible pour l'utilisateur d'utiliser un de ces codes au lieu de celui généré normalement par l'application.
+
+:::warning
+Discord ne génèrera jamais de codes de secours ou ne désactivera l'A2F d'un compte sous aucun prétexte et ce même sur demande explicite de l'utilisateur.
+:::
+
+## Quel programme choisir pour l'A2F ?
 Il est recommandé d'utiliser des services reconnus, comme [Authy](https://authy.com/), disponible sous presque tous les systèmes d'exploitation (Smartphone, macOS et Windows) ou bien Google Authenticator, disponible sous [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) et [iOS](https://apps.apple.com/us/app/google-authenticator/id388497605).
 
-### Comment la mettre en place sur Discord ?
-Rien de plus simple, il faudra juste aller dans les paramètres, dans la catégorie "Mon compte" et par la suite sur le bouton "Activer l'authentification à deux facteurs". Une suite d'instructions sera affichée pour la mise en place  decette dernière !
-
-![Mise en place de l'A2F sur Discord](https://i.discord.fr/fEV.gif)
+## Références 
+[Guide d'activation de l'A2F](../../../blog/2021/02/25/double-authentification/)
