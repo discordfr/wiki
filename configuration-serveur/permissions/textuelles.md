@@ -53,8 +53,13 @@ Les membres ayant cette permission peuvent utiliser des émojis provenant d'autr
 Les membres ayant cette permission peuvent ajouter des réactions à un message. Cette permission n'est pas nécessaire pour réagir avec les réactions déjà ajoutées aux messages.
 
 
-### • Utiliser les slashs commandes
+### • Utiliser les commandes Slash
 
-Les membres ayant cette permission peuvent utiliser les slashs commandes dans les salons textuels
+Les membres ayant cette permission peuvent utiliser les commandes Slash dans les salons textuels.
 
-![Permission](https://i.imgur.com/fXTCXnN.png)
+![Permission](https://i.discord.fr/R88.png)
+
+Voilà un exemple:
+![Exemple](https://i.imgur.com/LF324aS.png)
+
+### Attention ! Il y'a une limite à 50 Commandes Slash
