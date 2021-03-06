@@ -51,3 +51,10 @@ Les membres ayant cette permission peuvent utiliser des émojis provenant d'autr
 ### • Ajouter des réactions
 
 Les membres ayant cette permission peuvent ajouter des réactions à un message. Cette permission n'est pas nécessaire pour réagir avec les réactions déjà ajoutées aux messages.
+
+
+### • Utiliser les commandes Slash
+
+Les membres ayant cette permission peuvent utiliser les commandes Slash dans les salons textuels.
+
+![Permission](https://i.discord.fr/R88.png)
