@@ -58,5 +58,3 @@ Les membres ayant cette permission peuvent ajouter des réactions à un message.
 Les membres ayant cette permission peuvent utiliser les commandes Slash dans les salons textuels.
 
 ![Permission](https://i.discord.fr/R88.png)
-
-### Attention ! Il y'a une limite à 50 Commandes Slash
