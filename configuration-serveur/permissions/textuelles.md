@@ -59,7 +59,4 @@ Les membres ayant cette permission peuvent utiliser les commandes Slash dans les
 
 ![Permission](https://i.discord.fr/R88.png)
 
-Voilà un exemple:
-![Exemple](https://i.imgur.com/LF324aS.png)
-
 ### Attention ! Il y'a une limite à 50 Commandes Slash
