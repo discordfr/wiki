@@ -75,7 +75,7 @@ Pour arrêter un stream il suffit juste de recliquer sur le bouton **Stream**:
 ## Version Mobile
 
 ### Il suffit de se connecter à un salon vocal puis de cliquer sur le bouton:
-![BoutonStreamMobile]([img]https://i.imgur.com/EgcM5hh.png[/img])
+![BoutonStreamMobile](https://i.imgur.com/EgcM5hh.png])
 
 Puis de suivre les indications données par votre téléphone.
 
@@ -87,6 +87,6 @@ Pour arrêter de stream il suffit de cliquer sur le bouton :
 
 # Permission nécessaire :
 
-Pour pouvoir **Stream** il vous faut la permission :
+Pour pouvoir **Stream** il faut la permission :
 
 ![BoutonPermission](https://i.imgur.com/x8C8Pfj.png)
