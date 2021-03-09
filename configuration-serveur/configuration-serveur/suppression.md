@@ -1,0 +1,11 @@
+---
+id: suppression-serveur
+title: La suppression de serveur
+keywords:
+  - discord
+  - serveur
+  - supprimer
+  - suppression
+description: Comment supprimer un serveur Discord ?
+---
+Vous voulez contribuer à cette page ? Faites une pull request sur [notre repository GitHub](https://github.com/discordfr/wiki). Suivez les instructions sur [notre page dédiée](https://discord.fr/wiki/contribuer).
