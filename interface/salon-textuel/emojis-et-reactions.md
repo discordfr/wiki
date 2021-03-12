@@ -37,6 +37,6 @@ Comme bien d'autres plateformes de discussion, des emojis par défaut, de type "
 <img src="https://i.discord.fr/icm.png" width="645" height="" />
  
  
- :::note 
-L'abonnement à [Nitro](https://discord.fr/wiki/nitro-jeux/nitro/abonnements) est requis pour l'utilisation d'emojis animés, ou bien l'emploi d'emojis personnalisés sur d'autres serveurs que celui d'origine/via MP.
+ :::note Note:
+L'abonnement à [Discord Nitro](https://discord.fr/wiki/nitro-jeux/nitro/abonnements) est requis pour l'utilisation d'emojis animés, ou bien l'emploi d'emojis personnalisés sur d'autres serveurs que celui d'origine/via MP.
  :::
