@@ -15,78 +15,66 @@ Vous voulez contribuer à cette page ? Faites une pull request sur [notre reposi
 
 # Partage De Vidéo
 
-### Sur Discord, il existe une fonctionnalité qui permet aux autres personnes de voir votre vidéo.
+Sur Discord, il existe une fonctionnalité qui permet aux autres personnes de voir votre vidéo.
 
 
-# Version Téléphone:
+## Version Téléphone:
 
-### Pour cela il faut se connecter à un **salon vocal** puis cliquer sur le bouton: ![BoutonVidéo](https://i.imgur.com/PLtN9IQ.png)
-
-
-
-### Pour changer de sens il suffit de cliquer sur le bouton : 
-![BoutonSens](https://i.imgur.com/y7EppZA.png)
+Sur Téléphone, Il suffit de se connecter à un **Salon Vocal** ou de **Lancer Un Appel**, La 2e étape est de cliquer sur le bouton: ![Bouton Lancer La Vidéo](https://i.imgur.com/PLtN9IQ.png)
 
 
-### Pour arrêter le partage il suffit de recliquer sur le bouton.
 
-### Attention ! *La fonction changer de sens* marche que sur **Un Téléphone Portable.**
+Sur téléphone, il est possible de changer le sens de la vidéo (caméra intérieure ou caméra extérieure): ![Bouton Changer De Sens](https://i.imgur.com/y7EppZA.png)
 
 
-# Ordinateur:
+Pour arrêter le partage de vidéo, Il suffit de cliquer sur le bouton: ![Bouton Arrêter La Vidéo](https://i.imgur.com/PLtN9IQ.png)
 
-### Pour démarrer la vidéo il faut cliquer sur le bouton : ![BoutonVidéo](https://i.imgur.com/PLtN9IQ.png)
+#### ⚠️ Attention ! *La fonction changer de sens* marche que sur **Un Téléphone Portable.**
 
-### Pour arrêter la vidéo il suffit de cliquer sur le bouton : ![BoutonVidéo](https://i.imgur.com/PLtN9IQ.png)
+
+## Version Ordinateur:
+
+Sur Ordinateur, Il suffit de se connecter à un **Salon Vocal** ou de **Lancer Un Appel**, La 2e étape est de cliquer sur le bouton: ![Bouton Démarrer Vidéo](https://i.imgur.com/PLtN9IQ.png)
+
+Sur ordinateur, Pour arrêter le partage de vidéo il suffit de cliquer sur le bouton: ![Bouton Arrêter La Vidéo](https://i.imgur.com/PLtN9IQ.png)
 
 ### Permission Nécessaire 
 
-La permission nécessaire est `VIDÉO`
+Pour pouvoir partager votre vidéo, il faut avoir la permission `VIDÉO`.
 
-![BoutonPermission](https://i.imgur.com/x8C8Pfj.png)
-
-
-# Stream
+![Bouton Permission Lancer Vidéo](https://i.imgur.com/x8C8Pfj.png)
 
 
-### Sur Discord, il existe une fonctionnalité pour partager son écran (Mobile et PC).
+# STREAM
+
+ Sur Discord, il existe une fonctionnalité pour partager son écran en direct (Mobile et PC).
 
 
-## Version Ordinateur
+## Version Ordinateur:
 
-### Il suffit de se connecter à un salon vocal puis de cliquer sur le bouton: 
+ Sur Ordinateur, Pour lancer un live il suffit de se connecter à un **Salon Vocal** ou de **Lancer Un Appel**, La 2e étape est de cliquer sur le bouton: ![Bouton Lancer Le Stream](https://i.imgur.com/7be5i0B.png)
 
-![BoutonStream](https://i.imgur.com/7be5i0B.png)
+Après avoir cliquer sur le bouton, un menu apparaîtra: ![Bouton Affiche Le Menu](https://i.imgur.com/dIIsf7N.png)
 
-Puis un menu va apparaître :
-
-![BoutonMenu](https://i.imgur.com/dIIsf7N.png)
-
-Et il suffira de choisir vos options puis de cliquer sur **Passer en Direct**
+Puis dans ce menu vous pourrez configurer quel écran voulez vous partager, ou même quelle application. Une fois cela configuré il restera plus qu'a cliquer sur **Passer En Direct**.
 
 
-### Arrêter de Stream
-
-Pour arrêter un stream il suffit juste de recliquer sur le bouton **Stream**: 
-![BoutonStream](https://i.imgur.com/7be5i0B.png)
+ 
+Sur Ordinateur, Pour arrêter un stream il suffit de cliquer sur le bouton: ![Bouton Arrêt Du Stream](https://i.imgur.com/7be5i0B.png)
 
 
 
-## Version Mobile
+## Version Mobile:
 
-### Il suffit de se connecter à un salon vocal puis de cliquer sur le bouton:
-![BoutonStreamMobile](https://i.imgur.com/EgcM5hh.png])
+Sur Mobile Pour lancer un **Stream**. Il suffit de se connecter à un **Salon Vocal** ou de **Lancer Un Appel**, la 2e étape est de cliquer sur le bouton: ![Bouton Lancer Stream Sur Mobile](https://i.imgur.com/EgcM5hh.png])
 
 Puis de suivre les indications données par votre téléphone.
 
 
-### Arrêter de Stream 
 
-Pour arrêter de stream il suffit de cliquer sur le bouton : 
-![BoutonStopStreamMobile](https://i.imgur.com/81hCRUG.png)
+
+Sur Mobile, Pour arrêter le **STREAM**, il suffit de cliquer sur le bouton: ![Bouton Stop Stream Mobile](https://i.imgur.com/81hCRUG.png)
 
 # Permission nécessaire :
 
-Pour pouvoir **Stream** il faut la permission :
-
-![BoutonPermission](https://i.imgur.com/x8C8Pfj.png)
+La Permission nécessaire pour pouvoir **STREAM** est: ![Permission STREAM](https://i.imgur.com/x8C8Pfj.png)
