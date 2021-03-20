@@ -52,7 +52,8 @@ Pour pouvoir partager votre vidéo, il faut avoir la permission `VIDÉO`.
 
 ## Version Ordinateur:
 
- Sur Ordinateur, Pour lancer un live il suffit de se connecter à un **Salon Vocal** ou de **Lancer Un Appel**, La 2e étape est de cliquer sur le bouton: ![Bouton Lancer Le Stream](https://i.imgur.com/7be5i0B.png)
+ Sur Ordinateur, Pour lancer un live il suffit de se connecter à un **Salon Vocal** ou de **Lancer Un Appel**, La 2e étape est de cliquer sur le bouton: 
+ ![Bouton Lancer Le Stream](https://i.imgur.com/7be5i0B.png)
 
 Après avoir cliquer sur le bouton, un menu apparaîtra: ![Bouton Affiche Le Menu](https://i.imgur.com/dIIsf7N.png)
 
@@ -73,8 +74,10 @@ Puis de suivre les indications données par votre téléphone.
 
 
 
-Sur Mobile, Pour arrêter le **STREAM**, il suffit de cliquer sur le bouton: ![Bouton Stop Stream Mobile](https://i.imgur.com/81hCRUG.png)
+Sur Mobile, Pour arrêter le **STREAM**, il suffit de cliquer sur le bouton: 
+![Bouton Stop Stream Mobile](https://i.imgur.com/81hCRUG.png)
 
 # Permission nécessaire :
 
-La Permission nécessaire pour pouvoir **STREAM** est: ![Permission STREAM](https://i.imgur.com/x8C8Pfj.png)
+La Permission nécessaire pour pouvoir **STREAM** est: 
+![Permission STREAM](https://i.imgur.com/x8C8Pfj.png)
