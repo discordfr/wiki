@@ -13,9 +13,9 @@ description: Le partage vidéo sur discord
 
 # Fonction Vidéo : ![Vidéo](https://i.imgur.com/PLtN9IQ.png)
 
-Sur Discord, il y'a une possibilité qui permet de partager sa webcam dans les **Salons Vocaux** Des serveurs ou juste **En Appel Normal ou Groupe**.
+Sur Discord, il y'a une possibilité qui permet de partager sa webcam dans les **Salons Vocaux** Des serveurs, ou juste **En Appel Normal ou Groupe**.
 
-#### Fonctionnalité sur téléphone:
+## Fonctionnalité sur téléphone:
 
 Il est possible de changer le sens de la webcam: ![Changer De Sens](https://i.imgur.com/y7EppZA.png)
 
@@ -29,7 +29,7 @@ Sur Ordinateur: Il y'a une fonctionnalité qui permet de choisir si on partage s
 
 
 Les personnes qui voudront regarder le stream n'auront plus qu'a cliquer sur **Regarder Le live**, Pour rejoindre le live
-### Permission Nécessaire:
+## Permission Nécessaire:
 
 Il faut avoir la permission `VIDÉO` pour pouvoir partager son Écran ou sa WebCam:
 ![Permission STREAM](https://i.imgur.com/x8C8Pfj.png)
