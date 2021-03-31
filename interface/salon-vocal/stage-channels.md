@@ -19,7 +19,7 @@ Les **Stage Channels** sont des salons vocaux spéciaux permettant à un nombre 
 Pour le moment, les présentateurs ne peuvent ni utiliser la fonction [Go Live](https://discord.fr/wiki/interface/salon-vocal/partage-video) ni leur caméra. Néanmoins, selon les récents datamines de Discord Canary, il serait probable que ce soit le cas dans les plus brefs délais.
 :::
 
-![L'affichage des présentateurs](https://i.discord.fr/pSR.png)
+![L'affichage des présentateurs](https://i.discord.fr/AffichagePresentateurs.webp)
 
 ### La modération
 Les utilisateurs ayant la permission de déplacer, de rendre muet des membres et de gérer le salon, ont la possibilité de modérer la présentation à leur guise.
@@ -29,11 +29,11 @@ Les actions suivantes leurs sont possibles :
 - Déplacer les membres des présentateurs à l'audience et inviter des membres de l'audience à parler.
 - Voir les demandes de prise de parole.
 
-![Les demandes de parole](https://i.discord.fr/cAN.png)
+![Les demandes de parole](https://i.discord.fr/DemandesParole.webp)
 
 De plus, pour être facilement reconnaissables, les modérateurs possèdent une icône notifiant les utilisateurs de leurs permissions.
 
-![Les présentateurs & Modérateurs](https://i.discord.fr/DcI.png)
+![Les présentateurs & Modérateurs](https://i.discord.fr/PresentateursModerateurs.webp)
 
 ### L'audience
 
@@ -44,4 +44,4 @@ Lorsque la présentation est ouverte, n'importe quel membre du serveur a la poss
 - Une description peut-être ajoutée au salon et sera affichée directement en dessous de son nom pour donner le thème de la discussion.
 - La limite de membres présents simultanément dans le salon est de 1000 utilisateurs, présentateurs et audience compris.
 
-![Pop-up Stage](https://i.discord.fr/YZi.png)
+![Pop-up Stage](https://i.discord.fr/Pop-upStage.webp)
