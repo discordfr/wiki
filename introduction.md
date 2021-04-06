@@ -12,7 +12,7 @@ Bienvenue sur le Wiki communautaire de Discord FR. Vous trouverez ici de nombreu
 Chacun peut contribuer ; munissez-vous d'un compte GitHub, et rendez-vous sur notre [page de contribution](/wiki/contribuer). 
 
 ## Les avantages contributeurs
-Après contribution, vous pourrez obtenir des rôles sur notre serveur Discord.
+Après contribution, vous pourrez obtenir des rôles sur [notre serveur Discord](https://discord.gg/fr).
 
 #### Contributeur 1, vous avez écrit un article sur le wiki validé par le staff.
 - Salon des contributeurs
@@ -27,3 +27,9 @@ Après contribution, vous pourrez obtenir des rôles sur notre serveur Discord.
 - Salons d’informations en direct
 - Création de guides
 - Création d’articles sur le blog
+
+*Retrouvez la liste de tous les avantages sur [notre page prévue à cet effet](https://discord.fr/serveur)*
+
+:::caution Attention !
+Les rôles de contribution sont distribués au bon vouloir de l'équipe de gestion du wiki, selon la qualité de vos articles.
+:::
