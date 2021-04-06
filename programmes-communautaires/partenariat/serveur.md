@@ -71,10 +71,12 @@ Le partenariat avec Discord permet d'avoir des salons vocaux avec une qualité a
 
 En plus des avantages de partenaire en tant qu'utilisateur, un badge sera affiché à gauche du nom du serveur.
 
-![Badge serveur partner](https://i.discord.fr/lC7.png)
-![Serveur Partner](https://imgur.com/qBbAkXj)
+Badge d'un serveur partenaire:
 
-Pour récompense, un badge sera aussi affiché sur votre profil.
-![Badge partner](https://imgur.com/EQkJKtS)
-![Badge user Partner](https://imgur.com/Zw9Fw1D)
+![Serveur Partner](https://i.discord.fr/4Z0.png)
+
+
+Un badge sera également donné au propriétaire d'un serveur partenaire:
+
+![Badge user Partner](https://i.discord.fr/C0F.png)
 
