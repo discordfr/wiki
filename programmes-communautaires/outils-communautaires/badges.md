@@ -23,6 +23,7 @@ Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégrati
 - `House of Brillance` <img src= "https://i.discord.fr/bVC.png" width="13" height="13" />
 - `House of Bravery`<img src= "https://i.discord.fr/N5s.png" width="13" height="13" /> 
 - `House of Balance`<img src= "https://i.discord.fr/ig0.png" width="13" height="13" />
+*Post-Sciptum: Si la maison à laquelle vous avez été affillié(e) suite au questionnaire ne vous plait pas, vous pouvez recommencer le test.*
 
 
 <br />
@@ -42,7 +43,7 @@ Ce badge est réservé aux membres participant à l'HypeSquad et qui assistent �
 
 > *Le programme de partenariat discord est conçu pour récompenser les serveurs de qualité et engagés ayant une certaine visibilité, en offrant des outils supplémentaires pour les aider à s'investir dans leur communauté. Un badge partenaire à coté du nom du serveur, signifie qu'il s'agit de l'une des meilleurs communautés.*
 
-Tout le monde peut postuler, mais il faut que le serveur remplisse des conditions, qui sont accessibles, tout comme la candidature, directement dans les paramètres du serveur. 
+Tout le monde peut postuler, mais il faut que le serveur remplisse des conditions, (*du style 500 membres, 1 boost, des trucs comme ça*)qui sont accessibles, tout comme la candidature, directement dans les paramètres du serveur, dans l'onglet communautée.
 
 Pour plus d'informations, [rendez vous sur l'article concernant le sujet](https://discord.fr/wiki/)
 
@@ -114,4 +115,6 @@ Quand à celui-ci, il est donné à partir du Tiers 5 `Bug Terminator` sur le se
 
 > *Originaire de la région de la baie de San Francisco, cette personne passe la majeure partie de sa semaine au quartier général de Discord en pensant à la prochaine nouveauté à ajouter pour améliorer l'expérience des utilisateurs tout en rêvant au jour ou une machine à crème glacée arrivera dans les locaux*
 
-Ce badge est réservé aux employers de discord. Il est possible de postuler sur la [page discord spécifique](https://discord.com/jobs), mais il est nécessaire de pouvoir travailler dans leurs locaux et bien évidemment de parler anglais.
+Ce badge est réservé aux employers de discord. Il est possible de postuler sur la [page discord spécifique](https://discord.com/jobs), mais il est nécessaire de pouvoir travailler dans leurs locaux (*en Floride*) et bien évidemment de parler anglais.
+
+***__By AnAuthor__***
