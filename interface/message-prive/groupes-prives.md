@@ -10,7 +10,7 @@ keywords:
 description: Les groupes privés sur discord
 ---
 ## Qu'est-ce que les groupes privés ?
-Les groupes privés permettent de regrouper ses amis dans une seule conversation, cela permet à tous les membres du groupe de se parler au même endroit. La personnalisation de l'icône du groupe et de son nom y sera possible. Il sera aussi possible de désactiver les notifications en rendant la conversation muette (clic droit sur l'onglet du groupe dans la liste de vos messages privés puis "Rendre la coversation muette"). Notez que le nombre de membres maximum d'un groupe privé est de 10.
+Les groupes privés permettent de regrouper ses amis dans une seule conversation, cela permet à tous les membres du groupe de se parler au même endroit. La personnalisation de l'icône du groupe et de son nom y sera possible. Il sera aussi possible de désactiver les notifications en rendant la conversation muette (clic droit sur l'onglet du groupe dans la liste des messages privés puis "Rendre la coversation muette"). Notez que le nombre de membres maximum d'un groupe privé est de 10.
 
 ## Comment créer un groupe privé et ajouter des amis à l'intérieur de celui-ci ?
 Pour créer un groupe privé, il est nécessaire cliquer sur l'icône "Ajoutez des amis au groupe privé" qui se trouve en haut à droite de la fenêtre puis de cocher les cases situées en face du nom des amis que l'utilisateur souhaite ajouter, il ne restera alors plus qu'à cliquer sur "Ajouter". Il est aussi possible pour tous les membres du groupe de créer un lien d'invitation du groupe dans le même onglet, afin d'inviter leurs amis. 
@@ -30,7 +30,7 @@ Le propriétaire du groupe est le seul à pouvoir retirer des utilisateurs de ce
 
 ![Exclusion d'un membre et suppression]()
 
-## Comment quitter un groupe privé ?
+### Comment quitter un groupe privé ?
 Quitter un groupe privé est simpe, il suffit de faire un clic droit sur l'onglet du groupe (dans la liste de vos messages privés) et cliquer sur "Quitter le groupe". Le groupe disparaîtra alors de la liste de messages privés.
 
 ![Quitter un groupe]()
