@@ -31,6 +31,6 @@ Le propriétaire du groupe est le seul à pouvoir retirer des utilisateurs de ce
 ![Exclusion d'un membre et suppression]()
 
 ## Comment quitter un groupe privé ?
-Quitter un groupe privé est simpe, il suffit de faire un clic droit sur l'onglet du groupe (dans la liste de vos messages privés) et cliquer sur "Quitter le groupe". Le groupe disparaîtra alors de la liste de messages privés.
+Quitter un groupe privé est simpe, il suffit de faire un clic droit sur l'onglet du groupe (dans la liste des messages privés) et cliquer sur "Quitter le groupe". Le groupe disparaîtra alors de la liste de messages privés.
 
 ![Quitter un groupe]()
