@@ -29,7 +29,7 @@ Un niveau de serveur est un palier qui permet de débloquer des avantages au sei
 
 ![Exemple boost](https://i.discord.fr/fda.png)
 
-Voici les fonctionnalités qui peuvent être débloquées à chaque palier:
+Voici les fonctionnalités qui peuvent être débloquées à chaque palier :
 
 ### ![Niveau 1](https://i.discord.fr/Mqp.png)
 * 50 emplacements supplémentaires d'émoji du serveur (pour un total de 100)
