@@ -31,7 +31,7 @@ Durant l'année 2019 Discord a ajouté les blocs de spoilers. Cette fonctionnali
 <img alt="ExempleSpoilers" src="https://i.discord.fr/vmX.png" class="docImage"/>
 
 ## Les blocs de code
-Il est aussi possible de formater du texte sous forme de code. Il suffit de mettre \`\`\` devant puis le langage (exemples : `js`, `java`, `css`, `html`) et de fermer votre code de la même manière \`\`\`. 
+Il est aussi possible de formater du texte sous forme de code. Il suffit de mettre \`\`\` devant puis le langage (exemples : `js`, `java`, `css`, `html`) et de fermer le code de la même manière \`\`\`. 
 
 ![Code](https://i.imgur.com/wnAfyDo.png)
 
