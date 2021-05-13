@@ -26,9 +26,21 @@ Discord permet également de [citer](https://discord.fr/wiki/interface/salon-tex
 <img alt="ExempleQuote" src="https://i.discord.fr/EV1.png" class="docImage"/>
 
 ## Les blocs spoilers
-Durant l'année 2019 Discord a ajouté les blocs de spoilers. Cette fonctionnalité fonctionne comme le reste de la mise en forme Markdown et permet de cacher du texte à la premiere vue d'un utilisateur, ce qui empèche de dévoiler une chose importante sur un film par exemple à des utilisateurs ne voulant pas connaitre la fin en avance. Pour mettre des spoilers dans un message, il faut entourer la zone à cacher avec deux caractères `||`. Ce qui donnera:
+Durant l'année 2019 Discord a ajouté les blocs de spoilers. Cette fonctionnalité fonctionne comme le reste de la mise en forme Markdown et permet de cacher du texte à la premiere vue d'un utilisateur, ce qui empèche de dévoiler une chose importante sur un film par exemple à des utilisateurs ne voulant pas connaitre la fin en avance. Pour mettre des spoilers dans un message, il faut entourer la zone à cacher avec deux caractères `||`. Ce qui donnera :
 
 <img alt="ExempleSpoilers" src="https://i.discord.fr/vmX.png" class="docImage"/>
+
+## Les blocs de code
+Il est aussi possible de formater du texte sous forme de code. Il suffit de mettre \`\`\` devant puis le langage (exemples : `js`, `java`, `css`, `html`) et de fermer votre code de la même manière \`\`\`. 
+
+![Code](https://i.imgur.com/wnAfyDo.png)
+
+:::tip
+Il est possible de mettre un message en couleur en utilisant ce même markdown. 
+
+![Couleurs écrire](https://i.imgur.com/JSs5J1h.png)
+![Couleurs écrire](https://i.imgur.com/yVyW6GK.png)
+:::
 
 ## La mise en forme rapide
 Pour faciliter l'utilisation de la mise en forme, Discord a également ajouté une fonctionalité de mise en forme rapide (Disponible uniquement sur l'application Windows, Linux, MacOS ainsi que l'application Web). Pour utiliser la mise en forme rapide il suffit de sélectionner avec la souris ou au clavier la zone à modifier et plusieurs boutons apparaitrons pour mettre en forme le texte:
