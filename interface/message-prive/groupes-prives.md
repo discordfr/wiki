@@ -17,7 +17,7 @@ Le nombre d'utilisateurs maximum au sein d'un groupe est de 10.
 :::
 
 ## Créer un groupe privé et ajouter des amis à l'intérieur de celui-ci 
-Pour créer un groupe privé, il faut simplement cliquer sur l'icône "Ajoutez des amis au groupe privé" qui se trouve en haut à droite de la fenêtre. Tous les membres d'un groupe privé peuvent créer un lien d'invitation du groupe, afin d'inviter leurs amis. 
+Pour créer un groupe privé, il est possible de créer un groupe privé depuis l'icone `+` en haut des Message Privés ou directement depuis une conversation en cours. Tous les membres d'un groupe privé peuvent créer un lien d'invitation du groupe, afin d'inviter leurs amis. 
 
 ![Création d'un groupe](https://i.imgur.com/kZ4DIZs.png)
 
@@ -31,7 +31,7 @@ Comme dit précédemment, il est possible de modifier l'icône et le nom d'un gr
 ![Personnalisation icône](https://i.imgur.com/AXUn76c.png)
 
 ## Comment retirer des membres d'un groupe et le supprimer ?
-Le propriétaire du groupe est le seul à pouvoir retirer des utilisateurs de celui-ci. Pour supprimer un groupe, le propriétaire de celui-ci doit d'abord retirer tous les membres et ensuite quitter lui-même le groupe.
+Le propriétaire du groupe est le seul à pouvoir retirer des utilisateurs de celui-ci. Pour supprimer un groupe, le propriétaire doit d'abord en retirer tous ses membres et ensuite le quitter lui-même. La propriété du groupe est automatiquement attribuée à un autre utilisateur quand le propriétaire le quitte.
 
 ![Exclusion d'un membre](https://i.imgur.com/ak5u57F.png)
 
