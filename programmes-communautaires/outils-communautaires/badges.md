@@ -59,7 +59,7 @@ Il avait été donné à tous ceux qui avaient Discord Nitro avant le 10 octobre
 
 <br />
 
-## Le badge Développeur certifié de bot *de la première heure* <img src= "https://i.discord.fr/Vov.png" width="17" height="17" />
+## Le badge Développeur de bot certifié *de la première heure* <img src= "https://i.discord.fr/Vov.png" width="17" height="17" />
 <img src="https://i.discord.fr/hAe.png" />
 
 Ce badge était donné à tous ceux ayant fait vérifier un bot par Discord. Celui-ci devait se trouver sur un minimum de 75 serveurs pour être éligible.
