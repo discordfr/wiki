@@ -59,14 +59,14 @@ Il avait été donné à tous ceux qui avaient Discord Nitro avant le 10 octobre
 
 <br />
 
-## Le badge Développeur de bot certifié *de la première heure* <img src= "https://i.discord.fr/Vov.png" width="17" height="17" />
+## Le badge Développeur de bot certifié de la première heure <img src= "https://i.discord.fr/Vov.png" width="17" height="17" />
 <img src="https://i.discord.fr/hAe.png" />
 
 Ce badge était donné à tous ceux ayant fait vérifier un bot par Discord. Celui-ci devait se trouver sur un minimum de 75 serveurs pour être éligible.
 
 Tout comme le précédent, **ce badge est devenu inobtenable** pour les vérifications demandées après le 19 aout 2020, à cause de nombreux abus de certains utilisateurs de discord.
 
-*C'est ainsi qu'il est passé de `Verified Bot Developper` au titre qu'il porte actuellement : `Early Verified Bot Developper`*
+*C'est ainsi qu'il est passé de `Verified Bot Developer` au titre qu'il porte actuellement : `Early Verified Bot Developer`*
 
 
 <br />
@@ -87,7 +87,7 @@ Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un
 
 <br />
 
-**Une spécificité de ce badge est son caractère évolutif selon les durées suivantes :**
+**La spécificité de ce badge est son caractère évolutif selon les durées suivantes :**
 <img src="https://i.discord.fr/jZ6.png" width="700" height="175" />
 
 <br />
