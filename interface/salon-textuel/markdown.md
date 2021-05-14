@@ -33,13 +33,13 @@ Durant l'année 2019 Discord a ajouté les blocs de spoilers. Cette fonctionnali
 ## Les blocs de code
 Il est aussi possible de formater du texte sous forme de code. Il suffit de mettre \`\`\` devant puis le langage (exemples : `js`, `java`, `css`, `html`) et de fermer le code de la même manière \`\`\`. 
 
-![Code](https://i.imgur.com/wnAfyDo.png)
+![Code](https://i.discord.fr/N2S.png)
 
 :::tip
 Il est possible de mettre un message en couleur en utilisant ce même markdown. 
 
-![Couleurs écrire](https://i.imgur.com/JSs5J1h.png)
-![Couleurs écrire](https://i.imgur.com/yVyW6GK.png)
+![Couleurs écrire](https://i.discord.fr/zJV.png)
+![Couleurs écrire](https://i.discord.fr/Dow.png)
 :::
 
 ## La mise en forme rapide
