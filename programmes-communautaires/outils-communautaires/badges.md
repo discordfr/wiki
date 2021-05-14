@@ -13,12 +13,12 @@ Il est possible de collecter des badges, visible sur le [profil](https://discord
 *********************
 <br />
 
-## Les badges des maisons hypesquad <img src= "https://i.discord.fr/N5s.png" width="17" height="17" /> <img src= "https://i.discord.fr/ig0.png" width="17" height="17" /> <img src= "https://i.discord.fr/bVC.png" width="17" height="17" />
-> *Il y a longtemps, un grand esprit maléfique est sorti de son sommeil et a ravagé la terre. Au moment ou l"humanité en avait besoin, trois héros ont émergé de la lumière et ont vaincu les mauvais esprits. L'humanité était tellement exalté que de nos jours, ces héros sont honorés grâce au programme des maisons HypeSquad.*
+## Les badges des maisons Hypesquad <img src= "https://i.discord.fr/N5s.png" width="17" height="17" /> <img src= "https://i.discord.fr/ig0.png" width="17" height="17" /> <img src= "https://i.discord.fr/bVC.png" width="17" height="17" />
+> *Il y a longtemps, un grand esprit maléfique est sorti de son sommeil et a ravagé la terre. Au moment où l'humanité en avait besoin, trois héros ont émergé de la lumière et ont vaincu les mauvais esprits. L'humanité était tellement exaltée que de nos jours, ces héros sont honorés grâce au programme des maisons HypeSquad.*
 
 <img src="https://i.discord.fr/MIU.png" width="672" height="250" />
 
-A n'importe quel moment il est possible de rejoindre l'une de ces trois maisons en répondant au questionnaire disponible dans les paramètres de discord sous la catégorie "HypeSquad" sur ordinateur.
+À n'importe quel moment il est possible de rejoindre l'une de ces trois maisons en répondant au questionnaire disponible dans les paramètres de discord sous la catégorie "HypeSquad" sur ordinateur.
 Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégration à  l'une des trois maisons sera immédiate : 
 - `House of Brillance` <img src= "https://i.discord.fr/bVC.png" width="13" height="13" />
 - `House of Bravery`<img src= "https://i.discord.fr/N5s.png" width="13" height="13" /> 
@@ -27,17 +27,17 @@ Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégrati
 
 <br />
 
-## Le badge hypesquad <img src= "https://i.discord.fr/CS2.png" width="20" height="17" />
+## Le badge Événements Hypesquad <img src= "https://i.discord.fr/CS2.png" width="20" height="17" />
 <img src="https://i.discord.fr/Tps.png" />
 
-Ce badge est réservé aux membres participant à l'HypeSquad et qui assistent à des conventions *(HypeSquad Event Attendees)* ou qui organisent des évènements comme une convention, un club universitaire...etc *(HypeSquad Event Coordinators)*. Il ouvre la porte d'un serveur secret HypeSquad.
+Ce badge est réservé aux membres participant à l'HypeSquad et qui assistent à des conventions *(HypeSquad Event Attendees)* ou qui organisent des évènements comme une convention, un club universitaire, etc... *(HypeSquad Event Coordinators)*. Il ouvre la porte d'un serveur secret HypeSquad.
 
 *Son obtention se fait après avoir soumis une candidature à discord sur la [page dédiée](https://discord.com/hypesquad). Les candidatures sont actuellement en pause*
    
 
 <br />
 
-## Le badge partenaire <img src= "https://i.discord.fr/5nB.png" width="17" height="17" />
+## Le badge Partenaire <img src= "https://i.discord.fr/5nB.png" width="17" height="17" />
 <img src="https://i.discord.fr/jIZ.png" />
 
 > *Le programme de partenariat discord est conçu pour récompenser les serveurs de qualité et engagés ayant une certaine visibilité, en offrant des outils supplémentaires pour les aider à s'investir dans leur communauté. Un badge partenaire à coté du nom du serveur, signifie qu'il s'agit de l'une des meilleurs communautés.*
@@ -59,14 +59,14 @@ Il avait été donné à tous ceux qui avaient Discord Nitro avant le 10 octobre
 
 <br />
 
-## Le badge Developpeur de bot *de la première heure* <img src= "https://i.discord.fr/Vov.png" width="17" height="17" />
+## Le badge Développeur certifié de bot *de la première heure* <img src= "https://i.discord.fr/Vov.png" width="17" height="17" />
 <img src="https://i.discord.fr/hAe.png" />
 
-Ce badge était donné à tous ceux ayant fait  vérifier un bot par Discord. Celui-ci devait se trouver sur un minimum de 75 serveurs pour être éligible.
+Ce badge était donné à tous ceux ayant fait vérifier un bot par Discord. Celui-ci devait se trouver sur un minimum de 75 serveurs pour être éligible.
 
 Tout comme le précédent, **ce badge est devenu inobtenable** pour les vérifications demandées après le 19 aout 2020, à cause de nombreux abus de certains utilisateurs de discord.
 
-*C'est ainsi qu'il est passé de `Verified Bot Developper` au titre qu'il porte actuellement, `Early Verified Bot Developper`*
+*C'est ainsi qu'il est passé de `Verified Bot Developper` au titre qu'il porte actuellement : `Early Verified Bot Developper`*
 
 
 <br />
@@ -87,7 +87,7 @@ Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un
 
 <br />
 
-**Une spécifité unique à ce badge est son caractère évolutif selon les durées suivantes :**
+**Une spécificité de ce badge est son caractère évolutif selon les durées suivantes :**
 <img src="https://i.discord.fr/jZ6.png" width="700" height="175" />
 
 <br />
@@ -97,11 +97,11 @@ Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un
 
 Ces deux badges sont donnés pour récompenser les membres participants à la chasse aux bugs sur discord et sur le serveur officiel *(toutes les informations sont sur [cet article](https://discord.fr/wiki/programmes-communautaires/testeurs/discord-testers/))*
 
-Plus précisément, le badge ci-dessous est donné à partir du Tiers 4 `Bug Tracker` sur le serveur `Discord Tester`.
+Plus précisément, le badge ci-dessous est donné à partir du Tier 4 `Bug Tracker` sur le serveur `Discord Tester`.
 
 <img src="https://i.discord.fr/74v.png" /> 
 
-Quand à celui-ci, il est donné à partir du Tiers 5 `Bug Terminator` sur le serveur `Discord Tester`.
+Quant à celui-ci, il est donné à partir du Tier 5 `Bug Terminator` sur le serveur `Discord Tester`.
 
 <img src="https://i.discord.fr/e8i.png" />
 
@@ -112,6 +112,6 @@ Quand à celui-ci, il est donné à partir du Tiers 5 `Bug Terminator` sur le se
 ## Le badge Staff Discord <img src= "https://i.discord.fr/BbZ.png" width="17" height="17" />
 <img src="https://i.discord.fr/wcg.png" />
 
-> *Originaire de la région de la baie de San Francisco, cette personne passe la majeure partie de sa semaine au quartier général de Discord en pensant à la prochaine nouveauté à ajouter pour améliorer l'expérience des utilisateurs tout en rêvant au jour ou une machine à crème glacée arrivera dans les locaux*
+> *Originaire de la région de la baie de San Francisco, cette personne passe la majeure partie de sa semaine au quartier général de Discord en pensant à la prochaine nouveauté à ajouter pour améliorer l'expérience des utilisateurs tout en rêvant du jour ou une machine à crème glacée arrivera dans les locaux*
 
-Ce badge est réservé aux employers de discord. Il est possible de postuler sur la [page discord spécifique](https://discord.com/jobs), mais il est nécessaire de pouvoir travailler dans leurs locaux et bien évidemment de parler anglais.
+Ce badge est réservé aux employés de discord. Il est possible de postuler sur la [page discord spécifique](https://discord.com/jobs), mais il est nécessaire de pouvoir travailler dans leurs locaux et bien évidemment de parler anglais.
