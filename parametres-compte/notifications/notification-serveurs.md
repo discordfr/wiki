@@ -9,7 +9,6 @@ keywords:
   - tutoriel
 description: Les notifications par serveur sur discord
 ---
-## En quoi cela consiste ?
 Les notifications par serveur permettent de personnaliser les "pings" que l'on souhaite recevoir, très pratique pour ne pas être saturé de notifications.
 
 ## Ce que tout utilisateur peut faire
