@@ -9,7 +9,7 @@ keywords:
   - tutoriel
 description: Les notifications par serveur sur discord
 ---
-Les notifications par serveur permettent de personnaliser celles que l'on souhaite recevoir sur chacun de ceux sur lesquels on se trouve, très pratique pour ne pas être saturé de notifications.
+Les notifications par serveur permettent aux utilisateurs de personnaliser les notifications qu'ils souhaitent recevoir sur chacun de leurs serveurs. Très pratique pour ne pas être saturé de notifications.
 
 ## Ce que tout utilisateur peut faire
 Tous les membres d'un serveur ont la possibilité de personnaliser leurs notifications, ils peuvent choisir d'être notifié à chaque message, en cas de `@mentions` uniquement ou en aucun cas. Ils peuvent aussi désactiver les mentions `@everyone` et `@here`, les mentions de rôles et les notifications "push" sur téléphone. Enfin, il existe un système de dérogations, pour que certains salons ou catégories ne soient pas impactés pas ces paramètres généraux.
