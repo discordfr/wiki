@@ -15,7 +15,10 @@ Les connexions permettent à un utilisateur d'afficher sur son profil les applic
 
 ## Les connexions disponibles
 
-Discord propose aux utilisateurs de relier et de synchroniser leur compte à de mutliples plateformes : 
+Discord propose aux utilisateurs de relier et de synchroniser leur compte à de mutliples sites avec lesquels ils sont en partenariat.
+Il s'agit principalement de réseaux sociaux, de plateformes de streaming ainsi que de jeux. Ces connexions sont officielles, et ne sont pas à confondre avec les [applications tierces](https://discord.fr/wiki/parametres-compte/connexions-compte/applications-autorisees/).
+
+Voici la liste des sites avec lesquels il est possible de relier son compte :
 
  - [Youtube](https://youtube.com).
  - [Twitch](https://twitch.tv).
@@ -27,8 +30,6 @@ Discord propose aux utilisateurs de relier et de synchroniser leur compte à de 
  - [Xbox Live](https://xbox.com).
  - [Spotify](https://spotify.com), vous pouvez retrouver un [article dédié à cette connexion ici](https://discord.fr/wiki/parametres-compte/connexions-compte/connexion-spotify/).
  - [Github](https://github.com).
-
-Il s'agit principalement de réseaux sociaux, de plateformes ainsi que de jeux. Ces connexions sont officielles, et ne sont pas à confondre avec les [applications tierces](https://discord.fr/wiki/parametres-compte/connexions-compte/applications-autorisees/).
 
 ![Toutes les possibilités de connexion](https://i.discord.fr/cbZ.png)
 
