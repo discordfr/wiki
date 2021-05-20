@@ -11,24 +11,24 @@ keywords:
 description: Les connexions officielles sur discord
 ---
 
-# Les connexions officielles sur Discord
-
 Les connexions permettent à un utilisateur d'afficher sur son profil les applications avec lesquelles son compte est relié.
 
 ## Les connexions disponibles
 
-Discord propose aux utilisateurs de relier leur compte à de mutliples applications : 
+Discord propose aux utilisateurs de relier et de synchroniser leur compte à de mutliples plateformes : 
 
- - Le service de VOD communautaire [Youtube](https://youtube.com).
- - La plateforme de diffusion en direct [Twitch](https://twitch.tv).
- - La plateforme de jeu Blizzard, [Battle.net](https://blizzard.com).
- - Le service d'achat de jeux dématérialisés [Steam](https://steam.com.
- - Le forum communautaire [Reddit](https://reddit.com).
- - Le réseau social [Facebook](https://facebook.com).
- - La plateforme de communication en ligne [Twitter](https://twitter.com).
- - Le service de jeu en ligne Microsoft, [Xbox Live](https://xbox.com).
- - Le service de streaming musical [Spotify](https://spotify.com), vous pouvez retrouver un [article dédié à cette connexion ici](https://discord.fr/wiki/parametres-compte/connexions-compte/connexion-spotify/).
- - Le site d'hébergement de code source [Github](https://github.com).
+ - [Youtube](https://youtube.com).
+ - [Twitch](https://twitch.tv).
+ - [Battle.net](https://blizzard.com).
+ - [Steam](https://steam.com).
+ - [Reddit](https://reddit.com).
+ - [Facebook](https://facebook.com).
+ - [Twitter](https://twitter.com).
+ - [Xbox Live](https://xbox.com).
+ - [Spotify](https://spotify.com), vous pouvez retrouver un [article dédié à cette connexion ici](https://discord.fr/wiki/parametres-compte/connexions-compte/connexion-spotify/).
+ - [Github](https://github.com).
+
+Il s'agit principalement de réseaux sociaux, de plateformes ainsi que de jeux. Ces connexions sont officielles, et ne sont pas à confondre avec les [applications tierces](https://discord.fr/wiki/parametres-compte/connexions-compte/applications-autorisees/).
 
 ![Toutes les possibilités de connexion](https://i.discord.fr/cbZ.png)
 
@@ -45,13 +45,13 @@ L'utilisateur a la possibilité de paramétrer ses connexions à travers l'ongle
 <img alt="Affichage de la connexion sur le profil" src="https://i.discord.fr/dGx.png" height="" width="600px">
 
 ## Désactiver l'affichage dans le profil/Supprimer la connexion
-#### Désactiver l'affichage sur le profil 
+### Désactiver l'affichage sur le profil 
 
 Les utilisateurs disposent de la possibilité de désactiver l'affichage de la connexion sur votre profil en dé-sélectionnant l'icône ✅ :
 
 ![Désactiver l'affichage d'une connexion sur le profil](https://i.discord.fr/MHt.png)
 
-#### Supprimer une connexion
+### Supprimer une connexion
 
 Il est par ailleurs possible de supprimer à tout moment la connexion dans l'onglet "Connexions" des paramètres de l'utilisateur, en cliquant simplement sur la petite croix : 
 
