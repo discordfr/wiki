@@ -19,16 +19,16 @@ Les connexions permettent à un utilisateur d'afficher sur son profil les applic
 
 Discord propose aux utilisateurs de relier leur compte à de mutliples applications : 
 
- - Le média social de vidéos [Youtube](https://youtube.com),
- - Le service de streaming vidéo en direct et de VAD [Twitch](https://twitch.tv),
- - La plateforme Internet de jeux [Battle.net](https://blizzard.com),
- - La plateforme de distribution de contenu en ligne, de gestion des droits et de communication [Steam](https://steam.com),
- - Le site web communautaire [Reddit](https://reddit.com),
- - La plateforme de communication en ligne [Facebook](https://facebook.com),
- - La plateforme de communication en ligne [Twitter](https://twitter.com),
- - Le service de jeu en ligne [xBox Live](https://xbox.com),
- - Le service de streaming musical [Spotify](https://spotify.com), qui dispose d'un [article dédié sur le wiki](https://discord.fr/wiki/parametres-compte/connexions-compte/connexion-spotify/),
- - Le site de développement logiciel et de service [Github](https://github.com).
+ - Le service de VOD communautaire [Youtube](https://youtube.com).
+ - La plateforme de diffusion en direct [Twitch](https://twitch.tv).
+ - La plateforme de jeu Blizzard, [Battle.net](https://blizzard.com).
+ - Le service d'achat de jeux dématérialisés [Steam](https://steam.com.
+ - Le forum communautaire [Reddit](https://reddit.com).
+ - Le réseau social [Facebook](https://facebook.com).
+ - La plateforme de communication en ligne [Twitter](https://twitter.com).
+ - Le service de jeu en ligne Microsoft, [Xbox Live](https://xbox.com).
+ - Le service de streaming musical [Spotify](https://spotify.com), vous pouvez retrouver un [article dédié à cette connexion ici](https://discord.fr/wiki/parametres-compte/connexions-compte/connexion-spotify/).
+ - Le site d'hébergement de code source [Github](https://github.com).
 
 ![Toutes les possibilités de connexion](https://i.discord.fr/cbZ.png)
 
