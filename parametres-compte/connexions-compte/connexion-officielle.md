@@ -34,12 +34,11 @@ Discord propose aux utilisateurs de relier leur compte à de mutliples applicati
 
 ## Relier son compte Discord à l'une des connexions
 
-Pour relier son compte à l'une des connexions officielles, il faut :
 L'utilisateur a la possibilité de paramétrer ses connexions à travers l'onglet `Connexions` dans ses paramètres utilisateur.
 
 ![Onglet Connexions](https://i.discord.fr/CzF.png)
 
- Chaque connexion se paramètre en cliquant sur l'icone de la plateforme de son choix. Une fois cela fait, l'utilisateur devra accepter la synchronisation entre la plateforme et Discord. Puis, une fois synchronisée avec succès, elle s'affichera dans l'onglet `Connexions` des paramètres de l'utilisateur ainsi que sur son profil si il souhaite l'activer.
+ Chaque connexion se configure en cliquant sur l'icone de la plateforme de son choix. Une fois cela fait, l'utilisateur devra accepter la synchronisation entre la plateforme et Discord. Puis, une fois synchronisée avec succès, elle s'affichera dans l'onglet `Connexions` des paramètres de l'utilisateur ainsi que sur son profil si il souhaite l'activer.
  
 ![Affichage de la connexion dans l onglet des parametres](https://i.discord.fr/mhA.png) 
     
