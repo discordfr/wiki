@@ -11,12 +11,10 @@ keywords:
 description: Les connexions officielles sur discord
 ---
 
-Les connexions permettent à un utilisateur d'afficher sur son profil les applications avec lesquelles son compte est relié.
+Discord propose aux utilisateurs de relier et de synchroniser leur compte à de mutliples sites.
+Il s'agit principalement de réseaux sociaux, de plateformes de streaming ainsi que de jeux. Ces connexions sont officielles, et ne sont pas à confondre avec les [applications tierces](https://discord.fr/wiki/parametres-compte/connexions-compte/applications-autorisees/).
 
 ## Les connexions disponibles
-
-Discord propose aux utilisateurs de relier et de synchroniser leur compte à de mutliples sites avec lesquels ils sont en partenariat.
-Il s'agit principalement de réseaux sociaux, de plateformes de streaming ainsi que de jeux. Ces connexions sont officielles, et ne sont pas à confondre avec les [applications tierces](https://discord.fr/wiki/parametres-compte/connexions-compte/applications-autorisees/).
 
 Voici la liste des sites avec lesquels il est possible de relier son compte :
 
