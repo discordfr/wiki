@@ -35,20 +35,13 @@ Discord propose aux utilisateurs de relier leur compte à de mutliples applicati
 ## Relier son compte Discord à l'une des connexions
 
 Pour relier son compte à l'une des connexions officielles, il faut :
- - Se rendre dans l'onglet "Connexions" des paramètres de son compte.
+L'utilisateur a la possibilité de paramétrer ses connexions à travers l'onglet `Connexions` dans ses paramètres utilisateur.
 
 ![Onglet Connexions](https://i.discord.fr/CzF.png)
 
- - Cliquer sur l'icône de l'application avec laquelle l'utilisateur souhaite relier son compte Discord.
- - L'utilisateur sera redirigé vers le site officiel de l'application, où :
-    - Il faut se connecter à son compte de l'application.
-    - Accepter que la connexion de l'application puisse accéder à son compte Discord.
-  - La connexion s'affiche alors :
-  1. Dans l'onglet connexion des paramètres de l'utilisateur.
+ Chaque connexion se paramètre en cliquant sur l'icone de la plateforme de son choix. Une fois cela fait, l'utilisateur devra accepter la synchronisation entre la plateforme et Discord. Puis, une fois synchronisée avec succès, elle s'affichera dans l'onglet `Connexions` des paramètres de l'utilisateur ainsi que sur son profil si il souhaite l'activer.
  
-![Affichage de la connexion dans l onglet des parametres](https://i.discord.fr/mhA.png)
- 
-  2. Sur le profil de l'utilisateur. 
+![Affichage de la connexion dans l onglet des parametres](https://i.discord.fr/mhA.png) 
     
 <img alt="Affichage de la connexion sur le profil" src="https://i.discord.fr/dGx.png" height="" width="600px">
 
@@ -61,6 +54,6 @@ Les utilisateurs disposent de la possibilité de désactiver l'affichage de la c
 
 #### Supprimer une connexion
 
-Il est par ailleurs possible de suppripmer à tout moment la connexion dans l'onglet "Connexions" des paramètres de l'utilisateur, en cliquant simplement sur la petite croix : 
+Il est par ailleurs possible de supprimer à tout moment la connexion dans l'onglet "Connexions" des paramètres de l'utilisateur, en cliquant simplement sur la petite croix : 
 
 ![Supprimer une connexion](https://i.discord.fr/uzh.png)
