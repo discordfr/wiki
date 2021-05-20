@@ -20,16 +20,16 @@ Il s'agit principalement de réseaux sociaux, de plateformes de streaming ainsi 
 
 Voici la liste des sites avec lesquels il est possible de relier son compte :
 
- - [Youtube](https://youtube.com).
- - [Twitch](https://twitch.tv).
- - [Battle.net](https://blizzard.com).
- - [Steam](https://steam.com).
- - [Reddit](https://reddit.com).
- - [Facebook](https://facebook.com).
- - [Twitter](https://twitter.com).
- - [Xbox Live](https://xbox.com).
- - [Spotify](https://spotify.com), vous pouvez retrouver un [article dédié à cette connexion ici](https://discord.fr/wiki/parametres-compte/connexions-compte/connexion-spotify/).
- - [Github](https://github.com).
+ - Le service de VOD communautaire [Youtube](https://youtube.com).
+ - La plateforme de discussion en direct [Twitch](https://twitch.tv).
+ - La plateforme de jeu Blizzard, [Battle.net](https://blizzard.com).
+ - Le service d'achat de jeux dématérialisés [Steam](https://steam.com).
+ - Le forum communautaire [Reddit](https://reddit.com).
+ - Le réseau social [Facebook](https://facebook.com).
+ - La plateforme de discussion en ligne [Twitter](https://twitter.com).
+ - Le service jeu en ligne de Microsoft, [Xbox Live](https://xbox.com).
+ - Le service de streaming musical [Spotify](https://spotify.com), vous pouvez retrouver un [article dédié à cette connexion ici](https://discord.fr/wiki/parametres-compte/connexions-compte/connexion-spotify/).
+ - Le site d'hébergement de code source [Github](https://github.com).
 
 ![Toutes les possibilités de connexion](https://i.discord.fr/cbZ.png)
 
