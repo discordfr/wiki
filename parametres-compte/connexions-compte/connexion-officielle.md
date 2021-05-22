@@ -7,7 +7,6 @@ keywords:
   - officielles
   - compte
   - tutoriel
-  - fr
 description: Les connexions officielles sur discord
 ---
 
