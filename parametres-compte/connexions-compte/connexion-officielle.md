@@ -40,7 +40,7 @@ L'utilisateur a la possibilité de paramétrer ses connexions à travers l'ongle
  
 ![Affichage de la connexion dans l onglet des parametres](https://i.discord.fr/mhA.png) 
     
-<img alt="Affichage de la connexion sur le profil" src="https://i.discord.fr/dGx.png" height="" width="600px">
+![Affichage de la connexion sur le profil](https://i.discord.fr/95E.png)
 
 ## Désactiver l'affichage dans le profil/Supprimer la connexion
 ### Désactiver l'affichage sur le profil 
