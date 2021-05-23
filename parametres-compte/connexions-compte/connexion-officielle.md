@@ -18,7 +18,7 @@ Il s'agit principalement de réseaux sociaux, de plateformes de streaming ainsi 
 Voici la liste des sites avec lesquels il est possible de relier son compte :
 
  - Le service de VOD communautaire [Youtube](https://youtube.com).
- - La plateforme de discussion en direct [Twitch](https://twitch.tv).
+ - La plateforme de diffusion en direct [Twitch](https://twitch.tv).
  - La plateforme de jeu Blizzard, [Battle.net](https://blizzard.com).
  - Le service d'achat de jeux dématérialisés [Steam](https://steam.com).
  - Le forum communautaire [Reddit](https://reddit.com).
