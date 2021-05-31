@@ -13,6 +13,27 @@ Il est possible de collecter des badges, visible sur le [profil](https://discord
 *********************
 <br />
 
+## Le badge Discord Nitro <img src= "https://i.discord.fr/ptM.png" width="23" height="17" />
+<img src="https://i.discord.fr/gbB.png" />
+
+Ce badge indique qu'un membre a souscrit à discord Nitro Classic ou discord Nitro. Passer sa souris dessus indique la date de souscription. Il disparaît à la fin de l'abonnement nitro.
+
+> *Quelques caratéristiques issues de l'article discord permettant de les reconnaitre : spammer leurs propres émojis personnalisés, dire à voix haute leur pseudo comme si celui-ci était un vrai mot et afficher une image de profil animée de leur animé préféré.*
+
+<br />
+
+## Le badge de Boost de serveur <img src= "https://i.discord.fr/1cU.png" width="17" height="17" />
+<img src="https://i.discord.fr/zSo.png" />
+
+Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un serveur. Il disparaît dès lors que le boost prend fin ou est annulé.
+
+<br />
+
+**La spécificité de ce badge est son caractère évolutif selon les durées suivantes :**
+<img src="https://i.discord.fr/jZ6.png" width="700" height="175" />
+
+<br />
+
 ## Les badges des maisons Hypesquad <img src= "https://i.discord.fr/N5s.png" width="17" height="17" /> <img src= "https://i.discord.fr/ig0.png" width="17" height="17" /> <img src= "https://i.discord.fr/bVC.png" width="17" height="17" />
 > *Il y a longtemps, un grand esprit maléfique est sorti de son sommeil et a ravagé la terre. Au moment où l'humanité en avait besoin, trois héros ont émergé de la lumière et ont vaincu les mauvais esprits. L'humanité était tellement exaltée que de nos jours, ces héros sont honorés grâce au programme des maisons HypeSquad.*
 
@@ -23,28 +44,6 @@ Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégrati
 - `House of Brillance` <img src= "https://i.discord.fr/bVC.png" width="13" height="13" />
 - `House of Bravery`<img src= "https://i.discord.fr/N5s.png" width="13" height="13" /> 
 - `House of Balance`<img src= "https://i.discord.fr/ig0.png" width="13" height="13" />
-
-
-<br />
-
-## Le badge Événements Hypesquad <img src= "https://i.discord.fr/CS2.png" width="20" height="17" />
-<img src="https://i.discord.fr/Tps.png" />
-
-Ce badge est réservé aux membres participant à l'HypeSquad et qui assistent à des conventions *(HypeSquad Event Attendees)* ou qui organisent des évènements comme une convention, un club universitaire, etc... *(HypeSquad Event Coordinators)*. Il ouvre la porte d'un serveur secret HypeSquad.
-
-*Son obtention se fait après avoir soumis une candidature à discord sur la [page dédiée](https://discord.com/hypesquad). Les candidatures sont actuellement en pause*
-   
-
-<br />
-
-## Le badge Partenaire <img src= "https://i.discord.fr/5nB.png" width="17" height="17" />
-<img src="https://i.discord.fr/jIZ.png" />
-
-> *Le programme de partenariat discord est conçu pour récompenser les serveurs de qualité et engagés ayant une certaine visibilité, en offrant des outils supplémentaires pour les aider à s'investir dans leur communauté. Un badge partenaire à coté du nom du serveur, signifie qu'il s'agit de l'une des meilleurs communautés.*
-
-Tout le monde peut postuler, mais il faut que le serveur remplisse des conditions, qui sont accessibles, tout comme la candidature, directement dans les paramètres du serveur. 
-
-Pour plus d'informations, [rendez vous sur l'article concernant le sujet](https://discord.fr/wiki/)
 
 
 <br />
@@ -71,26 +70,16 @@ Tout comme le précédent, **ce badge est devenu inobtenable** pour les vérific
 
 <br />
 
-## Le badge Discord Nitro <img src= "https://i.discord.fr/ptM.png" width="23" height="17" />
-<img src="https://i.discord.fr/gbB.png" />
+## Le badge Modérateur certifié de Discord <img src="https://i.discord.fr/EpA.png" width="17" height="17" />
+<img src="https://i.discord.fr/I3C.png" />
 
-Ce badge indique qu'un membre a souscrit à discord Nitro Classic ou discord Nitro. Passer sa souris dessus indique la date de souscription. Il disparaît à la fin de l'abonnement nitro.
+Ce badge est décerné à des utilisateurs ayant passé avec succès l'[examen DMA](https://discord.com/moderation/exam), et ayant échangé de façon active et engagée autour de la modération sur le serveur DMD durant _a minima_ 3 mois.
 
-> *Quelques caratéristiques issues de l'article discord permettant de les reconnaitre : spammer leurs propres émojis personnalisés, dire à voix haute leur pseudo comme si celui-ci était un vrai mot et afficher une image de profil animée de leur animé préféré.*
+Remplir les conditions précédentes permet d'être éligible à l'attribution du badge, mais ne garantit pas son obtention.
 
-<br />
 
-## Le badge de Boost de serveur <img src= "https://i.discord.fr/1cU.png" width="17" height="17" />
-<img src="https://i.discord.fr/zSo.png" />
 
-Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un serveur. Il disparaît dès lors que le boost prend fin ou est annulé.
-
-<br />
-
-**La spécificité de ce badge est son caractère évolutif selon les durées suivantes :**
-<img src="https://i.discord.fr/jZ6.png" width="700" height="175" />
-
-<br />
+<br>
 
 ## Les badges de Bug Hunter <img src= "https://i.discord.fr/Ye7.png" width="17" height="17" /> <img src= "https://i.discord.fr/2F7.png" width="17" height="17" />
 > *Un génie dans le domaine de l'assurance qualité et dans le travail de détective, les badges Bug Hunter sont décernés aux membres les plus actifs de la communauté Bug Hunter. Quelqu'un avec ces badges passe probablement son temps à perfectionner son monolithe alimenté par redstone, qui lui sert également une calculatrice*
@@ -105,7 +94,29 @@ Quant à celui-ci, il est donné à partir du Tier 5 `Bug Terminator` sur le ser
 
 <img src="https://i.discord.fr/e8i.png" />
 
-**Les modalités précises sont à retrouver dans l'article cité précédemment ou sur le serveur lui-même**
+**Les modalités précises sont à retrouver dans l'article cité précédemment ou sur le serveur lui-même.**
+
+<br />
+
+## Le badge Événements Hypesquad <img src= "https://i.discord.fr/CS2.png" width="20" height="17" />
+<img src="https://i.discord.fr/Tps.png" />
+
+Ce badge est réservé aux membres participant à l'HypeSquad et qui assistent à des conventions *(HypeSquad Event Attendees)* ou qui organisent des évènements comme une convention, un club universitaire, etc... *(HypeSquad Event Coordinators)*. Il ouvre la porte d'un serveur secret HypeSquad.
+
+*Son obtention se fait après avoir soumis une candidature à discord sur la [page dédiée](https://discord.com/hypesquad). Les candidatures sont actuellement en pause*
+   
+
+<br />
+
+## Le badge Partenaire <img src= "https://i.discord.fr/5nB.png" width="17" height="17" />
+<img src="https://i.discord.fr/jIZ.png" />
+
+> *Le programme de partenariat discord est conçu pour récompenser les serveurs de qualité et engagés ayant une certaine visibilité, en offrant des outils supplémentaires pour les aider à s'investir dans leur communauté. Un badge partenaire à coté du nom du serveur, signifie qu'il s'agit de l'une des meilleurs communautés.*
+
+Tout le monde peut postuler, mais il faut que le serveur remplisse des conditions, qui sont accessibles, tout comme la candidature, directement dans les paramètres du serveur. 
+
+Pour plus d'informations, [rendez vous sur l'article concernant le sujet](https://discord.fr/wiki/)
+
 
 <br />
 
