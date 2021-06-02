@@ -18,6 +18,7 @@ Le nombre d'emplacements dépend du [niveau de boost du serveur](https://discord
 
 | Niveaux de boosts | Emplacements |
 | ----------- | ----------- |
+| Niveau 0  | 50 emplacements d'émojis animés et 50 emplacements d'émojis fixes. |
 | Niveau 1  | +50 emplacements, pour un total de 100. |
 | Niveau 2  | +50 emplacements, pour un total de 150. |
 | Niveau 3  | +100 emplacements, pour un total de 250. |
