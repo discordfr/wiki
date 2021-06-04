@@ -31,7 +31,7 @@ La gestion des émojis personnalisés nécessite la permission `Gérer les émoj
 
 ##Modifier un émoji
 
-Comme dit précedement, il est possible de modifier le nom d'un émoji, et puisque qu'ils sont rangés dans l'ordre alphabétique, on peut les classer comme on le souhaite.
+Comme dit précedement, il est possible de modifier le nom d'un émoji, et puisque qu'ils sont rangés dans l'ordre anti-alphabétique, on peut les classer comme on le souhaite.
 
 ![Modifier emoji](https://i.discord.fr/ICj.png)
 
