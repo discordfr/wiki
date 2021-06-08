@@ -1,3 +1,13 @@
+---
+id: bots
+title: Les robots
+keywords:
+  - discord
+  - bots
+  - robot
+  - tutoriel
+description: Les robots sur Discord
+---
 # Les robots
 Les robots sont indispensables à la vie sur Discord. Sur presque chaque serveur, vous trouverez au moins un robot (qu'on appellera par la suite "bot"). Des bots dédiés à la modération, l'amusement ou encore l'expérience (niveaux). Les plus connus sont [MEE6](https://mee6.xyz/) (Modération-Notifications), [Dyno](https://dyno.gg/) (Multifonction), [Septapus](http://septapus.com) (Fun) et [Rythm](https://rythm.fm/) (Musique). Vous avez, vous aussi, envie de créer un bot? C'est parti, suivez moi dans les chemins sinueux du monde de l'API Discord.
 ## Étape 1 - Créer une application
