@@ -1,3 +1,12 @@
+---
+id: intro
+title: Introduction à l'API Discord
+keywords:
+  - discord
+  - api
+  - documentation
+description: Traduction de l'introduction à l'API Discord
+---
 # Introduction
 
 ## Les applications sur Discord
