@@ -40,13 +40,13 @@ Pour se focaliser sur une personne, il est possible de sélectionner un utilisat
 
 L'écran ou la vidéo de l'utilisateur apparaîtra dans une fenêtre séparée.
 
-<img alt="Affichage sous forme de fenêtre" src="https://i.discord.fr/gjP.png" width="" height="400px">
+<img alt="Affichage sous forme de fenêtre" src="https://i.discord.fr/gjP.png" width="" height="400px"/>
 
  - Affichage en plein écran
 
 L'écran partagé ou la vidéo de l'utilisateur s'affichera en plein écran. Pour sortir du mode "Plein écran", il suffit d'appuyer sur la touche "Echap".
 
-<img alt="Affichage en mode plein écran" src="https://i.discord.fr/C95.png" width="" height="400px">
+<img alt="Affichage en mode plein écran" src="https://i.discord.fr/C95.png" width="" height="400px"/>
 
 ## Partager sa vidéo
 

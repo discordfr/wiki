@@ -79,7 +79,7 @@ Remplir les conditions précédentes permet d'être éligible à l'attribution d
 
 
 
-<br>
+<br/>
 
 ## Les badges de Bug Hunter <img src= "https://i.discord.fr/Ye7.png" width="17" height="17" /> <img src= "https://i.discord.fr/2F7.png" width="17" height="17" />
 > *Un génie dans le domaine de l'assurance qualité et dans le travail de détective, les badges Bug Hunter sont décernés aux membres les plus actifs de la communauté Bug Hunter. Quelqu'un avec ces badges passe probablement son temps à perfectionner son monolithe alimenté par redstone, qui lui sert également une calculatrice*
