@@ -9,7 +9,7 @@ keywords:
   - tutoriel
 description: Le profil utilisateur sur discord
 ---
-![Image](https://i.discord.fr/HEO.png)
+![Image](https://media.discordapp.net/attachments/854438557410000947/859371787859263498/Profils_discord_2.jpg?width=734&height=702)
 
 Le profil d'un utilisateur Discord est la vitrine qui va le mettre en valeur, il comporte plusieurs éléments:
 
@@ -22,3 +22,7 @@ Le profil d'un utilisateur Discord est la vitrine qui va le mettre en valeur, il
 **4.** Les informations complémentaires comme les infos utilisateurs (où les autres comptes de l'utilisateur tel que YouTube ou Steam peuvent être visible ici (Paramètres Discord > connexions)), les serveurs en commun ainsi que les amis en commun sont disponibles sous forme d'onglet.
 
 **5.** Les notes sont privées, uniquement visible par vous-même ; elles peuvent être modifiées à tout moment.
+
+**6.** Le " about me " (à propos de moi) permet de vous décrire sur votre profil discord.
+
+**7.** La bannière de profil permet de mettre un GIF (1O MB) ou une image en PNJ, PNG avec les dimensions suivantes : 600x240, discord nitro boost es nécessaire pour cette option !
