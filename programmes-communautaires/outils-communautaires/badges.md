@@ -45,7 +45,6 @@ Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégrati
 - `House of Bravery`<img src= "https://i.discord.fr/N5s.png" width="13" height="13" /> 
 - `House of Balance`<img src= "https://i.discord.fr/ig0.png" width="13" height="13" />
 
-
 <br />
 
 ## Le badge Soutien de la première heure <img src= "https://i.discord.fr/6Fe.png" width="20" height="17" />
@@ -54,7 +53,6 @@ Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégrati
 Il avait été donné à tous ceux qui avaient Discord Nitro avant le 10 octobre 2018 à 19h20 *(c'est précis :p)*. C'était un cadeau pour remercier les premiers soutiens de discord.
 
 **Ce badge n'est donc plus obtenable.**
-
 
 <br />
 
@@ -67,7 +65,6 @@ Tout comme le précédent, **ce badge est devenu inobtenable** pour les vérific
 
 *C'est ainsi qu'il est passé de `Verified Bot Developer` au titre qu'il porte actuellement : `Early Verified Bot Developer`*
 
-
 <br />
 
 ## Le badge Modérateur certifié de Discord <img src="https://i.discord.fr/EpA.png" width="17" height="17" />
@@ -77,9 +74,7 @@ Ce badge est décerné à des utilisateurs ayant passé avec succès l'[examen D
 
 Remplir les conditions précédentes permet d'être éligible à l'attribution du badge, mais ne garantit pas son obtention.
 
-
-
-<br/>
+<br />
 
 ## Les badges de Bug Hunter <img src= "https://i.discord.fr/Ye7.png" width="17" height="17" /> <img src= "https://i.discord.fr/2F7.png" width="17" height="17" />
 > *Un génie dans le domaine de l'assurance qualité et dans le travail de détective, les badges Bug Hunter sont décernés aux membres les plus actifs de la communauté Bug Hunter. Quelqu'un avec ces badges passe probablement son temps à perfectionner son monolithe alimenté par redstone, qui lui sert également une calculatrice*
@@ -105,7 +100,6 @@ Ce badge est réservé aux membres participant à l'HypeSquad et qui assistent �
 
 *Son obtention se fait après avoir soumis une candidature à discord sur la [page dédiée](https://discord.com/hypesquad). Les candidatures sont actuellement en pause*
    
-
 <br />
 
 ## Le badge Partenaire <img src= "https://i.discord.fr/5nB.png" width="17" height="17" />
@@ -116,7 +110,6 @@ Ce badge est réservé aux membres participant à l'HypeSquad et qui assistent �
 Tout le monde peut postuler, mais il faut que le serveur remplisse des conditions, qui sont accessibles, tout comme la candidature, directement dans les paramètres du serveur. 
 
 Pour plus d'informations, [rendez vous sur l'article concernant le sujet](https://discord.fr/wiki/)
-
 
 <br />
 
