@@ -9,7 +9,7 @@ keywords:
   - tutoriel
 description: Le profil utilisateur sur discord
 ---
-![Image](https://media.discordapp.net/attachments/854438557410000947/859371787859263498/Profils_discord_2.jpg?width=734&height=702)
+![Image](https://i.discord.fr/zkz.png)
 
 Le profil d'un utilisateur Discord est la vitrine qui va le mettre en valeur, il comporte plusieurs éléments:
 
