@@ -1,3 +1,13 @@
+---
+title: Mode développeur 
+keywords:
+  - développeur 
+  - discord
+  - wiki
+  - tutoriel
+description: Comment avoir et utiliser le mode développeur 
+---
+
 # le mode développeur de Discord
 
 Sur Discord vous pouvez activer ce paramètre afin de bénéficier d'outils supplémentaires qui sont indispensable quand on créer des bots ou même récupérer l'id discord de quelqu'un ect ..
