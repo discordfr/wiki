@@ -39,6 +39,14 @@ De plus, pour être facilement reconnaissables, les modérateurs possèdent une 
 
 Lorsque la présentation est ouverte, n'importe quel membre du serveur a la possibilité d'écouter. Les membres sont séparés en fonction de leurs rôles, si ces derniers sont affichés séparément des autres. Une icône à côté du bouton fait pour quitter le salon permet de demander la parole auprès des modérateurs, qui pourra être approuvée ou refusée ensuite.
 
+### Le Stage Discovery
+
+Le Stage Discovery permet aux stages channels d'être référencés publiquement, et par conséquent d'être rejoints par n'importe quel utilisateur de Discord. Cette option n'est toutefois pas disponible pour n'importe quel stage channel.
+
+Pour utiliser le Stage Discovery, il faut activer le référencement au début d'une conférence. Le salon en question doit être accessible au rôle `@everyone`.
+
+![Stage Discovery](https://i.discord.fr/frZ.png)
+
 ## Informations Complémentaires
 - Lors de l'activation d'un Stage Channel, il devient vert et une notification apparaît en haut du serveur pour notifier de la présence d'une présentation.
 - Une description peut-être ajoutée au salon et sera affichée directement en dessous de son nom pour donner le thème de la discussion.
