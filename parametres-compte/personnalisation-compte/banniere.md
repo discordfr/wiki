@@ -1,11 +1,27 @@
----
-id: banniere-profil
-title: Les bannières de profil
-keywords:
-  - discord
-  - personnalisation
-  - profil
-  - banniere
-description: Les bannières de profil sur Discord.
----
-Vous voulez contribuer à cette page ? Faites une pull request sur [notre repository GitHub](https://github.com/discordfr/wiki). Suivez les instructions sur [notre page dédiée](https://discord.fr/wiki/contribuer).
+# Bannière de profil
+#### La bannière de profil est une image personnalisée qui se place au-dessus du profil en question.
+![Discord  Bannière](https://user-images.githubusercontent.com/87481394/125958259-1b4adde7-0f82-48b9-9ee1-bbc8ab806c4b.png)
+
+:::note Note 
+La bannière de profil est accessible uniquement aux utilisateurs titulaires d'un nitro boost. Le nitro classic n'inclut pas la bannière de profil. 
+:::
+*********************
+
+### Comment ajouter une bannière à son profil?
+- Etape 1: Cliquez sur le bouton "Paramètres utilisateur".
+![Discord  Paramètres utilisateur](https://user-images.githubusercontent.com/87481394/125959722-8fb21cd5-7c98-4ca9-9edf-1f0e2680a5f7.png)
+
+- Etape 2: Cliquez sur le bouton "Profil d'utilisateur".
+![Discord  Paramètres utilisateur 2](https://user-images.githubusercontent.com/87481394/125960600-2bebdfc2-3e37-42d9-bf64-81850d14291a.png)
+
+- Etape 3: Ajoutez votre bannière.
+![Discord  Paramètres de la bannière](https://user-images.githubusercontent.com/87481394/125961128-7477a0e5-c040-4fa1-b751-c4a6a7a82c71.png)
+*********************
+
+### Formats d'image acceptés.
+- PNG
+- JPG
+- GIF
+
+### Taille de l'image recommandée.
+- 600x240
