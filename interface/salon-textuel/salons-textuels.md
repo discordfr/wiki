@@ -66,3 +66,18 @@ Les utilisateurs avec la permission "Administrateur" passent outre les dérogati
  
  - Invitations de salon : Les utilisateurs avec la permission peuvent gérer les invitations créées pour le salon correspondant. Toutefois, ils ne peuvent pas accéder aux invitations de tous les salons via l'onglet "Invitations" dans les paramètres de serveur. Il faut pour cela la permission "Gérer le serveur". 
 
+### Fonctionalité d'annonce
+
+Il est possible d'activé la fonctionalité "Salon des annonces", celle si permet a la communauté de suivre via leurs serveurs les messages envoyé dans le salon en question.
+
+<img src="https://imgur.com/a/Mc1UCSn" width="650" height="" />
+
+Pour activé celle ci, il suffit d'activé le mode communautaire sur votre serveur, puis allée dans les parametre du salon en question afin d'activé l'option "Salon des annonces"
+
+<img src="https://imgur.com/a/D0VhFFa" width="650" height="" />
+<img src="https://imgur.com/a/5zjwQMB" width="650" height="" />
+
+Une fois cela fait, les membres de votre serveurs pourrons suivre le salon en question et voir les messages publié dans leurs serveurs.
+
+<img src="https://imgur.com/a/MmoIFFB" width="650" height="" />
+<img src="https://imgur.com/a/Paru8Tb" width="650" height="" />
