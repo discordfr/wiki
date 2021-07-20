@@ -15,7 +15,7 @@ description: Les bannières de profil sur Discord.
 La bannière de profil est accessible uniquement aux utilisateurs titulaires d'un nitro boost. Le nitro classic n'inclut pas la bannière de profil. 
 :::
 
-## Comment ajouter une bannière à son profil?
+## Comment ajouter une bannière à son profil ?
 - Cliquer sur le bouton "Paramètres utilisateur".
 ![Discord  Paramètres utilisateur](https://i.discord.fr/Vgq.png)
 
