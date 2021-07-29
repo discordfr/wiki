@@ -46,7 +46,7 @@ Contrairement aux noms de salons textuels il est possible de mettre des espaces 
 
 ### Le mode lent
 
-Le mode lent permet de limiter le nombre de messages par utilisateur sur une interval. Les utilisateurs avec la permission "Gérer les messages" ou "Gérer les fils" sont exempts de cette limitation.
+Le mode lent permet de limiter le nombre de messages par utilisateur sur un interval, à l'instar du même paramètre sur les salons classiques. Les utilisateurs avec la permission "Gérer les messages" ou "Gérer les fils" sont exemptés de cette limitation.
 
 ![Mode lent](https://i.discord.fr/rdC.png)
 
