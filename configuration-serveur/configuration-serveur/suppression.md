@@ -6,24 +6,19 @@ keywords:
   - serveur
   - supprimer
   - suppression
-description: Comment supprimer un serveur Discord ?
+description: Tout sur la suppression d'un serveur Discord.
 ---
-## Qu'est qu'une suppression d'un serveur discord?
-Tous les serveurs discord peuvent être supprimés. La suppression d'un serveur discord est irréversible, et ne peut qu'être faite par le propriétaire du serveur en question.
+## La suppression d'un serveur Discord
 
-## Comment supprimer un serveur discord?
-- Une fois sur la page du serveur discord, aller dans les paramètres de celui-ci en cliquant sur le nom du serveur tout en haut à gauche.
+La suppression d'un serveur Discord rend inaccessible le serveur aux membres et au propriétaire et supprime instantanément toutes les données de celui-ci incluant les salons, rôles, messages, templates et toutes les autres données liées à ce serveur. Cette action est donc irréversible et ne peut que être faite par le propriétaire du serveur. Tous les serveurs Discord peuvent être supprimés.
 
-*Un menu déroulant apparaît.*
+:::caution Attention !
+L'équipe de confiance et sécurité de Discord peut également supprimer un serveur Discord si ce dernier ne respecte pas [les conditions d'utilisation de discord](https://discord.com/terms) ou [la Charte d'Utilisation de la Communauté Discord](https://discord.com/guidelines).
+:::
 
-- Cliquer sur "Paramètres du serveur ⚙" dans le menu déroulant. Cela permettra d'accéder aux paramètres du serveur.
+## L'option de suppression d'un serveur Discord
 
-*Le menu des paramètres du serveur apparaît.*
+En tant que propriétaire, l'option se trouve en bas dans les paramètres du serveur Discord. Discord demandera un mot de passe ou un token de validation relatif à l'authentification à deux facteurs si cette dernière est configurée sur le compte du propriétaire.
 
-- Cliquer tout en bas à gauche sur le bouton rouge "Supprimer le serveur". Cela permettra de lancer la procédure de suppression du serveur.
 
-*Un message de confirmation apparaît. Il est possible maintenant de poursuivre la suppression ou de l'annuler.*
-- Si la suppression est poursuivie, entrer le code relatif à l'authentification à deux facteurs. **[Uniquement pour les utilisateurs titulaires d'une authentification à deux facteurs.]**
-
-*Le serveur est désormais définitivement supprimé.*
 ![Procédure à suivre pour supprimer un serveur discord](https://user-images.githubusercontent.com/87481394/125986314-ddc4f4c9-8002-4a69-a1ee-bceee76d6b7c.gif)
