@@ -20,12 +20,14 @@ Voici la liste des permissions liées aux threads :
 - Utiliser des fils privés : possibilité créer des threads privés en plus des avantages de la permission au-dessus.
 - Gérer les fils : capacité e'activer le mode lent, de supprimer et d'archiver/de désarchiver les threads.
 
-
-## La création de threads
+## Création/Supression de threads
+### La création de threads
 
 Afin de créer un salon thread sur un serveur, il faut avoir une des permissions suivantes : "Utiliser des fils publics" ; "Utiliser des fils privés" ; "Gérer les fils" . Les threads, tout comme salons textuels, les salons vocaux ou les salons d'annonces, peuvent être publics ou privés.
 
 ![Création d'un thread](https://i.discord.fr/xeH.png)
+### Le suppression de threads
+Pour supprimer un thread, il faut cliquer sur les trois points en haut à droite du thread puis sur "Supprimer le fil".
 
 ## Configuration 
 
@@ -52,12 +54,19 @@ Le mode lent permet de limiter le nombre de messages par utilisateur sur un inte
 
 ### Le temps avant archivage
 
-Ce paramètre permet de choisir le temps sans activé.
+Ce paramètre permet de choisir le temps d'inactivité maximum avant l'archivage automatique du Thread.
 
 ![Archivage](https://i.discord.fr/QYD.png)
 
-### Autres options
+## L'archivage de threads
+
+Un thread est archivé automatiquement après le temps avant archivage défini ou bien manuellement par un membre qui a la permission "Gérer les Threads" ou son par le créateur du thread.
+
+![Archivage d'un thread](https://i.discord.fr/0gJ.png)
+:::note
+Les threads archivés peuvent être consultés ou rouverts à tout moment.
+:::
+
+### Autre option
 
  - NSFW : Un thread est configuré comme NSFW (Not Safe For Work) si son salon parent l'est. Un message apparaît pour demander à l'utilisateur de confirmer qu'il a bien 18 ans car certaines images/liens/contenus dans le thread peuvent choquer un public non averti.
-
- - Permissions du thread : A COMPLETER
