@@ -39,3 +39,7 @@ Il est également possible de supprimer l'icône d'un serveur pour retrouver cel
 
 ![Suppression icône](https://user-images.githubusercontent.com/70655051/128040006-b88d0f3a-bcab-459e-9303-3c4d7bb1fb33.png)
 
+### Dimension idéales pour une icône
+| Dimensions minimales | Dimensions conseillée |
+| ----------- | ----------- |
+| Carré de 128 par 128 pixels  | Carré de 512 par 512 pixels |
