@@ -1,3 +1,4 @@
+![output](https://user-images.githubusercontent.com/70655051/128033127-c0315755-adee-44a9-8f81-6b56ee38d282.gif)
 ---
 id: personnalisation
 title: La personnalisation de serveur
