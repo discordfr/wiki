@@ -30,6 +30,7 @@ La bannière de profil est accessible uniquement aux utilisateurs titulaires d'u
 - PNG
 - JPG
 - GIF
+- WEBP
 
 ## Taille de l'image recommandée.
 - 600x240
