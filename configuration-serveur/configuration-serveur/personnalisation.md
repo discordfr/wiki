@@ -21,5 +21,13 @@ La gestion du nom du serveur se fait dans la catégorie `Vue d'ensemble` des par
 
 ## Gestion de l'icône du serveur
 
-### Ajouter une icône!
+### Ajouter une icône
+
+![Ajout icône](https://user-images.githubusercontent.com/70655051/128039321-afea64cc-71bd-46ab-ad96-714de2d19652.png)
+
+### Modifier l'icône
+![Modification icône](https://user-images.githubusercontent.com/70655051/128039690-6a67a6c8-59b8-4255-8b5b-cde0f2042118.png)
+
+### Supprimer l'icône
+![image](https://user-images.githubusercontent.com/70655051/128040006-b88d0f3a-bcab-459e-9303-3c4d7bb1fb33.png)
 
