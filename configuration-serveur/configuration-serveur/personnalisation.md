@@ -9,4 +9,16 @@ keywords:
   - personnaliser
 description: Personnaliser son serveur discord
 ---
-Vous voulez contribuer à cette page ? Faites une pull request sur [notre repository GitHub](https://github.com/discordfr/wiki). Suivez les instructions sur [notre page dédiée](https://discord.fr/wiki/contribuer).
+Chaque serveur Discord a la possibilité d'être personnalisé, pour le rendre unique et facilement reconnaissable par ses membres. La gestion du nom du serveur, de son icône, du salon où envoyer un message aléatoire lors de l'arrivée d'un nouveau membre ou d'un boost ainsi que la gestion du salon vocal AFK et des paramètres de notifications par défaut requièrent la permission `Gérer le serveur` ou `Administrateur`.
+
+## Gestion du nom du serveur
+
+### Changer le nom du serveur
+
+La gestion du nom du serveur se fait dans la catégorie `Vue d'ensemble` des paramètres du serveur. Il est alors possible de changer le nom du serveur (dont la longueur est supérieure à 1 caractère et inférieure à 100 caractères). Lors de la création d'un serveur, le nom par défaut est `Serveur de (nom du propriétaire)`
+
+## Gestion de l'icône du serveur
+
+### Ajouter une icône
+
+![Ajout icône](https://user-images.githubusercontent.com/70655051/128032325-9d18604f-3def-4a9e-bd8f-130041a63fb8.gif)
