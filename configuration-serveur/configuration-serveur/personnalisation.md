@@ -29,9 +29,10 @@ La gestion de l'icône d'un serveur se fait dans la catégorie `Vue d'ensemble` 
 
 ### Modifier l'icône
 
-Comme dit précédemment, il est possible de changer l'icône du serveur.
+Comme dit précédemment, il est possible de changer l'icône du serveur. Il faut pour cela cliquer sur l'icône actuelle du serveur, dans la rubrique `Vue d'ensemble` des paramètres du serveur.
 
-![Modification icône](https://user-images.githubusercontent.com/70655051/128039690-6a67a6c8-59b8-4255-8b5b-cde0f2042118.png)
+![Modification icône](https://user-images.githubusercontent.com/70655051/128042827-0ec5fb0c-07e5-4a15-bb25-1acdfb64da29.png)
+
 
 ### Supprimer l'icône
 
