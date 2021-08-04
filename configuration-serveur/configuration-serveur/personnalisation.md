@@ -17,7 +17,8 @@ Chaque serveur Discord a la possibilité d'être personnalisé, pour le rendre u
 
 La gestion du nom d'un serveur se fait dans la catégorie `Vue d'ensemble` des paramètres de celui-ci. Il est alors possible de changer le nom du serveur (dont la longueur est supérieure à 1 caractère et inférieure à 100 caractères). Lors de la création d'un serveur, le nom par défaut est `Serveur de (nom du propriétaire)`
 
-![Changement nom](https://user-images.githubusercontent.com/70655051/128035587-b0f2f2f3-deb6-4a1d-b55a-8e750da087a5.gif)
+![Changement nom](https://user-images.githubusercontent.com/70655051/128152814-adf6875b-6462-474b-b552-8b57e37628dd.png)
+
 
 ## Gestion de l'icône d'un serveur
 
