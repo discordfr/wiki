@@ -62,6 +62,18 @@ Une fois le salon inactif choisi, il est possible de modifier la durée d'inacti
 
 ![Choisir la durée d'inactivité](https://user-images.githubusercontent.com/70655051/128148578-38ac75ff-1339-4cd6-9317-c3e9a0e6adf4.png)
 
+## Gestion du salon de messages système
 
+Dans un serveur, le salon de messages système est un salon dans lequel, si on le paramètre dans ce sens, Discord envoie des messages aléatoires pour souhaiter la bienvenue aux membres. On peut aussi choisir d'envoyer un message lorsque quelqu'un booste le serveur ainsi que d'envoyer des messages pour aider à paramétrer le serveur. Il est possible de modifier ce salon, et de n'activer / désactiver que les messages voulus.
+
+### Changement du salon
+
+Pour changer le salon de messages système, il faut se rendre dans la partie `SALON DE MESSAGES SYSTÈME` de la rubrique `Vue d'ensemble` des paramètres du serveur et de choisir le menu déroulant au dessus du texte `Ce salon est dédié à l'envoi de messages d'événement du système. Tu peux les désactiver à n'importe quel moment.`.
+
+### (Dés)activation des messages système
+
+Pour désactiver tous les messages système, il faut choisir l'option `Pas de messages système` dans le menu déroulant pour choisir le salon de notifications système. Pour ne désactiver  ou n'activer que certains messages systèmes, il faut appuyer sur le bouton ovale à fond vert ou gris, avec une coche ou une croix sur le fond. Lors d'un clic sur l'un de ces boutons, si le fond devient gris avec une croix blanche à gauche du bouton, alors l'option est désactivée. Au contraire, si le bouton change pour un fond vert ainsi qu'une coche à droite de celui-ci, l'option est activée.
+
+![Activation ou désactivation des messages système](https://user-images.githubusercontent.com/70655051/128152445-05b22076-ec43-405d-a3eb-0f125a7ca372.png)
 
 
