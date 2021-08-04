@@ -78,3 +78,8 @@ Pour désactiver tous les messages système, il faut choisir l'option `Pas de me
 ![Activation ou désactivation des messages système](https://user-images.githubusercontent.com/70655051/128152445-05b22076-ec43-405d-a3eb-0f125a7ca372.png)
 
 
+## Gestion des paramètres de notification
+
+Les paramètres de notification par défaut sont la manière dont les utilisateurs vont recevoir une notification. Lors de la création d'un serveur, les notifications sont réglées sur `Tous les messages`. Cela veut dire que les utilisateurs qui n'ont pas réglé leurs paramètres de notifications en recevront une ou non à chaque message envoyé dans un salon auquel ils ont accès. Pour un serveur Discord public, il est recommandé choisir l'option `@mentions seulement` pour éviter [ce bazar](https://www.youtube.com/watch?v=zGl796352RI)
+
+![Réglage des apramètres de notification par défaut](https://user-images.githubusercontent.com/70655051/128153811-ddd18695-2f6d-4583-9a5f-2811f170e1b8.png)
