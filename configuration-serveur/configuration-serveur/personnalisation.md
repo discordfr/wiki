@@ -41,6 +41,27 @@ Il est également possible de supprimer l'icône d'un serveur pour retrouver cel
 ![Suppression icône](https://user-images.githubusercontent.com/70655051/128040006-b88d0f3a-bcab-459e-9303-3c4d7bb1fb33.png)
 
 ### Dimension idéales pour une icône
+
 | Dimensions minimales | Dimensions conseillée |
 | ----------- | ----------- |
 | Carré de 128 par 128 pixels  | Carré de 512 par 512 pixels |
+
+## Gestion du salon AFK d'un serveur
+
+Un salon AFK est un salon vocal ou sont redirigés les utilisateurs inactifs dans un salon vocal au bout d'un temps donné. Discord permet de choisir le salon AFK ainsi que de paramétrer le temps d'inactivité avant de déplacer un utilisateur inactif dans ce salon.
+
+### Choisir le salon AFK
+
+Comme indiqué précédemment, il est possible de choisir le salon AFK d'un serveur. Pour cela, il faut se rendre dans dans le menu déroulant `SALON INACTIF` de la catégorie `Vue d'ensemble` des paramètres de ce serveur.
+
+![Choisir le salon AFK](https://user-images.githubusercontent.com/70655051/128147994-3a3f4ab8-38cd-4d59-abf5-809d4b19db7f.png)
+
+### Choisir la durée d'inactivité
+
+Une fois le salon inactif choisi, il est possible de modifier la durée d'inactivité au bout de laquelle on est déplacé dans ce salon. Il faut cliquer sur le menu déroulant `DURÉE MAX D'INACTIVITÉ` et choisir le laps de temps voulu. Ici, l'example choisit une durée de 15 minutes.
+
+![Choisir la durée d'inactivité](https://user-images.githubusercontent.com/70655051/128148578-38ac75ff-1339-4cd6-9317-c3e9a0e6adf4.png)
+
+
+
+
