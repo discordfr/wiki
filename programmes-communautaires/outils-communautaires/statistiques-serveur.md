@@ -10,23 +10,25 @@ keywords:
 description: Les statistiques de serveurs discord
 ---
 
-Les **Analyses de Serveur** fournissent des informations relatives à l'activité du serveur et de ses membres, des informations sur l'origine des nouveaux arrivants. L'accès à toutes les statistiques de serveur n'est toutefois possible qu'à partir de la présence de 500 membres qui n'ont pas désactivé l'option de suivi analytique dans leurs paramètres (ou davantage) sur le serveur.
+Afin de permettre à ses utilisateurs d'accéder à de plus amples informations concernant l'actibité des serveurs aux gérants de ces derniers, Discord propose un service d'analyse et de statistiques détaillé. Il s'agit des **Analyses de Serveur**. La permission `Voir les Analyses du serveur` est requise pour y accéder.
+
+Ces dernières, particulièrement précises -notamment pour les serveurs de plus de 500 membres-, présente à travers plusieurs onglets, graphiques et chiffres l'activité du serveur et de ses membres, aindi que sur l'origine des nouveaux arrivants. L'accès à toutes les statistiques de serveur n'est toutefois possible qu'à partir de la présence de 500 membres qui n'ont pas désactivé l'option de suivi analytique dans leurs paramètres (ou davantage) sur le serveur. 
 
 ## Accéder aux Analyses de Serveur
 
 Pour accéder aux **Analyses de Serveur**, le serveur doit soit être vérifié, soit [partenaire](https://discord.fr/wiki/programmes-communautaires/partenariat/serveur/), ou soit avoir activé la [Communauté de serveur](https://discord.fr/wiki/programmes-communautaires/outils-communautaires/serveur-communautaire/).
 
-Il est possible de s'y rendre depuis les **Paramètres de serveur**, dans l'onglet **Analyses de serveur** de la partie **Communauté**.
+Cette option se trouve dans les **Paramètres de serveur**, dans l'onglet **Analyses de serveur** de la partie **Communauté**.
 
-![Onglet - Menu - Analyses de Serveur](https://i.discord.fr/gmI.png)
+![Onglet - Menu - Analyses de Serveur](https://i.discord.fr/v3G.png)
 
-Discord affichera un lien sur lequel il faut cliquer pour accéder à la page des statistiques. Ce lien a la forme `https://discord.com/developers/servers/idDuServeur/analytics/`.
+Discord affichera un lien sur lequel il faut cliquer pour accéder à la page des statistiques. Ce lien a la forme `https://discord.com/developers/servers/identifiant-du-serveur/analytics/`.
 
 ![Onglet - Page - Analyses de Serveur](https://i.discord.fr/xMy.png)
 
 ## Les Analyses de serveur
 
-Les **Analyses de Serveur** permettent d'accéder à de nombreuses statistiques afin d'améliorer l'activité du serveur. On accède notamment à la croissance du serveur, l'engagement (textuel et vocal) des membres, des informations sur les membres, les salons d'annonces, l'écran d'accueil ainsi que son statut par rapport au programme partenaire.
+Les **Analyses de Serveur** permettent d'accéder à de nombreuses statistiques afin d'améliorer l'activité du serveur. On accède notamment à la croissance du serveur, l'engagement (textuel et vocal) des membres, des informations sur les membres, les salons d'annonces, l'écran d'accueil ainsi que le statut du serveur par rapport au programme partenaire.
 
 #### Glossaire
 
@@ -45,7 +47,7 @@ Littéralement "Croissance et Activation", cet onglet permet de comparer l'évol
 
 On y retrouve notamment l'évolution :
  - Du nombre de membres.
- - Du nombre de nouveaux utilisateurs discutant et d'utilisateurs discutant.
+ - Du nombre d'utilisateurs discutant sur le serveur.
  - De la rétention des membres.
  - Du nombre de nouveaux membres rejoignant le serveur ainsi que le moyen utilisé pour le rejoindre.
  - Des départs de personnes sur le serveur depuis moins d'un mois.
@@ -106,7 +108,7 @@ Désignant l'écran d'accueil, cet onglet affiche des informations sur les membr
 
 On y retrouve :
  - Les personnes ayant vues l'écran d'accueil.
- - La proportion de personnes ayant cliqué sur tel ou tel item ainsi que la proportion de mebres ayant par la suite envoyé un message.
+ - La proportion de personnes ayant cliqué sur tel ou tel optionainsi que celle ayant par la suite envoyé un message.
 
 :::note
 Cet onglet est accessible à tous les serveurs communautaires, peu importe leur taille.
@@ -114,7 +116,7 @@ Cet onglet est accessible à tous les serveurs communautaires, peu importe leur 
 
 ### Partner program
 
-Désignant le [programme partenaire de Discord](https://discord.fr/wiki/programmes-communautaires/partenariat/serveur/), cet onglet permet d'accéder soit à l'activité du serveur requise par rapport aux exigences du programme partenaire, soit à l'activité du serveur par rapport à celle requise pour maintenir le partenariat pour les serveurs déjà partenaires.  
+Désignant le [programme partenaire de Discord](https://discord.fr/wiki/programmes-communautaires/partenariat/serveur/), cet onglet permet d'accéder soit à l'activité du serveur requise par rapport aux exigences de ce programme communautaire, soit de comparer les statistiques actuelles d'un serveur partenaire par rapport aux demandes de Discord. 
 
 :::caution
 Cet onglet est uniquement accessible aux serveurs de plus de 500 membres n'ayant pas désactivé le suivi analytique dans leurs paramètres.
