@@ -18,7 +18,7 @@ Ces dernières, particulièrement précises -notamment pour les serveurs de plus
 
 Pour accéder aux **Analyses de Serveur**, le serveur doit soit être vérifié, soit [partenaire](https://discord.fr/wiki/programmes-communautaires/partenariat/serveur/), ou soit avoir activé la [Communauté de serveur](https://discord.fr/wiki/programmes-communautaires/outils-communautaires/serveur-communautaire/).
 
-Cette option se trouve dans les **Paramètres de serveur**, dans l'onglet **Analyses de serveur** de la partie **Communauté**.
+Cette option se situe dans les **Paramètres de serveur**, dans l'onglet **Analyses de serveur** de la partie **Communauté**.
 
 ![Onglet - Menu - Analyses de Serveur](https://i.discord.fr/v3G.png)
 
@@ -28,7 +28,7 @@ Discord affichera un lien sur lequel il faut cliquer pour accéder à la page de
 
 ## Les Analyses de serveur
 
-Les **Analyses de Serveur** permettent d'accéder à de nombreuses statistiques afin d'améliorer l'activité du serveur. On accède notamment à la croissance du serveur, l'engagement (textuel et vocal) des membres, des informations sur les membres, les salons d'annonces, l'écran d'accueil ainsi que le statut du serveur par rapport au programme partenaire.
+Les **Analyses de Serveur** permettent d'accéder à de nombreuses statistiques afin que les gérants de serveurs puissent améliorer l'activité de ces derniers. Il est ainsi possible de prendre connaissance et d'analyser non seulement la croissance du serveur, l'engagement (textuel et vocal) des membres, des informations sur les membres, les salons d'annonces, l'écran d'accueil mais aussi le statut du serveur par rapport aux exigences du programme partenaire.
 
 #### Glossaire
 
@@ -43,7 +43,7 @@ Les **Analyses de Serveur** permettent d'accéder à de nombreuses statistiques 
 
 ### Growth & Activation
 
-Littéralement "Croissance et Activation", cet onglet permet de comparer l'évolution de l'activité du serveur en fonction du temps. 
+Littéralement "Croissance et Activation", cet onglet permet de comparer l'évolution de l'activité du serveur en fonction d'une période sélectionnée par l'utilisateur.  
 
 On y retrouve notamment l'évolution :
  - Du nombre de membres.
@@ -62,7 +62,7 @@ Cet onglet est uniquement accessible aux serveurs de plus de 500 membres n'ayant
 
 Cet onglet permet d'accéder à l'évolution de l'engagement des membres sur le serveur et leurs interactions.
 
-On y retrouve par les critères suivants :
+Les critères suivants peuvent y être retrouvés :
  - Le nombre de visiteurs.
  - Le nombre de personnes discutant.
  - Le nombre de messages envoyés.
@@ -77,7 +77,7 @@ Cet onglet est uniquement accessible aux serveurs de plus de 500 membres n'ayant
 
 ### Audience
 
-Cet onglet permet d'afficher des informations sur les membres. Afin de protéger la confidentialité des utilisateurs, si des membres d'un groupe donné (dans les statistiques) sont inférieurs à 50, ils seront regroupés dans le groupe "Autres".
+Cet onglet permet d'afficher des informations sur les membres. Afin de protéger la confidentialité des utilisateurs, si des membres d'un groupe donné (dans les statistiques) sont d'un nombre inférieurs à 50, Discord les affiche dans le groupe "Autre".
 
 On y retrouve la proportion :
  - Des régions du monde/pays dont sont membres les utilisateurs du serveur.
@@ -104,14 +104,14 @@ Cet onglet est accessible à tous les serveurs communautaires, peu importe leur 
 
 ### Welcome screen
 
-Désignant l'écran d'accueil, cet onglet affiche des informations sur les membres qui ont visité le serveur durant les 28 derniers jours.
+Signifiant "Ecran d'accueil", cet onglet affiche des informations sur les membres qui ont visité le serveur durant les 28 derniers jours.
 
 On y retrouve :
  - Les personnes ayant vues l'écran d'accueil.
  - La proportion de personnes ayant cliqué sur tel ou tel optionainsi que celle ayant par la suite envoyé un message.
 
 :::note
-Cet onglet est accessible à tous les serveurs communautaires, peu importe leur taille.
+Cet onglet est accessible à tous les serveurs communautaires, peu importe leur taille. 
 :::
 
 ### Partner program
