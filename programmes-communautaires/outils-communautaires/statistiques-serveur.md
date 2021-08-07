@@ -12,7 +12,7 @@ description: Les statistiques de serveurs discord
 
 Afin de permettre à ses utilisateurs d'accéder à de plus amples informations concernant l'actibité des serveurs aux gérants de ces derniers, Discord propose un service d'analyse et de statistiques détaillé. Il s'agit des **Analyses de Serveur**. La permission `Voir les Analyses du serveur` est requise pour y accéder.
 
-Ces dernières, particulièrement précises -notamment pour les serveurs de plus de 500 membres-, présente à travers plusieurs onglets, graphiques et chiffres l'activité du serveur et de ses membres, aindi que sur l'origine des nouveaux arrivants. L'accès à toutes les statistiques de serveur n'est toutefois possible qu'à partir de la présence de 500 membres qui n'ont pas désactivé l'option de suivi analytique dans leurs paramètres (ou davantage) sur le serveur. 
+Ces dernières, particulièrement précises -notamment pour les serveurs de plus de 500 membres-, présente à travers plusieurs onglets, graphiques et chiffres l'activité du serveur et de ses membres, l'origine des nouveaux arrivants, ainsi qu'un certain nombre d'autres informations utiles pour rendre compte du dynamisme de son serveur. L'accès à toutes les statistiques de serveur n'est toutefois possible qu'à partir de la présence de 500 membres qui n'ont pas désactivé l'option de suivi analytique dans leurs paramètres (ou davantage) sur le serveur. 
 
 ## Accéder aux Analyses de Serveur
 
