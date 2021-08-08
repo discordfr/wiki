@@ -22,7 +22,7 @@ Cette option se situe dans les **Paramètres de serveur**, dans l'onglet **Analy
 
 ![Onglet - Menu - Analyses de Serveur](https://i.discord.fr/v3G.png)
 
-Discord affichera un lien sur lequel il faut cliquer pour accéder à la page des statistiques. Ce lien a la forme https://discord.com/developers/servers/%7BID-du-serveur%7D/analytics/.
+Discord affichera un lien sur lequel il faut cliquer pour accéder à la page des statistiques. Ce lien a la forme https://discord.com/developers/servers/{ID-du-serveur}/analytics/.
 
 ![Onglet - Page - Analyses de Serveur](https://i.discord.fr/xMy.png)
 
