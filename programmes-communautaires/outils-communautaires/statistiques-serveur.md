@@ -10,7 +10,7 @@ keywords:
 description: Les statistiques de serveurs discord
 ---
 
-Afin de permettre à ses utilisateurs d'accéder à de plus amples informations concernant l'actibité des serveurs aux gérants de ces derniers, Discord propose un service d'analyse et de statistiques détaillé. Il s'agit des **Analyses de Serveur**. La permission `Voir les Analyses du serveur` est requise pour y accéder.
+Afin de permettre à ses utilisateurs d'accéder à de plus amples informations concernant l'activité des serveurs aux gérants de ces derniers, Discord propose un service d'analyse et de statistiques détaillé. Il s'agit des **Analyses de Serveur**. La permission `Voir les Analyses du serveur` est requise pour y accéder.
 
 Ces dernières, particulièrement précises -notamment pour les serveurs de plus de 500 membres-, présente à travers plusieurs onglets, graphiques et chiffres l'activité du serveur et de ses membres, l'origine des nouveaux arrivants, ainsi qu'un certain nombre d'autres informations utiles pour rendre compte du dynamisme de son serveur. L'accès à toutes les statistiques de serveur n'est toutefois possible qu'à partir de la présence de 500 membres qui n'ont pas désactivé l'option de suivi analytique dans leurs paramètres (ou davantage) sur le serveur. 
 
@@ -22,7 +22,7 @@ Cette option se situe dans les **Paramètres de serveur**, dans l'onglet **Analy
 
 ![Onglet - Menu - Analyses de Serveur](https://i.discord.fr/v3G.png)
 
-Discord affichera un lien sur lequel il faut cliquer pour accéder à la page des statistiques. Ce lien a la forme `https://discord.com/developers/servers/identifiant-du-serveur/analytics/`.
+Discord affichera un lien sur lequel il faut cliquer pour accéder à la page des statistiques. Ce lien a la forme _https://discord.com/developers/servers/identifiant-du-serveur/analytics/_.
 
 ![Onglet - Page - Analyses de Serveur](https://i.discord.fr/xMy.png)
 
@@ -108,7 +108,7 @@ Signifiant "Ecran d'accueil", cet onglet affiche des informations sur les membre
 
 On y retrouve :
  - Les personnes ayant vues l'écran d'accueil.
- - La proportion de personnes ayant cliqué sur tel ou tel optionainsi que celle ayant par la suite envoyé un message.
+ - La proportion de personnes ayant cliqué sur une option du menu ainsi que celle ayant par la suite envoyé un message.
 
 :::note
 Cet onglet est accessible à tous les serveurs communautaires, peu importe leur taille. 
