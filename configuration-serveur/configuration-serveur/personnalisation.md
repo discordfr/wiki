@@ -24,7 +24,7 @@ La gestion du nom d'un serveur se fait dans la catégorie `Vue d'ensemble` des p
 
 ### Ajouter une icône
 
-La gestion de l'icône d'un serveur se fait dans la catégorie `Vue d'ensemble` des paramètres de celui-ci. Il est alors possible d'ajouter une icône (de taille minimale 128 par 128 pixels). Lors de la création d'un serveur, l'icône par défaut est créée à partir deu premier caractère de chaque mot du nom du serveur.
+La gestion de l'icône d'un serveur se fait dans la catégorie `Vue d'ensemble` des paramètres du serveur. Il est alors possible d'ajouter une icône (de taille minimale 128 par 128 pixels). Lors de la création d'un serveur, l'icône par défaut est créée à partir du premier caractère de chaque mot du nom du serveur.
 
 ![Ajout icône](https://user-images.githubusercontent.com/70655051/128039321-afea64cc-71bd-46ab-ad96-714de2d19652.png)
 
@@ -53,13 +53,13 @@ Un salon AFK est un salon vocal ou sont redirigés les utilisateurs inactifs dan
 
 ### Choisir le salon AFK
 
-Comme indiqué précédemment, il est possible de choisir le salon AFK d'un serveur. Pour cela, il faut se rendre dans dans le menu déroulant `SALON INACTIF` de la catégorie `Vue d'ensemble` des paramètres de ce serveur.
+Comme indiqué précédemment, il est possible de choisir le salon AFK d'un serveur. Pour cela, il faut se rendre dans le menu déroulant `SALON INACTIF` de la catégorie `Vue d'ensemble` des paramètres de ce serveur.
 
 ![Choisir le salon AFK](https://user-images.githubusercontent.com/70655051/128147994-3a3f4ab8-38cd-4d59-abf5-809d4b19db7f.png)
 
 ### Choisir la durée d'inactivité
 
-Une fois le salon inactif choisi, il est possible de modifier la durée d'inactivité au bout de laquelle on est déplacé dans ce salon. Il faut cliquer sur le menu déroulant `DURÉE MAX D'INACTIVITÉ` et choisir le laps de temps voulu. Ici, l'example choisit une durée de 15 minutes.
+Une fois le salon inactif choisi, il est possible de modifier la durée d'inactivité au bout de laquelle on est déplacé dans ce salon. Il faut cliquer sur le menu déroulant `DURÉE MAX D'INACTIVITÉ` et choisir le laps de temps voulu. Ici, l'exemple choisit une durée de 15 minutes.
 
 ![Choisir la durée d'inactivité](https://user-images.githubusercontent.com/70655051/128148578-38ac75ff-1339-4cd6-9317-c3e9a0e6adf4.png)
 
@@ -69,11 +69,11 @@ Dans un serveur, le salon de messages système est un salon dans lequel, si on l
 
 ### Changement du salon
 
-Pour changer le salon de messages système, il faut se rendre dans la partie `SALON DE MESSAGES SYSTÈME` de la rubrique `Vue d'ensemble` des paramètres du serveur et de choisir le menu déroulant au dessus du texte `Ce salon est dédié à l'envoi de messages d'événement du système. Tu peux les désactiver à n'importe quel moment.`.
+Pour changer le salon de messages système, il faut se rendre dans la partie `SALON DE MESSAGES SYSTÈME` de la rubrique `Vue d'ensemble` des paramètres du serveur et de choisir le menu déroulant au-dessus du texte `Ce salon est dédié à l'envoi de messages d'événement du système. Tu peux les désactiver à n'importe quel moment.`.
 
 ### (Dés)activation des messages système
 
-Pour désactiver tous les messages système, il faut choisir l'option `Pas de messages système` dans le menu déroulant pour choisir le salon de notifications système. Pour ne désactiver  ou n'activer que certains messages systèmes, il faut appuyer sur le bouton ovale à fond vert ou gris, avec une coche ou une croix sur le fond. Lors d'un clic sur l'un de ces boutons, si le fond devient gris avec une croix blanche à gauche du bouton, alors l'option est désactivée. Au contraire, si le bouton change pour un fond vert ainsi qu'une coche à droite de celui-ci, l'option est activée.
+Pour désactiver tous les messages système, il faut choisir l'option `Pas de messages système` dans le menu déroulant pour choisir le salon de notifications système. Pour ne désactiver ou n'activer que certains messages système, il faut appuyer sur le bouton ovale à fond vert ou gris, avec une coche ou une croix sur le fond. Lors d'un clic sur l'un de ces boutons, si le fond devient gris avec une croix blanche à gauche du bouton, alors l'option est désactivée. Au contraire, si le bouton change pour un fond vert ainsi qu'une coche à droite de celui-ci, l'option est activée.
 
 ![Activation ou désactivation des messages système](https://user-images.githubusercontent.com/70655051/128152445-05b22076-ec43-405d-a3eb-0f125a7ca372.png)
 
