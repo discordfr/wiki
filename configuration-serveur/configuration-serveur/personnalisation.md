@@ -65,11 +65,11 @@ Une fois le salon inactif choisi, il est possible de modifier la durée d'inacti
 
 ## Gestion du salon de messages système
 
-Dans un serveur, le salon de messages système est un salon dans lequel, si on le paramètre dans ce sens, Discord envoie des messages aléatoires pour souhaiter la bienvenue aux membres. On peut aussi choisir d'envoyer un message lorsque quelqu'un booste le serveur ainsi que d'envoyer des messages pour aider à paramétrer le serveur. Il est possible de modifier ce salon, et de n'activer ou désactiver que les messages voulus.
+Dans un serveur, le salon de messages système est un salon dans lequel, si on le paramètre dans ce sens, Discord envoie des messages aléatoires pour souhaiter la bienvenue aux membres. On peut aussi choisir d'envoyer un message lorsque quelqu'un [booste le serveur](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/) ainsi que d'envoyer des messages pour aider à paramétrer le serveur. Il est possible de modifier ce salon, et de n'activer ou désactiver que les messages voulus.
 
 ### Changement du salon
 
-Pour changer le salon de messages système, il faut se rendre dans la partie `SALON DE MESSAGES SYSTÈME` de la rubrique `Vue d'ensemble` des paramètres du serveur et de choisir le menu déroulant au-dessus du texte `Ce salon est dédié à l'envoi de messages d'événement du système. Tu peux les désactiver à n'importe quel moment.`.
+Pour changer le salon de messages système, il faut se rendre dans la partie `SALON DE MESSAGES SYSTÈME` de la rubrique `Vue d'ensemble` des paramètres du serveur et choisir le menu déroulant au-dessus du texte `Ce salon est dédié à l'envoi de messages d'événement du système. Tu peux les désactiver à n'importe quel moment.`.
 
 ### (Dés)activation des messages système
 
