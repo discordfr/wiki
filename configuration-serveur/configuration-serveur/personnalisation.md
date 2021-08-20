@@ -49,7 +49,7 @@ Il est également possible de supprimer l'icône d'un serveur pour retrouver cel
 
 ## Gestion du salon AFK d'un serveur
 
-Un salon AFK est un salon vocal ou sont redirigés les utilisateurs inactifs dans un salon vocal au bout d'un temps donné. Discord permet de choisir le salon AFK ainsi que de paramétrer le temps d'inactivité avant de déplacer un utilisateur inactif dans ce salon.
+Un salon AFK est un salon vocal où sont déplacés les utilisateurs inactifs (n'ayant pas parlé ou fait de bruit pendant un certain temps) dans un salon vocal au bout d'un temps donné. Discord permet de choisir le salon AFK ainsi que de paramétrer le temps d'inactivité avant de déplacer un utilisateur inactif dans ce salon.
 
 ### Choisir le salon AFK
 
@@ -59,13 +59,13 @@ Comme indiqué précédemment, il est possible de choisir le salon AFK d'un serv
 
 ### Choisir la durée d'inactivité
 
-Une fois le salon inactif choisi, il est possible de modifier la durée d'inactivité au bout de laquelle on est déplacé dans ce salon. Il faut cliquer sur le menu déroulant `DURÉE MAX D'INACTIVITÉ` et choisir le laps de temps voulu. Ici, l'exemple choisit une durée de 15 minutes.
+Une fois le salon inactif choisi, il est possible de modifier la durée d'inactivité au bout de laquelle on est déplacé dans ce salon. Il faut cliquer sur le menu déroulant `DURÉE MAX D'INACTIVITÉ` et choisir le laps de temps voulu. Ici, l'exemple changera les membres inactifs de salon au bout de 15 minutes.
 
 ![Choisir la durée d'inactivité](https://user-images.githubusercontent.com/70655051/128148578-38ac75ff-1339-4cd6-9317-c3e9a0e6adf4.png)
 
 ## Gestion du salon de messages système
 
-Dans un serveur, le salon de messages système est un salon dans lequel, si on le paramètre dans ce sens, Discord envoie des messages aléatoires pour souhaiter la bienvenue aux membres. On peut aussi choisir d'envoyer un message lorsque quelqu'un booste le serveur ainsi que d'envoyer des messages pour aider à paramétrer le serveur. Il est possible de modifier ce salon, et de n'activer / désactiver que les messages voulus.
+Dans un serveur, le salon de messages système est un salon dans lequel, si on le paramètre dans ce sens, Discord envoie des messages aléatoires pour souhaiter la bienvenue aux membres. On peut aussi choisir d'envoyer un message lorsque quelqu'un booste le serveur ainsi que d'envoyer des messages pour aider à paramétrer le serveur. Il est possible de modifier ce salon, et de n'activer ou désactiver que les messages voulus.
 
 ### Changement du salon
 
@@ -73,13 +73,13 @@ Pour changer le salon de messages système, il faut se rendre dans la partie `SA
 
 ### (Dés)activation des messages système
 
-Pour désactiver tous les messages système, il faut choisir l'option `Pas de messages système` dans le menu déroulant pour choisir le salon de notifications système. Pour ne désactiver ou n'activer que certains messages système, il faut appuyer sur le bouton ovale à fond vert ou gris, avec une coche ou une croix sur le fond. Lors d'un clic sur l'un de ces boutons, si le fond devient gris avec une croix blanche à gauche du bouton, alors l'option est désactivée. Au contraire, si le bouton change pour un fond vert ainsi qu'une coche à droite de celui-ci, l'option est activée.
+Pour désactiver tous les messages système, il faut choisir l'option `Pas de messages système` dans le menu déroulant pour choisir le salon de notifications système. Pour ne désactiver ou n'activer que certains messages système, il faut appuyer sur le bouton à forme arrondie et allongée, à fond vert ou gris, avec une coche ou une croix à l'intérieur. Lors d'un clic sur l'un de ces boutons, si le fond devient gris avec une croix blanche à gauche du bouton, alors l'option est désactivée. Au contraire, si le bouton change pour un fond vert ainsi qu'une coche à droite de celui-ci, l'option est activée.
 
 ![Activation ou désactivation des messages système](https://user-images.githubusercontent.com/70655051/128152445-05b22076-ec43-405d-a3eb-0f125a7ca372.png)
 
 
 ## Gestion des paramètres de notification
 
-Les paramètres de notification par défaut sont la manière dont les utilisateurs vont recevoir une notification. Lors de la création d'un serveur, les notifications sont réglées sur `Tous les messages`. Cela veut dire que les utilisateurs qui n'ont pas réglé leurs paramètres de notifications en recevront une ou non à chaque message envoyé dans un salon auquel ils ont accès. Pour un serveur Discord public, il est recommandé choisir l'option `@mentions seulement` pour éviter [ce bazar](https://www.youtube.com/watch?v=zGl796352RI)
+Les paramètres de notification par défaut sont la manière dont les utilisateurs vont recevoir une notification. Lors de la création d'un serveur, les notifications sont réglées sur `Tous les messages`. Cela veut dire que les utilisateurs qui n'ont pas réglé leurs paramètres de notification en recevront une ou non à chaque message envoyé dans un salon auquel ils ont accès. Pour un serveur Discord public, il est recommandé choisir l'option `@mentions seulement` pour éviter [ce bazar](https://www.youtube.com/watch?v=zGl796352RI)
 
-![Réglage des apramètres de notification par défaut](https://user-images.githubusercontent.com/70655051/128153811-ddd18695-2f6d-4583-9a5f-2811f170e1b8.png)
+![Réglage des paramètres de notification par défaut](https://user-images.githubusercontent.com/70655051/128153811-ddd18695-2f6d-4583-9a5f-2811f170e1b8.png)
