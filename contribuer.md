@@ -70,7 +70,7 @@ Rendez-vous sur la page [GitHub du Wiki](https://github.com/discordfr/wiki), ens
 #### Ajouter le contenu de base
 Comme pour la modification, entrez le contenu initial de la page. Veillez à la mettre en page grâce au Markdown ; vous trouverez une boîte d'aide plus bas dans cet article. (Numéro 1)
 
-Une fois le contenu rempli, indiquez ce que cette page initial contient, et si possible, ajoutez des sources. (Numéro 2)
+Une fois le contenu rempli, indiquez ce que cette page initiale contient, et si possible, ajoutez des sources. (Numéro 2)
 
 :::danger Attention !!!
 Pensez à nommer votre fichier en haut (wiki/nom). **Mettez impérativement `.md` à la fin du fichier ; sans cela, votre page ne fonctionnera pas et sera rejetée**.
