@@ -43,7 +43,7 @@ Il est également possible de supprimer l'icône d'un serveur pour retrouver cel
 
 ### Dimension idéales pour une icône
 
-| Dimensions minimales | Dimensions conseillée |
+| Dimensions minimales | Dimensions conseillées |
 | ----------- | ----------- |
 | Carré de 128 par 128 pixels  | Carré de 512 par 512 pixels |
 
