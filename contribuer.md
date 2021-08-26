@@ -55,7 +55,7 @@ Si vous tombez sur la page suivante, vous n'avez plus rien à faire, le staff de
 
 ![Finish](https://i.discord.fr/bib.png)
 :::info Information
-Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cependant, si vous constatez que cela prend plus de temps, vous pouvez directement nous contacter sur [Notre Discord](https://discord.gg/fr) en envoyant un Message Privé au bot `@Discord FR#9922`.
+Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cependant, si vous constatez que cela prend plus de temps, vous pouvez directement nous contacter sur [Notre Discord](https://discord.gg/fr) en envoyant un Message Privé au bot `@Slash FR#9922`.
 :::
 
 *********************
@@ -70,7 +70,7 @@ Rendez-vous sur la page [GitHub du Wiki](https://github.com/discordfr/wiki), ens
 #### Ajouter le contenu de base
 Comme pour la modification, entrez le contenu initial de la page. Veillez à la mettre en page grâce au Markdown ; vous trouverez une boîte d'aide plus bas dans cet article. (Numéro 1)
 
-Une fois le contenu rempli, indiquez ce que cette page initial contient, et si possible, ajoutez des sources. (Numéro 2)
+Une fois le contenu rempli, indiquez ce que cette page initiale contient, et si possible, ajoutez des sources. (Numéro 2)
 
 :::danger Attention !!!
 Pensez à nommer votre fichier en haut (wiki/nom). **Mettez impérativement `.md` à la fin du fichier ; sans cela, votre page ne fonctionnera pas et sera rejetée**.
@@ -107,7 +107,7 @@ Si vous tombez sur la page suivante, vous n'avez plus rien à faire, le staff de
 
 ![Finish addpage](https://i.discord.fr/bib.png)
 :::info Information
-Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cependant, si vous constatez que cela prend plus de temps, vous pouvez directement nous contacter sur [Notre Discord](https://discord.gg/fr) en envoyant un Message Privé au bot `@Discord.fr#9922`.
+Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cependant, si vous constatez que cela prend plus de temps, vous pouvez directement nous contacter sur [Notre Discord](https://discord.gg/fr) en envoyant un Message Privé au bot `@Slash FR#9922`.
 :::
 
 *********************
