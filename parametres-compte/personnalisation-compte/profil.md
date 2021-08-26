@@ -10,7 +10,7 @@ keywords:
 description: Le profil utilisateur sur discord
 ---
 ## Les profils d'utilisateur sur Discord
-![Profil](https://user-images.githubusercontent.com/87481394/128639599-42fc5786-b8d6-4c82-845a-b3f34f95066e.png)
+![Profil](https://i.discord.fr/xfc7.png)
 
 Le profil d'un utilisateur est unique et possède plusieurs éléments distinctifs:
 - **Vert:** La [bannière de profil](https://discord.fr/wiki/parametres-compte/personnalisation-compte/banniere-profil/) est une image personnalisée ou une couleur.
