@@ -13,13 +13,6 @@ description: Les threads sur Discord
 
 Les threads, sur Discord, permettent aux utilisateurs d'avoir des "sous-discusions" au sein d'un salon textuel.
 
-## Les permissions
-
-Voici la liste des permissions liées aux threads :
-- Utiliser des fils publics : permet de discuter dans les threads et d'en commencer de nouveaux dans les salons où la permission "Envoyer des messages" est activée.
-- Utiliser des fils privés : possibilité de créer des threads privés en plus des avantages de la permission au-dessus.
-- Gérer les fils : capacité d'activer le mode lent, de supprimer et d'archiver/désarchiver les threads.
-
 ## Création/Supression de threads
 ### La création de threads
 
@@ -66,6 +59,13 @@ Un thread est archivé automatiquement après le temps avant archivage défini o
 :::note
 Les threads archivés peuvent être consultés ou rouverts à tout moment.
 :::
+
+## Les permissions
+
+Voici la liste des permissions liées aux threads :
+- Utiliser des fils publics : permet de discuter dans les threads et d'en commencer de nouveaux dans les salons où la permission "Envoyer des messages" est activée.
+- Utiliser des fils privés : possibilité de créer des threads privés en plus des avantages de la permission au-dessus.
+- Gérer les fils : capacité d'activer le mode lent, de supprimer et d'archiver/désarchiver les threads.
 
 ### Autre option
 
