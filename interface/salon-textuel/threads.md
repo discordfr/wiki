@@ -54,7 +54,7 @@ Le mode lent permet de limiter le nombre de messages par utilisateur sur un inte
 
 ### Le temps avant archivage
 
-Ce paramètre permet de choisir le temps d'inactivité maximum avant l'archivage automatique du Thread.
+Ce paramètre permet de choisir le temps sans activité maximum avant l'archivage automatique du Thread.
 
 ![Archivage](https://i.discord.fr/QYD.png)
 
