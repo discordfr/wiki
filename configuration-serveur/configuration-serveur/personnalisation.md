@@ -56,7 +56,7 @@ Une fois le salon inactif choisi, il est possible de modifier la durée au bout 
 
 ## Gestion du salon de messages système
 
-Dans un serveur, le salon de messages système est un salon dans lequel, si on le paramètre dans ce sens, Discord envoie des messages aléatoires pour souhaiter la bienvenue aux membres. On peut aussi choisir d'envoyer un message lorsque quelqu'un [booste le serveur](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/) ainsi que d'envoyer des messages pour aider à paramétrer le serveur. Il est possible de modifier ce salon, et de n'activer ou désactiver que les messages voulus.
+Dans un serveur, le salon de messages système est un salon dans lequel, si on le paramètre dans ce sens, Discord envoie des messages aléatoires pour souhaiter la bienvenue aux membres. On peut aussi choisir d'envoyer un message lorsque quelqu'un [booste le serveur](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/) ainsi que d'envoyer des messages pour aider à paramétrer le serveur. Il est possible de modifier ce salon, et de n'activer que les messages voulus.
 
 ### Changement du salon
 
