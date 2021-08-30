@@ -40,7 +40,7 @@ Il est également possible de supprimer l'icône d'un serveur et retrouver celle
 
 ## Gestion du salon AFK d'un serveur
 
-Un salon AFK est un salon vocal où sont déplacés les utilisateurs inactifs (n'ayant pas parlé ou fait de bruit pendant un certain temps) d'un salon vocal. Discord permet de choisir le salon AFK ainsi que de paramétrer le temps d'inactivité avant de déplacer un utilisateur inactif dans ce salon.
+Un salon AFK est un salon vocal où sont déplacés les utilisateurs inactifs (n'ayant pas parlé ou fait de bruit pendant un certain temps) d'un salon vocal. Discord permet de choisir le salon AFK ainsi que de paramétrer le temps avant de déplacer un utilisateur inactif dans ce salon.
 
 ### Choisir le salon AFK
 
