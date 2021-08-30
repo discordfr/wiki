@@ -9,7 +9,7 @@ keywords:
   - personnaliser
 description: Personnaliser son serveur discord
 ---
-Chaque serveur Discord a la possibilité d'être personnalisé, pour le rendre unique et facilement reconnaissable par ses membres. La gestion du nom du serveur, de son icône, du salon où envoyer un message aléatoire lors de l'arrivée d'un nouveau membre ou d'un boost ainsi que la gestion du salon vocal AFK et des paramètres de notifications par défaut requièrent la permission `Gérer le serveur` ou `Administrateur`.
+Chaque serveur Discord peut être tre personnalisé, pour le rendre unique et facilement reconnaissable par ses membres. La gestion du nom du serveur, de son icône, du salon de messages systèmes ainsi que la gestion du salon vocal AFK et des paramètres de notifications par défaut requièrent la permission `Gérer le serveur` ou `Administrateur`.
 
 ## Gestion du nom d'un serveur
 
@@ -22,22 +22,13 @@ La gestion du nom d'un serveur se fait dans la catégorie `Vue d'ensemble` des p
 
 ## Gestion de l'icône d'un serveur
 
-### Ajouter une icône
-
 La gestion de l'icône d'un serveur se fait dans la catégorie `Vue d'ensemble` des paramètres du serveur. Il est alors possible d'ajouter une icône (de taille minimale 128 par 128 pixels). Lors de la création d'un serveur, l'icône par défaut est créée à partir du premier caractère de chaque mot du nom du serveur.
 
 ![Ajout icône](https://user-images.githubusercontent.com/70655051/128039321-afea64cc-71bd-46ab-ad96-714de2d19652.png)
 
-### Modifier l'icône
+Comme dit précédemment, il est possible de changer l'icône du serveur. Pour cela, il faut suivre la même procédure que l'ajout d'une icône.
 
-Comme dit précédemment, il est possible de changer l'icône du serveur. Il faut pour cela cliquer sur l'icône actuelle du serveur, dans la rubrique `Vue d'ensemble` des paramètres du serveur.
-
-![Modification icône](https://user-images.githubusercontent.com/70655051/128042827-0ec5fb0c-07e5-4a15-bb25-1acdfb64da29.png)
-
-
-### Supprimer l'icône
-
-Il est également possible de supprimer l'icône d'un serveur pour retrouver celle par défaut. Pour ce faire, il faut se rendre dans la partie `Vue d'ensemble` des paramètres du serveur, puis cliquer sur le lien hypertexte `Supprimer` situé sous l'icône du serveur, à gauche du nom du serveur.
+Il est également possible de supprimer l'icône d'un serveur et retrouver celle par défaut. Pour ce faire, il faut se rendre dans la partie `Vue d'ensemble` des paramètres du serveur, puis cliquer sur le lien hypertexte `Supprimer` situé sous l'icône du serveur, à gauche du nom du serveur.
 
 ![Suppression icône](https://user-images.githubusercontent.com/70655051/128040006-b88d0f3a-bcab-459e-9303-3c4d7bb1fb33.png)
 
@@ -49,7 +40,7 @@ Il est également possible de supprimer l'icône d'un serveur pour retrouver cel
 
 ## Gestion du salon AFK d'un serveur
 
-Un salon AFK est un salon vocal où sont déplacés les utilisateurs inactifs (n'ayant pas parlé ou fait de bruit pendant un certain temps) dans un salon vocal au bout d'un temps donné. Discord permet de choisir le salon AFK ainsi que de paramétrer le temps d'inactivité avant de déplacer un utilisateur inactif dans ce salon.
+Un salon AFK est un salon vocal où sont déplacés les utilisateurs inactifs (n'ayant pas parlé ou fait de bruit pendant un certain temps) d'un salon vocal. Discord permet de choisir le salon AFK ainsi que de paramétrer le temps d'inactivité avant de déplacer un utilisateur inactif dans ce salon.
 
 ### Choisir le salon AFK
 
