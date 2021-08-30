@@ -50,7 +50,7 @@ Comme indiqué précédemment, il est possible de choisir le salon AFK d'un serv
 
 ### Choisir la durée d'inactivité
 
-Une fois le salon inactif choisi, il est possible de modifier la durée d'inactivité au bout de laquelle on est déplacé dans ce salon. Il faut cliquer sur le menu déroulant `DURÉE MAX D'INACTIVITÉ` et choisir le laps de temps voulu. Ici, l'exemple changera les membres inactifs de salon au bout de 15 minutes.
+Une fois le salon inactif choisi, il est possible de modifier la durée au bout de laquelle un utilisateur est déplacé dans ce salon. Il faut cliquer sur le menu déroulant `DURÉE MAX D'INACTIVITÉ` et choisir le laps de temps voulu. Ici, l'exemple changera les membres inactifs de salon au bout de 15 minutes.
 
 ![Choisir la durée d'inactivité](https://user-images.githubusercontent.com/70655051/128148578-38ac75ff-1339-4cd6-9317-c3e9a0e6adf4.png)
 
