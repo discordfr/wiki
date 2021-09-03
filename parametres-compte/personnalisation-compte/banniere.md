@@ -8,28 +8,13 @@ keywords:
   - banniere
 description: Les bannières de profil sur Discord.
 ---
-## La bannière de profil est une image personnalisée qui se place au-dessus du profil en question.
-![Discord  Bannière](https://i.discord.fr/oZe.png)
+## La bannière de profil sur Discord
+La bannière sur Discord est une image qui peut être personnalisée et qui s'affiche au-dessus du profil d'un utilisateur. Cela peut être une image (statique ou animée) ou une couleur par défaut ou définie par l'utilisateur.
 
-:::note Note 
-La bannière de profil est accessible uniquement aux utilisateurs titulaires d'un nitro boost. Le nitro classic n'inclut pas la bannière de profil. 
-:::
+## L'option de bannière de profil
+En tant que propriétaire du compte en question, l'option se trouve dans le deuxième onglet ("Profil d'utilisateur") des paramètres d'utilisateur. Il est possible si l'utilisateur possède un abonnement Nitro de mettre une image personnalisée (statique ou animée), dans le cas contraire, l'utilisateur peut si il le souhaite mettre une couleur personnalisée.
 
-## Comment ajouter une bannière à son profil ?
-- Cliquer sur le bouton "Paramètres utilisateur".
-![Discord  Paramètres utilisateur](https://i.discord.fr/Vgq.png)
+## Dimensions de la bannière de profil
+Il est recommandé de mettre une image de 600 x 240.
 
-- Cliquer sur le bouton "Profil d'utilisateur".
-![Discord  Paramètres utilisateur 2](https://i.discord.fr/lT3.png)
-
-- Ajouter la bannière.
-
-    ![Discord  Paramètres de la bannière](https://i.discord.fr/uni.png)
-
-## Formats d'image acceptés.
-- PNG
-- JPG
-- GIF
-
-## Taille de l'image recommandée.
-- 600x240
+![Personalisation de bannière](https://i.discord.fr/c6Bx.png)
