@@ -17,4 +17,4 @@ En tant que propriétaire du compte en question, l'option se trouve dans le deux
 ## Dimensions de la bannière de profil
 Il est recommandé de mettre une image de 600 x 240.
 
-![Capture d’écran 2021-08-09 110039](https://media.discordapp.net/attachments/865634866317230111/876210679374299166/unknown.png?width=671&height=669)
+![Personalisation de bannière](https://i.discord.fr/c6Bx.png)
