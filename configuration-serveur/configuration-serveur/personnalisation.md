@@ -17,20 +17,18 @@ Chaque serveur Discord peut être tre personnalisé, pour le rendre unique et fa
 
 La gestion du nom d'un serveur se fait dans la catégorie `Vue d'ensemble` des paramètres de celui-ci. Il est alors possible de changer le nom du serveur (dont la longueur est supérieure à 1 caractère et inférieure à 100 caractères). Lors de la création d'un serveur, le nom par défaut est `Serveur de (nom du propriétaire)`
 
-![Changement nom](https://user-images.githubusercontent.com/70655051/128152814-adf6875b-6462-474b-b552-8b57e37628dd.png)
+![Changement du nom](https://i.discord.fr/Be5m.png)
 
 
 ## Gestion de l'icône d'un serveur
 
 La gestion de l'icône d'un serveur se fait dans la catégorie `Vue d'ensemble` des paramètres du serveur. Il est alors possible d'ajouter une icône (de taille minimale 128 par 128 pixels). Lors de la création d'un serveur, l'icône par défaut est créée à partir du premier caractère de chaque mot du nom du serveur.
 
-![Ajout icône](https://user-images.githubusercontent.com/70655051/128039321-afea64cc-71bd-46ab-ad96-714de2d19652.png)
+![Ajout de l'icône](https://i.discord.fr/oGF1.png)
 
 Comme dit précédemment, il est possible de changer l'icône du serveur. Pour cela, il faut suivre la même procédure que l'ajout d'une icône.
 
 Il est également possible de supprimer l'icône d'un serveur et retrouver celle par défaut. Pour ce faire, il faut se rendre dans la partie `Vue d'ensemble` des paramètres du serveur, puis cliquer sur le lien hypertexte `Supprimer` situé sous l'icône du serveur, à gauche du nom du serveur.
-
-![Suppression icône](https://user-images.githubusercontent.com/70655051/128040006-b88d0f3a-bcab-459e-9303-3c4d7bb1fb33.png)
 
 ### Dimension idéales pour une icône
 
@@ -46,13 +44,13 @@ Un salon AFK est un salon vocal où sont déplacés les utilisateurs inactifs (n
 
 Comme indiqué précédemment, il est possible de choisir le salon AFK d'un serveur. Pour cela, il faut se rendre dans le menu déroulant `SALON INACTIF` de la catégorie `Vue d'ensemble` des paramètres de ce serveur.
 
-![Choisir le salon AFK](https://user-images.githubusercontent.com/70655051/128147994-3a3f4ab8-38cd-4d59-abf5-809d4b19db7f.png)
+![Choix du salon AFK](https://i.discord.fr/eKES.png)
 
 ### Choisir la durée d'inactivité
 
-Une fois le salon inactif choisi, il est possible de modifier la durée au bout de laquelle un utilisateur est déplacé dans ce salon. Il faut cliquer sur le menu déroulant `DURÉE MAX D'INACTIVITÉ` et choisir le laps de temps voulu. Ici, l'exemple changera les membres inactifs de salon au bout de 15 minutes.
+Une fois le salon inactif choisi, il est possible de modifier la durée au bout de laquelle un utilisateur est déplacé dans ce salon. Il faut cliquer sur le menu déroulant `DURÉE MAX D'INACTIVITÉ` et choisir le laps de temps voulu. Ici, l'exemple changera les membres inactifs de salon au bout de 5 minutes.
 
-![Choisir la durée d'inactivité](https://user-images.githubusercontent.com/70655051/128148578-38ac75ff-1339-4cd6-9317-c3e9a0e6adf4.png)
+![Choisir la durée d'inactivité](https://i.discord.fr/EqYm.png)
 
 ## Gestion du salon de messages système
 
@@ -66,11 +64,11 @@ Pour changer le salon de messages système, il faut se rendre dans la partie `SA
 
 Pour désactiver tous les messages système, il faut choisir l'option `Pas de messages système` dans le menu déroulant pour choisir le salon de notifications système. Pour ne désactiver ou n'activer que certains messages système, il faut appuyer sur le bouton à forme arrondie et allongée, à fond vert ou gris, avec une coche ou une croix à l'intérieur. Lors d'un clic sur l'un de ces boutons, si le fond devient gris avec une croix blanche à gauche du bouton, alors l'option est désactivée. Au contraire, si le bouton change pour un fond vert ainsi qu'une coche à droite de celui-ci, l'option est activée.
 
-![Activation ou désactivation des messages système](https://user-images.githubusercontent.com/70655051/128152445-05b22076-ec43-405d-a3eb-0f125a7ca372.png)
+![Activer ou désactiver les messages système](https://i.discord.fr/202P.png)
 
 
 ## Gestion des paramètres de notification
 
 Les paramètres de notification par défaut sont la manière dont les utilisateurs vont recevoir une notification. Lors de la création d'un serveur, les notifications sont réglées sur `Tous les messages`. Cela veut dire que les utilisateurs qui n'ont pas réglé leurs paramètres de notification en recevront une à chaque message envoyé dans un salon auquel ils ont accès, s'ils sont en statut Connecté, Inactif ou Invisible. Pour un serveur Discord public, il est recommandé choisir l'option `@mentions seulement` pour éviter de lasser les membres et ensuite les faire quitter le serveur...
 
-![Réglage des paramètres de notification par défaut](https://user-images.githubusercontent.com/70655051/128153811-ddd18695-2f6d-4583-9a5f-2811f170e1b8.png)
+![Réglaer les paramètres de notification par défaut](https://i.discord.fr/Jduh.png)
