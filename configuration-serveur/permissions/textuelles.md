@@ -26,7 +26,7 @@ Les membres ayant cette permission peuvent créer des threads visibles par tous 
 
 ### • Créer des fils privés
 
-Les membres ayant cette permission peuvent créer des threads visibles uniquement par les personnes invitées et les modérateurs. Cette fonctionnalité se débloque au [niveau 2 des boosts de serveur]().
+Les membres ayant cette permission peuvent créer des threads visibles uniquement par les personnes invitées et les modérateurs. Cette fonctionnalité se débloque au [niveau 2 des boosts de serveur](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/).
 
 ### • Intégrer des liens
 
