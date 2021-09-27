@@ -1,4 +1,4 @@
-# **Les activités de serveurs**
+# **L'activité de serveur watch together**
 
 ### **Que sont les activités de serveurs ?**
 
