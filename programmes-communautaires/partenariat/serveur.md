@@ -40,7 +40,7 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
  Les conditions suivantes sont nécessaires pour postuler :
  - Avoir au moins 500 membres.
  - Avoir au moins 50 personnes actives (communiquant) sur le serveur par semaine.
- - Avoir au moins 100 visiteurs, qui ne participent pas forcément, mais qui "visitent le srveur".
+ - Avoir au moins 100 visiteurs, qui ne participent pas forcément, mais qui "visitent le serveur".
  - Sur les utilisateurs "visitant" le serveur, il faut que 20 % ne quittent pas le serveur, et ce chaque semaine sur une durée totale de 8 semaines.
  
  Les statistiques de serveurs sont disponibles ici : https://discord.com/developers/servers/
