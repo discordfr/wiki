@@ -1,6 +1,6 @@
 ---
 id: modeles
-title: Les modeles de serveurs
+title: Les modèles de serveurs
 keywords:
   - discord
   - serveur
@@ -8,7 +8,7 @@ keywords:
   - tutoriel
   - modele
   - template
-description: Les modeles de serveurs sur discord
+description: Les modèles de serveurs sur Discord
 ---
 
 Sur votre serveur Discord vous pouvez créer un modèle de votre serveur, ainsi vous pouvez re-créer votre serveur en quelques secondes.
@@ -16,7 +16,7 @@ Sur votre serveur Discord vous pouvez créer un modèle de votre serveur, ainsi 
 :::caution Attention !
 [Seuls les salons, sujets de salon, paramètres et rôle se copieront.](https://i.discord.fr/mmpD.png)
 :::
-## Comment faire un modèle de serveur :![Comment faire un modele de serveur](https://i.discord.fr/Fpmg.gif)
+## Comment créer un modèle de serveur :![Comment créer un modele de serveur](https://i.discord.fr/Fpmg.gif)
 ### Étape à suivre:
 
  1. Allez dans **Paramètres du serveur**
