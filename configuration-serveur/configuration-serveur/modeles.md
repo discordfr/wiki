@@ -11,45 +11,18 @@ keywords:
 description: Les modèles de serveurs sur Discord
 ---
 
-Sur votre serveur Discord vous pouvez créer un modèle de votre serveur, ainsi vous pouvez re-créer votre serveur en quelques secondes.
+### Pour utiliser cette fonctionnalité il suffit de se rendre dans les paramètres du serveur puis dans l'onglet "Modèle de serveur"
 
-:::caution Attention !
-[Seuls les salons, sujets de salon, paramètres et rôle se copieront.](https://i.discord.fr/mmpD.png)
-:::
-## Comment créer un modèle de serveur :![Comment créer un modele de serveur](https://i.discord.fr/Fpmg.gif)
-### Étape à suivre:
+:::info Information Discord permet de créer qu'un seul modèle par serveur et n'importe quel utilisateur possédants le lien peut l'utiliser. :::
+![Comment faire un modèle de serveur](https://i.discord.fr/Fpmg.gif)
 
- 1. Allez dans **Paramètres du serveur**
- 2. Cliquez sur **Modèle de serveur**
- 3. Entrez votre **Titre du modèle** et votre **Description du modèle**
- 4. Puis **Générer un modèle**
+:::caution Attention !  Les modèles de serveur ne copient pas les messages, threads, membres ou bots ainsi que l'icône de serveur, [boosts](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/) et ses avantages. Les emojis, autocollants et les paramètres de communauté ne seront pas enregistrés. :::
+![modèle avantages](https://i.discord.fr/vbnw.png)
 
-### Les modèles copieront et ne copieront pas:
-![modele avantage](https://i.discord.fr/vbnw.png)
+> Un lien discord se présente comme https://discord.new/xxx. Lors de l'ouverture de ce lien dans l'application, Discord affiche une fenêtre pour créer son serveur à partir d'un modèle de serveur: le nombre de personnes ayant utilisé le modèle est affiché. Il est aussi possible de modifier le nom et l'icône du serveur avant sa création.
 
-### Comment utiliser le lien de modèle:
-![Comment utiliser le lien de modele](https://i.discord.fr/6T9S.gif)
-### Étape à suivre:
-
- 1. Copier le **Lien du modèle** exemple: https://discord.new/abc123
- 2. Cliquez sur **Voir le modèle**
- 3. Puis **Créer votre modèle**
-
-### Comment utiliser un modèle de serveur:
-:::info Information
-Vous pouvez créer qu'un seul modèle de serveur et n'impote quel utilisateur peut utiliser le modèle
-:::
 ![Utiliser un modele de serveur](https://i.discord.fr/8uMK.gif)
 
-### Les modèles ne se mettant pas à jour tout seul, vous devez le faire manuellement.
-![Modif non sync](https://i.discord.fr/T8U4.png)
+> Une fois que le modèle de serveur est créé, tout changements telle une modification de salon ou de rôle entrainera un message de prévention qui demandera de le synchroniser. La synchronisation du modèle permet de le mettre à jour mais n'impacte pas les serveurs qui utilisent celui-ci, seules les utilisations qui seront futures.
 
-### Comment mettre à jour votre modèle de serveur:
-![Pop up](https://i.discord.fr/qHUN.gif)
-### Étape à suivre:
-1. Allez dans **Paramètres du serveur**
-2. Cliquez sur **Modèle de serveur**
-3. Puis cliquez sur **Synchroniser le modèle**
- 
-### Si vous supprimez votre serveur le modèle n'est plus disponible.
-![Invite non valide](https://i.discord.fr/RS74.png)
+![Modif non sync](https://i.discord.fr/T8U4.png)	
