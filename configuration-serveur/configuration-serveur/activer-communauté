@@ -1,0 +1,30 @@
+---
+id: communauté
+title: Activer la communauté
+keywords:
+  - discord
+  - serveur
+  - serveurs
+  - tutoriel
+description: Activer le mode communauté sur son discord
+---
+
+Chaque serveur Discord est muni d'une option nommée `Activer la communauté` permettant d'obtenir de nouvelle fonctionnalité.
+
+## Salon d'annonce 
+
+En activant ce paramêtre, il est possible de crée des salons d'annonces. Grâce à cette fonctionnalité les membres peuvent ainsi suivre le salons pour ajouter vos annonce dans leur propres serveurs.
+
+![Salon d'annonce](https://cdn.discordapp.com/attachments/903412282606903327/904863396783095818/Capture_decran_2021-11-01_234352.png)
+
+## Gestion de l'écran d'accueil
+
+Il est possible d'ajouter un écran d'accueil lorsque qu'un membre rejoint votre communauté, vous pourrez ainsi mettre certains de vos salons en valeur avec une courte description et de faire une petite présentation de votre serveur discord.
+
+![Ecran d'acceuil](https://cdn.discordapp.com/attachments/903412282606903327/904863992890150972/Capture_decran_2021-11-01_234614.png)
+
+## Gestion des critères de séléction des membres
+
+Grâce à cette option vous pourrez définires des règles que les membres doivent accepter explicitement avant de pouvoir discuter, réagir ou envoyer des MP aux membres. L'attribution d'un rôle à un nouveau membre contournera ce prérequis.
+
+![Critères](https://cdn.discordapp.com/attachments/903412282606903327/904864920821202954/Capture_decran_d.png)
