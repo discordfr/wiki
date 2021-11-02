@@ -32,6 +32,6 @@ Les applications peuvent nécessiter plusieurs permissions, voici les plus commu
 :::note Une application ne pourra jamais lire ou envoyer de messages à votre place. :::
 
 # Révoquer une application
-Les applications sont faites pour rendre l'expérience sur Discord meilleure, mais elles peuvent toutefois être trop bien... Dans ce cas, il est possible de révoquer une application dans les paramètres de compte, section `Applications autorisées`. Il faut alors survoler l'application concernée avec la souris et cliquer sur le bouton rouge `Retirer l'autorisation` qui apparaît.
+Les applications sont faites pour rendre l'expérience sur Discord meilleure, mais elles peuvent toutefois être opressantes ou inutiles. Dans ce cas, il est possible de révoquer une application dans les paramètres de compte, section `Applications autorisées`. Il faut alors survoler l'application concernée avec la souris et cliquer sur le bouton rouge `Retirer l'autorisation` qui apparaît.
 
 ![Révoquer une application](https://i.discord.fr/soip.png)
