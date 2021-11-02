@@ -14,7 +14,7 @@ description: Les applications autorisées sur son compte discord
 Les applications sont créées sur le [portail développeurs](https://discord.dev) de Discord. Elles permettent de "se connecter avec discord", comme le font plusieurs dashboards de robots Discord.
 
 # Autoriser une application
-Pour autoriser une application à accéder à son compte, il faut se rendre sur un lien similaire à `https://discord.com/oauth2/authorize?scope=identify&client_id=563836644579606528&response_type=code&redirect_uri=https%3A%2F%2Fsupport.discord.fr%2Fcallback`. Chaque application a un lien différent en fonction de son **identifiant**, renseigné dans le champ `client_id=` de l'url.
+Pour autoriser une application à accéder à son compte, il faut se rendre sur un lien similaire à `https://discord.com/oauth2/authorize?scope=bot&client_id=563836644579606528`. Chaque application a un lien différent en fonction de son **identifiant**, renseigné dans le champ `client_id=` de l'url.
 
 ![Autoriser une application](https://i.discord.fr/13rP.png)
 
