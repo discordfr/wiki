@@ -3,7 +3,7 @@ id: applications-autorisees
 title: Les applications autorisées
 keywords:
   - discord
-  - sécutité
+  - sécurité
   - applications
   - autorisées
   - tutoriel
