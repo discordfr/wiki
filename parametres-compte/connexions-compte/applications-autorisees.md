@@ -21,7 +21,7 @@ Pour autoriser une application à accéder à son compte, il faut se rendre sur 
 
 ## Permissions
 Les applications peuvent nécessiter plusieurs permissions, voici les plus communes :
-- Ajouter un robot sur un serveur
+- Ajouter un bot sur un serveur
 - Créer des slash commands sur votre serveur
 - Lire vos informations telles que : identifiant, nom d'utilisateur, discriminateur (#0000), avatar, bannière (couleur et image), authentification à deux facteurs, souscription à [Nitro](https://discord.fr/wiki/nitro-jeux/nitro/abonnements/), badges.
 - Lire votre adresse email
@@ -32,6 +32,6 @@ Les applications peuvent nécessiter plusieurs permissions, voici les plus commu
 :::note Une application ne pourra jamais lire ou envoyer de messages à votre place. :::
 
 # Révoquer une application
-Les applications sont faites pour rendre l'expérience sur Discord meilleure, mais elles peuvent toutefois être opressantes ou inutiles. Dans ce cas, il est possible de révoquer une application dans les paramètres de compte, section `Applications autorisées`. Il faut alors survoler l'application concernée avec la souris et cliquer sur le bouton rouge `Retirer l'autorisation` qui apparaît.
+Les applications sont faites pour rendre l'expérience sur Discord meilleure, mais elles peuvent toutefois être trop bien... Dans ce cas, il est possible de révoquer une application dans les paramètres de compte, section `Applications autorisées`. Il faut alors survoler l'application concernée avec la souris et cliquer sur le bouton rouge `Retirer l'autorisation` qui apparaît.
 
 ![Révoquer une application](https://i.discord.fr/soip.png)
