@@ -34,7 +34,7 @@ Ce rôle configure les permissions de base des membres du serveur. Les membres s
 ## Petit point sur la couronne
 
 Une couronne est affichée à côté du nom du propriétaire.
-Si un autre rôle ayant la permission administrateur est affiché séparément, la couronne disparait.
+Si un autre rôle ayant la permission administrateur est affiché séparément, la couronne disparaît.
 
 ![Couronne du propriétaire](https://i.discord.fr/lfu.png)
 
@@ -78,3 +78,23 @@ Cependant, Discord ne prévient pas si une couleur sera illisible.
 Si activé, chaque utilisateur du serveur peut mentionner ce rôle.
 
 ![Mentionner un rôle](https://i.discord.fr/iRI.png)
+
+## Badge de rôle personnalisé 
+
+Le badge de rôle permet de rajouter une icône à côté de votre pseudo dans la liste des membres, ainsi que sur votre profil.
+
+###### À noter qu'il faut avoir le level 2 de boost sur son serveur pour pouvoir mettre les badges.
+
+#### • Afficher dans la liste des membres à droite.
+
+![Affichage Icône Liste Membres](https://cdn.homecraft.fr/RLgTYQZ.png)
+
+#### • Afficher sur le profil d'un membre du serveur. 
+
+![Affichage Icône Profil](https://cdn.homecraft.fr/C1YM3EP.png)
+
+#### • Attribuer un badge personnalisé à un rôle
+
+#### Pour cela il suffit de se rendre dans les paramètres de rôles, de choisir un rôle et de cliquer ici:
+
+![Ajouter Badge](https://cdn.homecraft.fr/lj72v23.png)
