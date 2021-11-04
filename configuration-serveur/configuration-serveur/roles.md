@@ -81,9 +81,9 @@ Si activé, chaque utilisateur du serveur peut mentionner ce rôle.
 
 ## Badge de rôle personnalisé 
 
-Le badge de rôle permet de rajouter une icône à côté de votre pseudo dans la liste des membres, ainsi que sur votre profil.
+Le badge de rôle vous permet de rajouter une icône à côté de votre pseudo dans la liste de vos membres, ainsi que sur votre profil.
 
-###### À noter qu'il faut avoir le level 2 de boost sur son serveur pour pouvoir mettre les badges.
+###### À noter que vous devez avoir le level 2 de boost sur votre serveur pour pouvoir mettre les badges.
 
 #### • Afficher dans la liste des membres à droite.
 
@@ -95,6 +95,6 @@ Le badge de rôle permet de rajouter une icône à côté de votre pseudo dans l
 
 #### • Attribuer un badge personnalisé à un rôle
 
-#### Pour cela il suffit de se rendre dans les paramètres de rôles, de choisir un rôle et de cliquer ici:
+#### Pour cela il vous suffit de se rendre dans les paramètres de rôles, de choisir un rôle et de cliquer ici:
 
 ![Ajouter Badge](https://cdn.homecraft.fr/lj72v23.png)
