@@ -10,7 +10,7 @@ keywords:
 description: Le profil utilisateur sur discord
 ---
 ## Les profils d'utilisateur sur Discord
-![Profil](https://i.discord.fr/xfc7.png)
+![Profil](![image](https://user-images.githubusercontent.com/85367398/140507402-8ba77c14-f19f-4cf4-87f8-6a6425cce8da.png)
 
 Le profil d'un utilisateur est unique et possède plusieurs éléments distinctifs:
 - **Vert:** La [bannière de profil](https://discord.fr/wiki/parametres-compte/personnalisation-compte/banniere-profil/) est une image personnalisée ou une couleur.
@@ -19,5 +19,6 @@ Le profil d'un utilisateur est unique et possède plusieurs éléments distincti
 - **Rouge:** Le nom de compte Discord est composé d'un pseudo et d'un discriminateur de 4 chiffres (ici Roka#0001). Ce dernier est généré aléatoirement à la création du compte mais peut être personnalisé si l'on possède Nitro.
 - **Violet:** Le [statut personnalisé](https://discord.fr/wiki/parametres-compte/personnalisation-compte/statuts-personnalise/) est un élément défini par l'utilisateur qui s'affiche lorsqu'il n'est pas hors ligne ou en invisible.
 - **Orange:** Les onglets de navigation permettent d'avoir plus d'informations concernant l'utilisateur en question (ici son activité actuelle, les serveurs ainsi que les amis en communs).
-- **Bleu:** Le "A propos de moi" est un élément défini par l'utilisateur, tout comme le statut personnalisé, en revanche, même s'il hors ligne ou invisible, cet élément ne disparaît pas.
+- **Bleu clair:** Le "A propos de moi" est un élément défini par l'utilisateur, tout comme le statut personnalisé, en revanche, même s'il hors ligne ou invisible, cet élément ne disparaît pas.
 - **Gris:** Les notes sont privées, uniquement visibles par vous-même; elles peuvent être modifiées à tout moment.
+- **Bleu foncé:** Permet de demander la personne en ami, si elle accepte les demandes d'ami.
