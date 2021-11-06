@@ -35,7 +35,6 @@ Il n'est pas possible de configurer le nom, l'icône et la couleur de celui-ci. 
 ::: 
 
 
-
 ## Petit point sur la couronne
 
 Une couronne est affichée à côté du nom du propriétaire.
