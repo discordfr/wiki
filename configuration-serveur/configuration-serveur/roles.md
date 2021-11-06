@@ -31,10 +31,10 @@ Il se présente ainsi.
 
 ![rôle everyone](https://i.discord.fr/HVd.png)
 
-Ce rôle configure les permissions de base des membres du serveur et est attribué par défaut. Les membres sans aucun rôle seront directement affectés par les permissions de ce dernier. Une permission désactivée sur un rôle en particulier, mais activée sur le rôle everyone permettra tout de même l'exécution de cette dernière.
+Ce rôle configure les permissions de base des membres du serveur et est attribué par défaut. Les membres sans aucun rôle seront directement affectés par les permissions de ce dernier. Une permission désactivée sur un rôle en particulier, mais activée sur le rôle everyone, permettra tout de même l'exécution de cette dernière.
 
 :::note Note
-Il n'est pas possible de configurer le nom, l'icône et la couleur de celui-ci. Tout comme il est impossible de supprimer ou encore de se retirer ce rôle.
+Il n'est pas possible de configurer le nom, l'icône et la couleur de celui-ci, tout comme il est impossible de supprimer ou encore de se retirer ce rôle.
 ::: 
 
 
