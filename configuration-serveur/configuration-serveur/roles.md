@@ -31,7 +31,7 @@ Il se présente ainsi.
 
 ![rôle everyone](https://i.discord.fr/HVd.png)
 
-Ce rôle configure les permissions de base des membres du serveur et est attribué par défaut. Les membres sans aucun rôle seront directement affectés par les permissions de ce dernier. Une permission désactivée sur un rôle en particuler mais activée sur le rôle everyone permettra tout de même l'éxécution de cette dernière.
+Ce rôle configure les permissions de base des membres du serveur et est attribué par défaut. Les membres sans aucun rôle seront directement affectés par les permissions de ce dernier. Une permission désactivée sur un rôle en particulier, mais activée sur le rôle everyone permettra tout de même l'exécution de cette dernière.
 
 :::note Note
 Il n'est pas possible de configurer le nom, l'icône et la couleur de celui-ci. Tout comme il est impossible de supprimer ou encore de se retirer ce rôle.
@@ -49,7 +49,7 @@ Si un autre rôle ayant la permission administrateur est affiché séparément, 
 
 • Sans la couronne 
 
-![Couronne du propiétaire absente](https://i.discord.fr/xiTu.png)
+![Couronne du propriétaire absente](https://i.discord.fr/xiTu.png)
 
 ## Création d'un rôle
 Pour créer un rôle, vous avez maintenant deux possibilités de le faire ! Il faut soit cliquer sur le petit plus à côté de « retour », juste ici :
@@ -60,15 +60,15 @@ Soit vous avez la possibilité de cliquer sur le bouton bleu « Création de rô
 
 ![créer un rôle autrement](https://i.discord.fr/QqbC.png)
 
-Un rôle nouvellement créé s'appelle par défaut « nouveau rôle ». Sa couleur est "invisible" et les mêmes permissions que le rôle everyone lui sont attribuées par défaut. Pensez donc à bien configurer votre rôle everyone avant de créer le reste de vos rôles, vous gagnerez du temps et vous n'oublirez pas les petits détails qui peuvent à l'avenir déranger le bon fonctionnement de votre serveur.
+Un rôle nouvellement créé s'appelle par défaut « nouveau rôle ». Sa couleur est "invisible" et les mêmes permissions que le rôle everyone lui sont attribuées par défaut. Pensez donc à bien configurer votre rôle everyone avant de créer le reste de vos rôles, vous gagnerez du temps et vous n'oublierez pas les petits détails qui peuvent à l'avenir déranger le bon fonctionnement de votre serveur.
 
 ![newrole](https://i.discord.fr/AbWQ.png)
 
-Un rôle peut être modifié à tout moment par un utilisateur, à condition que celui-ci ait la permission "gérer les rôles" et qu'il dispose des permissions qu'il souhaite lui-même attribuer. Si la personne qui effectue les modifications sur un rôle ne dispose pas lui-même de la permissions qu'il souhaite attribuer, la case sera grisée et il sera impossible d'intéragir avec. Par exemple si l'auteur de l'édition ne dispose pas de la permission "mentionner everyone", il ne pourra donc pas l'attribuer à un autre rôle.
+Un rôle peut être modifié à tout moment par un utilisateur, à condition que celui-ci ait la permission "gérer les rôles" et qu'il dispose des permissions qu'il souhaite lui-même attribuer. Si la personne qui effectue les modifications sur un rôle ne dispose pas lui-même de la permission qu'il souhaite attribuer, la case sera grisée et il sera impossible d'interagir avec. Par exemple si l'auteur de l'édition ne dispose pas de la permission "mentionner everyone", il ne pourra donc pas l'attribuer à un autre rôle.
 
 
 ## Les couleurs
-La couleur "invisible" est celle par défaut. Si un rôle placé en-dessous d'un rôle invisible a une couleur, c'est celle-ci qui apparaîtra sur le profil d'un utilisateur. Comme ceci :
+La couleur "invisible" est celle par défaut. Si un rôle placé en dessous d'un rôle invisible a une couleur, c'est celle-ci qui apparaîtra sur le profil d'un utilisateur. Comme ceci :
 
 ![rôle invisible et rôle visible](https://i.discord.fr/cnM8.png)
 
