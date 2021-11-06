@@ -11,7 +11,7 @@ description: Les applications autorisées sur son compte discord
 ---
 # Les applications autorisées
 
-Les applications sont créées sur le [portail développeurs](https://discord.dev) de Discord. Elles permettent de "se connecter avec discord", comme le font plusieurs tableaux de bord de bots Discord.
+Les applications sont créées sur le [portail développeurs](https://discord.com/developers/) de Discord. Elles permettent de "se connecter avec discord", comme le font plusieurs tableaux de bord de bots Discord.
 
 ## Autoriser une application
 Pour autoriser une application à accéder à son compte, il faut se rendre sur un lien similaire à `https://discord.com/oauth2/authorize`. Chaque application a un lien différent en fonction de son **identifiant**, renseigné dans l'url.
