@@ -20,7 +20,7 @@ Pour autoriser une application à accéder à son compte, il faut se rendre sur 
 
 
 ### Permissions
-Les applications peuvent nécessiter plusieurs permissions, voici les plus communes :
+Les applications peuvent demander l'accès à plusieurs permissions, voici les plus communes :
 - Ajouter un bot sur un serveur
 - Créer des slash commands sur un serveur
 - Lire les informations de l'utilisateur connecté telles que : identifiant, nom d'utilisateur, discriminateur (#0000), avatar, bannière (couleur et image), authentification à deux facteurs, souscription à [Nitro](https://discord.fr/wiki/nitro-jeux/nitro/abonnements/), badges.
