@@ -81,20 +81,12 @@ Si activé, chaque utilisateur du serveur peut mentionner ce rôle.
 
 ## Badge de rôle personnalisé 
 
-Le badge de rôle vous permet de rajouter une icône à côté de votre pseudo dans la liste de vos membres, ainsi que sur votre profil.
+Depuis peu, il est possible d'ajouter des badges de rôle personnalisé. On ne peut en mettre qu'un par rôle et pour cela le niveau 2 de boost est nécessaire [(Voir Article Nitro Boosting)](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/). /!\ Si L'utilisateur possède plusieurs rôles, seul le badge du rôle le plus élevé sera affiché à droite dans la liste des membres.
 
-###### À noter que vous devez avoir le level 2 de boost sur votre serveur pour pouvoir mettre les badges.
+Le panneau de gestion se trouve ici 
 
-#### • Afficher dans la liste des membres à droite.
+![Paneau de Gestion](https://i.discord.fr/veaf.png)
 
-![Affichage Icône Liste Membres](https://cdn.homecraft.fr/RLgTYQZ.png)
+Après configuration du bage, voilà ce que cela donne sur le serveur
 
-#### • Afficher sur le profil d'un membre du serveur. 
-
-![Affichage Icône Profil](https://cdn.homecraft.fr/C1YM3EP.png)
-
-#### • Attribuer un badge personnalisé à un rôle
-
-#### Pour cela il vous suffit de se rendre dans les paramètres de rôles, de choisir un rôle et de cliquer ici:
-
-![Ajouter Badge](https://cdn.homecraft.fr/lj72v23.png)
+![Affichage Serveur](https://i.discord.fr/ey8T.png)
