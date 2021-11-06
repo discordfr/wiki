@@ -13,7 +13,7 @@ description: Les rôles sur un serveur Discord
 Sur un serveur Discord, il est possible de créer et personnaliser des rôles ainsi que les attribuer aux utilisateurs présents.
 On peut leur allouer des permissions de base.
 Il est nécessaire d'enregistrer les modifications pour qu'elles soient effectives.
-Attention, notez que les permissions des salons sont prioritaires quand elles sont vertes. (voir articles permissions rôles et permissions générales)
+Attention, les permissions des salons sont prioritaires quand elles sont vertes. (voir articles permissions rôles et permissions générales)
 
 Le panneau de gestion des rôles est trouvable à cet endroit.
 
@@ -28,7 +28,7 @@ Il se présente ainsi.
 
 ![rôle everyone](https://i.discord.fr/HVd.png)
 
-Ce rôle configure les permissions de base des membres du serveur. Les membres sans aucun rôle seront directement affectés par les permissions du rôle everyone, de même avec une permission désactivée sur un rôle en particulier mais activée sur le rôle everyone sera tout de même attribuée au membre. Il est impossible de modifier le nom, l'icône et la couleur de ce rôle.
+Ce rôle configure les permissions de base des membres du serveur et est attribué par défaut. Les membres sans aucun rôle seront directement affectés par les permissions de ce dernier, de même avec une permission désactivée sur un rôle en particulier mais activée sur le rôle everyone sera tout de même attribuée au membre. Il est impossible de modifier le nom, l'icône et la couleur de celui-ci.
 
 
 ## Petit point sur la couronne
