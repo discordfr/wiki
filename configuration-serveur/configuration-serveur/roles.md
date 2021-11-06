@@ -13,7 +13,10 @@ description: Les rôles sur un serveur Discord
 Sur un serveur Discord, il est possible de créer et personnaliser des rôles ainsi que les attribuer aux utilisateurs présents.
 On peut leur allouer des permissions de base.
 Il est nécessaire d'enregistrer les modifications pour qu'elles soient effectives.
-Attention, les permissions des salons sont prioritaires quand elles sont vertes. (voir articles permissions rôles et permissions générales)
+
+:::caution Attention !
+Les permissions des salons sont prioritaires quand elles sont vertes. (voir articles permissions rôles et permissions générales)
+:::
 
 Le panneau de gestion des rôles est trouvable à cet endroit.
 
