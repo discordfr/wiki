@@ -28,7 +28,12 @@ Il se présente ainsi.
 
 ![rôle everyone](https://i.discord.fr/HVd.png)
 
-Ce rôle configure les permissions de base des membres du serveur et est attribué par défaut. Les membres sans aucun rôle seront directement affectés par les permissions de ce dernier, de même avec une permission désactivée sur un rôle en particulier mais activée sur le rôle everyone sera tout de même attribuée au membre. Il est impossible de modifier le nom, l'icône et la couleur de celui-ci.
+Ce rôle configure les permissions de base des membres du serveur et est attribué par défaut. Les membres sans aucun rôle seront directement affectés par les permissions de ce dernier. Une permission désactivée sur un rôle en particuler mais activée sur le rôle everyone permettra tout de même l'éxécution de cette dernière.
+
+:::note Note
+Il n'est pas possible de configurer le nom, l'icône et la couleur de celui-ci. Tout comme il est impossible de supprimer ou encore de se retirer ce rôle.
+::: 
+
 
 
 ## Petit point sur la couronne
@@ -78,11 +83,11 @@ Cependant, Discord ne préviendra pas si une couleur sera illisible dans vos sal
 
 ![Paramètres du rôle](https://i.discord.fr/jvn.png)
 
-#### • Afficher les membres ayant ce rôle séparément des autres membres en ligne
+### • Afficher les membres ayant ce rôle séparément des autres membres en ligne
 
 ![Affichage séparé du rôle](https://i.discord.fr/xiTu.png)
 
-#### • Permettre à tout le monde de @mentionner ce rôle
+### • Permettre à tout le monde de @mentionner ce rôle
 Si activé, chaque utilisateur ou un rôle ayant la permission de mentionner everyone/here et tous les rôles du serveur peut mentionner ce rôle.
 
 ![Mentionner un rôle](https://i.discord.fr/za1y.png)
