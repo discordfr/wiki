@@ -8,7 +8,7 @@ keywords:
   - tutoriel
 description: Il est possible de collecter des badges sur votre profil, la liste est disponible ci dessous. Le niveau d'obtention de chacun n'est pas le même, et certains demandent un grand dévouement !
 ---
-Il est possible de collecter des badges, visible sur le [profil](https://discord.fr/wiki/parametres-compte/personnalisation-compte/profil/) de chaque utilisateur.
+Il est possible de collecter des badges, visibles sur le [profil](https://discord.fr/wiki/parametres-compte/personnalisation-compte/profil/) de chaque utilisateur.
 
 *********************
 <br />
@@ -25,7 +25,7 @@ Ce badge indique qu'un membre a souscrit à discord Nitro Classic ou discord Nit
 ## Le badge de Boost de serveur <img src= "https://i.discord.fr/1cU.png" width="17" height="17" />
 <img src="https://i.discord.fr/zSo.png" />
 
-Ce badge est attribué aux utilisateurs boostant un serveur. Ce boost peut-être inclu dans la souscription Discord Nitro Boost (9.99$ par mois) de l'utilisateur ou avoir été payé (4.99$ par mois). Il disparaît dès lors que le boost prend fin ou est annulé.
+Ce badge est attribué aux utilisateurs boostant un serveur. Ce boost peut-être inclu dans la souscription Discord Nitro (9.99$ par mois) de l'utilisateur ou avoir été payé (4.99$ par mois). Il disparaît dès lors que le boost prend fin ou est annulé.
 
 :::note Plus d'informations sur les boosts sont lisibles [ici](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/):::
 
@@ -111,7 +111,7 @@ Ce badge est réservé aux membres participant à l'HypeSquad et qui assistent �
 
 Tout le monde peut postuler, mais il faut que le serveur remplisse des conditions, qui sont accessibles, tout comme la candidature, directement dans les paramètres du serveur. 
 
-Pour plus d'informations, [rendez vous sur l'article concernant le sujet](https://discord.fr/wiki/)
+Pour plus d'informations, [rendez vous sur l'article concernant le sujet](https://discord.fr/wiki/programmes-communautaires/partenariat/serveur/)
 
 <br />
 
