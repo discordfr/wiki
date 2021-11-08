@@ -27,7 +27,7 @@ Ce badge indique qu'un membre a souscrit à discord Nitro Classic ou discord Nit
 
 Ce badge est attribué aux utilisateurs boostant un serveur. Ce boost peut-être inclu dans la souscription Discord Nitro Boost (9.99$ par mois) de l'utilisateur ou avoir été payé (4.99$ par mois). Il disparaît dès lors que le boost prend fin ou est annulé.
 
-:::note Plus d'informations sur les boosts sont lisibles ici:::
+:::note Plus d'informations sur les boosts sont lisibles [ici](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/):::
 
 <br />
 
