@@ -36,8 +36,3 @@ jusqu'au 1er janvier, ainsi l’obtention du badge en or était acquise. Toutefo
 *(Pour plus d’information vous trouverez [ici] (https://www.reddit.com/r/discordapp/comments/ac9eoi/balance_has_gone_gold/) et [ici] (https://support.discord.com/hc/en-us/community/posts/360040484991-Gold-Badges) les sources et tweets du sujet en question).*
 
 Aujourd’hui les badges ne sont plus disponibles.
-
-
-
-Fizle#0707
-ID : 596108145592500276
