@@ -41,7 +41,7 @@ Il n'est pas possible de configurer le nom, l'icône et la couleur de celui-ci, 
 ## Petit point sur la couronne
 
 Une couronne est affichée à côté du nom du propriétaire.
-Si un autre rôle ayant la permission administrateur est affiché séparément, la couronne disparait.
+Si un autre rôle ayant la permission administrateur est affiché séparément, la couronne disparaît.
 
 • Avec la couronne
 
@@ -92,4 +92,17 @@ Cependant, Discord ne préviendra pas si une couleur sera illisible dans vos sal
 ### • Permettre à tout le monde de @mentionner ce rôle
 Si activé, chaque utilisateur ou un rôle ayant la permission de mentionner everyone/here et tous les rôles du serveur peut mentionner ce rôle.
 
-![Mentionner un rôle](https://i.discord.fr/za1y.png)
+![Mentionner un rôle](https://i.discord.fr/iRI.png)
+
+## Badge de rôle personnalisé 
+
+Depuis peu, il est possible d'ajouter des badges de rôle personnalisé. On ne peut en mettre qu'un par rôle et pour cela le niveau 2 de boost est nécessaire [(Voir Article Nitro Boosting)](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/). /!\ Si L'utilisateur possède plusieurs rôles, seul le badge du rôle le plus élevé sera affiché à droite dans la liste des membres.
+
+Le panneau de gestion se trouve ici 
+
+![Paneau de Gestion](https://i.discord.fr/veaf.png)
+
+Après configuration du bage, voilà ce que cela donne sur le serveur
+
+![Affichage Serveur](https://i.discord.fr/ey8T.png)
+
