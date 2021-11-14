@@ -48,9 +48,7 @@ Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégrati
 <br />
 
     #**Badge de la Hypesquad en or :** 
-![IMG_5299](https://user-images.githubusercontent.com/93324402/141603705-3429f17a-6b70-4023-95cf-e38522586c5d.jpg)
-![IMG_5299 3](https://user-images.githubusercontent.com/93324402/141603712-e7acead2-9b6c-4e45-9906-d56ac748014a.jpg)
-![IMG_5299 2](https://user-images.githubusercontent.com/93324402/141603725-9955c592-7a0c-4b5a-8eb4-a234ea676763.jpg)
+<img width="274" alt="Capture d’écran 2021-11-14 à 23 28 32" src="https://user-images.githubusercontent.com/93324402/141701319-bde76f93-03ac-478d-9a25-c736834af64e.png">
 
 
 ![DuKHHq6XQAMoQi0](https://user-images.githubusercontent.com/93324402/141603605-e89d9218-040d-46fa-9d5f-2027fd1e1055.jpg)
