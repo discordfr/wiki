@@ -69,7 +69,7 @@ Les badges de la Hypesquad (Bravery, Brillance et Balance) de couleur or étaien
 les profils des utilisateurs qu’en décembre 2018/ janvier 2019 en conséquence de l’évent ayant lieu en décembre 2018. Le badge purement cosmétique pouvait être obtenu en faisant le plus de don pour l'organisme de bienfaisance Child's Play 
 jusqu'au 1er janvier, ainsi l’obtention du badge en or était acquise. 
 
-Toutefois seule une maison à la fois ne pouvait détenir le badge. La maison qui a « gagné », celle qui a donnée le plus de donations à l’organisme de bienfaisance *(c’était la House of Balance :p)*. Enfin les membres étant sur discord à ce moment-là ont reçu des mails pour l’annonce de cet évènement, ils sont aujourd’hui très rares et uniques.
+Toutefois seule une maison à la fois ne pouvait détenir le badge. La maison qui a « gagné », est celle dont les danations à l’organisme de bienfaisance étaient les plus grandes *(c’était la House of Balance :p)*. Enfin les membres étant sur discord à ce moment-là ont reçu des mails pour l’annonce de cet évènement, ils sont aujourd’hui très rares et uniques.
 *(Pour plus d’information vous trouverez [ici] (https://www.reddit.com/r/discordapp/comments/ac9eoi/balance_has_gone_gold/) et [ici] (https://support.discord.com/hc/en-us/community/posts/360040484991-Gold-Badges) les sources et tweets du sujet en question).*
 
 **Aujourd’hui les badges en or ne sont plus disponibles.**
