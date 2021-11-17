@@ -48,10 +48,11 @@ Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégrati
 <br />
 
     #**Badge de la Hypesquad en or :** 
-![image](https://user-images.githubusercontent.com/93324402/141701465-890a4bab-cb0a-4ff7-ab64-610f084b3337.png)
+![ Badge_en_or_Hypesquad ](https://user-images.githubusercontent.com/93324402/142290063-2c83e551-9cc1-41a2-9669-1cc3da972fcc.png)
 
 
-![DuKHHq6XQAMoQi0](https://user-images.githubusercontent.com/93324402/141603605-e89d9218-040d-46fa-9d5f-2027fd1e1055.jpg)
+![Badge en or HS profil ](https://user-images.githubusercontent.com/93324402/142289908-f2532f96-676d-40af-9737-b47196769fa4.jpg)
+
 
     
 Il existe trois badges différenciés de la Hypesquad, que l’on appelle autrement : House of  Bravery, House of Brillance et enfin, House of Balance *(tous y sont référenciés dans *[cet article ci ]* 
