@@ -48,10 +48,10 @@ Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégrati
 <br />
 
     ### Badge de la Hypesquad en or :
-[Badge_en_or_Hypesquad_2](https://user-images.githubusercontent.com/93324402/142391034-9ad7cdda-5d8c-4dc2-a4a1-0e8d87999851.png)
+[Badge_en_or_Hypesquad_2](https://i.discord.fr/LtdH.png)
 
 
-[Badge en or HS profil](https://user-images.githubusercontent.com/93324402/142389952-6578ebd5-dc4d-4d8f-ae55-b124378a9099.JPEG)
+[Badge en or HS profil](https://i.discord.fr/BMxk.jpg)
 
 
 Il existe trois badges différenciés de la Hypesquad, que l’on appelle autrement : House of  Bravery, House of Brillance et enfin, House of Balance *(tous y sont référenciés dans **[cet article ci ](https://discord.fr/wiki/programmes-communautaires/hypesquad/hypesquad-online/)** et **[celui-là](https://discord.fr/wiki/programmes-communautaires/outils-communautaires/badges/?_highlight=badge#le-badge-modérateur-certifié-de-discord).**
