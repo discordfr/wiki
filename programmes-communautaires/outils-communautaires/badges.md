@@ -54,12 +54,11 @@ Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégrati
 [Badge en or HS profil](https://user-images.githubusercontent.com/93324402/142389952-6578ebd5-dc4d-4d8f-ae55-b124378a9099.JPEG)
 
 
-Il existe trois badges différenciés de la Hypesquad, que l’on appelle autrement : House of  Bravery, House of Brillance et enfin, House of Balance *(tous y sont référenciés dans **[cet article ci ] 
-(https://discord.fr/wiki/programmes-communautaires/hypesquad/hypesquad-online/)** et **[celui-là]* (https://discord.fr/wiki/programmes-communautaires/outils-communautaires/badges/?_highlight=badge#le-badge-modérateur-certifié-de-discord).**
+Il existe trois badges différenciés de la Hypesquad, que l’on appelle autrement : House of  Bravery, House of Brillance et enfin, House of Balance *(tous y sont référenciés dans **[cet article ci ](https://discord.fr/wiki/programmes-communautaires/hypesquad/hypesquad-online/)** et **[celui-là](https://discord.fr/wiki/programmes-communautaires/outils-communautaires/badges/?_highlight=badge#le-badge-modérateur-certifié-de-discord).**
 
 :::warning
 Attention à ne pas confondre avec le badge attribué aux membres participant à l'Hypesquad et qui assistent à des conventions (HypeSquad Évent Coordinators) ou qui organisent des évènements comme des conventions... 
-On parle évidemment du badge **[EventHypesquad] (https://discord.fr/wiki/programmes-communautaires/hypesquad/hypesquad-events/)). [Badge EventHypeSquad](https://user-images.githubusercontent.com/93324402/141604020-76fa86cd-7487-4a6e-8187-46edeae69344.jpg):::**
+On parle évidemment du badge **[EventHypesquad](https://discord.fr/wiki/programmes-communautaires/hypesquad/hypesquad-events/)). [Badge EventHypeSquad](https://user-images.githubusercontent.com/93324402/141604020-76fa86cd-7487-4a6e-8187-46edeae69344.jpg):::**
 
 
     ## Comment obtenir le badge ? Quelle est son utilité ?
@@ -69,7 +68,7 @@ les profils des utilisateurs qu’en décembre 2018/ janvier 2019 en conséquenc
 jusqu'au 1er janvier, ainsi l’obtention du badge en or était acquise. 
 
 Toutefois seule une maison à la fois ne pouvait détenir le badge. La maison qui a « gagné », est celle dont les danations à l’organisme de bienfaisance étaient les plus grandes *(c’était la House of Balance :p)*. Enfin les membres étant sur discord à ce moment-là ont reçu des mails pour l’annonce de cet évènement, ils sont aujourd’hui très rares et uniques.
-**(Pour plus d’information vous trouverez [ici] (https://www.reddit.com/r/discordapp/comments/ac9eoi/balance_has_gone_gold/)** et **[ici] (https://support.discord.com/hc/en-us/community/posts/360040484991-Gold-Badges) les sources et tweets du sujet en question).**
+**(Pour plus d’information vous trouverez [ici](https://www.reddit.com/r/discordapp/comments/ac9eoi/balance_has_gone_gold/)** et **[ici](https://support.discord.com/hc/en-us/community/posts/360040484991-Gold-Badges) les sources et tweets du sujet en question).**
 
 **Aujourd’hui les badges en or ne sont plus disponibles.**
 
