@@ -59,7 +59,7 @@ Il existe trois badges différenciés de la Hypesquad, que l’on appelle autrem
 
 :::warning
 Attention à ne pas confondre avec le badge attribué aux membres participant à l'Hypesquad et qui assistent à des conventions (HypeSquad Évent Coordinators) ou qui organisent des évènements comme des conventions... 
-On parle évidemment du badge **[EventHypesquad](https://discord.fr/wiki/programmes-communautaires/hypesquad/hypesquad-events/). [Badge EventHypeSquad](https://i.discord.fr/CS2.png):::**
+On parle évidemment du badge **[EventHypesquad](https://discord.fr/wiki/programmes-communautaires/hypesquad/hypesquad-events/).<img src= "https://i.discord.fr/CS2.png" width="20" height="17" />:::
 
 
 ## Comment obtenir le badge ? Quelle est son utilité ?
