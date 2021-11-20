@@ -1,6 +1,6 @@
 ---
 id: evenements
-title: Plannification 
+title: Planification d'évènements
 keywords:
   - discord
   - serveur
