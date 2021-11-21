@@ -9,7 +9,7 @@ keywords:
   - configuration
 description: L'outil de planifications des évènements pour les serveurs 
 ---
-Les **Scheduled Events**, littéralement "évènements programmés", ont pour objectif d'afficher les évènements en cours/prévus afin de permettre à la communauté du serveur d'accéder facilement aux informations le concernant (date, activité(s) prévue(s)...) ainsi que d'être notifié lors du début de l'évènement.
+Les **Scheduled Events**, littéralement "évènements programmés", ont pour objectif d'afficher les évènements en cours/prévus afin de permettre à la communauté d'un serveur d'accéder facilement aux informations le concernant (date, activité(s) prévue(s)...) ainsi que d'être notifié lors du début d'un évènement.
 
 Il est nécessaire de disposer de la permission `Gérer les évènements` sur le serveur afin de créer, éditer, débuter, terminer ou encore annuler un évènement.
 
@@ -73,7 +73,7 @@ Afin de marquer son intérêt pour un évènement et d'être en conséquence not
 
  - Partager un évènement
 
-Afin de partager un évènement, il est nécessaire de disposer de la permission `Créer une invitation`. Il faut ensuite se rendre sur le bouton "Evènements" et cliquer sur "Partager".
+Afin de partager un évènement, il est nécessaire de disposer de la permission `Créer une invitation`. Il faut ensuite se rendre sur le bouton "Évènements" et cliquer sur "Partager".
 
 ![Partager un évènement](https://i.discord.fr/R7Q8.png)
 
@@ -83,9 +83,9 @@ Les invitations pour les évènements dans un salon privé sont marquées comme 
 
  - Accéder aux informations sur l'évènement
 
-En cliquant sur la case `Evènements` située en haut des salons du serveur, il est possible de visualiser les différents évènement programmés. En cliquant sur un évènement en particulier, la plateforme affiche les détails sur celui-ci ainsi que les personnes s'étant déclarées "Intéressé" par l'évènement.
+En cliquant sur la case `Évènements` située en haut des salons du serveur, il est possible de visualiser les différents évènements programmés. En cliquant sur un évènement en particulier, la plateforme affiche les détails sur celui-ci ainsi que les personnes s'étant déclarées "Intéressé" par l'évènement.
 
-![Détails de l'évènement](https://i.discord.fr/aBFS.png)
+![Détails de l'évènement](https://i.discord.fr/QDpf.png)
 
  - Le signalement d'un évènement
 
