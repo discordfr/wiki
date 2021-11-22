@@ -47,6 +47,33 @@ Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégrati
 
 <br />
 
+
+### Badges de la HypeSquad en or :
+![Badge_en_or_Hypesquad_2](https://i.discord.fr/LtdH.png)
+
+
+![Badge en or HS profil](https://i.discord.fr/BMxk.jpg)
+
+
+Il existe trois badges différenciés de la HypeSquad, que l’on appelle autrement : House of  Bravery, House of Brillance et enfin, House of Balance *(tous y sont référenciés dans **[cet article ci ](https://discord.fr/wiki/programmes-communautaires/hypesquad/hypesquad-online/)** et **[celui-là](https://discord.fr/wiki/programmes-communautaires/outils-communautaires/badges/?_highlight=badge#le-badge-modérateur-certifié-de-discord).**
+
+:::warning
+Attention à ne pas confondre avec le badge attribué aux membres participant à l'HypeSquad et qui assistent à des conventions (HypeSquad Évent Coordinators) ou qui organisent des évènements comme des conventions... 
+On parle évidemment du badge **[EventHypesquad](https://discord.fr/wiki/programmes-communautaires/hypesquad/hypesquad-events/).<img src= "https://i.discord.fr/CS2.png" width="20" height="17" />:::
+
+
+## Comment obtenir le badge ? Quelle est son utilité ?
+
+Les badges de la HypeSquad (Bravery, Brillance et Balance) de couleur or étaient donc disponibles à une certaine période (le 18 décembre 2018 à 20:24) et affichés sur le profil des utilisateurs. Il faut savoir que les badges sont devenus visibles sur les profils des utilisateurs qu’en décembre 2018/ janvier 2019 en conséquence de l’évent ayant lieu en décembre 2018. Le badge purement cosmétique pouvait être obtenu en faisant le plus de don pour l'organisme de bienfaisance *Child's Play* jusqu'au 1er janvier, ainsi l’obtention du badge en or était acquise. 
+
+Toutefois, seule une maison à la fois ne pouvait détenir le badge. La maison qui a gagné l’évènement, est celle dont les donations à l’organisme de bienfaisance étaient les plus grandes *(c’était la House of Balance avec 32 738$ de dons :p)*. Enfin les membres étant sur discord à ce moment-là ont reçu des mails pour l’annonce de cet évènement, ils sont aujourd’hui très rares et uniques.
+**(Pour plus d’information vous trouverez [ici](https://www.reddit.com/r/discordapp/comments/ac9eoi/balance_has_gone_gold/)**, [ici](https://discord-france.fr/hypesquad-snowsgiving-fin-mais-cadeau/), et **[là](https://support.discord.com/hc/en-us/community/posts/360040484991-Gold-Badges) les sources et tweets du sujet en question).**
+
+**Aujourd’hui, les badges en or ne sont plus disponibles.**
+
+
+<br />
+
 ## Le badge Soutien de la première heure <img src= "https://i.discord.fr/6Fe.png" width="20" height="17" />
 <img src="https://i.discord.fr/YJs.png" />
 
