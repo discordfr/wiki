@@ -55,11 +55,11 @@ Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégrati
 ![Badge en or HS profil](https://i.discord.fr/BMxk.jpg)
 
 
-Il existe trois badges différenciés de la HypeSquad, que l’on appelle autrement : House of  Bravery, House of Brillance et enfin, House of Balance *(tous y sont référenciés dans **[cet article ci ](https://discord.fr/wiki/programmes-communautaires/hypesquad/hypesquad-online/)** et **[celui-là](https://discord.fr/wiki/programmes-communautaires/outils-communautaires/badges/?_highlight=badge#le-badge-modérateur-certifié-de-discord).**
+Il existe trois badges différenciés de la HypeSquad, que l’on appelle autrement : House of  Bravery, House of Brillance et enfin, House of Balance *(tous y sont référencés dans **[cet article-ci ](https://discord.fr/wiki/programmes-communautaires/hypesquad/hypesquad-online/)** ainsi que **[celui-là](https://discord.fr/wiki/programmes-communautaires/outils-communautaires/badges/?_highlight=badge#le-badge-modérateur-certifié-de-discord)**.*
 
 :::warning
 Attention à ne pas confondre avec le badge attribué aux membres participant à l'HypeSquad et qui assistent à des conventions (HypeSquad Évent Coordinators) ou qui organisent des évènements comme des conventions... 
-On parle évidemment du badge **[HypeSquad Event](https://discord.fr/wiki/programmes-communautaires/hypesquad/hypesquad-events/).<img src= "https://i.discord.fr/CS2.png" width="20" height="17"/>
+On parle évidemment du badge [**HypeSquad Event**](https://discord.fr/wiki/programmes-communautaires/hypesquad/hypesquad-events/).<img src= "https://i.discord.fr/CS2.png" width="20" height="17"/>
 :::
 
 
