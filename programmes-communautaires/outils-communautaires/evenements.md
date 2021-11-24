@@ -49,7 +49,7 @@ Discord propose d'organiser un évènement directement sur l'application (soit d
 
 ### Modification et annulation d'un évènement 
 
-Une fois un évènement créé, il est possible d'éditer les informations sur l'évènement ou de l'annuler. Pour ce faire, il faut appuyer sur les points de suspension situés sous l'évènement en question.
+Une fois un évènement créé, il est possible d'éditer les informations sur l'évènement ou de l'annuler en cliquant sur les points de suspension situés sous l'évènement en question.
 
 ![Modification/Annulation Event](https://i.discord.fr/R0Xp.png)
 
@@ -59,8 +59,9 @@ Lorsque l'évènement débute, il faut cliquer sur "Commencer l'évènement" et 
 
 ![Début/Fin Event](https://i.discord.fr/QXvQ.png)
 
-:::note
-Si l'évènement n'a pas été débuté une heure après l'heure prévue, le système le supprimera automatiquement.
+:::note Notes : 
+ - Si l'évènement n'a pas été débuté une heure après l'heure prévue, le système le supprimera automatiquement.
+ - Il n'est pas nécéssaire de débuter ou de stopper manuellement  un évènement si un horaire de début et de fin est défini. Discord s'en chargera automatiquement (mis à part les évènements stage, qui s'arrêteront quand tous les speakers auront quitté ce dernier).
 :::
 
 ## Options d'un évènement
