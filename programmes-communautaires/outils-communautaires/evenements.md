@@ -17,26 +17,21 @@ Il est nécessaire de disposer de la permission `Gérer les évènements` sur le
 
 ## La planification d'évènements
 
-Discord propose d'organiser un évènement directement sur l'application (soit dans un salon vocal, soit dans un [Stage Channel](https://discord.fr/wiki/interface/salon-vocal/stage-channels/)), ou alors dans un endroit extérieur. Pour instituer un évènement, il convient de respecter les étapes suivantes :
-
-1. Appuyer sur la flèche vers le bas à côté du nom du serveur.
+Discord propose la planification d'évèneemnts directement sur l'application. Il est possible d'en organiser un en sélectionnant l'option "Créer un évènement", situé dans la barre de menu en-dessous du bouton permettant de créer une catégorie.
 
 ![Roue dentée menu du serveur - Création Event](https://i.discord.fr/lTLf.png)
 
-3. Sélectionner l'option "Créer un évènement".
-4. Choisir l'emplacement de l'évènement.
+Plusieurs informations sont ensuite demandées par l'application dans le menu qui s'ouvre, à savoir l'emplacement de l'évènement (soit dans un salon vocal, soit dans un [Stage Channel](https://discord.fr/wiki/interface/salon-vocal/stage-channels/), ou alors dans un endroit extérieur) ainsi que divers détails (le sujet de celui-ci, la date et l'heure de début et de fin, ainsi qu'une description). Enfin, il faudra vérifier les informations fournies et confirmer la création de l'évènement.
+
+> Emplacement de l'évènement 
 
 ![Emplacement - Création Event](https://i.discord.fr/9oI4.png)
 
-5. Remplir les informations demandées :
-- Sujet
-- Date et heure de début
-- Date et heure de fin : disponible uniquement si l'emplacement sélectionné est "Ailleurs".
-- Description
+> Détails sur l'évènement 
 
 ![Informations demandées - Création Event](https://i.discord.fr/JziR.png)
 
-6. Vérifier les détails de l'évènement, puis cliquer sur "Créer l'évènement".
+> Prévisualisation de l'évènement
 
 ![Exemple de prévisualisation - Création Event](https://i.discord.fr/MQUg.png)
 
