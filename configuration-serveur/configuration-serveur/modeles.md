@@ -19,10 +19,9 @@ Un serveur Discord peut à tout moment devenir un **modèle de serveur**. Il per
 :::
 
 ### Création
-Pour créer un modèle de serveur, il faut se rendre dans `Paramètres du serveur > Modèle de serveur`. Il est alors demandé de fournir un nom et une description pour le modèle de serveur (celle-ci ne devra pas excéder 120 caractères, et il n'est pas possible d'utiliser la syntaxe Markdown). Une fois ces informations renseignées, il faut cliquer sur le bouton `Générer un modèle` bleu. Apparaît alors un lien sous la forme `https://discord.new/xxxxxxxxxxxx`. Lors de l'ouverture de ce lien dans le navigateur, Discord affiche une fenêtre pour créer son serveur à partir d'un modèle de serveur: le nombre de personnes ayant utilisé le modèle est affiché. Il est alors possible de modifier le nom et l'icône du serveur en création.
+Pour créer un modèle de serveur, il faut se rendre dans `Paramètres du serveur > Modèle de serveur`. À cet endroit se trouve un formulaire pour décrire le serveur en question, et, une fois validé, un lien pointant vers le modèle de serveur apparaît aussi.
 
-
-:::note Note : Une fois un serveur créé à partir d'un modèle, celui-ci ne s'adapte plus en fonction du modèle. Il peut être modifié à volonté sans affecter le modèle de base.
+:::note Note : Une fois un serveur créé à partir d'un modèle, celui-ci ne s'adapte plus en fonction du modèle. Aucune modification effectuée sur le modèle de base ne sera prise en compte sur un serveur découlant d'un modèle.
 :::
 
 ![Section modèle de serveur des paramètres](https://i.discord.fr/Dch6.png)
@@ -36,4 +35,4 @@ Pour supprimer un modèle de serveur, il est nécessaire de se rendre dans la se
 
 :::caution Attention ! Cette action est irréversible. :::
 
-:::note Note : La suppression d'un serveur modèle entraîne la suppression du modèle. :::
+:::note Note : La suppression d'un serveur ayant un modèle entraîne la suppression du modèle en question. :::
