@@ -17,17 +17,17 @@ Il est nécessaire de disposer de la permission `Gérer les évènements` sur le
 
 ## La planification d'évènements
 
-Discord propose la planification d'évèneemnts directement sur l'application. Il est possible d'en organiser un en sélectionnant l'option "Créer un évènement", situé dans la barre de menu en-dessous du bouton permettant de créer une catégorie.
+Discord propose la planification d'évènements directement sur l'application. Il est possible d'en organiser un en sélectionnant l'option "Créer un évènement", situé dans la barre de menu en-dessous du bouton permettant de créer une catégorie.
 
 ![Roue dentée menu du serveur - Création Event](https://i.discord.fr/lTLf.png)
 
-Plusieurs informations sont ensuite demandées par l'application dans le menu qui s'ouvre, à savoir l'emplacement de l'évènement (soit dans un salon vocal, soit dans un [Stage Channel](https://discord.fr/wiki/interface/salon-vocal/stage-channels/), ou alors dans un endroit extérieur) ainsi que divers détails (le sujet de celui-ci, la date et l'heure de début et de fin, ainsi qu'une description). Enfin, il faudra vérifier les informations fournies et confirmer la création de l'évènement.
+Plusieurs informations sont ensuite demandées par l'application dans le menu qui s'ouvre, à savoir l'emplacement de l'évènement ainsi que divers détails sur celui-ci.
 
 > Emplacement de l'évènement 
 
 ![Emplacement - Création Event](https://i.discord.fr/9oI4.png)
 
-> Détails sur l'évènement 
+> Détails sur l'évènement
 
 ![Informations demandées - Création Event](https://i.discord.fr/JziR.png)
 
@@ -69,7 +69,7 @@ Afin de marquer son intérêt pour un évènement et d'être en conséquence not
 
  - Partager un évènement
 
-Afin de partager un évènement, il est nécessaire de disposer de la permission `Créer une invitation`. Il faut ensuite se rendre sur le bouton "Évènements" et cliquer sur "Partager".
+Pour partager un évènement, il est nécessaire de disposer de la permission `Créer une invitation`. Il faut ensuite se rendre sur le bouton "Évènements" et cliquer sur "Partager".
 
 ![Partager un évènement](https://i.discord.fr/R7Q8.png)
 
