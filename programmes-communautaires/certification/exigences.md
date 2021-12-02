@@ -10,7 +10,7 @@ keywords:
 description: Les exigences de la certification de serveurs
 ---
 La page sur ce qu'est la certification de serveurs et pour postuler est disponible [ici](https://discord.com/verification).
-## Les exigences de la certification de serveurs
+
 *********************
 
 Pour faire vérifier son serveur il faut respecter plusieurs conditions:
