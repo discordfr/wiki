@@ -14,3 +14,4 @@ Le mode développeur permet d'activer des options supplémentaires sur Discord. 
 
 ## Activer le mode développeur
 Le mode développeur est activable pour tous les utilisateurs discord dans les paramètres d'utilisateur. Après activation, l'utilisateur aura accès aux fonctionnalités citées ci-dessus.
+![Mode dev](https://i.discord.fr/exfh.png)
