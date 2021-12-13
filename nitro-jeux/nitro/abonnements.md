@@ -38,6 +38,7 @@ Encore une fois, il y a des avantages supplémentaires, comme :
 * La taille des messages est doublée, elle passe de 2000 à 4000 caractères
 * La limite du nombre de serveurs pouvant être rejoint double pour atteindre 200
 * 300 stickers exclusifs à Nitro et la possibilité d'utiliser les stickers personnalisés sur n'importe où.
+* Pouvoir choisir une photo de profil, une bannière et une descripion par serveur.
 
 :::note 
 Si un utilisateur est présent sur plus de 100 serveurs à la fin de son abonnement Discord Nitro, il restera sur tous les serveurs sur lesquels il est. Il lui sera toutefois impossible d'en rejoindre ou d'en créer davantage tant qu'il ne sera pas redescendu en dessous de cette limite. 
