@@ -12,7 +12,7 @@ description: Les modèles de serveurs sur discord
 ---
 
 
-Un serveur Discord peut à tout moment devenir un **modèle de serveur**. Il permet de faire une copie de la configuration du serveur facilement et d'aider quelqu'un d'autre à créer un serveur instantanément. Lorsqu'une personne utilise un modèle de serveur, elle crée un nouveau serveur avec les mêmes salons, rôles, permissions et paramètres que celui de base. 
+L'option **modèle de serveur** peut-être activée à tout moment sur n'importe quel serveur. Elle permet de faire une copie de la configuration du serveur facilement et d'aider quelqu'un d'autre à créer un serveur instantanément. Lorsqu'une personne utilise un modèle de serveur, elle crée un nouveau serveur avec les mêmes salons, rôles, permissions et paramètres que celui de base.
 
 
 :::caution Attention ! Les modèles de serveur ne copient pas les messages, threads ou tout autre contenu, les membres ou bots ainsi que l'icône du serveur, ses [boosts](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/) et ses avantages. Les emojis, autocollants et les paramètres de communauté ne seront pas enregistrés.
@@ -33,6 +33,8 @@ Une fois un modèle de serveur créé, tout changement (comme la création d'un 
 ### Suppression
 Pour supprimer un modèle de serveur, il est nécessaire de se rendre dans la section `Modèle de serveur` des paramètres du serveur et de cliquer sur le bouton rouge `Supprimer le modèle`.
 
-:::caution Attention ! Cette action est irréversible. :::
+:::caution Attention ! Cette action est irréversible.
+:::
 
-:::note Note : La suppression d'un serveur ayant un modèle entraîne la suppression du modèle en question. :::
+:::note Note : La suppression d'un serveur ayant un modèle entraîne la suppression du modèle en question.
+:::
