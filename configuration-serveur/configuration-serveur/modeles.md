@@ -18,20 +18,12 @@ L'option **modèle de serveur** peut-être activée à tout moment sur n'importe
 :::caution Attention ! Les modèles de serveur ne copient pas les messages, threads ou tout autre contenu, les membres ou bots ainsi que l'icône du serveur, ses [boosts](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/) et ses avantages. Les emojis, autocollants et les paramètres de communauté ne seront pas enregistrés.
 :::
 
-### Création
-Pour créer un modèle de serveur, il faut se rendre dans `Paramètres du serveur > Modèle de serveur`. À cet endroit se trouve un formulaire pour décrire le serveur en question, et, une fois validé, un lien pointant vers le modèle de serveur apparaît aussi.
-
-:::note Note : Une fois un serveur créé à partir d'un modèle, celui-ci ne s'adapte plus en fonction du modèle. Aucune modification effectuée sur le modèle de base ne sera prise en compte sur un serveur découlant d'un modèle.
-:::
+Il est possible de créer, synchroniser et supprimer un modèle de serveur dans les `Paramètres du serveur > Modèle de serveur` (la synchronisation est le fait de mettre à jour le modèle par rapport au serveur de base, ayant été modifié). 
 
 ![Section modèle de serveur des paramètres](https://i.discord.fr/Dch6.png)
 
-
-### Modification et synchronisation
-Une fois un modèle de serveur créé, tout changement (comme la création d'un salon) engendrera une alerte venant de Discord. Le serveur a des changements qui n'apparaîtront pas lors de l'utilisation d'un modèle de serveur. Il faut alors se rendre dans la partie `Modèle de serveur` des paramètres du serveur et cliquer sur le bouton bleu `Synchroniser le modèle`. Dès lors, les changements apparaîtront dans les nouvelles futures utilisations du modèle.
-
-### Suppression
-Pour supprimer un modèle de serveur, il est nécessaire de se rendre dans la section `Modèle de serveur` des paramètres du serveur et de cliquer sur le bouton rouge `Supprimer le modèle`.
+:::note Note : Une fois un serveur créé à partir d'un modèle, celui-ci ne s'adapte plus en fonction du modèle. Aucune modification effectuée sur le modèle de base ne sera prise en compte sur un serveur découlant d'un modèle.
+:::
 
 :::caution Attention ! Cette action est irréversible.
 :::
