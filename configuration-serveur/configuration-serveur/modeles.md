@@ -14,7 +14,8 @@ description: Les modeles de serveurs sur discord
 Les modèles de serveur sont des serveurs tout faits, que vous pouvez utiliser directement pour créer un serveur !
 # Créer un modèle
 Pour créer un modèle, rendez-vous dans les **paramètres du serveur > modèle de serveur**
-![Comment créer un modèle(]https://i.imgur.com/G2fERDp.png)
+![Comment créer un modèle](https://i.imgur.com/G2fERDp.png)
+
 Cela se présente comme ceci :
 ![Comment créer un modèle partie 2](https://i.imgur.com/wAsCGnH.png)
 Donnez un nom et une description à votre modèle :
