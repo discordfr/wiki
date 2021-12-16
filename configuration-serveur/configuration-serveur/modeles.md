@@ -23,7 +23,7 @@ Il est possible de créer, synchroniser et supprimer un modèle de serveur dans 
 
 ![Section modèle de serveur des paramètres](https://i.discord.fr/Dch6.png)
 
-:::note Note :
+:::note Notes :
 - Une fois un serveur créé à partir d'un modèle, celui-ci ne s'adapte plus en fonction du modèle. Aucune modification effectuée sur le modèle de base ne sera prise en compte sur un serveur découlant d'un modèle.
 - La suppression d'un serveur modèle entraîne la suppression du modèle en question : il ne sera plus possible de l'utiliser, cependant les serveurs créés à partir du modèle resteront en tant que tels.
 :::
