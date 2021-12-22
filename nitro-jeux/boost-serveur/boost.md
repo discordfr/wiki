@@ -58,6 +58,7 @@ Voici les fonctionnalités qui peuvent être débloquées à chaque palier :
 * Qualité audio améliorée (384ko/s)
 * URL personnalisée pour l'invitation du serveur
 * Limite de téléchargement pour tous les membres de 100Mo
+* Bannière animée de serveur
 
 ## Comment procéder à l'achat de boost ?
 Pour cela, il faut se rendre sur le serveur en question, et cliquer sur "Boost de serveur". Si l'utilisateur possède des boosts inclus dans un abonnement Nitro, il peut également donner ses boosts au serveur avec le même bouton.
