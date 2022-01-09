@@ -10,10 +10,10 @@ description: Explication du fonctionnement des dossiers de serveurs
 ---
 
 ### Que sont les dossiers de serveurs ?
-Les dossiers de serveurs permettent de trier les serveurs, de les séparer afin d'avoir une meilleure expérience utilisateur. La personnalisation de la couleur, du nom du dossier y est possible. N'oubliez pas que les badges de mentions sont également regroupés.
+Les dossiers de serveurs permettent de trier les serveurs, de les séparer afin d'avoir une meilleure expérience utilisateur. La personnalisation de la couleur, du nom du dossier y est possible. Les badges de mentions sont également regroupés.
 
 ### Comment créer, modifier ou supprimer un dossier ?
-Pour créer un dossier de serveur, il faudra maintenir un serveur et le faire glisser sur un autre. Cependant, un clic droit sur le dossier et sur "Paramètres du dossier" permettra d'effectuer des modifications. Pour supprimer un serveur d’un dossier, il suffit de le faire glisser loin du dossier. Une fois qu’un dossier n’a pas de serveurs à l’intérieur, il sera automatiquement supprimé.
+Pour créer un dossier de serveurs, il faudra maintenir un serveur et le faire glisser sur un autre. Cependant, un clic droit sur le dossier et sur "Paramètres du dossier" permettra d'effectuer des modifications. Pour supprimer un serveur d’un dossier, il suffit de le faire glisser loin du dossier. Une fois qu’un dossier n’a pas de serveurs à l’intérieur, il sera automatiquement supprimé.
 
 ![Création d'un dossier](https://i.discord.fr/pC9.gif)
 
