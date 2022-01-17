@@ -12,11 +12,11 @@ description: L'utilisation des embeds sur discord
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Les embeds sont des éléments intégrés à l'application de façon à proposer des messages plus riches en informations et en contenu, ils sont notamment utilisés par les développeurs de bots pour les interactions bots - utilisateurs.
+Les embeds sont des éléments intégrés à l'application de façon à proposer des messages plus riches en informations et en contenu, ils sont notamment utilisés par les développeurs de bots pour les interactions entre bots et utilisateurs.
 
 ## Où trouver des embeds ?
 ### Les intégrations de liens
-Discord intègre automatiquement les entêtes d'une page Web dans un embed en incluant le titre de la page, une description ou encore une image. Mais il intègre aussi des services connus tels que YouTube ou Twitter pour afficher des informations complémentaires sur les contenus partagés par l'utilisateur.
+Discord intègre automatiquement les entêtes d'une page Web dans un embed en incluant le titre de la page, une description ou encore une image si l'auteur du message possède la permission `Intégrer des liens` et que le lien n'est pas entouré de chevrons : `<http://example.com>` n'affichera pas d'embed. Discord intègre aussi des services connus tels que YouTube ou Twitter pour afficher des informations complémentaires sur les contenus partagés par l'utilisateur.
 
 <Tabs
   defaultValue="website"
@@ -33,19 +33,20 @@ Discord intègre automatiquement les entêtes d'une page Web dans un embed en in
 ### Les bots et WebHooks
 L'API de Discord permet d'envoyer des messages contenant des embeds personnalisés comme s'ils étaient issus d'un lien. Il est possible d'envoyer des embeds à travers un WebHook ou un utilisateur bot (Un utilisateur lambda ne peut pas intégrer d'embed à ses messages en dehors d'un lien partagé).
 
-![](https://i.discord.fr/dh4.png)
+![Exemple d'embed envoyé depuis un webhook](https://i.discord.fr/dh4.png)
 
 ## Documentation et limitations
-Les embeds permettent de communiquer plus d'informations qu'un message simple, les limitations sont données [dans la documentation API de Discord](https://i.discord.fr/dh4.png), vous pouvez également les retrouver plus bas.
+Les embeds permettent de communiquer plus d'informations qu'un message simple, les limitations sont données [dans la documentation API de Discord](https://discord.com/developers/docs/resources/channel#embed-limits), et sont résumées ci-dessous.
 
 ### Tableau des limitations
 <table>
   <tr><td>Champ</td><td>Limite</td></tr>
   <tr><td>Titre</td><td>256 caractères maximum</td></tr>
-  <tr><td>Description</td><td>2048 caractères maximum</td></tr>
+  <tr><td>Description</td><td>4096 caractères maximum</td></tr>
   <tr><td>Fields</td><td>25 fields différents maximum</td></tr>
   <tr><td>Nom du field</td><td>256 caractères maximum par field</td></tr>
   <tr><td>Contenu du field</td><td>1024 caractères maximum par field</td></tr>
   <tr><td>Footer</td><td>2048 caractères maximum</td></tr>
   <tr><td>Auteur</td><td>256 caractères maximum</td></tr>
+  <tr><td>Total</td><td>6000 caractères maximum</td></tr>
 </table>
