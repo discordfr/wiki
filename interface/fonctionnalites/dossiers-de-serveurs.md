@@ -9,7 +9,6 @@ keywords:
 description: Explication du fonctionnement des dossiers de serveurs
 ---
 
-### Que sont les dossiers de serveurs ?
 Les dossiers de serveurs permettent de trier les serveurs, de les séparer afin d'avoir une meilleure expérience utilisateur. La personnalisation de la couleur, du nom du dossier y est possible. Les icônes affichant les mentions de chaque serveur sont également regroupées en une seule.
 
 ### Création, modification et suppression
