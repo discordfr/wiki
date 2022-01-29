@@ -11,14 +11,12 @@ keywords:
 description: Les notes de mise à jour de Discord
 ---
 
-
-### Qu'est-ce que les notes de mise à jour ?
 Les notes de mise à jour sont des informations à propos des mises à jour de Discord. Elles contiennent des informations
 de base sur les nouvelles fonctionnalités, ainsi que d'autres annonces telles que les offres d'emploi.
 Elles sont automatiquement affichées lors du rédemarrage de l'application après une nouvelle mise à jour.
-Cependant, il n'y a pas de notes pour _toutes_ les mises à jour.
+Cependant, il n'y a pas de notes pour _toutes_ les mises à jour. Elles regroupent souvent plusieurs mises à jour.
 
-### Comment les trouver
+## Trouver leur emplacement
 Même lorsqu'il n'y a pas de nouvelles notes de mise à jour, il est possible de retrouver la dernière note dans les
 paramètres en cliquant sur « Notes de mise à jour ».
 
