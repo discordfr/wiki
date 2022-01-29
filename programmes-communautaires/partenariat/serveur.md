@@ -51,19 +51,19 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
  
  #### Une bannière d'invitation de serveur personnalisée 
  
-La bannière personnalisée se trouve à l'arriere plan d'une invitation, elle s'obtient également au le niveau 1 de [boosts de serveur](https://discord.fr/nitro-jeux/boost-serveur/boost.md).
+La bannière personnalisée se trouve à l'arriere plan d'une invitation, elle s'obtient également au niveau 1 des [boosts de serveur](https://discord.fr/nitro-jeux/boost-serveur/boost.md).
 
 ![Bannière d'invitation de serveur](https://i.discord.fr/Y06.png)
 
 #### Une URL personnalisée
 
-L'url personnalisée permet d'avoir un lien d'invitation discord.gg/lien, elle s'obtient également avec le niveau 3 de [boosts de serveur](https://discord.fr/nitro-jeux/boost-serveur/boost.md).
+L'url personnalisée permet d'avoir un lien d'invitation sur le modèle discord.gg/lien, disponible à partir du niveau 3 des [boosts de serveur](https://discord.fr/nitro-jeux/boost-serveur/boost.md).
 
 ![Url de serveur personnalisée](https://i.discord.fr/2w7.png)
 
 #### Des salons vocaux avec une meilleure qualité audio
 
-Le partenariat avec Discord permet d'avoir des salons vocaux avec une qualité audio qui peut aller jusqu'à 384 kbps.
+Le partenariat avec Discord permet d'avoir des salons vocaux avec une qualité audio qui peut s'élever jusqu'à 384 kbps.
 
 ![Salon vocal 384 kbps exemple](https://i.discord.fr/xqm.png)
 
@@ -75,8 +75,6 @@ Badge d'un serveur partenaire:
 
 ![Serveur Partner](https://i.discord.fr/4Z0.png)
 
-
 Un badge sera également donné au propriétaire d'un serveur partenaire:
 
 ![Badge user Partner](https://i.discord.fr/C0F.png)
-
