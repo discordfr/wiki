@@ -15,7 +15,7 @@ Un widget permet d'avoir un aperçu d'un serveur Discord directement sur une pag
 ## Comment utiliser un widget ?
 
 Le widget s'active dans la section "Widget" des paramètres du serveur (cadre rouge). La balise HTML contenant le widget (orange) peut être integrée dans n'importe quelle page web.
-![Section widget](https://i.discord.fr/LmPt.pngg)
+![Section widget](https://i.discord.fr/LmPt.png)
 
 :::note
 - Il ne faut pas oublier d'activer le widget (vert)
