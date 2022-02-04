@@ -57,7 +57,7 @@ La bannière personnalisée se trouve à l'arriere plan d'une invitation, elle s
 
 #### Une URL personnalisée
 
-L'url personnalisée permet d'avoir un lien d'invitation sur le modèle discord.gg/lien, disponible à partir du niveau 3 des [boosts de serveur](https://discord.fr/nitro-jeux/boost-serveur/boost.md).
+L'url personnalisée permet d'avoir un lien d'invitation sur le modèle discord.gg/{lien}, disponible à partir du niveau 3 des [boosts de serveur](https://discord.fr/nitro-jeux/boost-serveur/boost.md).
 
 ![Url de serveur personnalisée](https://i.discord.fr/2w7.png)
 
