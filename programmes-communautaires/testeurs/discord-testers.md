@@ -15,10 +15,10 @@ description: Explication du fonctionnement du serveur Discord Testers et de ses 
 ---
 
 ### Qu'est-ce que le serveur [Discord Testers](https://discord.gg/discord-testers) et ses membres ?
-Le serveur Discord Testers est officiel, les employés de l'entreprise le dirigent. Il sert à réunir toute personne veuillant aider à chercher des bugs, failles sur les différents systèmes pour aider le réseau. Ces utilisateurs sont souvent appelés par leur nom de tier (exemple: Bug Hunter). Ils peuvent également faire l'office de test sur de futures nouveautés, qui doivent être testées avant d'être déployés au grand public.
+Le serveur Discord Testers est officiel, les employés de l'entreprise le dirigent. Il sert à réunir toute personne voulant aider à chercher des bugs, failles sur les différents systèmes pour aider le réseau. Ces utilisateurs sont souvent appelés par leur nom de tier (exemple: Bug Hunter). Ils peuvent également faire l'office de test sur de futures nouveautés, qui doivent être testées avant d'être déployées au grand public.
 
 ### Quels sont les différents tiers ?
-Les tiers permettent d'obtenir des avantages divers entre ces dernièrs.
+Les tiers permettent d'obtenir des avantages divers.
 
 ![Tableau des différents tiers](https://i.discord.fr/sab.png)
 
@@ -38,7 +38,7 @@ Les tiers permettent d'obtenir des avantages divers entre ces dernièrs.
 
 #### Tier 3 (Bug Squasher)
 ##### Pré-requis
-* Avoir un certains nombres de bugs approuvés (non divulgués)
+* Avoir un certain nombre de bugs approuvés (non divulgué)
 * Ancien rang de Bug Hunter
 ##### ➜ Débloque
 * Queue d'approuvement
@@ -47,7 +47,7 @@ Les tiers permettent d'obtenir des avantages divers entre ces dernièrs.
 #### Tier 4 (Bug Tracker ou Trackeur de Bug)
 ##### Pré-requis
 * Démonstration de l'utilisation de la queue d'approuvement
-* Avoir un certains nombres de bugs approuvés (non divulgués)
+* Avoir un certain nombre de bugs approuvés (non divulgué)
 * Ancien rang de Bug Squasher
 ##### ➜ Débloque
 * Tests Discord Focus (aussi dit tests de mise au point)
@@ -55,8 +55,8 @@ Les tiers permettent d'obtenir des avantages divers entre ces dernièrs.
 
 #### Tier 5 (Bug Terminator ou Terminateur de Bug)
 ##### Pré-requis
-* Maintenir son activité dans une période de 6 mois
-* Avoir un certains nombres de bugs approuvés (non divulgués) ou avoir effectuer une aide remarquable sur les tests de mise au point
+* Maintenir son activité durant une période de 6 mois
+* Avoir un certain nombre de bugs approuvés (non divulgué) ou avoir effectué une aide remarquable sur les tests de mise au point
 * Ancien rang de Bug Tracker
 ##### ➜ Débloque
 * Badge Bug Hunter "Doré"
