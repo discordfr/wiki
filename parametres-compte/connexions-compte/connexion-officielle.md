@@ -27,8 +27,9 @@ Voici la liste des sites avec lesquels il est possible de relier son compte :
  - Le service jeu en ligne de Microsoft, [Xbox Live](https://xbox.com).
  - Le service de streaming musical [Spotify](https://spotify.com), vous pouvez retrouver un [article dédié à cette connexion ici](https://discord.fr/wiki/parametres-compte/connexions-compte/connexion-spotify/).
  - Le site d'hébergement de code source [Github](https://github.com).
+ - La plateforme de jeu [PlayStation Network](https://playstation.com). 
 
-![Toutes les possibilités de connexion](https://i.discord.fr/cbZ.png)
+![Toutes les possibilités de connexion](https://i.discord.fr/AFRj.jpg)
 
 ## Relier son compte Discord à l'une des connexions
 
