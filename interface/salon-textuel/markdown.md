@@ -26,7 +26,7 @@ Discord permet également de [citer](https://discord.fr/wiki/interface/salon-tex
 <img alt="ExempleQuote" src="https://i.discord.fr/EV1.png" class="docImage"/>
 
 ## Les blocs spoilers
-Durant l'année 2019 Discord a ajouté les blocs de spoilers. Cette fonctionnalité fonctionne comme le reste de la mise en forme Markdown. Il permet de cacher du texte à la première vue d'un utilisateur, et donc ainsi de ne pas dévoiler une chose importante sur un film par exemple à des utilisateurs ne voulant pas connaitre la fin en avance. Pour mettre des spoilers dans un message, il faut utiliser la commande implémentée dans Discord /spoiler (qui cachera la totalité du message) ou entourer la zone à cacher avec deux caractères `||`. Ce qui donnera :
+Durant l'année 2019 Discord a ajouté les blocs de spoilers. Cette fonctionnalité fonctionne comme le reste de la mise en forme Markdown. Elle permet de cacher du texte à la première vue d'un utilisateur, et donc ainsi de ne pas dévoiler une chose importante sur un film par exemple à des utilisateurs ne voulant pas connaitre la fin en avance. Pour mettre des spoilers dans un message, il faut utiliser la commande implémentée dans Discord /spoiler (qui cachera la totalité du message) ou entourer la zone à cacher avec deux caractères `||`. Ce qui donnera :
 
 <img alt="ExempleSpoilers" src="https://i.discord.fr/vmX.png" class="docImage"/>
 
