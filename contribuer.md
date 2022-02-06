@@ -167,4 +167,4 @@ N'hésitez pas à regarder des articles déjà en ligne, pour copier des éléme
 
 #### Liens pour les nerds
 
-[Docusaurus V2 Markdown](https://v2.docusaurus.io/docs/markdown-features/) (Anglais)
+[Docusaurus V2 Markdown](https://docusaurus.io/fr/docs/markdown-features) 
