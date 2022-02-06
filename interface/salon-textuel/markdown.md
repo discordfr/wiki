@@ -21,12 +21,12 @@ Affichera:
 <img alt="ExemplePhrase" src="https://i.discord.fr/HBj.png" class="docImage"/>
 
 ## Les blocs de citation
-Discord permet également de [citer](https://discord.fr/wiki/interface/salon-textuel/citations) d'autres messages. Cette mise en forme est faisable en mettant le signe `>` devant une nouvelle ligne. Ce qui donnera:
+Discord permet également de [citer](https://discord.fr/wiki/interface/salon-textuel/citations) d'autres messages. Cette mise en forme est réalisable en mettant le signe `>` devant une nouvelle ligne. Ce qui donnera:
 
 <img alt="ExempleQuote" src="https://i.discord.fr/EV1.png" class="docImage"/>
 
 ## Les blocs spoilers
-Durant l'année 2019 Discord a ajouté les blocs de spoilers. Cette fonctionnalité fonctionne comme le reste de la mise en forme Markdown et permet de cacher du texte à la premiere vue d'un utilisateur, ce qui empèche de dévoiler une chose importante sur un film par exemple à des utilisateurs ne voulant pas connaitre la fin en avance. Pour mettre des spoilers dans un message, il faut entourer la zone à cacher avec deux caractères `||`. Ce qui donnera :
+Durant l'année 2019 Discord a ajouté les blocs de spoilers. Cette fonctionnalité fonctionne comme le reste de la mise en forme Markdown. Elle permet de cacher du texte à la première vue d'un utilisateur, et donc ainsi de ne pas dévoiler une chose importante sur un film par exemple à des utilisateurs ne voulant pas connaitre la fin en avance. Pour mettre des spoilers dans un message, il faut utiliser la commande implémentée dans Discord /spoiler (qui cachera la totalité du message) ou entourer la zone à cacher avec deux caractères `||`. Ce qui donnera :
 
 <img alt="ExempleSpoilers" src="https://i.discord.fr/vmX.png" class="docImage"/>
 
@@ -43,12 +43,12 @@ Il est possible de mettre un message en couleur en utilisant ce même markdown.
 :::
 
 ## La mise en forme rapide
-Pour faciliter l'utilisation de la mise en forme, Discord a également ajouté une fonctionalité de mise en forme rapide (Disponible uniquement sur l'application Windows, Linux, MacOS ainsi que l'application Web). Pour utiliser la mise en forme rapide il suffit de sélectionner avec la souris ou au clavier la zone à modifier et plusieurs boutons apparaitrons pour mettre en forme le texte:
+Pour faciliter l'utilisation de la mise en forme, Discord a également ajouté une fonctionalité de mise en forme rapide (Disponible uniquement sur l'application Windows, Linux, MacOS ainsi que l'application Web). Pour l'utiliser, il suffit de sélectionner avec la souris ou le clavier la zone à modifier et plusieurs boutons apparaîtront pour mettre en forme le texte:
 
 <img alt="Selector" src="https://i.discord.fr/ejU.png" class="docImage"/>
 
 ## Les raccourcis claviers
-Plusieurs raccourcits claviers sont disponible pour gagner du temps lors de la mise en forme. Pour les utiliser il suffit de sélectionner le texte à mettre forme et effectuer une combinaison de touche comme suit:
+Plusieurs raccourcis claviers sont disponible pour gagner du temps lors de la mise en forme. Pour les utiliser il suffit de sélectionner le texte à mettre forme et effectuer une combinaison de touche comme suit:
 
 - <kbd>Ctrl</kbd> + <kbd>I</kbd>: *Italique*
 - <kbd>Ctrl</kbd> + <kbd>B</kbd>: **Gras**
