@@ -9,7 +9,6 @@ keywords:
   - tutoriel
 description: Les applications autorisées sur son compte discord
 ---
-# Les applications autorisées
 
 Les applications sont créées sur le [portail développeurs](https://discord.com/developers/) de Discord. Elles permettent de "se connecter avec discord", comme le font plusieurs tableaux de bord de bots Discord.
 
