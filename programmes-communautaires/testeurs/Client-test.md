@@ -9,11 +9,11 @@ description: Les différents clients test de Discord
 
 # Les clients test de Discord
 
-Les clients test de Discord ont été mit en place afin que la communauté puisse testé certaines fonctionnalités en avance, cependant ce sont des clients assez instable qui contiennent de nombreux [bugs](https://dfr.gd/bugreport).
+Discord donne la possibilité à la communauté de tester certaines fonctionnalités en avance, cependant ces clients sont assez instables et contiennent de nombreux [bugs](https://dfr.gd/bugreport).
 
 ### Comment y avoir accès sur son ordinateur ?
 
-Avant tout, il existe 3 version sous  windows, la version [stable](https://discord.com/download), en d'autre terme, la version classique, la version béta, disponible dans [la page des téléchargements de discord](https://discord.com/download), puis la version [alpha](https://discord.com/api/downloads/distributions/app/installers/latest?platform=win&channel=canary&arch=x86), la moins stable.
+Sous windows, il existe 3 version testable, la version [stable](https://discord.com/download), en d'autre terme, la version classique, la version béta, disponible dans [la page des téléchargements de discord](https://discord.com/download), puis la version [alpha](https://discord.com/api/downloads/distributions/app/installers/latest?platform=win&channel=canary&arch=x86), la moins stable.
 
 ### Comment y avoir accès sur un appareil IOS ?
 
