@@ -13,13 +13,13 @@ description: Les recherches de messages avancées sur Discord
 
 Sur Discord, il est possible de rechercher un ou plusieurs messages parmi tout ceux envoyés sur un serveur. En haut à droite de l'écran, se trouve une barre de recherche (cadre rouge).
 
-<img alt="La barre de recherche" src="https://i.imgur.com/MgV3mUc.png"/>
+<img alt="La barre de recherche" src="https://i.discord.fr/CBsW.png"/>
 
 ## Trier les résultats
 
 En tapant une phrase ou un mot, puis en appuyant sur la touche <kbd>Entrée</kbd>, l'application affiche les résultats de la recherche. Il est également possible de choisir la méthode de tri parmi: `Nouveau` / `Ancien` / `Pertinent`.
 
-<img alt="Taper une phrase et chercher" src="https://i.imgur.com/x8ciPLj.gif" width="" height="435" />
+<img alt="Taper une phrase et chercher" src="https://i.discord.fr/0abE.gif" width="" height="435" />
 
 ## Filtrer les résultats
 
