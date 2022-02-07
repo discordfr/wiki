@@ -19,7 +19,7 @@ Sur Discord, il est possible de rechercher un ou plusieurs messages parmi tout c
 
 En tapant une phrase ou un mot, puis en appuyant sur la touche <kbd>Entrée</kbd>, l'application affiche les résultats de la recherche. Il est également possible de choisir la méthode de tri parmi: `Nouveau` / `Ancien` / `Pertinent`.
 
-<img alt="Taper une phrase et chercher" src="https://i.discord.fr/0abE.gif" width="" height="435" />
+<img alt="Taper une phrase et chercher" src="https://i.discord.fr/0abE.gif" />
 
 ## Filtrer les résultats
 
