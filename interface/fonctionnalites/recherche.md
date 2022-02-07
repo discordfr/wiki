@@ -11,20 +11,20 @@ keywords:
 description: Les recherches de messages avancées sur Discord
 ---
 
-Sur Discord, il est possible de rechercher un ou plusieurs messages parmi tout ceux envoyés sur un serveur. En haut à droite de l'écran, se trouve une barre de recherche avec l'étiquette `Rechercher`.
+Sur Discord, il est possible de rechercher un ou plusieurs messages parmi tout ceux envoyés sur un serveur. En haut à droite de l'écran, se trouve une barre de recherche (cadre rouge).
 
-<img alt="La barre de recherche" src="https://i.discord.fr/NPo.png"/>
+<img alt="La barre de recherche" src="https://i.discord.fr/CBsW.png"/>
 
 ## Trier les résultats
 
-En tapant une phrase, puis en appuyant sur la touche <kbd>Entrée</kbd>, l'application affiche les résultats de la recherche. Il est également possible de choisir la méthode de tri: `Nouveau` / `Ancien` / `Pertinent`.
+En tapant une phrase ou un mot, puis en appuyant sur la touche <kbd>Entrée</kbd>, l'application affiche les résultats de la recherche. Il est également possible de choisir la méthode de tri parmi: `Nouveau` / `Ancien` / `Pertinent`.
 
-<img alt="Taper une phrase et chercher" src="https://i.discord.fr/82v.gif" width="" height="435" />
+<img alt="Taper une phrase et chercher" src="https://i.discord.fr/0abE.gif" />
 
-## Les préfixes
+## Filtrer les résultats
 
-La barre de recherche permet aux utilisateurs d'employer des préfixes pour spécifier leur recherches.
-Ces préfixes permettent de chercher par :
+Il est possible d'affinier une recherche à l'aide de differents préfix.
+Ces préfixes permettent de faire une recherche par :
 - auteur
 - mentions
 - texte contenu
@@ -33,17 +33,24 @@ Ces préfixes permettent de chercher par :
 - salon
 
 <table>
-  <tr><td>Type de recherche</td><td>Préfixe</td></tr>
+  <tr><td>Type de recherche</td><td>Utilisation du préfixe</td></tr>
   <tr><td>Auteur</td><td>`de:` + Pseudo de l'auteur</td></tr>
   <tr><td>Texte contenu</td><td>Texte</td></tr>
-  <tr><td>Contenu</td><td>`contient:` + [type de contenu](#types-de-contenu)</td></tr>
+  <tr><td>Contenu</td><td>`contient:` + type de contenu *(voir plus bas)*</td></tr>
   <tr><td>Avant telle date</td><td>`avant:` + date</td></tr>
   <tr><td>Pendant telle date</td><td>`pendant:` + date</td></tr>
   <tr><td>Après telle date</td><td>`après:` + date</td></tr>
   <tr><td>Salon</td><td>`dans:` + nom du salon</td></tr>
 </table>
 
+:::note Note
 Il est possible d'utiliser plusieurs préfixes en même temps pour améliorer la précision de la recherche.
+:::
+:::tip Astuce
+Le raccourci `CTRL + F` permet de rechercher parmi les messages du salon actuel.
+:::
 
 ## Types de contenu
+
+Le préfixe `contient:` accepte les paramètres suivants:
 ![Types de contenu](https://i.discord.fr/fcLV.png)
