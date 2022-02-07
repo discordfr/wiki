@@ -36,7 +36,7 @@ Ces préfixes permettent de faire une recherche par :
   <tr><td>Type de recherche</td><td>Utilisation du préfixe</td></tr>
   <tr><td>Auteur</td><td>`de:` + Pseudo de l'auteur</td></tr>
   <tr><td>Texte contenu</td><td>Texte</td></tr>
-  <tr><td>Contenu</td><td>`contient:` + [type de contenu]</td></tr>
+  <tr><td>Contenu</td><td>`contient:` + type de contenu *(voir plus bas)*</td></tr>
   <tr><td>Avant telle date</td><td>`avant:` + date</td></tr>
   <tr><td>Pendant telle date</td><td>`pendant:` + date</td></tr>
   <tr><td>Après telle date</td><td>`après:` + date</td></tr>
