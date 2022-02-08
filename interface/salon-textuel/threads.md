@@ -11,22 +11,22 @@ keywords:
 description: Les threads sur Discord
 ---
 
-Les threads, sur Discord, permettent aux utilisateurs d'avoir des "sous-discusions" au sein d'un salon textuel.
+Les threads, sur Discord, permettent aux utilisateurs d'avoir des "sous-discussions" au sein d'un salon textuel.
 
 ## Création/Supression de threads
 ### La création de threads
 
-Afin de créer un salon thread sur un serveur, il faut avoir une des permissions suivantes : "Utiliser des fils publics" ; "Utiliser des fils privés" ; "Gérer les fils" . Les threads, tout comme les salons textuels, les salons vocaux ou les salons d'annonces, peuvent être publics ou privés.
+Afin de créer un thread sur un serveur, il faut avoir une des permissions suivantes : "Créer des fils publics" ; "Créer des fils privés" ; "Gérer les fils" . Les threads, tout comme les salons textuels, les salons vocaux ou les salons d'annonces, peuvent être publics ou privés.
 
 ![Création d'un thread](https://i.discord.fr/xeH.png)
-### Le suppression de threads
+### La suppression de threads
 Pour supprimer un thread, il faut cliquer sur les trois points en haut à droite du thread puis sur "Supprimer le fil".
 
 ## Configuration 
 
 Pour configurer un thread, il faut cliquer sur les trois points en haut à droite du thread puis sur "Modifier le fil".
 :::note
-Il est nécéssaire d'avoir créé le thread ou d'avoir la permission "Gérer les Threads" pour pouvoir l'éditer.
+Il est nécessaire d'avoir créé le thread ou d'avoir la permission "Gérer les Threads" pour pouvoir l'éditer.
 :::
 
 
@@ -36,12 +36,12 @@ Il est possible de modifier le nom d'un thread.
 
 ![Modifier le nom](https://i.discord.fr/G95.png)
 :::note
-Contrairement aux noms de salons textuels, il est possible de mettre des espaces et majuscules dans le nom des threads.
+Contrairement aux noms de salons textuels, il est possible de mettre des espaces et des majuscules dans le nom des threads.
 :::
 
 ### Le mode lent
 
-Le mode lent permet de limiter le nombre de messages par utilisateur sur un intervalle, comme le même paramètre sur les salons classiques. Les utilisateurs avec la permission "Gérer les messages" ou "Gérer les fils" sont exemptés de cette limitation.
+Le mode lent permet de limiter le nombre de messages qu'un utilisateur peut envoyer sur un intervalle de temps choisi, de la même manière que sur les salons classiques. Les utilisateurs avec la permission "Gérer les messages" ou "Gérer les fils" ainsi que le créateur du thread sont exemptés de cette limitation.
 
 ![Mode lent](https://i.discord.fr/rdC.png)
 
@@ -63,8 +63,9 @@ Les threads archivés peuvent être consultés ou rouverts à tout moment.
 ## Les permissions
 
 Voici la liste des permissions liées aux threads :
-- Utiliser des fils publics : permet de discuter dans les threads et d'en commencer de nouveaux dans les salons où la permission "Envoyer des messages" est activée.
-- Utiliser des fils privés : possibilité de créer des threads privés en plus des avantages de la permission au-dessus.
+- Créer des fils publics : permet de créer de nouveaux threads publics.
+- Créer des fils privés : permet de créer de nouveaux threads privés.
+- Envoyer des messages dans les fils : permet d'envoyer des messages dans tous les types de thread. 
 - Gérer les fils : capacité d'activer le mode lent, de supprimer et d'archiver/désarchiver les threads.
 
 ### Autre option
