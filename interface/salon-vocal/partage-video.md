@@ -24,7 +24,7 @@ Seuls les utilisateurs disposant de la permission de partager leur caméra (cf l
 
  - Vue sous forme de grille.
 
-Les appels vidéos ou les streams dans les serveurs commencent par défaut sous cette vue. Tous les streams et vidéos du salon peuvent ainsi être visionnées de façon conjointe.
+Les appels vidéos ou les streams dans les serveurs commencent par défaut sous cette vue. Tous les streams et vidéos du salon peuvent ainsi être visionnés de façon conjointe.
 
 <img alt="Vue sous forme de grille" src="https://i.discord.fr/NoE.png" width="150px" />
 
@@ -54,23 +54,23 @@ Les conditions suivantes doivent être vérifiées pour partager sa vidéo :
 
  - Disposer de la permission vocale "Vidéo".
  - Être connecté à un salon vocal.
- Deux icônes s'affichent alors, permettant le partager de la caméra ou de l'écran.
+ Deux icônes s'affichent alors, permettant le partage de la caméra ou de l'écran.
 
 ![Image des icônes](https://i.discord.fr/TnO.png)
 
 ### Partage de la vidéo
 
-Pour partager sa vidéo avec les autres utilisateurs présents dans le salon vocal, il faut d'appuyer sur le bouton "Vidéo" dans le coin inférieur gauche du panneau vocal et vidéo. Une fois votre vidéo en cours de partage, une petite icône de caméra s'affichera à côté de son nom.
+Pour partager sa vidéo avec les autres utilisateurs présents dans le salon vocal, il faut appuyer sur le bouton "Vidéo" dans le coin inférieur gauche du panneau vocal et vidéo. Une fois votre vidéo en cours de partage, une petite icône de caméra s'affichera à côté de son nom.
 
 ![Image de l'icône vidéo](https://i.discord.fr/qYF.png)
 
 ### Partage de l'écran
 
-Discord offre aussi la possibilité de partager son écran (de "streamer"). Pour ce faire, il faut cliquer sur l'icône <img src="" width="14" height="14" />.
+Discord offre aussi la possibilité de partager son écran (de "streamer"). Pour se faire, il faut cliquer sur l'icône <img src="" width="14" height="14" />.
 Une nouvelle fenêtre s'ouvrira alors, permettant de sélectionner l'onglet, l'application ou bien l'écran entier à partager. Une fois le partage d'écran activé, les mots " "Stream en cours" s'afficheront à droite du nom de l'utilisateur.
 
 ![Image de la fenêtre](https://i.discord.fr/lmk.png)
 
 :::note
-Bien que plusieurs personnes puissent partager du contenu en même temps, les utilisateurs ne peuvent en regarder qu'un seul en même temps.
+Bien que plusieurs personnes puissent partager du contenu en même temps, les utilisateurs ne peuvent en regarder qu'un seul à la fois.
 :::
