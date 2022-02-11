@@ -10,7 +10,6 @@ keywords:
   - tutoriel
 description: Le partage vidéo sur discord
 ---
-# Le partage vidéo sur Discord
 
 L'application Discord propose aux utilisateurs connectés dans un salon vocal la possibilité de partager leur vidéo ou leur écran. 50 personnes au maximum peuvent simultanément partager du contenu.
 
