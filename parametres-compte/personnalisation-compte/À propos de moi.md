@@ -10,7 +10,7 @@ description: Fonctionnalité À propos de moi sur Discord.
 
 ## Fonctionnalité À propos de moi 
 
-Sur Discord, il est possible de personnalisé son [profil](https://discord.fr/wiki/parametres-compte/personnalisation-compte/profil/) et d'y ajouter plusieurs informations sur soi-même. L'utilisateur a la possibilité de mettre du texte, des liens, des émojis par défaut, des émojis personnalisés, et même d'utiliser la syntaxe [Markdown](https://discord.fr/wiki/interface/salon-textuel/markdown/). 
+Sur Discord, il est possible de personnaliser son [profil](https://discord.fr/wiki/parametres-compte/personnalisation-compte/profil/) et d'y ajouter plusieurs informations sur soi-même. L'utilisateur a la possibilité de mettre du texte, des liens, des émojis par défaut, des émojis personnalisés, et même d'utiliser la syntaxe [Markdown](https://discord.fr/wiki/interface/salon-textuel/markdown/). 
 
 Voici un exemple de personnalisation de son " À propos de moi ".
 
