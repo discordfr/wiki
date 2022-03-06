@@ -30,7 +30,7 @@ Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un
 <br />
 
 **La spécificité de ce badge est son caractère évolutif selon les durées suivantes :**
-<img src="https://i.discord.fr/jZ6.png" width="700" height="175" />
+<img src="https://i.discord.fr/jZ6.png"/>
 
 <br />
 
