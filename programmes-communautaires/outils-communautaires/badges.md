@@ -37,7 +37,7 @@ Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un
 ## Les badges des maisons Hypesquad <img src= "https://i.discord.fr/N5s.png" width="17" height="17" /> <img src= "https://i.discord.fr/ig0.png" width="17" height="17" /> <img src= "https://i.discord.fr/bVC.png" width="17" height="17" />
 > *Il y a longtemps, un grand esprit maléfique est sorti de son sommeil et a ravagé la terre. Au moment où l'humanité en avait besoin, trois héros ont émergé de la lumière et ont vaincu les mauvais esprits. L'humanité était tellement exaltée que de nos jours, ces héros sont honorés grâce au programme des maisons HypeSquad.*
 
-<img src="https://i.discord.fr/MIU.png" width="672" height="250" />
+<img src="https://i.discord.fr/MIU.png" />
 
 À n'importe quel moment il est possible de rejoindre l'une de ces trois maisons en répondant au questionnaire disponible dans les paramètres de discord sous la catégorie "HypeSquad" sur ordinateur.
 Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégration à  l'une des trois maisons sera immédiate : 
