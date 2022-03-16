@@ -45,6 +45,16 @@ Le Wiki nécessite une forme de rédaction unie afin de le rendre accessible à 
 
 **Note:** Toutes les images doivent être hébergées sur le service d'images i.discord.fr, n'hésitez pas à demander à les faire héberger dans la Pull Request.
 
+## Notre Discord dédié
+
+Nous avons créé un serveur Discord afin d'encourager l'entraide et la contribution sur le site Discord.fr, il nous permet de nous organiser et échanger entre contributeurs. Si vous souhaitez nous rejoindre, vous pouvez le faire en cliquant sur le bouton ci-dessus.
+
+<div align="center">
+    <a href="https://discord.com/invite/fkkCXsBrmE">
+        <img src="https://img.shields.io/static/v1?label=Discord&message=Serveur%20Discord.fr&color=5865F2&style=for-the-badge&logo=discord">
+    </a>
+</div>
+
 ## Liens importants
 
 <img src="https://i.discord.fr/DhsG.png" height="16px"/> [Syntaxe Markdown spécifique à Docusaurus](https://docusaurus.io/docs/markdown-features)
