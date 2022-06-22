@@ -4,13 +4,13 @@ Bienvenue sur le Wiki Discord Francophone du site Discord.fr. Nous avons pour ob
 
 <div align="center">
     <a href="https://discord.com/invite/fr">
-        <img src="https://img.shields.io/static/v1?label=Discord&message=Nous%20Rejoindre&color=5865F2&style=for-the-badge&logo=discord">
+        <img src="https://img.shields.io/static/v1?label=Discord&message=Nous%20Rejoindre&color=5865F2&style=for-the-badge&logo=discord"/>
     </a>
     <a href="https://patreon.com/fr">
-        <img src="https://img.shields.io/static/v1?label=Patreon&message=Nous%20Soutenir&color=FF424D&style=for-the-badge&logo=patreon">
+        <img src="https://img.shields.io/static/v1?label=Patreon&message=Nous%20Soutenir&color=FF424D&style=for-the-badge&logo=patreon"/>
     </a>
-    <img src='https://user-images.githubusercontent.com/45918948/156405841-0ebf6804-cde8-4713-b531-b9a6ca18444f.svg#gh-dark-mode-only' align='center' style="padding-top: 30px">
-    <img src='https://user-images.githubusercontent.com/45918948/156405871-1e19fed9-a223-45ca-ae34-415752c1c3c5.svg#gh-light-mode-only' align='center' style="padding-top: 30px">
+    <img src='https://user-images.githubusercontent.com/45918948/156405841-0ebf6804-cde8-4713-b531-b9a6ca18444f.svg#gh-dark-mode-only' align='center' style="padding-top: 30px"/>
+    <img src='https://user-images.githubusercontent.com/45918948/156405871-1e19fed9-a223-45ca-ae34-415752c1c3c5.svg#gh-light-mode-only' align='center' style="padding-top: 30px"/>
 </div>
 
 ## Contribuer au Wiki
@@ -51,7 +51,7 @@ Nous avons créé un serveur Discord afin d'encourager l'entraide et la contribu
 
 <div align="center">
     <a href="https://discord.com/invite/fkkCXsBrmE">
-        <img src="https://img.shields.io/static/v1?label=Discord&message=Serveur%20Discord.fr&color=5865F2&style=for-the-badge&logo=discord">
+        <img src="https://img.shields.io/static/v1?label=Discord&message=Serveur%20Discord.fr&color=5865F2&style=for-the-badge&logo=discord"/>
     </a>
 </div>
 
@@ -65,4 +65,4 @@ Nous avons créé un serveur Discord afin d'encourager l'entraide et la contribu
 
 <img src="https://i.discord.fr/hG2E.png" height="16px"/> [Blog Discord Officiel](https://discord.com/blog)
 
-<img src="https://i.discord.fr/hG2E.png" height="16px"> [Centre d'aide de Discord](https://support.discord.com/hc/en-us)
+<img src="https://i.discord.fr/hG2E.png" height="16px"/> [Centre d'aide de Discord](https://support.discord.com/hc/en-us)
