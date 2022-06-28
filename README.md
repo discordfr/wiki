@@ -30,6 +30,8 @@ Afin que la gestion du wiki soit la plus efficace possible, plusieurs règles so
 
 - **Ne créez pas de fichier par vous-même.** Si jamais l'article que vous souhaitez rédiger n'est pas présent, ouvrez [une Issue](https://github.com/discordfr/wiki/issues/new) et suggérez l'ajout du fichier pour qu'un membre de l'équipe s'en occupe. *Vous pouvez utiliser le modèle donné pour la suggestion d'article.*
 
+- **Un problème avec le wiki ? Ouvrez une issue.** Si vous voyez une faute, une approximation, un changement à faire en général mais que vous ne souhaitez pas ouvrir de Pull Request, ouvrez plutôt une [Issue](https://github.com/discordfr/wiki/issues/new) pour informer les contributeurs volontaires de ce qu'il faut changer.
+
 ### Règles de rédaction et de mise en forme 
 
 Le Wiki nécessite une forme de rédaction unie afin de le rendre accessible à tous. C'est pourquoi il est obligatoire de suivre certaines règles quand on rédige sur ce dernier :
