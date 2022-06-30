@@ -1,5 +1,4 @@
 ---
-id: introduction
 title: Introduction au Wiki
 description: Wiki contributif pour le logiciel Discord.
 hide_title: false
