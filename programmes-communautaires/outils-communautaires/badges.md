@@ -48,9 +48,7 @@ Les réponses soumises scelleront le destin du membre *(ou pas)* et l'intégrati
 <br />
 
 
-### Badges de la HypeSquad en or :
-![Badge_en_or_Hypesquad_2](https://i.discord.fr/LtdH.png)
-
+### Badges de la HypeSquad en or <img src= "https://i.discord.fr/LtdH.png" width="54" height="29" />
 
 ![Badge en or HS profil](https://i.discord.fr/BMxk.jpg)
 
