@@ -1,5 +1,4 @@
 ---
-id: profil
 title: Les profils sur discord
 keywords:
   - discord
