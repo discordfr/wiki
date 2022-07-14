@@ -1,5 +1,4 @@
 ---
-id: connexion-officielle
 title: Les connexions officielles
 keywords:
   - discord
