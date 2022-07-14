@@ -1,5 +1,4 @@
 ---
-id: applications-autorisees
 title: Les applications autorisées
 keywords:
   - discord
