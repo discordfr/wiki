@@ -1,5 +1,4 @@
 ---
-id: contribuer
 title: Contribuer au Wiki de Discord FR
 description: Contribuer est une chose importante pour le Wiki de Discord FR, apprenez comment nous aider sur cette page. :)
 image: https://i.discord.fr/9yU.png
