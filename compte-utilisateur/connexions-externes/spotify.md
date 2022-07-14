@@ -1,5 +1,4 @@
 ---
-id: connexion-spotify
 title: La connexion Spotify
 keywords:
   - discord
