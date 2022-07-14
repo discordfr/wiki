@@ -1,5 +1,4 @@
 ---
-id: statuts-personnalise
 title: Les statuts personnalisés
 keywords:
   - discord
