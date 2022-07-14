@@ -1,5 +1,4 @@
 ---
-id: gestion-emojis-et-stickers
 title: Gestion des émojis et des stickers
 keywords:
   - discord
