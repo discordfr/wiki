@@ -1,5 +1,4 @@
 ---
-id: boost
 title: Le Nitro Boosting
 keywords:
   - discord
