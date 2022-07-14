@@ -1,5 +1,4 @@
 ---
-id: badges
 title: Les différents badges discord
 keywords:
   - badges
