@@ -1,5 +1,6 @@
 ---
 title: Les profils sur discord
+slug: /compte-utilisateur/personnalisation-profil
 keywords:
   - discord
   - profils

@@ -1,5 +1,6 @@
 ---
 title: Les serveurs communautaires
+slug: /gestion-serveur/outils-communautaires
 keywords:
   - discord
   - serveur
