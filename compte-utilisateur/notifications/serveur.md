@@ -1,5 +1,4 @@
 ---
-id: notifications-serveurs
 title: Les notifications par serveurs 
 keywords:
   - discord
