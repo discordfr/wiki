@@ -1,5 +1,4 @@
 ---
-id: exigences
 title: Les exigences de la certification
 keywords:
   - discord

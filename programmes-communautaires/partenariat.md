@@ -1,5 +1,4 @@
 ---
-id: serveur
 title: Les serveurs partenaires
 keywords:
   - discord

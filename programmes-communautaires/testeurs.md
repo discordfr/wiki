@@ -1,5 +1,4 @@
 ---
-id: discord-testers
 title: Le serveur Discord Testers
 keywords:
   - discord
