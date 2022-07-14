@@ -1,5 +1,4 @@
 ---
-id: qr-code
 title: Connexion via un QR Code
 keywords:
   - discord
