@@ -1,5 +1,4 @@
 ---
-id: widget
 title: Les widgets Discord
 keywords:
   - discord
