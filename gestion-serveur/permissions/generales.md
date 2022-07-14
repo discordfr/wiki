@@ -1,5 +1,4 @@
 ---
-id: generales
 title: Permissions Générales
 keywords:
   - discord

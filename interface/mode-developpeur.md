@@ -1,5 +1,4 @@
 ---
-id: mode-developpeur
 title: Le mode développeur
 keywords:
   - discord

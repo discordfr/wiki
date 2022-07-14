@@ -1,5 +1,4 @@
 ---
-id: membership-gating
 title: Le Member Gating
 keywords:
   - discord

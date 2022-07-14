@@ -1,5 +1,4 @@
 ---
-id: textuelles
 title: Permissions Textuelles
 keywords:
   - discord

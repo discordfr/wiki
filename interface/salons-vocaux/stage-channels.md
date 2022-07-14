@@ -1,5 +1,4 @@
 ---
-id: stage-channels
 title: Les Stage Channels
 keywords:
   - discord

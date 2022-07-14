@@ -1,5 +1,4 @@
 ---
-id: recherche-messages
 title: Les recherches de messages avancées
 keywords:
   - discord

@@ -1,5 +1,4 @@
 ---
-id: partage-video
 title: Le partage vidéo en vocal
 keywords:
   - discord

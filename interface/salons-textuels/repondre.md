@@ -1,5 +1,4 @@
 ---
-id: repondre
 title: "Répondre"
 keywords:
   - discord

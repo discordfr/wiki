@@ -1,5 +1,4 @@
 ---
-id: statistiques-serveur
 title: Les statistiques de serveurs
 keywords:
   - discord

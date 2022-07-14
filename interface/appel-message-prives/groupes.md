@@ -1,5 +1,4 @@
 ---
-id: groupes-prives
 title: Les groupes privés
 keywords:
   - discord

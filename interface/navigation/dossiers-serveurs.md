@@ -1,5 +1,4 @@
 ---
-id: dossiers-serveurs
 title: Les dossiers de serveurs
 keywords:
   - discord

@@ -1,5 +1,4 @@
 ---
-id: threads
 title: Les threads
 keywords:
   - discord

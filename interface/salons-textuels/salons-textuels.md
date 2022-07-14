@@ -1,5 +1,4 @@
 ---
-id: salons-textuels
 title: Les salons textuels
 keywords:
   - discord

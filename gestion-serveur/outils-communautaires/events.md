@@ -1,5 +1,4 @@
 ---
-id: evenements
 title: Planification d'évènements
 keywords:
   - discord

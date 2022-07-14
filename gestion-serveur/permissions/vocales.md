@@ -1,5 +1,4 @@
 ---
-id: vocales
 title: Permissions Vocales
 keywords:
   - discord

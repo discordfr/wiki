@@ -1,5 +1,4 @@
 ---
-id: notes-de-maj
 title: Les notes de mises à jour
 keywords:
   - discord

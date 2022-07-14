@@ -1,5 +1,4 @@
 ---
-id: propriete
 title: Le transfert de propriété
 keywords:
   - discord

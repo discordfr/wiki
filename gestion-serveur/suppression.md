@@ -1,5 +1,4 @@
 ---
-id: suppression-serveur
 title: La suppression de serveur
 keywords:
   - discord

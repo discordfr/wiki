@@ -1,5 +1,4 @@
 ---
-id: emojis-reactions
 title: Les émojis et les réactions
 keywords:
   - discord

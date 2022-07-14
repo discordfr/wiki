@@ -1,5 +1,4 @@
 ---
-id: markdown
 title: Ecriture Markdown
 keywords:
   - discord
