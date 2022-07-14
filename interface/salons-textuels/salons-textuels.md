@@ -1,6 +1,6 @@
 ---
 title: Les salons textuels
-slug: interface/salons-textuels
+slug: /interface/salons-textuels
 keywords:
   - discord
   - serveur
