@@ -1,5 +1,4 @@
 ---
-id: a2f
 title: L'authentification à deux facteurs
 keywords:
   - discord
