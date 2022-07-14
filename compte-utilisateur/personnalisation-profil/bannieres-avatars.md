@@ -1,5 +1,4 @@
 ---
-id: banniere-profil
 title: Les bannières de profil
 keywords:
   - discord
