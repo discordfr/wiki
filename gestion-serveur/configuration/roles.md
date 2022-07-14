@@ -1,5 +1,4 @@
 ---
-id: roles
 title: Les rôles
 keywords:
   - discord
