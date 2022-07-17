@@ -3,7 +3,7 @@ title: Discussion vocale
 keywords:
   - discord
   - discussion vocale
-description: 
+description: Discussion vocale
 ---
 
 :::info L'article n'existe pas encore

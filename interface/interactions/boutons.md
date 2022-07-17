@@ -3,7 +3,7 @@ title: Boutons
 keywords:
   - discord
   - boutons
-description: 
+description: Boutons
 ---
 
 :::info L'article n'existe pas encore

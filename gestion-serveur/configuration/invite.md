@@ -4,7 +4,7 @@ keywords:
   - discord
   - invitation personnalisé
   - vanity
-description: 
+description: Lien d’invitation personnalisé
 ---
 
 :::info L'article n'existe pas encore

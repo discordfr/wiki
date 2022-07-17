@@ -4,7 +4,7 @@ keywords:
   - discord
   - statut activité
   - activité
-description: 
+description: Les Statuts d’activité
 ---
 
 :::info L'article n'existe pas encore

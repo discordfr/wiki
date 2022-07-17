@@ -4,7 +4,7 @@ keywords:
   - discord
   - authentification
   - sms
-description: 
+description: Authentification de secours par SMS
 ---
 
 :::info L'article n'existe pas encore

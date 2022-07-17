@@ -3,7 +3,7 @@ title: Les Intégrations
 keywords:
   - discord
   - intégrations
-description: 
+description: Les Intégrations
 ---
 
 :::info L'article n'existe pas encore

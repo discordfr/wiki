@@ -5,7 +5,7 @@ keywords:
   - notification
   - email
   - paramètres
-description: 
+description: Notifications d’email
 ---
 
 :::info L'article n'existe pas encore

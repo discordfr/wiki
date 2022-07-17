@@ -4,7 +4,7 @@ keywords:
   - discord
   - inbox
   - boîte de réception
-description: 
+description: La boîte de réception
 ---
 
 :::info L'article n'existe pas encore

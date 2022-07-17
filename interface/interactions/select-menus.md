@@ -3,7 +3,7 @@ title: Menus de sélection
 keywords:
   - discord
   - select menus
-description: 
+description: Menus de sélection
 ---
 
 :::info L'article n'existe pas encore

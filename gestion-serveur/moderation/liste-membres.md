@@ -4,7 +4,7 @@ keywords:
   - discord
   - serveur
   - membres
-description: 
+description: Liste des membres
 ---
 
 :::info L'article n'existe pas encore

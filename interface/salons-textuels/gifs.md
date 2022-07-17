@@ -3,7 +3,7 @@ title: Les GIFs
 keywords:
   - discord
   - gif
-description: 
+description: Les GIFs
 ---
 
 :::info L'article n'existe pas encore

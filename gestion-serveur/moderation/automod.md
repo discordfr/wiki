@@ -3,7 +3,7 @@ title: AutoMod
 keywords:
   - discord
   - automod
-description: 
+description: AutoMod
 ---
 
 :::info L'article n'existe pas encore

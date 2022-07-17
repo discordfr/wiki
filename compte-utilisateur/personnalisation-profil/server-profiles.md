@@ -4,7 +4,7 @@ keywords:
   - discord
   - server profiles
   - profils de serveur
-description: 
+description: Les Profils de serveur
 ---
 
 :::info L'article n'existe pas encore

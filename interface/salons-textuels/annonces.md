@@ -3,7 +3,7 @@ title: Les Salons d'Annonces
 keywords:
   - discord
   - annonces
-description: 
+description: Les Salons d'Annonces
 ---
 
 :::info L'article n'existe pas encore

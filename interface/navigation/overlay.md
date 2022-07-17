@@ -3,7 +3,7 @@ title: L'Overlay en jeu
 keywords:
   - discord
   - overlay
-description: 
+description: L'Overlay en jeu
 ---
 
 :::info L'article n'existe pas encore

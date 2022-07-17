@@ -4,7 +4,7 @@ keywords:
   - discord
   - serveur
   - invitations
-description: 
+description: Les Invitations
 ---
 
 :::info L'article n'existe pas encore

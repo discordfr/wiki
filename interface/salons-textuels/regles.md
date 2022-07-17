@@ -4,7 +4,7 @@ keywords:
   - discord
   - règles
   - règlement
-description: 
+description: Les Salons règlement
 ---
 
 :::info L'article n'existe pas encore

@@ -3,7 +3,7 @@ title: Home
 keywords:
   - discord
   - home
-description: 
+description: Home
 ---
 
 :::info L'article n'existe pas encore

@@ -3,7 +3,7 @@ title: Les Catégories
 keywords:
   - discord
   - catégories
-description: 
+description: Les Catégories
 ---
 
 :::info L'article n'existe pas encore

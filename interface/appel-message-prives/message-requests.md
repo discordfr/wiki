@@ -4,7 +4,7 @@ keywords:
   - discord
   - message requests
   - demandes de messages
-description: 
+description: Les Demandes de messages
 ---
 
 :::info L'article n'existe pas encore

@@ -5,7 +5,7 @@ keywords:
   - serveur
   - permissions
   - membres
-description: 
+description: Permissions de membres
 ---
 
 :::info L'article n'existe pas encore

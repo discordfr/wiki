@@ -3,7 +3,7 @@ title: Soundboard
 keywords:
   - discord
   - soundboard
-description: 
+description: Soundboard
 ---
 
 :::info L'article n'existe pas encore

@@ -3,7 +3,7 @@ title: Écosystème d'administration
 keywords:
   - discord
   - administration
-description: 
+description: Écosystème d'administration
 ---
 
 :::info L'article n'existe pas encore

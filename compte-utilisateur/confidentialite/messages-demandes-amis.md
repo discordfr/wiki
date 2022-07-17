@@ -5,7 +5,7 @@ keywords:
   - confidentialité
   - messages
   - demandes amis
-description: 
+description: Les Messages et demandes d’amis
 ---
 
 :::info L'article n'existe pas encore

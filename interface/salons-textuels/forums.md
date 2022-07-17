@@ -3,7 +3,7 @@ title: Les Forums
 keywords:
   - discord
   - forums
-description: 
+description: Les Forums
 ---
 
 :::info L'article n'existe pas encore

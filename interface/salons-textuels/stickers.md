@@ -3,7 +3,7 @@ title: Les Stickers
 keywords:
   - discord
   - stickers
-description: 
+description: Les Stickers
 ---
 
 :::info L'article n'existe pas encore

@@ -4,7 +4,7 @@ keywords:
   - discord
   - confidentialité
   - données personnelles
-description: 
+description: Les Données personnelles
 ---
 
 :::info L'article n'existe pas encore

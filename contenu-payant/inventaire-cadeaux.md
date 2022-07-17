@@ -3,7 +3,7 @@ title: L'inventaire des cadeaux
 keywords:
   - discord
   - cadeaux
-description: 
+description: L'inventaire des cadeaux
 ---
 
 :::info L'article n'existe pas encore

@@ -4,7 +4,7 @@ keywords:
   - discord
   - serveur
   - écran d’accueil
-description: 
+description: Écran d’accueil
 ---
 
 :::info L'article n'existe pas encore

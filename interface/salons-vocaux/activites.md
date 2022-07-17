@@ -3,7 +3,7 @@ title: Activités
 keywords:
   - discord
   - activites
-description: 
+description: Activités
 ---
 
 :::info L'article n'existe pas encore

@@ -3,7 +3,7 @@ title: Slash Commands
 keywords:
   - discord
   - slash commands
-description: 
+description: Slash Commands
 ---
 
 :::info L'article n'existe pas encore

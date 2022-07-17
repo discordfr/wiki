@@ -4,7 +4,7 @@ keywords:
   - discord
   - krips
   - reduction de bruit
-description: 
+description: Réduction de bruit, Krisp
 ---
 
 :::info L'article n'existe pas encore

@@ -3,7 +3,7 @@ title: Changer de compte
 keywords:
   - discord
   - switch accounts
-description: 
+description: Changer de compte
 ---
 
 :::info L'article n'existe pas encore

@@ -3,7 +3,7 @@ title: Les Infractions
 keywords:
   - discord
   - infractions
-description: 
+description: Les Infractions
 ---
 
 :::info L'article n'existe pas encore

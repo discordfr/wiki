@@ -4,7 +4,7 @@ keywords:
   - discord
   - attachments
   - pièces jointes
-description: 
+description: Les Pièces jointes
 ---
 
 :::info L'article n'existe pas encore

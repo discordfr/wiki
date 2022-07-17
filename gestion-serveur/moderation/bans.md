@@ -4,7 +4,7 @@ keywords:
   - discord
   - serveur
   - bans
-description: 
+description: Liste des bannissements
 ---
 
 :::info L'article n'existe pas encore

@@ -4,7 +4,7 @@ keywords:
   - discord
   - serveur
   - premium membership
-description: 
+description: Premium Membership
 ---
 
 :::info L'article n'existe pas encore

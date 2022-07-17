@@ -4,7 +4,7 @@ keywords:
   - discord
   - avatar decorations
   - décorations avatar
-description: 
+description: Les Décorations d’avatar
 ---
 
 :::info L'article n'existe pas encore

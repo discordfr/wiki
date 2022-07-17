@@ -3,7 +3,7 @@ title: Menus contextuels
 keywords:
   - discord
   - menus contextuels
-description: 
+description: Menus contextuels
 ---
 
 :::info L'article n'existe pas encore
