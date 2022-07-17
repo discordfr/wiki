@@ -8,4 +8,8 @@ keywords:
   - member gating
 description: Le Member Gating des serveurs discord
 ---
-Vous voulez contribuer à cette page ? Faites une pull request sur [notre repository GitHub](https://github.com/discordfr/wiki). Suivez les instructions sur [notre page dédiée](https://discord.fr/wiki/contribuer/).
+
+:::info L'article n'existe pas encore
+Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
+Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
+:::

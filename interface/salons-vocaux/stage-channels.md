@@ -1,12 +1,11 @@
 ---
-title: Les Stage Channels
+title: Les Salons de Conférence
 keywords:
   - discord
   - serveur
   - vocal
-  - presentations
+  - conférence
   - stage channels
-  - fonctionnalité
 description: Les Stage Channels sur Discord
 ---
 Les **Stage Channels** sont des salons vocaux spéciaux permettant à un nombre limité d'utilisateurs de parler tandis qu'un plus grand nombre d'auditeurs peuvent être présents à les écouter. 

@@ -5,6 +5,7 @@ keywords:
   - dev
   - developpeur
   - api
+  - identifiant
 description: Le mode développeur sur Discord et ce qu'il active.
 ---
 

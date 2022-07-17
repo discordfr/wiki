@@ -3,10 +3,9 @@ title: Le partage vidéo en vocal
 keywords:
   - discord
   - serveur
-  - vocal
-  - video
+  - webcam
+  - vidéo
   - golive
-  - tutoriel
 description: Le partage vidéo sur discord
 ---
 
@@ -56,9 +55,9 @@ Les conditions suivantes doivent être vérifiées pour partager sa vidéo :
 
 ![Image des icônes](https://i.discord.fr/TnO.png)
 
-### Partage de la vidéo
+### Partage de la webcam
 
-Pour partager sa vidéo avec les autres utilisateurs présents dans le salon vocal, il faut appuyer sur le bouton "Vidéo" dans le coin inférieur gauche du panneau vocal et vidéo. Une fois votre vidéo en cours de partage, une petite icône de caméra s'affichera à côté de son nom.
+Pour partager sa webcam avec les autres utilisateurs présents dans le salon vocal, il faut appuyer sur le bouton "Vidéo" dans le coin inférieur gauche du panneau vocal et vidéo. Une fois votre vidéo en cours de partage, une petite icône de caméra s'affichera à côté de son nom.
 
 ![Image de l'icône vidéo](https://i.discord.fr/qYF.png)
 

@@ -1,5 +1,5 @@
 ---
-title: L'authentification à deux facteurs
+title: L'authentification à deux facteurs (A2F)
 keywords:
   - discord
   - a2f
