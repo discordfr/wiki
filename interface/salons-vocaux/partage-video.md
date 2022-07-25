@@ -7,6 +7,7 @@ keywords:
   - vidéo
   - golive
 description: Le partage vidéo sur discord
+contributors: [derrios, zallom]
 ---
 
 L'application Discord propose aux utilisateurs connectés dans un salon vocal la possibilité de partager leur vidéo ou leur écran. 50 personnes au maximum peuvent simultanément partager du contenu.
