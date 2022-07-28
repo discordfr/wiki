@@ -19,7 +19,7 @@ La fonctionnalité de [QR Code](https://discord.fr/wiki/parametres-compte/connex
 :::
 
 ## Codes de secours
-Lors de l'activation de l'A2F, Discord génère des codes de secours. Ces-derniers permettent à l'utilisateur de se connecter lors de la perte de son application d'authentification.
+Lors de l'activation de l'A2F, Discord génère des codes de secours. Ces-derniers permettent, à l'utilisateur, de se connecter lors de la perte de son application d'authentification.
 
 :::caution
 Discord ne génèrera jamais de codes de secours, ou ne désactivera l'A2F d'un compte sous aucun prétexte, et ce même sur demande explicite de l'utilisateur.
