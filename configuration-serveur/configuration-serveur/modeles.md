@@ -12,14 +12,14 @@ description: Les modèles de serveurs sur discord
 ---
 
 
-L'option **modèle de serveur** peut-être activée à tout moment sur n'importe quel serveur. Elle permet de faire une copie de la configuration du serveur facilement et d'aider quelqu'un d'autre à créer un serveur instantanément. Lorsqu'une personne utilise un modèle de serveur, elle crée un nouveau serveur avec les mêmes salons, rôles, permissions et paramètres que celui de base.
+L'option **modèle de serveur** peut être activée à tout moment et sur n'importe quel serveur. Elle permet de faire une copie de la configuration du serveur facilement et d'aider quelqu'un d'autre à créer un serveur instantanément. Lorsqu'une personne utilise un modèle de serveur, elle créée un nouveau serveur avec les mêmes salons, rôles, permissions et paramètres que celui de base.
 
 
 :::caution Attention !
-Les modèles de serveur ne copient pas les messages, threads ou tout autre contenu, les membres ou bots ainsi que l'icône du serveur, ses [boosts](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/) et ses avantages. Les emojis, autocollants et les paramètres de communauté ne seront pas enregistrés.
+Les modèles de serveur ne copient pas les messages, threads ou tout autre contenu, les membres ou bots ainsi que l'icône du serveur, ses [boosts](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/) et ses avantages. Les emojis, autocollants et les paramètres de communauté ne seront pas enregistrés non plus.
 :::
 
-Il est possible de créer, synchroniser et supprimer un modèle de serveur dans les `Paramètres du serveur > Modèle de serveur` (la synchronisation est le fait de mettre à jour le modèle par rapport au serveur de base, ayant été modifié). 
+Il est possible de créer, synchroniser et supprimer un modèle de serveur dans les Paramètres du serveur section `Modèle de serveur` (la synchronisation est le fait de mettre à jour le modèle par rapport au serveur de base, ayant été modifié). 
 
 ![Section modèle de serveur des paramètres](https://i.discord.fr/Dch6.png)
 
