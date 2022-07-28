@@ -15,7 +15,7 @@ On peut leur allouer des permissions de base.
 Il est nécessaire d'enregistrer les modifications pour qu'elles soient effectives.
 
 :::caution Attention !
-Les permissions des salons sont prioritaires quand elles sont vertes. (voir articles permissions rôles et permissions générales)
+Les permissions des salons sont prioritaires quand elles sont vertes. (voir article des [permissions générales](https://discord.fr/wiki/configuration-serveur/permissions/generales/))
 :::
 
 Le panneau de gestion des rôles est trouvable à cet endroit.
@@ -34,7 +34,7 @@ Il se présente ainsi.
 Ce rôle configure les permissions de base des membres du serveur et est attribué par défaut. Les membres sans aucun rôle seront directement affectés par les permissions de ce dernier. Une permission désactivée sur un rôle en particulier, mais activée sur le rôle everyone, permettra tout de même l'exécution de cette dernière.
 
 :::note Note
-Il n'est pas possible de configurer le nom, l'icône et la couleur de celui-ci, tout comme il est impossible de supprimer ou encore de se retirer ce rôle.
+Il n'est pas possible de configurer le nom, l'icône et la couleur de celui-ci, tout comme il est impossible de supprimer ou encore de se retirer ce rôle - il est invisible mais bien présent chez tout le monde.
 ::: 
 
 
@@ -72,14 +72,11 @@ La couleur "invisible" est celle par défaut. Si un rôle placé en dessous d'un
 
 ![rôle invisible et rôle visible](https://i.discord.fr/cnM8.png)
 
-En plus des 20 couleurs prédéfinies, une roue de couleurs (color wheel) est disponible pour permettre une personnalisation complète de la couleur.
+En plus des 20 couleurs prédéfinies, une roue de couleurs (color wheel) est disponible pour permettre une personnalisation complète de la couleur. Il est aussi possible d'insérer une [couleur hexadécimale](https://45secondes.fr/code-hexadecimal-pour-les-couleurs-tout-sur-la-definition-des-couleurs-hexadecimales/).
 
 ![color wheel](https://i.discord.fr/BZ8z.png)
 
-Cependant, Discord ne préviendra pas si une couleur sera illisible dans vos salons écrits.
-
-![illisibilité de couleur](https://i.discord.fr/FaQ4.png)
-
+Cependant, Discord ne préviendra pas si une couleur sera illisible dans vos salons écrits. Une simple prévisualisation dans la modification du rôle est possible (thême clair/foncé).
 
 ## Les paramètres du rôle
 
@@ -96,11 +93,11 @@ Si activé, chaque utilisateur ou un rôle ayant la permission de mentionner eve
 
 ## Badge de rôle personnalisé 
 
-Depuis peu, il est possible d'ajouter des badges de rôle personnalisé. On ne peut en mettre qu'un par rôle et pour cela le niveau 2 de boost est nécessaire [(Voir Article Nitro Boosting)](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/). /!\ Si L'utilisateur possède plusieurs rôles, seul le badge du rôle le plus élevé sera affiché à droite dans la liste des membres.
+Il est aussi possible d'ajouter des badges de rôle personnalisé. On ne peut en mettre qu'un par rôle, et pour débloquer cette fonctionaté : le serveur doit être au niveau 2 de boost [(Voir Article Nitro Boosting)](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/).
+:::caution À noté
+Si L'utilisateur possède plusieurs rôles ayant des badges, seul le badge le plus élevé dans la liste des rôles sera affiché dans les discussions textuelles.
+:::
 
-Le panneau de gestion se trouve ici 
-
-![Paneau de Gestion](https://i.discord.fr/veaf.png)
 
 Après configuration du bage, voilà ce que cela donne sur le serveur
 
