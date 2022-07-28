@@ -12,7 +12,7 @@ keywords:
   - tutoriel
 description: Gestion des émojis et des stickers
 ---
-Chaque serveur Discord a la possiblité d'ajouter un certain nombre d'émojis et de stickers personnalisés, ceux-ci peuvent être fixes ou animés. La gestion des émojis et des stickers personnalisés nécessite la permission `Gérer les émojis et les stickers` ou `Administrateur`.
+Chaque serveur Discord a la possiblité d'ajouter un certain nombre d'émojis et de stickers personnalisés, ceux-ci peuvent être fixes ou animés. La gestion des émojis et des stickers personnalisés nécessite la permission `Gérer les émojis et les autocollants` ou `Administrateur`.
 
 :::info Information
 Le nombre d'emplacements dépend du [niveau de boost du serveur](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/).
