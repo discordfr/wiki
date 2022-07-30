@@ -5,6 +5,7 @@ keywords:
   - cadeaux
 description: L'inventaire des cadeaux
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

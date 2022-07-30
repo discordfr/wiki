@@ -5,6 +5,7 @@ keywords:
   - selfbot
 description: Selfbot
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

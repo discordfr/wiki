@@ -8,6 +8,7 @@ keywords:
   - member gating
 description: Le Member Gating des serveurs discord
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

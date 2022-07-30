@@ -7,6 +7,7 @@ keywords:
   - membres
 description: Permissions de membres
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

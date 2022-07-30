@@ -5,6 +5,7 @@ keywords:
   - soundboard
 description: Soundboard
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

@@ -7,6 +7,7 @@ keywords:
   - sécurité
 description: Les Configurations de Sécurité
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

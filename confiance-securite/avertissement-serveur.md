@@ -5,6 +5,7 @@ keywords:
   - Avertissement serveur
 description: Avertissement de serveur
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

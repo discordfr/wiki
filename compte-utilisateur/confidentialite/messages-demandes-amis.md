@@ -7,6 +7,7 @@ keywords:
   - demandes amis
 description: Les Messages et demandes d’amis
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

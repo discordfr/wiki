@@ -5,6 +5,7 @@ keywords:
   - menus contextuels
 description: Menus contextuels
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

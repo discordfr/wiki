@@ -6,6 +6,7 @@ keywords:
   - applications
 description: Applications
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

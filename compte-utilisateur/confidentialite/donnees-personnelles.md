@@ -6,6 +6,7 @@ keywords:
   - données personnelles
 description: Les Données personnelles
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

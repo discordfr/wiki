@@ -7,6 +7,7 @@ keywords:
   - discovery
 description: Rejoindre un pôle étudiant sur Discord
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

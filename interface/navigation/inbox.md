@@ -6,6 +6,7 @@ keywords:
   - boîte de réception
 description: La boîte de réception
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

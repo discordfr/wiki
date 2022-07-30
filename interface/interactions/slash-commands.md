@@ -5,6 +5,7 @@ keywords:
   - slash commands
 description: Slash Commands
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

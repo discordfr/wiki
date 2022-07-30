@@ -6,6 +6,7 @@ keywords:
   - bans
 description: Liste des bannissements
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

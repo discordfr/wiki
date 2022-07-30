@@ -5,6 +5,7 @@ keywords:
   - message système
 description: Message Système
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

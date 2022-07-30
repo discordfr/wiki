@@ -6,6 +6,7 @@ keywords:
   - streamer mode
 description: Mode Streamer
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

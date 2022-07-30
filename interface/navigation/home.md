@@ -5,6 +5,7 @@ keywords:
   - home
 description: Home
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

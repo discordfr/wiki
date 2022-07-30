@@ -9,6 +9,7 @@ keywords:
   - sécurité
 description: Utilisation de l'authentification à deux facteurs sur Discord
 contributors: [ichii, volcanofr, xox]
+short_slug: A2F
 ---
 
 ## Le principe

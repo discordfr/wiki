@@ -6,6 +6,7 @@ keywords:
   - pièces jointes
 description: Les Pièces jointes
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

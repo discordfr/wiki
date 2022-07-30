@@ -6,6 +6,7 @@ keywords:
   - dmca
 description: Droits d’auteur (DMCA)
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

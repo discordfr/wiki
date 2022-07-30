@@ -5,6 +5,7 @@ keywords:
   - gif
 description: Les GIFs
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

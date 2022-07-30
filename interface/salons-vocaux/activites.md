@@ -5,6 +5,7 @@ keywords:
   - activites
 description: Activités
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

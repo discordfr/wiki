@@ -5,6 +5,7 @@ keywords:
   - intégrations
 description: Les Intégrations
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

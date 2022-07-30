@@ -5,6 +5,7 @@ keywords:
   - discussion vocale
 description: Discussion vocale
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

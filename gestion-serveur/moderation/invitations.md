@@ -6,6 +6,7 @@ keywords:
   - invitations
 description: Les Invitations
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

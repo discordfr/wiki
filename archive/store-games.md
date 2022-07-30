@@ -6,6 +6,7 @@ keywords:
   - magasin de jeux
 description: Magasin de jeux
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

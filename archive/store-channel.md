@@ -5,6 +5,7 @@ keywords:
   - store channel
 description: Salon Store
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

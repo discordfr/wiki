@@ -5,6 +5,7 @@ keywords:
   - annonces
 description: Les Salons d'Annonces
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

@@ -6,6 +6,7 @@ keywords:
   - signalement
 description: Un bon signalement
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

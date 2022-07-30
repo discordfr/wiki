@@ -6,6 +6,7 @@ keywords:
   - premium membership
 description: Premium Membership
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

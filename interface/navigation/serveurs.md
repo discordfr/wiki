@@ -8,6 +8,7 @@ keywords:
   - invitation
 description: Rejoindre par invitations et création de serveurs Discord
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

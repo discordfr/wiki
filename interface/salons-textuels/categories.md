@@ -5,6 +5,7 @@ keywords:
   - catégories
 description: Les Catégories
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

@@ -6,6 +6,7 @@ keywords:
   - vanity
 description: Lien d’invitation personnalisé
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

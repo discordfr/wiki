@@ -6,6 +6,7 @@ keywords:
   - sms
 description: Authentification de secours par SMS
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

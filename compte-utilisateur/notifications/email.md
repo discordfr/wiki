@@ -7,6 +7,7 @@ keywords:
   - paramètres
 description: Notifications d’email
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

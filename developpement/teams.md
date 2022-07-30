@@ -6,6 +6,7 @@ keywords:
   - teams
 description: Teams
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

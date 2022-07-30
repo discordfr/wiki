@@ -5,6 +5,7 @@ keywords:
   - administration
 description: Écosystème d'administration
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

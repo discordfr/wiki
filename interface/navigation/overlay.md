@@ -5,6 +5,7 @@ keywords:
   - overlay
 description: L'Overlay en jeu
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

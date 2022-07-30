@@ -5,6 +5,7 @@ keywords:
   - modales
 description: Modales
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

@@ -5,6 +5,7 @@ keywords:
   - forums
 description: Les Forums
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

@@ -7,6 +7,7 @@ keywords:
   - conversations
 description: Mettre en Favoris des salons et conversations
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

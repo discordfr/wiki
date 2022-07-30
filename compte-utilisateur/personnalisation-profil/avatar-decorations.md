@@ -6,6 +6,7 @@ keywords:
   - décorations avatar
 description: Les Décorations d’avatar
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

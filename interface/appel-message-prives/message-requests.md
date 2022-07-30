@@ -6,6 +6,7 @@ keywords:
   - demandes de messages
 description: Les Demandes de messages
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

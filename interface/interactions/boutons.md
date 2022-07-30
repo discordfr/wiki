@@ -5,6 +5,7 @@ keywords:
   - boutons
 description: Boutons
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

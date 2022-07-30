@@ -6,6 +6,7 @@ keywords:
   - profils de serveur
 description: Les Profils de serveur
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

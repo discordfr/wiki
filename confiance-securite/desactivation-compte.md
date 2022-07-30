@@ -5,6 +5,7 @@ keywords:
   - désactivation compte
 description: Désactivation de compte
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

@@ -8,6 +8,7 @@ keywords:
   - tutoriel
 description: Utilisation d'un abonnement sur Discord
 contributors: [luke, xox, notix, b2856203]
+short_slug: AboNitro
 ---
 
 ## Qu’est-ce que [Discord Nitro](https://support.discord.com/hc/fr/articles/115000435108-Discord-Nitro-Classic-Nitro) ?

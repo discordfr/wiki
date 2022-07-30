@@ -5,6 +5,7 @@ keywords:
   - modération
 description: Écosystème de modération
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

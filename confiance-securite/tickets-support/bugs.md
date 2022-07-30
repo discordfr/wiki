@@ -6,6 +6,7 @@ keywords:
   - bugs
 description: Vulnérabilités et bugs
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

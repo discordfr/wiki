@@ -5,6 +5,7 @@ keywords:
   - infractions
 description: Les Infractions
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore

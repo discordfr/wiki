@@ -6,6 +6,7 @@ keywords:
   - écran d’accueil
 description: Écran d’accueil
 contributors: []
+short_slug: false
 ---
 
 :::info L'article n'existe pas encore
