@@ -6,6 +6,7 @@ keywords:
   - dossiers
   - dossiers-serveurs
 description: Explication du fonctionnement des dossiers de serveurs
+contributors: [moonrise, karal, xox]
 ---
 
 Les dossiers permettent d'organiser les serveurs en groupes afin d'avoir une meilleure expérience utilisateur. Il est possible de personnaliser la couleur et le nom du dossier. Les icônes affichant les mentions de chaque serveur sont également regroupées en une seule.

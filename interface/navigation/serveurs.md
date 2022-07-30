@@ -7,6 +7,7 @@ keywords:
   - création
   - invitation
 description: Rejoindre par invitations et création de serveurs Discord
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

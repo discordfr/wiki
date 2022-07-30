@@ -4,6 +4,7 @@ keywords:
   - discord
   - slash commands
 description: Slash Commands
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

@@ -8,6 +8,7 @@ keywords:
   - jours
   - mises à jour
 description: Les notes de mises à jour de Discord
+contributors: [jacob, karal, moonrise]
 ---
 
 Les notes de mises à jour expliquent ce qu'il y a de nouveau sur Discord. Elles contiennent essentiellement la présentation des nouvelles fonctionnalités.

@@ -7,6 +7,7 @@ keywords:
   - privé
   - tutoriel
 description: Les groupes privés sur discord
+contributors: [xox]
 ---
 ## Qu'est-ce que les groupes privés ?
 Les groupes privés permettent de regrouper ses amis dans une seule conversation, cela permet à tous les membres du groupe de se parler au même endroit. La personnalisation de l'icône du groupe et de son nom y est possible. Il est aussi possible de désactiver les notifications en rendant la conversation muette. 

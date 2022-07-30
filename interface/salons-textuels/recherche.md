@@ -8,6 +8,7 @@ keywords:
   - avancées
   - barre
 description: Les recherches de messages avancées sur Discord
+contributors: [moonrise, karal]
 ---
 
 Sur Discord, il est possible de rechercher un ou plusieurs messages parmi tout ceux envoyés sur un serveur. En haut à droite de l'écran, se trouve une barre de recherche (cadre rouge).

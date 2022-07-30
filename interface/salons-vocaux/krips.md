@@ -5,6 +5,7 @@ keywords:
   - krips
   - reduction de bruit
 description: Réduction de bruit, Krisp
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

@@ -5,6 +5,7 @@ keywords:
   - statut activité
   - activité
 description: Les Statuts d’activité
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

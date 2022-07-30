@@ -8,6 +8,7 @@ keywords:
   - tutoriel
   - threads
 description: Les threads sur Discord
+contributors: [karal, dragrame]
 ---
 
 Les threads, sur Discord, permettent aux utilisateurs d'avoir des "sous-discussions" au sein d'un salon textuel.

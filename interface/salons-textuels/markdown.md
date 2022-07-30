@@ -7,6 +7,7 @@ keywords:
   - ecriture
   - tutoriel
 description: Discord utilise le langage markdown pour permettre aux utilisateurs de mettre en forme leurs messages. Sa syntaxe simple lui permet d'éditer simplement et rapidement un message.
+contributors: [xox, dragrame]
 ---
 
 ## Syntaxe

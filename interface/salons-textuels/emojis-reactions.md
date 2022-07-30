@@ -7,6 +7,7 @@ keywords:
   - réaction
   - tutoriel
 description: Les émojis et les réactions sur discord
+contributors: [luke]
 ---
 
 Discord offre la possibilité à ses utilisateurs d'utiliser des emojis.

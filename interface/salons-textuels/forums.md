@@ -4,6 +4,7 @@ keywords:
   - discord
   - forums
 description: Les Forums
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

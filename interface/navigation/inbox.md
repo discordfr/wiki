@@ -5,6 +5,7 @@ keywords:
   - inbox
   - boîte de réception
 description: La boîte de réception
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

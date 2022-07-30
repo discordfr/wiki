@@ -7,6 +7,7 @@ keywords:
   - tutoriel
   - reply
 description: La fonctionnalité "Répondre" sur discord
+contributors: [autumn, zallom]
 ---
 La fonctionnalité "répondre" a fait officiellement son apparition le 16/11/2020 dans l'optique de remplacer les citations qui n'étaient pas suffisamment intuitives.
 ![Fontionnalité "répondre"](https://i.discord.fr/aiX.png)

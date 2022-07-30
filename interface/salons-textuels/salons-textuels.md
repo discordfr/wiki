@@ -9,6 +9,7 @@ keywords:
   - tutoriel
   - salons textuels
 description: Les salons textuels sur discord
+contributors: [luke, ichii, xox]
 ---
 Les salons textuels, sur Discord, permettent aux utilisateurs de discuter par message.
 

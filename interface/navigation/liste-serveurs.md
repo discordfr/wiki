@@ -7,6 +7,7 @@ keywords:
   - publics
   - discovery
 description: La liste de serveurs publics intégrée à Discord.
+contributors: []
 ---
 
 :::info L'article n'existe pas encore
