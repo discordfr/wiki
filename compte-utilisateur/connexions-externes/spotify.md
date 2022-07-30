@@ -6,7 +6,8 @@ keywords:
   - connexion
   - musique
   - tutoriel
-description: Spotify est un service streaming musical disponible sur plusieurs plateformes mais aussi sur le web. 
+description: Spotify est un service streaming musical disponible sur plusieurs plateformes mais aussi sur le web.
+contributors: [ichii]
 ---
 Il existe un abonnement sur Spotify permettant d'avoir un accès sans publicité et illimité à toutes les musiques.
 

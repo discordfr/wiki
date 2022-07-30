@@ -4,6 +4,7 @@ keywords:
   - discord
   - modification client
 description: Modification du client
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

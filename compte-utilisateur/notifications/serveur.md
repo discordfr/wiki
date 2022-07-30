@@ -6,6 +6,7 @@ keywords:
   - serveurs
   - paramètres
 description: Les notifications par serveur sur discord
+contributors: [xox]
 ---
 Les notifications par serveur permettent aux utilisateurs de personnaliser les notifications qu'ils souhaitent recevoir sur chacun de leurs serveurs. Très pratique pour ne pas être saturé de notifications.
 

@@ -6,6 +6,7 @@ keywords:
   - permissions
   - membres
 description: Permissions de membres
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

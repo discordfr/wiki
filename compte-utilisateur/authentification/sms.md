@@ -5,6 +5,7 @@ keywords:
   - authentification
   - sms
 description: Authentification de secours par SMS
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

@@ -7,6 +7,7 @@ keywords:
   - partner
   - partenaires
 description: Les serveurs partenaires sur Discord
+contributors: [luke, notix, nekot]
 ---
 
 Le partenariat discord est, pour nombre d'utilisateurs  discord, un _eldorado_, de par les avantages obtenus par les partenaires discord, mais aussi pour les serveurs partenaires, mais aussi par une reconnaissance officielle de discord pour une communauté. 

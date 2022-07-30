@@ -7,6 +7,7 @@ keywords:
   - tutoriel
   - textuel
 description: Les permissions textuelles
+contributors: [autumn, zallom, luke, feoxy]
 ---
 
 ![Permissions des salons textuels](https://i.discord.fr/bJzZ.png)

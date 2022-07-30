@@ -5,6 +5,7 @@ keywords:
   - serveur
   - bans
 description: Liste des bannissements
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

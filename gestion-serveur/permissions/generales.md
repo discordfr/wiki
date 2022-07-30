@@ -7,6 +7,7 @@ keywords:
   - tutoriel
   - générales
 description: Les permissions générales
+contributors: [autumn, zallom]
 ---
 
 ![Permissions](https://i.discord.fr/YNX.png)

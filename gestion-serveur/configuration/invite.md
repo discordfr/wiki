@@ -5,6 +5,7 @@ keywords:
   - invitation personnalisé
   - vanity
 description: Lien d’invitation personnalisé
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

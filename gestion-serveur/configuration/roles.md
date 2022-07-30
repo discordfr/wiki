@@ -7,6 +7,7 @@ keywords:
   - roles
   - permissions
 description: Les rôles sur un serveur Discord
+contributors: [autumn, ichii, dreas, feoxy]
 ---
 
 Sur un serveur Discord, il est possible de créer et personnaliser des rôles ainsi que les attribuer aux utilisateurs présents.

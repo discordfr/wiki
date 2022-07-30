@@ -7,6 +7,7 @@ keywords:
   - tutoriel
   - serveur
 description: Le transfert de propriété de serveurs sur discord
+contributors: [notix, leanks]
 ---
 
 ## À quoi sert le transfert de propriété ?

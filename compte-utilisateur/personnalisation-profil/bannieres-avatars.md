@@ -6,6 +6,7 @@ keywords:
   - profil
   - banniere
 description: Les bannières de profil sur Discord.
+contributors: [romain]
 ---
 ## La bannière de profil sur Discord
 La bannière sur Discord est une image qui peut être personnalisée et qui s'affiche au-dessus du profil d'un utilisateur. Cela peut être une image (statique ou animée) ou une couleur par défaut ou définie par l'utilisateur.

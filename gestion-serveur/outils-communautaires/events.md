@@ -7,6 +7,7 @@ keywords:
   - planification
   - configuration
 description: L'outil de planifications des évènements pour les serveurs 
+contributors: [luke]
 ---
 Les **Scheduled Events**, littéralement "évènements programmés", ont pour objectif d'afficher les évènements en cours/prévus afin de permettre à la communauté d'un serveur d'accéder facilement aux informations le concernant (date, activité(s) prévue(s)...) ainsi que d'être notifié lors du début d'un évènement.
 

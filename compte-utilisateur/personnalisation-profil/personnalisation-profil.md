@@ -8,6 +8,7 @@ keywords:
   - compte
   - tutoriel
 description: Le profil utilisateur sur discord
+contributors: [ichii]
 ---
 ## Les profils d'utilisateur sur Discord
 ![Profil](https://i.discord.fr/xfc7.png)

@@ -7,6 +7,7 @@ keywords:
   - tutoriel
   - personnaliser
 description: Personnaliser son serveur discord
+contributors: [moonrise, ichii]
 ---
 
 Chaque serveur Discord peut être personnalisé, pour le rendre unique et facilement reconnaissable par ses membres. La gestion du nom du serveur, de son icône, du salon de messages systèmes ainsi que la gestion du salon vocal AFK et des paramètres de notifications par défaut requièrent la permission `Gérer le serveur` ou `Administrateur`. Tous les paramètres définis sur cette page sont situés dans la section `Vue d'ensemble` des paramètres d'un serveur.

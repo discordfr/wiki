@@ -7,6 +7,7 @@ keywords:
   - compte
   - tutoriel
 description: Les connexions officielles sur discord
+contributors: [luke, ichii, dragrame]
 ---
 
 Discord propose aux utilisateurs de relier et de synchroniser leur compte à de mutliples sites.

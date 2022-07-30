@@ -7,6 +7,7 @@ keywords:
   - règlements
   - member gating
 description: Le Member Gating des serveurs discord
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

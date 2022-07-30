@@ -4,6 +4,7 @@ keywords:
   - discord
   - Avertissement serveur
 description: Avertissement de serveur
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

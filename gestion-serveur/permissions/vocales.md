@@ -7,6 +7,7 @@ keywords:
   - tutoriel
   - vocal
 description: Les permissions vocales
+contributors: [autumn, zallom]
 ---
 
 ![Permissions](https://i.discord.fr/ypS.png)

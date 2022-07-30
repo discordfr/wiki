@@ -5,6 +5,7 @@ keywords:
   - serveur
   - écran d’accueil
 description: Écran d’accueil
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

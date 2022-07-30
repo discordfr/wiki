@@ -4,6 +4,7 @@ keywords:
   - discord
   - automod
 description: AutoMod
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

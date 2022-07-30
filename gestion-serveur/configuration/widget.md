@@ -6,6 +6,7 @@ keywords:
   - widget
   - integration
 description: Tout sur les intégrations de serveur Discord sur le web.
+contributors: [karal]
 ---
 Un widget permet d'avoir un aperçu d'un serveur Discord directement sur une page internet. On peut y trouver diverses informations sur le serveur: son nombre et sa liste de membres, ses salons, son icône et son lien d'invitation. 
 

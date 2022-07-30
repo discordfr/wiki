@@ -6,6 +6,7 @@ keywords:
   - supprimer
   - suppression
 description: Tout sur la suppression d'un serveur Discord.
+contributors: []
 ---
 ## La suppression d'un serveur Discord
 

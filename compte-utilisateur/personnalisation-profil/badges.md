@@ -6,6 +6,7 @@ keywords:
   - wiki
   - tutoriel
 description: Il est possible de collecter des badges sur votre profil, la liste est disponible ci dessous. Le niveau d'obtention de chacun n'est pas le même, et certains demandent un grand dévouement !
+contributors: [regnir, luke, fizle, xox]
 ---
 Il est possible de collecter des badges, visible sur le [profil](https://discord.fr/wiki/parametres-compte/personnalisation-compte/profil/) de chaque utilisateur.
 

@@ -7,6 +7,7 @@ keywords:
   - exigences
   - tutoriel
 description: Les exigences de la certification de serveurs
+contributors: [karal]
 ---
 La page sur ce qu'est la certification de serveurs et pour postuler est disponible [ici](https://discord.com/verification).
 

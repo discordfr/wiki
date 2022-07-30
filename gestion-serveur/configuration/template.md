@@ -8,6 +8,7 @@ keywords:
   - modele
   - template
 description: Les modèles de serveurs sur discord
+contributors: [moonrise]
 ---
 
 

@@ -4,6 +4,7 @@ keywords:
   - discord
   - store channel
 description: Salon Store
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

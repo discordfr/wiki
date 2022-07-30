@@ -8,6 +8,7 @@ keywords:
   - configuration
   - tutoriel
 description: Les logs de serveurs
+contributors: [luke, karal, dreas, chaussette]
 ---
 
 Les logs (ou "journaux") du serveur permettent, aux utilisateurs ayant la permission d'y accéder, d'obtenir l'ensemble des opérations effectuées sur un serveur.

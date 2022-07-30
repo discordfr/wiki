@@ -4,6 +4,7 @@ keywords:
   - discord
   - infractions
 description: Les Infractions
+contributors: []
 ---
 
 :::info L'article n'existe pas encore

@@ -7,6 +7,7 @@ keywords:
   - communautaires
   - tutoriel
 description: Les statistiques de serveurs discord
+contributors: [luke]
 ---
 
 Afin de permettre à ses utilisateurs d'accéder à de plus amples informations concernant l'activité des serveurs aux gérants de ces derniers, Discord propose un service d'analyse et de statistiques détaillé. Il s'agit des **Analyses de Serveur**. La permission `Voir les Analyses du serveur` est requise pour y accéder.

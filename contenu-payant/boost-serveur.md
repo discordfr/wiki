@@ -9,6 +9,7 @@ keywords:
   - serveur
   - serveurs
 description: Utilisation des boosts de serveurs sur Discord
+contributors: [notix, zallom, dreas, patatejalo, xox, b2856203]
 ---
 
 ## Qu'est-ce qu'un boost ?
