@@ -3,7 +3,7 @@ title: Contribuer au Wiki de Discord FR
 description: Contribuer est une chose importante pour le Wiki de Discord FR, apprenez comment nous aider sur cette page. :)
 image: https://i.discord.fr/9yU.png
 sidebar_label: Contribuer
-short_slug: none
+short_slug: false
 ---
 Dans cet article, vous apprendrez pas à pas à créer une page et à la modifier pour devenir un vrai contributeur de ce Wiki. Elle vous expliquera les bases et quelques conseils utiles pour bien débuter.
 
