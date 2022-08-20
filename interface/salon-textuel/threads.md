@@ -38,7 +38,10 @@ Il est possible de modifier le nom d'un thread.
 :::note
 Contrairement aux noms de salons textuels, il est possible de mettre des espaces et des majuscules dans le nom des threads.
 :::
-
+### Fils Privés
+:::note
+Il faut que le server soit booster au niveau 2 pour pouvoir en créer
+:::
 ### Le mode lent
 
 Le mode lent permet de limiter le nombre de messages qu'un utilisateur peut envoyer sur un intervalle de temps choisi, de la même manière que sur les salons classiques. Les utilisateurs avec la permission "Gérer les messages" ou "Gérer les fils" ainsi que le créateur du thread sont exemptés de cette limitation.
@@ -57,7 +60,7 @@ Un thread est archivé automatiquement après le temps avant archivage défini o
 
 ![Archivage d'un thread](https://i.discord.fr/0gJ.png)
 :::note
-Les threads archivés peuvent être consultés ou rouverts à tout moment.
+Les threads archivés peuvent être consultés ou rouverts à tout moment. 
 :::
 
 ## Les permissions
