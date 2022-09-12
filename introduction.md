@@ -4,6 +4,7 @@ description: Wiki contributif pour le logiciel Discord.
 hide_title: false
 sidebar_label: Introduction
 slug: /
+short_slug: Wiki
 ---
 
 Bienvenue sur le Wiki communautaire de Discord FR. Vous trouverez ici de nombreuses aides et astuces en français. Vous découvrirez comment configurer votre serveur Discord, gérer vos bots et vos paramètres de compte. Même les chasseurs de badges trouveront ici leur bonheur. Welcome sur le wiki discord made in France.
