@@ -43,7 +43,7 @@ Un salon AFK est un salon vocal où sont déplacés les utilisateurs inactifs (n
 
 Dans un serveur, le salon de messages système est un salon dans lequel, Discord envoie des messages automatiques afin de souhaiter la bienvenue, notifier d'un [boost](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/) ou aider à la gestion du serveur.
 
-Pour changer le salon de messages système, il faut se rendre dans la partie "salon de message système" et choisir le salon voulu dans le menu déroulant. Une fois celà fait, le salon recevra des messages lors de l'arrivée d'un nouveau membre ou l'ajout d'un boost sur le serveur.
+Pour changer le salon de messages système, il faut se rendre dans la partie "salon de messages système" et choisir le salon voulu dans le menu déroulant. Une fois cela fait, le salon recevra des messages lors de l'arrivée d'un nouveau membre ou l'ajout d'un boost sur le serveur.
 
 Il est également possible de ne choisir aucun salon pour les messages systèmes, ce qui aura pour effet de complètement les désactiver. Il est également possible de n'activer que certains messages systèmes via les boutons situés en dessous du menu déroulant.
 
@@ -51,7 +51,7 @@ Il est également possible de ne choisir aucun salon pour les messages systèmes
 
 ## Gestion des paramètres de notification
 
-Les paramètres de notification par défaut définissent la façon dont les utilisateurs recevront des notifications lors de l'envoi d'un message sur le serveur. Par défaut, le paramètre de notification est défini sur "Tout les messages" ce qui affiche une notification à chaque message non lu pour tout les utilisateurs.
+Les paramètres de notification par défaut définissent la façon dont les utilisateurs recevront des notifications lors de l'envoi d'un message sur le serveur. Par défaut, le paramètre de notification est défini sur "Tous les messages" ce qui affiche une notification à chaque message non lu pour tous les utilisateurs.
 
 ![Régler les paramètres de notification par défaut](https://i.discord.fr/Jduh.png)
 
