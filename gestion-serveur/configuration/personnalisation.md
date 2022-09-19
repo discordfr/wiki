@@ -10,7 +10,7 @@ description: Personnaliser son serveur discord
 contributors: [moonrise, ichii]
 ---
 
-Chaque serveur Discord peut être personnalisé, pour le rendre unique et facilement reconnaissable par ses membres. La gestion du nom du serveur, de son icône, du salon de messages systèmes ainsi que la gestion du salon vocal AFK et des paramètres de notifications par défaut requièrent la permission `Gérer le serveur` ou `Administrateur`. Tous les paramètres définis sur cette page sont situés dans la section `Vue d'ensemble` des paramètres d'un serveur.
+Chaque serveur Discord peut être personnalisé, pour le rendre unique et facilement reconnaissable par ses membres. La gestion du nom du serveur, de son icône, du salon de messages système ainsi que la gestion du salon vocal AFK et des paramètres de notification par défaut requièrent la permission `Gérer le serveur` ou `Administrateur`. Tous les paramètres définis sur cette page sont situés dans la section `Vue d'ensemble` des paramètres d'un serveur.
 
 ## Gestion du nom d'un serveur
 
@@ -20,7 +20,7 @@ Il est alors possible de changer le nom du serveur (dont la longueur doit être 
 
 ## Gestion de l'icône d'un serveur
 
-Il est possible d'ajouter une icône (de taille minimale de 128 par 128 pixels) à un serveur en cliquant sur l'icone actuel et en sélectionnant la nouvelle image. Lors de la création d'un serveur, l'icône par défaut est créée à partir des initiales du nom du serveur.
+Il est possible d'ajouter une icône (de taille minimale de 128 par 128 pixels) à un serveur en cliquant sur l'icône actuelle et en sélectionnant la nouvelle image. Lors de la création d'un serveur, l'icône par défaut est créée à partir des initiales du nom du serveur.
 
 ![Ajout de l'icône](https://i.discord.fr/oGF1.png)
 
@@ -43,15 +43,15 @@ Un salon AFK est un salon vocal où sont déplacés les utilisateurs inactifs (n
 
 Dans un serveur, le salon de messages système est un salon dans lequel, Discord envoie des messages automatiques afin de souhaiter la bienvenue, notifier d'un [boost](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/) ou aider à la gestion du serveur.
 
-Pour changer le salon de messages système, il faut se rendre dans la partie "salon de message système" et choisir le salon voulu dans le menu déroulant. Une fois celà fait, le salon recevra des messages lors de l'arrivée d'un nouveau membre ou l'ajout d'un boost sur le serveur.
+Pour changer le salon de messages système, il faut se rendre dans la partie "salon de messages système" et choisir le salon voulu dans le menu déroulant. Une fois cela fait, le salon recevra des messages lors de l'arrivée d'un nouveau membre ou l'ajout d'un boost sur le serveur.
 
-Il est également possible de ne choisir aucun salon pour les messages systèmes, ce qui aura pour effet de complètement les désactiver. Il est également possible de n'activer que certains messages systèmes via les boutons situés en dessous du menu déroulant.
+Il est également possible de ne choisir aucun salon pour les messages système, ce qui aura pour effet de complètement les désactiver. Il est également possible de n'activer que certains messages système via les boutons situés en dessous du menu déroulant.
 
 ![Activer ou désactiver les messages système](https://i.discord.fr/202P.png)
 
 ## Gestion des paramètres de notification
 
-Les paramètres de notification par défaut définissent la façon dont les utilisateurs recevront des notifications lors de l'envoi d'un message sur le serveur. Par défaut, le paramètre de notification est défini sur "Tout les messages" ce qui affiche une notification à chaque message non lu pour tout les utilisateurs.
+Les paramètres de notification par défaut définissent la façon dont les utilisateurs recevront des notifications lors de l'envoi d'un message sur le serveur. Par défaut, le paramètre de notification est défini sur "Tous les messages" ce qui affiche une notification à chaque message non lu pour tous les utilisateurs.
 
 ![Régler les paramètres de notification par défaut](https://i.discord.fr/Jduh.png)
 
