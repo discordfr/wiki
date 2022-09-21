@@ -11,20 +11,20 @@ short_slug: false
 
 ## Qu'est-ce que les Demandes de Messages ? 
 
-Les Demandes de Messages sont une nouvelle fonctionnalité, permettant aux utilisateurs de pouvoir être prévenu quand quelqu'un leur envoie un Message Privé. Discord a voulu intégrer cette fonctionnalité afin de pouvoir garantir une expérience plus optimale et plus sûre dans le but de pouvoir filtrer les nouveaux Messages privés, dans un nouveau dossier distinct nommé "Demandes de message". Seul un utilisateur que vous n'avez pas en ami(e), et n'ayant jamais eu de (MP) avec vous auparavant, apparaîtra dans ce dossier.
+Les Demandes de Messages sont une fonctionnalité, permettant aux utilisateurs de pouvoir être prévenu quand quelqu'un leur envoie un Message Privé. Discord a voulu intégrer cette fonctionnalité afin de pouvoir garantir une expérience plus optimale et plus sûre dans le but de pouvoir filtrer les nouveaux Messages privés, dans un nouveau dossier distinct nommé "Demandes de message". Seul un utilisateur que vous n'avez pas en ami(e), et n'ayant jamais eu de message privé avec vous auparavant, apparaîtra dans ce dossier.
 Vous pourrez retrouver cette fonctionnalité directement en dessous du dossier "Amis" en cliquant sur l'icône Discord en haut à gauche de votre écran.
 
 ![message_request](https://i.imgur.com/cFRpLDZ.png)
 
 ## À quoi ressemble les Demandes de Messages ?
 
-Les Demandes de Messages contiennent plusieurs fonctionnalités toutes différentes, tout d'abord nous pouvons voir deux petites icônes tout à droite, nous permettant d'accepter ou de refuser une Demande de Message. Puis un petit œil nous donnant l'accès au contenu du `MP`.
+Les Demandes de Messages contiennent plusieurs fonctionnalités toutes différentes, tout d'abord nous pouvons voir deux petites icônes tout à droite, nous permettant d'accepter ou de refuser une Demande de Message. Puis un petit œil nous donnant l'accès au contenu du message privé.
 
 ![accept](https://i.imgur.com/ZTuKrkC.png)
 
 ![refuse](https://i.imgur.com/v0gSo9n.png)
 
-## Comment désactiver les Demandes de Messages pour les nouveaux serveurs que nous rejoignons ?
+## Comment désactiver les Demandes de Messages pour les nouveaux serveurs rejoints ?
 
 Il est possible de désactiver les Demandes de Messages pour les nouveaux serveurs que nous rejoignons via l'onglet "Confidentialité & Sécurité" dans les paramètres utilisateurs, et en descendant un peu, un bouton "Enable Message Requests from server membres you may not know" en Anglais ou bien "Activer les Demandes de Messages de membres du serveur que vous ne connaissez peut-être pas" en français sera affiché.
 
