@@ -10,12 +10,6 @@ description: Les clients Discord, canary, ptb, stable
 contributors: []
 slug: /interface
 ---
- 
-```mdx-code-block
-import DocCardList from '@theme/DocCardList';
-
-<DocCardList />
-```
 
 ## Les clients Discord
 Ajouter du contenu...
