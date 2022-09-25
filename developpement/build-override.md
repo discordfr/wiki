@@ -6,7 +6,7 @@ keywords:
   - build override
   - derogation de version 
 description: Build override
-contributors: [Dragrame]
+contributors: [dragrame]
 short_slug: false
 ---
 
