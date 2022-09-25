@@ -12,7 +12,11 @@ short_slug: false
 
 ## Qu'est-ce qu'un build override ?
 
-Un build override, ou dérogation de version en français, est une fonctionnalité qui permet aux développeurs de Discord de tester de nouvelles fonctionnalités en les donnant seulement à quelques personnes choisies ou une communauté désignée. Ils se présentent sous la forme d'un lien, et, une fois appliqués, des changements sont observables dans le client.
+Un build override, ou dérogation de version en français, est une fonctionnalité qui permet aux développeurs de Discord de tester de nouvelles fonctionnalités en les donnant seulement à quelques personnes choisies ou une communauté désignée. Ils se présentent sous la forme d'un lien, et, une fois appliqués, des changements sont observables dans le client. Cette version vient se superposer à votre client original et peut entraîner des problèmes comme des bugs importants ou non, le but étant de tester la fonctionnalité. 
+
+:::note 
+Un build override est le seul moyen autorisé de modifier son client afin d'obtenir de nouvelles fonctionnalités, puisqu'il est lui-même donné par un staff Discord à l'origine.
+:::
 
 ## Fonctionnement des build overrides.
 
