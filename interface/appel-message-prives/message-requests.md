@@ -5,7 +5,7 @@ keywords:
   - message requests
   - demandes de messages
 description: Les Demandes de messages
-contributors: [ rodenzo, nyro ]
+contributors: []
 short_slug: false
 ---
 
