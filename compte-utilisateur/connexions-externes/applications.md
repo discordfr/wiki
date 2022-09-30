@@ -28,7 +28,8 @@ Les applications peuvent demander l'accès à plusieurs permissions, voici les p
 - Lire la liste des serveurs de l'utilisateur connecté
 - Rejoindre des serveurs pour l'utilisateur connecté
 
-:::note Une application ne pourra jamais lire ou envoyer de messages à la place de l'utilisateur. 
+:::note 
+Une application ne pourra jamais lire ou envoyer de messages à la place de l'utilisateur. 
 :::
 
 ## Révoquer une application
