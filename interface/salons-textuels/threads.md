@@ -29,6 +29,13 @@ Pour configurer un thread, il faut cliquer sur les trois points en haut à droit
 Il est nécessaire d'avoir créé le thread ou d'avoir la permission "Gérer les Threads" pour pouvoir l'éditer.
 :::
 
+## Les Fils privés
+
+Un thread privé est un thread où il faut inviter la personne pour qu'elle y ait accès. Cocher la case (voir image) pour le rendre privé.
+![Création fils privé](https://imgur.com/deLHAWn)
+:::note
+Il faut que le server soit boost level 2 pour avoir accès à cette fonctionnalitée.
+:::
 
 ### Le nom du thread
 
