@@ -38,7 +38,7 @@ Pour inviter des personnes dans votre thread, il vous suffit de le mentionner da
 
 ![Création fils privé](https://i.discord.fr/s1pt.png)
 :::note
-Le serveur doit être boosté au niveau deux pour débloquer cette fonctionnalitée.
+Le serveur doit être boosté au niveau deux pour débloquer cette fonctionnalitée. [Plus d'informations ici](https://discord.fr/wiki/contenu-payant/boost-serveur)
 :::
 
 ### Le nom du thread
