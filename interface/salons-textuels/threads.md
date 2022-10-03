@@ -31,10 +31,14 @@ Il est nécessaire d'avoir créé le thread ou d'avoir la permission "Gérer les
 
 ## Les Fils privés
 
-Un thread privé est un thread où il faut inviter la personne pour qu'elle y ait accès. Cocher la case (voir image) pour le rendre privé.
-![Création fils privé](https://imgur.com/deLHAWn)
+Les threads privés sont des threads où il faut inviter la personne pour qu'elle y ait accès.
+Pour en créer un, il vous faut tout d'abord la permission "Créer des fils privés". Puis Lorsque vous créez votre thread, il vous faut cocher la case "Fil Privé". Le reste fonctionne comme un thread normal, sauf pour ajouter des personnes au fil...
+
+Pour inviter des personnes dans votre thread, il vous suffit de le mentionner dans celui-ci. Si vous ne souhaitez pas que les personnes présentes dans le fil puissent inviter quiconque, aller dans les paramètres du fil et désactiver l'option "Tout le monde peut inviter" (les modérateurs aussi bien que le créateur de fil pourront toujours).
+
+![Création fils privé](https://i.discord.fr/s1pt.png)
 :::note
-Il faut que le server soit boost level 2 pour avoir accès à cette fonctionnalitée.
+Le serveur doit être boosté au niveau deux pour débloquer cette fonctionnalitée.
 :::
 
 ### Le nom du thread
