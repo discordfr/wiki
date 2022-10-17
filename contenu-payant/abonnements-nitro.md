@@ -6,6 +6,7 @@ keywords:
   - boosts
   - boost
   - tutoriel
+  - basic
 description: Utilisation d'un abonnement sur Discord
 contributors: [luke, xox, notix, b2856203]
 short_slug: AboNitro
@@ -15,6 +16,22 @@ short_slug: AboNitro
 Les abonnements [Nitro](https://support.discord.com/hc/fr/articles/115000435108-Discord-Nitro-Classic-Nitro) sont faits pour que les utilisateurs aient une expérience premium, avec deux offres par mois/an. Si un utilisateur possède un abonnement, le badge affichera depuis quand il supporte Discord.
 
 ![Capture Nitro](https://i.discord.fr/bRo.png)
+
+## Nitro Basic ($2,99 par mois / Aucun forfait par an)
+
+Le 17 octobre 2022, Discord a annoncé l'arrivée d'un nouvel arrivant : ***Nitro Basic*** ! Ce dernier va supplanter le plan Nitro Classic dès qu'il aura été déployé (ce qui devrait arriver dans les prochaines semaines).
+
+Ce plan comprend les fonctionnalités les plus appréciées des abonnés Nitro, c'est-à-dire :
+
+* Utiliser des émojis personnalisés n'importe où sur Discord, pareil pour les émojis animés
+* 300 stickers exclusifs à Nitro et la possibilité d'utiliser les stickers personnalisés sur n'importe où
+* Partage de fichiers de 8Mo à 50Mo
+* Badge Nitro sur le profil de l'utilisateur
+* Fonds d'écrans vidéo personnalisés
+
+Le prix de cet abonnement est de $2,99 par mois aux U.S.A., Discord va bientôt annoncer les tarifs pour le monde entier (Vous pourrez les voir dans Paramètres Utilisateurs → Nitro)
+
+:::note Cette section est susceptible d'être mise à jour en fonction de l'évolution de la situation. :::
 
 ## Nitro Classic ($4,99 par mois / $49,99 par an)
 Nitro Classic était pendant très longtemps le seul abonnement. Désormais, il est l'abonnement "basique" de Discord Nitro.
