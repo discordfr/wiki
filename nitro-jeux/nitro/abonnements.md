@@ -15,16 +15,16 @@ Les abonnements [Nitro](https://support.discord.com/hc/fr/articles/115000435108-
 
 ![Capture Nitro](https://i.discord.fr/bRo.png)
 
-## Nitro Classic ($4,99 par mois / $49,99 par an)
-Nitro Classic était pendant très longtemps le seul abonnement. Désormais, il est l'abonnement "basique" de Discord Nitro.
+## Nitro Basic ($2,99 par mois / $29,99 par an)
+Nitro Basic est l'abonnement à bas prix de Discord.
 
 L'abonnement octroie des avantages supplémentaires, comme : 
-* Utilisation des GIF en avatar
-* Choisir son discriminant Discord
-* Qualité de partage d'écran améliorée
+* Plus d'arrière-plans vidéos
 * Partage de fichiers de 8Mo à 50Mo
 * Badge sur le profil de l'utilisateur
-* -30% sur l'achat de boost
+* Autocollants spéciaux
+* Utilisation des émojis de serveur n'importe où
+* Avatar de profil animé
 
 ## Nitro ($9,99 par mois / $99,99 par an)
 Nitro est l'abonnement le plus utilisé, avec le plus de bénéfices.
@@ -39,6 +39,8 @@ Encore une fois, il y a des avantages supplémentaires, comme :
 * La limite du nombre de serveurs pouvant être rejoint double pour atteindre 200
 * 300 stickers exclusifs à Nitro et la possibilité d'utiliser les stickers personnalisés sur n'importe où.
 * Pouvoir choisir une photo de profil, une bannière et une descripion par serveur.
+* Utilisation des activités en vocal
+* Utilisation des thèmes de profil
 
 :::note 
 Si un utilisateur est présent sur plus de 100 serveurs à la fin de son abonnement Discord Nitro, il restera sur tous les serveurs sur lesquels il est. Il lui sera toutefois impossible d'en rejoindre ou d'en créer davantage tant qu'il ne sera pas redescendu en dessous de cette limite. 
