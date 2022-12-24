@@ -34,7 +34,7 @@ Voici les fonctionnalités qui peuvent être débloquées à chaque palier :
 
 ### ![Niveau 1](https://i.discord.fr/1xdN.png)
 * 50 emplacements supplémentaires d'émoji du serveur (pour un total de 100)
-* 10 emplacements supplémentaires d'autocollants personnalisés (pour un total de 15)
+* 10 emplacements supplémentaires d'autocollant personnalisé (pour un total de 15)
 * Qualité audio améliorée (128ko/s)
 * Icône de serveur animée
 * Arrière-plan d'invitation du serveur personnalisé
