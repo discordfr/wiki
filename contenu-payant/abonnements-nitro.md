@@ -7,7 +7,7 @@ keywords:
   - boost
   - tutoriel
 description: Utilisation d'un abonnement sur Discord
-contributors: [luke, xox, notix, b2856203]
+contributors: [luke, xox, notix, b2856203, lumap]
 short_slug: AboNitro
 ---
 
@@ -16,30 +16,41 @@ Les abonnements [Nitro](https://support.discord.com/hc/fr/articles/115000435108-
 
 ![Capture Nitro](https://i.discord.fr/bRo.png)
 
+## Nitro Basic ($2,99 par mois / $29,99 par an)
+Nitro Basic est le dernier tier de Nitro introduit par Discord, qui se veut être peu chèr et bénéficie de moins de fonctionalitées que Nitro ($10)
+
+L'abonnement octroie des avantages supplémentaires, comme : 
+* Qualité de partage d'écran améliorée
+* Partage de fichiers jusqu'à 50Mo
+* Badge sur le profil de l'utilisateur
+* Plus de 300 stickers exclusifs à Nitro et la possibilité d'utiliser les stickers personnalisés sur n'importe où.
+* Utiliser des emojis des serveurs externes
+
 ## Nitro Classic ($4,99 par mois / $49,99 par an)
-Nitro Classic était pendant très longtemps le seul abonnement. Désormais, il est l'abonnement "basique" de Discord Nitro.
+Nitro Classic était pendant très longtemps le seul abonnement. Fut un temps, il était la version la moins chère de Nitro avant de se faire remplacer par Nitro Classic en Octobre 2022. **Il n'est plus possible d'acheter Nitro Classic**.
 
 L'abonnement octroie des avantages supplémentaires, comme : 
 * Utilisation des GIF en avatar
 * Choisir son discriminant Discord
 * Qualité de partage d'écran améliorée
-* Partage de fichiers de 8Mo à 50Mo
+* Partage de fichiers jusqu'à 50Mo
 * Badge sur le profil de l'utilisateur
 * -30% sur l'achat de boost
+* Utiliser des emojis des serveurs externes
 
 ## Nitro ($9,99 par mois / $99,99 par an)
 Nitro est l'abonnement le plus utilisé, avec le plus de bénéfices.
 
 Encore une fois, il y a des avantages supplémentaires, comme :
-* Tous les avantages de Nitro Classic
-* Partage de fichiers de 8Mo à ~~50Mo~~ 100Mo
+* Tous les avantages de Nitro Classic et Basic
+* Partage de fichiers jusqu'à 500Mo
 * Partage d'écran à la source
 * Deux boosts de serveur inclus (voir [ici](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost))
 * Une bannière de profil 
 * La taille des messages est doublée, elle passe de 2000 à 4000 caractères
-* La limite du nombre de serveurs pouvant être rejoint double pour atteindre 200
-* 300 stickers exclusifs à Nitro et la possibilité d'utiliser les stickers personnalisés sur n'importe où.
-* Pouvoir choisir une photo de profil, une bannière et une descripion par serveur.
+* La limite de serveurs maximale augmentée à 200
+* Les thèmes de profils
+* Pouvoir choisir une photo de profil, une bannière, une descripion et un thème de profil par serveur.
 
 :::note 
 Si un utilisateur est présent sur plus de 100 serveurs à la fin de son abonnement Discord Nitro, il restera sur tous les serveurs sur lesquels il est. Il lui sera toutefois impossible d'en rejoindre ou d'en créer davantage tant qu'il ne sera pas redescendu en dessous de cette limite. 
