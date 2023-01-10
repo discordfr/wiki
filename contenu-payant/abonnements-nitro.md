@@ -27,7 +27,7 @@ L'abonnement octroie des avantages supplémentaires, comme :
 * Utiliser des emojis des serveurs externes
 
 ## Nitro Classic ($4,99 par mois / $49,99 par an)
-Nitro Classic était pendant très longtemps le seul abonnement. Fut un temps, il était la version la moins chère de Nitro avant de se faire remplacer par Nitro Classic en Octobre 2022. **Il n'est plus possible d'acheter Nitro Classic**.
+Nitro Classic était pendant très longtemps le seul abonnement. Fut un temps, il était la version la moins chère de Nitro avant de se faire remplacer par Nitro Basic en Octobre 2022. **Il n'est plus possible d'acheter Nitro Classic**.
 
 L'abonnement octroie des avantages supplémentaires, comme : 
 * Utilisation des GIF en avatar
