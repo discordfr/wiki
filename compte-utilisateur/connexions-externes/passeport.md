@@ -35,7 +35,8 @@ Voici la liste des sites avec lesquels il est possible de relier son compte :
 
 L'utilisateur a la possibilité de paramétrer ses connexions à travers l'onglet `Connexions` dans ses paramètres utilisateur.
 
-![Onglet Connexions](https://i.discord.fr/CzF.png)
+[Onglet Connexions](https://user-images.githubusercontent.com/71967731/235012446-3c561e5b-02cd-4d79-94b6-cf99f7a39713.png)
+
 
  Chaque connexion se configure en cliquant sur l'icone de la plateforme de son choix. Une fois cela fait, l'utilisateur devra accepter la synchronisation entre la plateforme et Discord. Puis, une fois synchronisée avec succès, elle s'affichera dans l'onglet `Connexions` des paramètres de l'utilisateur ainsi que sur son profil si il souhaite l'activer.
  
