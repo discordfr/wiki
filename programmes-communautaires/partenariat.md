@@ -77,5 +77,5 @@ Un badge sera également donné au propriétaire d'un serveur partenaire :
 ![Badge partenaire de Discord pour le propriétaire](https://drive.google.com/file/d/1784DMlLK6PgC4TvzwWhhZYAGn_-q_z3U/view?usp=sharing)
 
 :::note
-Si un serveur partenaire est aussi un [serveur vérifié](/wiki/programmes-communautaires/certification 'Discord.FR | Les exigences de la certification'), alors l'icône présente à côté du nom sera celui du programme de certification
+Si un serveur partenaire est aussi un [serveur vérifié](/wiki/programmes-communautaires/certification 'Discord.FR | Les exigences de la certification'), alors l'icône présente à côté du nom sera celui du programme de certification.
 :::
