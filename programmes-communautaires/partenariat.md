@@ -18,7 +18,7 @@ Dans cet article, nous découvrirons le [Partner Program de Discord](https://dis
 
 #### 1. "Activer la communauté" dans les paramètres du serveur : {#activer-la-communaute}
 
-![Activer la communauté du serveur](https://github.com/volcanofr/dfr-wiki/assets/74511042/7d9fb8e8-32c7-422a-8ba6-6571c47c1535)
+![Activer la communauté du serveur](https://i.discord.fr/zSEq.png)
 
 
 Il faut tout d'abord configurer la communauté, Discord guide les utilisateurs tout au long de l'opération. Au final, l'utilisateur devra :
@@ -71,12 +71,12 @@ Les serveurs partnaires comprennent toutes les fonctionnalités des [Boosts de s
 
 Un serveur Discord partenaire de Discord se verra attribué une icône qui sera affichée à gauche du nom du serveur :
 
-![Icône de serveur partenaire](https://github.com/volcanofr/dfr-wiki/assets/74511042/d1ccdb7c-f092-4f84-b2c3-37f53ce14261)
+![Icône de serveur partenaire](https://i.discord.fr/QXDt.png)
 
 
 Un badge sera également donné au propriétaire d'un serveur partenaire :
 
-![Badge partenaire de Discord pour le propriétaire](https://github.com/volcanofr/dfr-wiki/assets/74511042/10ea53e4-3e6a-405f-8660-7f74fe26b5b7)
+![Badge partenaire de Discord pour le propriétaire](https://i.discord.fr/lYV2.png)
 
 
 :::note
