@@ -20,7 +20,7 @@ Pour faire vérifier son serveur Discord, il faut respecter plusieurs conditions
 
 - Il faut être un **représentant officiel** de la marque/personnalité d'intérêt publique/entreprise concernée,
 - Il est nécessaire d'**associer tout compte social** de l'entité concernée à son profil Discord et au [site de vérification](https://discord.com/verification 'discord.com/verification'),
-- La personne demandant la vérification doit utiliser une **adresse email officielle** (par exemple : discord@siteofficiel.com) afin de montrer qu'elle occupe une fonction officielle.
+- La personne demandant la vérification doit utiliser une **adresse email officielle** (par exemple : xxxxxx@siteofficieldelentite.com) afin de montrer qu'elle occupe une fonction officielle.
 
 Le serveur se doit d'être :
 
