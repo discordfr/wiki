@@ -34,7 +34,7 @@ Il faut tout d'abord configurer la communauté, Discord guide les utilisateurs t
 
 #### 2. Postuler au "Partner Program" : {#partner-program}
 
-![Partner Program](https://github.com/volcanofr/dfr-wiki/assets/74511042/28160845-08e8-4696-bd97-5c671ff61abf)
+![Partner Program](https://i.discord.fr/jocZ.png )
 
 Les conditions suivantes sont nécessaires pour postuler :
 
