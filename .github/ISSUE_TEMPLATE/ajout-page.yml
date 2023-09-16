@@ -28,9 +28,9 @@ body:
   - type: checkboxes
     id: validation
     attributes:
-      label: Avant de valider
+      label: Avant de valider l'article
       options:
-        - label: J'ai bien vérifié que l'article n'existait pas déjà, ou n'a pas déjà été suggéré.
+        - label: J'ai bien vérifié que l'article n'existait encore, ou qu'il n'a pas déjà été suggéré.
           required: true
-        - label: J'ai bien lu et accepté les règles de contribution du Wiki.
+        - label: J'ai bien lu et accepté les règles de contribution du Wiki
           required: true
