@@ -1,0 +1,59 @@
+---
+title: Les widgets Discord
+keywords:
+  - discord
+  - serveur
+  - widget
+  - integration
+description: Intégrations de serveur Discord sur internet.
+contributors: [karal, volcanofr]
+---
+Un widget permet d'avoir un aperçu d'un serveur Discord directement sur une page internet.
+
+On peut y trouver diverses informations sur le serveur, tel que :
+- l'identifiant du serveur ;
+- le nom du serveur ;
+- un lien d'invitation vers ce dernier ;
+- une liste des salons vocaux & de [conférence](/interface/salons-vocaux/stage-channels 'Les Salons de Conférence') accessible par tout le monde (`@everyone`) ;
+- la liste des membres en ligne (avec un maximum de 100) ;
+- le nombre total de membres en ligne.
+
+Voici un aperçu d'un widget généré par Discord :
+
+![Aperçu d'un widget](https://i.discord.fr/JtbZ.png)
+[//]: # (À changer par une intégration de widget prédéfini)
+
+## Comment utiliser un widget ?
+
+Le widget s'active dans la section "Widget" des paramètres du serveur.
+
+On retrouve dans cet onglet :
+1. l'activation du widget ;
+2. une sélection du salon lié au lien d'invitation du widget ;
+3. l'identifiant du serveur ;
+4. un lien vers l'API JSON ;
+5. le widget généré par Discord, prêt à être intégré.
+
+![Section "Widget" des paramètres du serveur](https://i.discord.fr/xIXy.png)
+
+### Activer le widget du serveur
+
+Cette option **n'est pas optionnelle** afin de pouvoir utiliser les fonctionnalités du widget. Il ne faut donc pas oublier de cliquer sur le switch.
+
+### Salon de l'invitation
+
+Cette option permet de définir le salon principal d'invitation du serveur. C'est le salon choisi qui sera utilisé pour l'invitation au serveur par de widget prédéfini.
+
+### JSON API
+
+C'est un lien permettant aux développeurs d'avoir de récupérer les informations affichable du widget. Pour en savoir plus, rendez-vous sur la [documentation des développeurs Discord](https://discord.com/developers/docs/resources/guild#get-guild-widget-settings 'discord.dev').
+
+### Widget prédéfini
+
+C'est le widget généré par Discord.
+
+Il contient :
+- le nombre de membres en ligne ;
+- une liste des salons de conférence et vocaux publics ;
+- une liste des membres en ligne ;
+- un lien d'invitation, si le salon d'invitation a été défini.
