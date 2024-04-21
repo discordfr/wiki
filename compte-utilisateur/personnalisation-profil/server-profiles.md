@@ -25,6 +25,6 @@ Les fonctionnalités sont simples et sont les mêmes que pour la personnalisatio
 * Son thème de profil
 * Son à propos
 
-Pour pouvoir modifier ces différentes fonctionnalités, il vous suffit de vous rendre dans vos paramètres puis dans `Profils`. Ensuite,  il vous suffira de choisir sur quel serveur vous souhaitez apporter des modifications et de laisser libre à votre créativité pour créer votre serveur de profil adapté. 
+Pour pouvoir modifier ces différentes fonctionnalités, il vous suffit de vous rendre dans vos paramètres puis dans `Profils`. Ensuite,  il vous suffira de choisir sur quel serveur vous souhaitez apporter des modifications et de laisser libre à votre créativité pour créer votre serveur de profil adapté. (Ou alors, vous pouvez juste faire un clic droit sur votre nom dans le serveur concerné puis `Modifier le profil de serveur`)
 
 ![illustration fonctionnalités profil de serveur](http://i.discord.fr/hqjz.webp)
