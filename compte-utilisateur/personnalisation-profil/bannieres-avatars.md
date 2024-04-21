@@ -22,4 +22,4 @@ En tant que propriétaire du compte en question, les options se trouvent dans le
 ## Dimensions de la bannière et de l'avatar
 Pour la bannière, il est recommandé de mettre une image de 680 x 240 pixels et d'une taille inférieure à 10 Mo. Pour l'avatar, il est conseillé d'avoir une taille de 128 x 128 pixels.
 
-![Personalisation de bannière](image actuelle de l'onglet)
+![Personalisation de bannière](http://i.discord.fr/Uk9s.png)
