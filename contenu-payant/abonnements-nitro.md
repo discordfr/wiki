@@ -47,4 +47,4 @@ Si un utilisateur est présent sur plus de 100 serveurs à la fin de son abonnem
 ## Comment s'abonner ?
 Rien de plus simple, il faut se rendre dans les paramètres et dans la catégorie Nitro puis cliquer sur s'abonner et choisir quel offre vous convient le mieux. Ensuite, il suffit de suivre les instructions de Discord afin de finaliser votre abonnement ! 
 
-![image comment acheter Nitro](https://i.discord.fr/jc3.gif)
+![image comment acheter Nitro](http://i.discord.fr/4aWS.png)
