@@ -11,12 +11,12 @@ short_slug: Boosting
 ---
 
 ## Qu'est-ce qu'un boost ?
-Un boost est un abonnement (inclu ou payé), qui permet de faire bénéficier un serveur de fonctionnalités. Booster un serveur lui permet de progresser et de passer aux niveaux supérieurs. Chaque niveau donne des avantages collectifs pour tout le serveur. L'utilisateur ayant boosté un serveur recevra un badge sur son profil discord, un rôle exclusif sur le serveur en question et l'affichage d'une icône boost à côté de son pseudo dans la liste des membres du serveur. En fonction de la durée pendant laquelle vous boostez un serveur, votre badge pourra changer au fur et à mesure du temps.
+Un boost est un abonnement qui peut être inclus avec un abonnement Nitro ou acheté individuellement pour le serveur que vous souhaitez soutenir. Le boost permet d'offrir à un serveur des fonctionnalités débloquées en fonction du nombre de boosts qu'il reçoit, lui permettant de passer à des niveaux supérieurs. Chaque niveau confère des avantages collectifs à l'ensemble du serveur. L'utilisateur qui booste un serveur recevra un badge sur son profil Discord, un rôle exclusif, ainsi qu'une icône de boost à côté de son pseudo dans la liste des membres du serveur. Selon la durée pendant laquelle vous maintenez votre boost sur un serveur, votre badge pourrait évoluer au fil du temps.
 
 ![Badge boosteur](https://i.discord.fr/jZ6.png)
 
 :::info Information
-Quelqu'un payant l'abonnement Nitro possède 2 boosts à utiliser comme il le souhaite.
+Les utilisateurs abonnés à Nitro possèdent 2 boosts à utiliser comme ils le souhaitent.
 :::
 
 ## Quel est le prix d'un boost ?
