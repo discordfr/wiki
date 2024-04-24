@@ -21,4 +21,4 @@ Le profil d'un utilisateur est unique et possède plusieurs éléments distincti
 - **Violet:** Le [statut personnalisé](https://discord.fr/wiki/parametres-compte/personnalisation-compte/statuts-personnalise/) est un élément défini par l'utilisateur qui s'affiche lorsqu'il n'est pas hors ligne ou en invisible.
 - **Orange:** Les onglets de navigation permettent d'avoir plus d'informations concernant l'utilisateur en question (ici son activité actuelle, les serveurs ainsi que les amis en communs).
 - **Bleu:** Le "A propos de moi" est un élément défini par l'utilisateur, tout comme le statut personnalisé, en revanche, même s'il hors ligne ou invisible, cet élément ne disparaît pas.
-- **Gris:** Les notes sont privées, uniquement visibles par vous-même; elles peuvent être modifiées à tout moment.
+- **Gris:** Les notes sont privées et ne sont visibles que par l'utilisateur qui les a ajoutées. Elles peuvent être modifiées à tout moment.
