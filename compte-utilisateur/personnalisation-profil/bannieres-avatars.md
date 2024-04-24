@@ -9,17 +9,21 @@ keywords:
 description: Sur discord, il est possible de mettre une bannière ou un avatar personnalisé sur son profil. Découvrez comment. 
 contributors: [romain, antoine]
 ---
-## La bannière et l'avatar sur Discord
-La bannière sur Discord est une image qui peut être personnalisée et qui s'affiche au-dessus du profil d'un utilisateur. Cela peut être une image (statique ou animée) ou une couleur par défaut ou définie par l'utilisateur. L'avatar sur Discord est, lui aussi, une image qui peut être également personnalisée.
+## La Bannière et l'Avatar sur Discord
+La bannière sur Discord est une image personnalisable affichée au-dessus du profil de l'utilisateur. Elle peut être une image (statique ou animée) ou une couleur définie par l'utilisateur. De même, l'avatar sur Discord est une image personnalisable.
 
-:::note À noter qu'il faut avoir nitro pour pouvoir débloquer la bannière avec image, qu'elle soit statique ou animée. Seule la modification de la couleur de la bannière est gratuite. Pour l'avatar, il est nécessaire d'avoir nitro pour l'avoir animé, mais l'image statique est gratuite. :::
+:::note
+Il faut disposer de Nitro pour débloquer l'utilisation d'une bannière avec une image, qu'elle soit statique ou animée. Seule la modification de la couleur de la bannière est gratuite. Concernant l'avatar, l'utilisation d'une image animée nécessite Nitro, mais l'avatar statique est gratuit.
+:::
 
-## Ou modifier l'avatar et la bannière ?
-En tant que propriétaire du compte en question, les options se trouvent dans le deuxième onglet des paramètres d'utilisateur, nommé `Profil`. Ensuite, il vous suffira de choisir si vous souhaitez modifier l'avatar ou la bannière et d'y upload vos photos. 
+## Où Modifier l'Avatar et la Bannière ?
+Pour modifier l'avatar et la bannière, il faut se rendre dans l'onglet `Profil` des paramètres. Il est possible d'y accéder par l'icône d'engrenage ou directement sur le profil en bas à gauche de l'écran.
 
-:::note Il existe deux sous-catégories dans l'onglet `Profil` qui sont `Profil d'utilisateur` et `Profil de serveur`. Attention à bien choisir ce que vous souhaitez modifier. Quand le `Profil d'utilisateur` modifiera votre apparence sur discord, `Profil de serveur` modifiera votre apparence, mais uniquement sur un serveur bien précisément. *Cette fonctionnalité est disponible uniquement pour les utilisateurs abonnés à Discord Nitro* :::
+:::note
+Dans l'onglet `Profil`, il existe deux sous-catégories : `Profil d'utilisateur` et `Profil de serveur`. `Profil d'utilisateur` affecte l'apparence sur Discord, tandis que `Profil de serveur` ne concerne qu'un serveur spécifique.
+:::
 
-## Dimensions de la bannière et de l'avatar
-Pour la bannière, il est recommandé de mettre une image de 680 x 240 pixels et d'une taille inférieure à 10 Mo. Pour l'avatar, il est conseillé d'avoir une taille de 128 x 128 pixels.
+## Dimensions de la Bannière et de l'Avatar
+Pour la bannière, il est recommandé d'utiliser une image de 680 x 240 pixels et de moins de 10 Mo. Pour l'avatar, la taille recommandée est de 128 x 128 pixels.
 
-![Personalisation de bannière](http://i.discord.fr/Uk9s.png)
+![Personalisation de bannière](https://i.discord.fr/Uk9s.png)
