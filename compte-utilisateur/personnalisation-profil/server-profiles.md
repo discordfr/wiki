@@ -8,14 +8,14 @@ description: Découvrez les profils de serveur apportant plus encore de personna
 contributors: [antoine]
 ---
 
-## C'est quoi les profils de serveur ?
+## Profils de Serveur sur Discord
+Les profils de serveur constituent une fonctionnalité intégrée par Discord destinée aux utilisateurs abonnés à Nitro. Les profils de serveur permettent de présenter un autre profil sur un serveur que celui utilisé sur l'ensemble de la plateforme. Par exemple, si un utilisateur souhaite avoir un profil distinct pour un serveur de jeux, un autre pour une communauté et un dernier pour le reste de la plateforme, cela est possible grâce aux profils de serveur.
 
-Les profils de serveur sont une fonctionnalité implantée par Discord pour les utilisateurs ayant souscrit à un abonnement nitro.
-Les profils de serveur servent à montrer sur un serveur un autre profil que celui que vous utilisez sur toute la plateforme. Par exemple, si vous avez besoin d'un profil pour votre serveur de jeux, d'un autre pour votre serveur communautaire et enfin d'un dernier pour le reste de la plateforme, c'est possible grâce aux profils de serveur. 
+:::note
+Les utilisateurs non abonnés à Nitro ne bénéficieront pas des fonctionnalités présentées ci-dessous, mais pourront néanmoins modifier leur pseudo de serveur (c'est-à-dire en avoir un différent sur chaque serveur) ainsi que leurs pronoms.
+:::
 
-:::note L'utilisateur n'ayant pas souscrit à nitro n'aura pas les fonctionnalités présentées ci-dessous, mais pourra tout de même modifier son pseudo de serveur (C'est-à-dire en avoir un différent sur chaque serveur) et de même pour son/ses pronoms. :::
-
-## Les fonctionnalités pour votre profil de serveur
+## Fonctionnalités du Profil de Serveur
 
 Les fonctionnalités sont simples et sont les mêmes que pour la personnalisation d'un profil normal, à l'exception que l'utilisateur doit avoir souscrit à nitro pour modifier : 
 * Son avatar
@@ -25,6 +25,6 @@ Les fonctionnalités sont simples et sont les mêmes que pour la personnalisatio
 * Son thème de profil
 * Son à propos
 
-Pour pouvoir modifier ces différentes fonctionnalités, il vous suffit de vous rendre dans vos paramètres puis dans `Profils`. Ensuite,  il vous suffira de choisir sur quel serveur vous souhaitez apporter des modifications et de laisser libre à votre créativité pour créer votre serveur de profil adapté. (Ou alors, vous pouvez juste faire un clic droit sur votre nom dans le serveur concerné puis `Modifier le profil de serveur`)
+Pour accéder à ces options de personnalisation, l'une des possibilités est de se rendre dans les paramètres puis dans `Profils`. Ensuite, il suffit de choisir le serveur sur lequel les modifications doivent être apportées et de laisser libre cours à sa créativité pour créer un serveur de profil adapté.  Une autre option consiste à effectuer un clic droit sur le nom dans le serveur concerné et à choisir `Modifier le profil de serveur`.
 
 ![illustration fonctionnalités profil de serveur](http://i.discord.fr/hqjz.webp)
