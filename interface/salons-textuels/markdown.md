@@ -18,34 +18,34 @@ Le *pré* est rempli d'**animaux joyeux** chantant __gaiement__ ~~tant que le lo
 ```
 Affichera:
 
-<img alt="ExemplePhrase" src="https://i.discord.fr/HBj.png" class="docImage"/>
+<img alt="ExemplePhrase" src="https://i.dfr.gg/HBj.png" class="docImage"/>
 
 ## Les blocs de citation
-Discord permet également de [citer](https://discord.fr/wiki/interface/salon-textuel/citations) d'autres messages. Cette mise en forme est réalisable en mettant le signe `>` devant une nouvelle ligne. Ce qui donnera:
+Discord permet également de [citer](https://dfr.gg/wiki/interface/salon-textuel/citations) d'autres messages. Cette mise en forme est réalisable en mettant le signe `>` devant une nouvelle ligne. Ce qui donnera:
 
-<img alt="ExempleQuote" src="https://i.discord.fr/EV1.png" class="docImage"/>
+<img alt="ExempleQuote" src="https://i.dfr.gg/EV1.png" class="docImage"/>
 
 ## Les blocs spoilers
 Durant l'année 2019 Discord a ajouté les blocs de spoilers. Cette fonctionnalité fonctionne comme le reste de la mise en forme Markdown. Elle permet de cacher du texte à la première vue d'un utilisateur, et donc ainsi de ne pas dévoiler une chose importante sur un film par exemple à des utilisateurs ne voulant pas connaitre la fin en avance. Pour mettre des spoilers dans un message, il faut utiliser la commande implémentée dans Discord /spoiler (qui cachera la totalité du message) ou entourer la zone à cacher avec deux caractères `||`. Ce qui donnera :
 
-<img alt="ExempleSpoilers" src="https://i.discord.fr/vmX.png" class="docImage"/>
+<img alt="ExempleSpoilers" src="https://i.dfr.gg/vmX.png" class="docImage"/>
 
 ## Les blocs de code
 Il est aussi possible de formater du texte sous forme de code. Il suffit de mettre \`\`\` devant puis le langage (exemples : `js`, `java`, `css`, `html`) et de fermer le code de la même manière \`\`\`. 
 
-![Code](https://i.discord.fr/N2S.png)
+![Code](https://i.dfr.gg/N2S.png)
 
 :::tip
 Il est possible de mettre un message en couleur en utilisant ce même markdown. 
 
-![Couleurs écrire](https://i.discord.fr/zJV.png)
-![Couleurs écrire](https://i.discord.fr/Dow.png)
+![Couleurs écrire](https://i.dfr.gg/zJV.png)
+![Couleurs écrire](https://i.dfr.gg/Dow.png)
 :::
 
 ## La mise en forme rapide
 Pour faciliter l'utilisation de la mise en forme, Discord a également ajouté une fonctionalité de mise en forme rapide (Disponible uniquement sur l'application Windows, Linux, MacOS ainsi que l'application Web). Pour l'utiliser, il suffit de sélectionner avec la souris ou le clavier la zone à modifier et plusieurs boutons apparaîtront pour mettre en forme le texte:
 
-<img alt="Selector" src="https://i.discord.fr/ejU.png" class="docImage"/>
+<img alt="Selector" src="https://i.dfr.gg/ejU.png" class="docImage"/>
 
 ## Les raccourcis claviers
 Plusieurs raccourcis claviers sont disponible pour gagner du temps lors de la mise en forme. Pour les utiliser il suffit de sélectionner le texte à mettre forme et effectuer une combinaison de touche comme suit:

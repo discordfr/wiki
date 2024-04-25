@@ -19,7 +19,7 @@ Il est possible depuis février 2018 de relier un compte Spotify avec Discord po
 Il faut aller dans les paramètres de compte, dans l'onglet "Connexions".
 Puis séléctionner **Spotify** et suivre les indications pour se connecter, il sera demandé les identifiants de connexion du compte spotify, si l'utilisateur n'est pas déjà connecté.
 
-![](https://i.discord.fr/7fZ.png)
+![](https://i.dfr.gg/7fZ.png)
 
 ## Écouter avec des amis
 
@@ -32,15 +32,15 @@ L'accès à une session d'écoute se fait par deux manière:
 
 
 
-![](https://i.discord.fr/jvl.png)
+![](https://i.dfr.gg/jvl.png)
 
-![](https://i.discord.fr/HWi.png)
+![](https://i.dfr.gg/HWi.png)
 
 
 
 Discord affiche à l'utilisateur qui est dans leur session d'écoute et on rejoint via Discord. 
 
-![](https://i.discord.fr/mNf.png)
+![](https://i.dfr.gg/mNf.png)
 
 
 

@@ -16,15 +16,15 @@ Ces dernières, particulièrement précises –notamment pour les serveurs de pl
 
 ## Accéder aux Analyses de Serveur
 
-Pour accéder aux **Analyses de Serveur**, le serveur doit soit être vérifié, soit être [partenaire](https://discord.fr/wiki/programmes-communautaires/partenariat/serveur/), soit avoir activé la [Communauté de serveur](https://discord.fr/wiki/programmes-communautaires/outils-communautaires/serveur-communautaire/).
+Pour accéder aux **Analyses de Serveur**, le serveur doit soit être vérifié, soit être [partenaire](https://dfr.gg/wiki/programmes-communautaires/partenariat/serveur/), soit avoir activé la [Communauté de serveur](https://dfr.gg/wiki/programmes-communautaires/outils-communautaires/serveur-communautaire/).
 
 Cette option se situe dans les **Paramètres de serveur**, dans l'onglet **Analyses de serveur** de la partie **Communauté**.
 
-![Onglet - Menu - Analyses de Serveur](https://i.discord.fr/v3G.png)
+![Onglet - Menu - Analyses de Serveur](https://i.dfr.gg/v3G.png)
 
 Discord affichera un lien sur lequel il faut cliquer pour accéder à la page des statistiques. Ce lien a la forme https://discord.com/developers/servers/{ID-du-serveur}/analytics/.
 
-![Onglet - Page - Analyses de Serveur](https://i.discord.fr/xMy.png)
+![Onglet - Page - Analyses de Serveur](https://i.dfr.gg/xMy.png)
 
 ## Les Analyses de serveur
 
@@ -91,7 +91,7 @@ Cet onglet est uniquement accessible aux serveurs de plus de 500 membres n'ayant
 
 ### Announcement channels
 
-Désignant les salons d'annonces, cet onglet permet d'accéder à des informations sur l'utilisation des [salons d'annonces](https://discord.fr/wiki/interface/salon-textuel/salons-textuels/).
+Désignant les salons d'annonces, cet onglet permet d'accéder à des informations sur l'utilisation des [salons d'annonces](https://dfr.gg/wiki/interface/salon-textuel/salons-textuels/).
 
 On y retrouve notamment :
  - L'évolution du nombre de serveurs suivant le serveur en question.
@@ -116,7 +116,7 @@ Cet onglet est accessible à tous les serveurs communautaires, peu importe leur 
 
 ### Partner program
 
-Désignant le [programme partenaire de Discord](https://discord.fr/wiki/programmes-communautaires/partenariat/serveur/), cet onglet permet d'accéder soit à l'activité du serveur requise par rapport aux exigences de ce programme communautaire, soit de comparer les statistiques actuelles d'un serveur partenaire par rapport aux demandes de Discord. 
+Désignant le [programme partenaire de Discord](https://dfr.gg/wiki/programmes-communautaires/partenariat/serveur/), cet onglet permet d'accéder soit à l'activité du serveur requise par rapport aux exigences de ce programme communautaire, soit de comparer les statistiques actuelles d'un serveur partenaire par rapport aux demandes de Discord. 
 
 :::caution
 Cet onglet est uniquement accessible aux serveurs de plus de 500 membres n'ayant pas désactivé le suivi analytique dans leurs paramètres.

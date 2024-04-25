@@ -22,13 +22,13 @@ Un build override est le seul moyen autorisé de modifier son client afin d'obte
 
 Ils sont attribués à une plate-forme précise : iOS, Android ou ordinateur. Et ils peuvent être soumis à une whitelist, dans le cas contraire, n'importe quelle personne possédant le lien du build override peut l'appliquer sur son client.
 
- ![build override indisponible sur la plate-forme](https://i.discord.fr/CQsx.jpg) 
+ ![build override indisponible sur la plate-forme](https://i.dfr.gg/CQsx.jpg) 
 
 ### Comment l'appliquer à son client ? 
 
 Quand le lien est envoyé sur Discord, il s'affiche sous forme d'un embed avec sur celui-ci, un bouton "postuler". Une fois que le bouton est cliqué, le client redémarre avec les changements liés à la dérogation de version effectués.
 
- ![build override avec bouton postuler](https://i.discord.fr/iC9C.jpg)
+ ![build override avec bouton postuler](https://i.dfr.gg/iC9C.jpg)
 
 ### Comment le retirer ?
 

@@ -18,72 +18,72 @@ Le transfert de propriété d'un serveur permet de léguer entièrement un serve
 *********************
 ### 1. **Cliquer sur le nom du serveur**
 
-![nom serveur](https://i.discord.fr/chV.png)
+![nom serveur](https://i.dfr.gg/chV.png)
 
 Un menu déroulant apparaît alors:
 
-![menu déroulant](https://i.discord.fr/MBR.png)
+![menu déroulant](https://i.dfr.gg/MBR.png)
 
 
 
 ### 2. **Cliquer sur "Paramètres du serveur ⚙"**
 
-![paramètres du serveur](https://i.discord.fr/3Gz.png)
+![paramètres du serveur](https://i.dfr.gg/3Gz.png)
 
 Le menu du serveur apparaît:
 
-![menu paramètres du serveur](https://i.discord.fr/8rC.png)
+![menu paramètres du serveur](https://i.dfr.gg/8rC.png)
 
 
 
 ### 3. **Cliquer sur "Membres"**
 
-![onglet membres](https://i.discord.fr/215.png)
+![onglet membres](https://i.dfr.gg/215.png)
 
 La page suivante apparaît alors:
 
-![page membres](https://i.discord.fr/a64.png)
+![page membres](https://i.dfr.gg/a64.png)
 
 
 
 ### 4. **Chercher l'utilisateur dont le serveur doit être transféré, puis cliquer sur les détails**
 
-![détails utilisateur](https://i.discord.fr/bQC.png)
+![détails utilisateur](https://i.dfr.gg/bQC.png)
 
 Un menu déroulant apparaît alors:
 
-![menu déroulant utilisateur](https://i.discord.fr/CdI.png)
+![menu déroulant utilisateur](https://i.dfr.gg/CdI.png)
 
 
 
 ### 5. **Cliquer sur "Transférer la propriété"**
 
-![bouton tranfert propriété](https://i.discord.fr/OxX.png)
+![bouton tranfert propriété](https://i.dfr.gg/OxX.png)
 
 Une boîte de dialogue apparaît:
 
-![boite de dialogue](https://i.discord.fr/Phx.png)
+![boite de dialogue](https://i.dfr.gg/Phx.png)
 
 
 
 ### 6. **Accepter le transfert de propriété**
 
-![transfert dialogue](https://i.discord.fr/WlD.gif)
+![transfert dialogue](https://i.dfr.gg/WlD.gif)
 
 Si l'authentification à 2 facteurs est activée, il faut alors confirmer son identité en entrant le code A2F. Sinon, le mot de passe du compte est demandé.
 
-![Dialogue A2F](https://i.discord.fr/goY.png)
+![Dialogue A2F](https://i.dfr.gg/goY.png)
 
 Une fois cela fait, il faut confirmer une dernière fois le transfert.
 
-![confirmation transfert](https://i.discord.fr/NSb.png)
+![confirmation transfert](https://i.dfr.gg/NSb.png)
 
 
 
 ### 7. **Transfert terminé**
 Le nouveau propriétaire possède désormais la couronne 👑 (la propriété du serveur)
 
-![courone](https://i.discord.fr/DEd.png)
+![courone](https://i.dfr.gg/DEd.png)
 
 
 

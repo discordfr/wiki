@@ -20,7 +20,7 @@ Le serveur Discord Testers est officiel, les employés de l'entreprise le dirige
 ### Quels sont les différents tiers ?
 Les tiers permettent d'obtenir des avantages divers.
 
-![Tableau des différents tiers](https://i.discord.fr/sab.png)
+![Tableau des différents tiers](https://i.dfr.gg/sab.png)
 
 #### Tier 1 (@everyone)
 ##### Pré-requis
@@ -65,4 +65,4 @@ Les tiers permettent d'obtenir des avantages divers.
 ### Comment contribuer à l'envoi de bug (accèder au Tier 2) ?
 Rien de plus simple, il suffit juste d'envoyer un message au robot DBug (d'accès également tout en haut dans la liste des membres du serveur), et lui envoyer "!quiz" en message privé. Il vous retournera alors le fameux "Bug Hunter Quiz" à compléter avec son code unique !
 
-![Accès au formulaire](https://i.discord.fr/yD2.png)
+![Accès au formulaire](https://i.dfr.gg/yD2.png)
