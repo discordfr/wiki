@@ -19,3 +19,18 @@ La liste des membres est structurée sous forme de tableau, comprenant plusieurs
 * **Méthode d'arrivée** : indique comment le membre a rejoint le serveur.
 * **Rôles** : permet au modérateur de gérer les rôles des membres en les ajoutant ou en les retirant.
 * **Signalements** : cette dernière catégorie présente toute activité inhabituelle du membre, que ce soit en message privé, une activité suspecte sur son compte, ou s'il est exclu ou en quarantaine.
+
+![image liste des membres](https://i.discord.fr/aumP.png)
+
+## Un outil modulable
+La liste des membres est un outil facilement modulable selon les besoins. Elle peut être triée par plage, notamment pour les catégories `Membre depuis...` et `A rejoint Discord...`, ou par une méthode d'arrivée spécifique pour la catégorie `Méthode d'arrivée`. De plus, elle peut être triée selon un rôle particulier pour la catégorie `Rôles`, ou par type de signalement pour `Les signalements`. Cet outil permet également de congédier les membres inactifs d'un serveur ou d'appliquer des actions de modération telles que des exclusions ou des bannissements. Pour trier d'une façon particulière, il suffit de cliquer sur l'icône à côté de la catégorie et de choisir la méthode de tri.
+
+## La vue moderateur
+La vue modérateur s'ouvre lorsqu'un modérateur clique sur le nom d'un membre dans la liste des membres ou sur l'icône en fin de ligne. Cette vue permet de consulter :
+* Les permissions du membre
+* Son activité sur le serveur
+* Ses rôles
+* Un journal des actions de modération effectuées sur l'utilisateur
+* Un panel d'actions de modération comprenant : `Envoyer un message privé`, `Expluser`, `Bannir` et `Exclure temporairement`
+
+![image vue moderateur](https://i.discord.fr/UjEX.png)
