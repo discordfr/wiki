@@ -125,7 +125,7 @@ Une fois la partie cachée cliqué, elle s'affiche :
 Par exemple, le message suivant :
 
 ```md
-&gt; Bienvenue sur dfr.gg !
+> Bienvenue sur dfr.gg !
 ```
 
 Donnera :
@@ -133,7 +133,7 @@ Donnera :
 ![Citation sur Discord](https://i.dfr.gg/I2AM.png)
 
 :::note
-Placer 3 signes plus grand que (`&gt;&gt;&gt;`), au début de la ligne, rendera automatiquement tout le reste du message sous citation.
+Placer 3 signes plus grand que (`>>>`), au début de la ligne, rendera automatiquement tout le reste du message sous citation.
 :::
 </TabItem>
 <TabItem value="titres" label="Titres">
@@ -217,7 +217,7 @@ La mention d'utilisateur se trouve sous le format `&lt;@identifiant&gt;`
 Par exemple, le texte suivant :
 
 ```
-&lt;@1231631025914904576&gt;
+<@1231631025914904576>
 ```
 
 Donnera :
@@ -234,7 +234,7 @@ La mention de salons se présente sous le format `&lt;#identifiant&gt;`.
 Par exemple, le texte suivant :
 
 ```
-&lt;#264363166316756992&gt;
+<#264363166316756992>
 ```
 
 Donnera :
@@ -256,7 +256,7 @@ La mention des rôles se forme sous le format `&lt;@&identifiant&gt;`.
 Par exemple, le texte suivant :
 
 ```
-&lt;@&1120672019135090729&gt;
+<@&1120672019135090729>
 ```
 
 Donnera :
@@ -269,7 +269,7 @@ La mention des commandes d'application se fait sous le format `&lt;nom (nom_grou
 Par exemple, le texte suivant :
 
 ```
-&lt;/serveur:942123323482054797&gt; &lt;/event help:1090669974470803656&gt;
+</serveur:942123323482054797> </event help:1090669974470803656>
 ```
 
 Donnera :
@@ -296,14 +296,14 @@ Donnera :
 <TabItem value="special" label="Spécial">
 Certains emplacements ont des mentions spéciales.
 
-- `&lt;id:guide&gt;` mentionne le guide du serveur ;
-- `&lt;id:browse&gt;` mentionne la recherche des salons ;
-- `&lt;id:customize&gt;` mentionne les questions de personnalisation et l'affichage des salons.
+- `<id:guide>` mentionne le guide du serveur ;
+- `<id:browse>` mentionne la recherche des salons ;
+- `<id:customize>` mentionne les questions de personnalisation et l'affichage des salons.
 
 Par exemple, le texte suivant :
 
 ```
-&lt;id:guide&gt; &lt;id:browse&gt; &lt;id:customize&gt;
+<id:guide> <id:browse> <id:customize>
 ```
 
 Donnera :
@@ -327,25 +327,25 @@ Cette fonctionnalité est notamment très pratique pour afficher l'heure de réu
 
 Pour mentionner un [timestamp](https://unixtime.org), il vous suffit de commencer par "`&lt;t:timestamp:`", puis de choisir l'une de ces lettres :
 
-- `t` (heure courte) - `&lt;t:0:t&gt;` donnera "01:00" ;
-- `T` (heure longue) - `&lt;t:0:T&gt;` donnera "01:00:00" ;
-- `d` (date courte) - `&lt;t:0:d&gt;` donnera "01/01/1970" ;
-- `D` (date longue) - `&lt;t:0:D&gt;` donnera "1 janvier 1970" ;
-- `f` (date et heure courts) - `&lt;t:0:f&gt;` donnera "1 janvier 1970 01:00" ;
-- `F` (date et heure longs) - `&lt;t:0:F&gt;` donnera "jeudi 1 janvier 1970 01:00" ;
-- `R` (temps relatif) - `&lt;t:0:R&gt;` donnera "il y a 54 ans".
+- `t` (heure courte) - `&lt;t:0:t>` donnera "01:00" ;
+- `T` (heure longue) - `&lt;t:0:T>` donnera "01:00:00" ;
+- `d` (date courte) - `&lt;t:0:d>` donnera "01/01/1970" ;
+- `D` (date longue) - `&lt;t:0:D>` donnera "1 janvier 1970" ;
+- `f` (date et heure courts) - `&lt;t:0:f>` donnera "1 janvier 1970 01:00" ;
+- `F` (date et heure longs) - `&lt;t:0:F>` donnera "jeudi 1 janvier 1970 01:00" ;
+- `R` (temps relatif) - `&lt;t:0:R>` donnera "il y a 54 ans".
 
 Puis de refermer la syntaxe par le signe plus petit que (`&gt;`).
 
 Par exemple, le texte suivant :
 ```
-&lt;t:1431476999:t&gt;
-&lt;t:1431476999:T&gt;
-&lt;t:1431476999:d&gt;
-&lt;t:1431476999:D&gt;
-&lt;t:1431476999:f&gt;
-&lt;t:1431476999:F&gt;
-&lt;t:1431476999:R&gt;
+<t:1431476999:t>
+<t:1431476999:T>
+<t:1431476999:d>
+<t:1431476999:D>
+<t:1431476999:f>
+<t:1431476999:F>
+<t:1431476999:R>
 ```
 
 Donnera en français, avec comme zone locale la France :
@@ -380,7 +380,7 @@ Donnera :
 Alors que avec les signes :
 
 ```
-&lt;https://dfr.gg&gt;
+<https://dfr.gg>
 ```
 
 Cela n'affichera pas l'embed :
@@ -400,7 +400,7 @@ Il est aussi possible d'y rajouter un texte dans l'info-bulle, en rajoutant `'te
 Par exemple, le texte suivant [:](https://printer.discord.com)
 
 ```
-[Anciennement discord.fr](&lt;https://dfr.gg&gt; 'DFR') : un site à propos de Discord.
+[Anciennement discord.fr](<https://dfr.gg> 'DFR') : un site à propos de Discord.
 ```
 
 Donnera :
