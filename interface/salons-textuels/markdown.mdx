@@ -47,7 +47,7 @@ Sur cette page, il est conseillé d'utiliser le panneau de navigation. Il est di
 
 <Tabs defaultValue="gras" queryString="texte">
 <TabItem value="italique" label="Italique">
-1 astérisque (``*``) ou 1 underscore (``_``) de part et d'autre d'une chaîne de caractères donnera un texte en *italique*.
+1 astérisque (<code>*</code>) ou 1 underscore (<code>_</code>) de part et d'autre d'une chaîne de caractères donnera un texte en *italique*.
 
 Par exemple, le message suivant :
 
@@ -60,7 +60,7 @@ Donnera :
 ![Texte en italique sur Discord](https://i.dfr.gg/6XX3.png)
 </TabItem>
 <TabItem value="gras" label="Gras">
-2 astérisques (`**`) de chaque côté d'un texte donnera message en **gras**.
+2 astérisques (<code>**</code>) de chaque côté d'un texte donnera message en **gras**.
 
 Par exemple, le message suivant :
 
@@ -73,7 +73,7 @@ Donnera :
 ![Texte en gras sur Discord](https://i.dfr.gg/zB46.png)
 </TabItem>
 <TabItem value="souligne" label="Souligné">
-2 underscores (`__`) de chaque côté d'une chaîne de caractères donnera un texte <u>souligné</u>.
+2 underscores (<code>__</code>) de chaque côté d'une chaîne de caractères donnera un texte <u>souligné</u>.
 
 Par exemple, le message suivant :
 
@@ -86,7 +86,7 @@ Donnera :
 ![Texte souligné sur Discord](https://i.dfr.gg/O6eK.png)
 </TabItem>
 <TabItem value="barre" label="Barré">
-2 tildes (`~~`) de part et d'autre d'un texte donnera message ~~barré~~.
+2 tildes (<code>~~</code>) de part et d'autre d'un texte donnera message ~~barré~~.
 
 Par exemple, le message suivant :
 
@@ -99,7 +99,7 @@ Donnera :
 ![Texte barré sur Discord](https://i.dfr.gg/UUQM.png)
 </TabItem>
 <TabItem value="spoiler" label="Spoiler">
-2 barres verticales (`||`) de chaque côté d'un texte donnera message <Spoiler>caché</Spoiler>.
+2 barres verticales (<code>||</code>) de chaque côté d'un texte donnera message <Spoiler>caché</Spoiler>.
 
 Par exemple, le message suivant :
 
@@ -118,7 +118,7 @@ Une fois la partie cachée cliqué, elle s'affiche :
 :::
 </TabItem>
 <TabItem value="citation" label="Bloc de citation">
-1 signe plus grand que (`&gt;`), au début de la ligne, donnera un texte sous :
+1 signe plus grand que (<code>&gt;</code>), au début de la ligne, donnera un texte sous :
 
 > citation
 
@@ -137,7 +137,7 @@ Placer 3 signes plus grand que (`>>>`), au début de la ligne, rendera automatiq
 :::
 </TabItem>
 <TabItem value="titres" label="Titres">
-1, 2 ou 3 hashtags (`#`, `##`, `###`), en début de ligne, donnera un texte agrandi tel que :
+1, 2 ou 3 hashtags (<code>#</code>, <code>##</code>, <code>###</code>), en début de ligne, donnera un texte agrandi tel que :
 
 <p style={{fontSize: "var(--ifm-h1-font-size)"}}>Titre 1</p>
 <p style={{fontSize: "var(--ifm-h2-font-size)"}}>Titre 2</p>
@@ -163,7 +163,7 @@ Donnera :
 
 <Tabs defaultValue="multiligne" queryString="bloc">
 <TabItem value="uniligne" label="Bloc uniligne">
-1 accent grave (<code>\`</code>) de chaque côté d'un texte donnera message en `bloc`.
+1 accent grave (<code>`</code>) de chaque côté d'un texte donnera message en `bloc`.
 
 Par exemple, le message suivant :
 
@@ -176,7 +176,7 @@ Donnera :
 ![Bloc de code uniligne sur Discord](https://i.dfr.gg/IXwk.png)
 </TabItem>
 <TabItem value="multiligne" label="Bloc multiligne">
-3 accents grave (<code>\`\`\`</code>) de chaque côté d'un texte donnera message en
+3 accents grave (<code>```</code>) de chaque côté d'un texte donnera message en
 
 ```
 bloc
@@ -212,7 +212,7 @@ Un générateur de code ansi est disponible [ici](https://rebane2001.com/discord
 
 <Tabs defaultValue="utilisateur" queryString="mention">
 <TabItem value="utilisateur" label="Utilisateur de Discord">
-La mention d'utilisateur se trouve sous le format `&lt;@identifiant&gt;`
+La mention d'utilisateur se trouve sous le format <code>&lt;@identifiant&gt;</code>
 
 Par exemple, le texte suivant :
 
@@ -229,7 +229,7 @@ Le format `<@!identifiant>` est aussi utilisable, mais déconseillé.
 :::
 </TabItem>
 <TabItem value="salon" label="Salon et fil">
-La mention de salons se présente sous le format `&lt;#identifiant&gt;`.
+La mention de salons se présente sous le format <code>&lt;#identifiant&gt;</code>.
 
 Par exemple, le texte suivant :
 
@@ -251,7 +251,7 @@ Il est aussi possible d'utiliser le lien du salon afin de le mentionner.
 :::
 </TabItem>
 <TabItem value="role" label="Rôle">
-La mention des rôles se forme sous le format `&lt;@&identifiant&gt;`.
+La mention des rôles se forme sous le format <code>&lt;@&identifiant&gt;</code>.
 
 Par exemple, le texte suivant :
 
@@ -264,7 +264,7 @@ Donnera :
 ![Mention d'un rôle](https://i.dfr.gg/ZPx0.png)
 </TabItem>
 <TabItem value="commande" label="Commande slash">
-La mention des commandes d'application se fait sous le format `&lt;nom (nom_groupe-sous-commande) (nom_sous-commande):identifiant&gt;`.
+La mention des commandes d'application se fait sous le format <code>&lt;nom (nom_groupe-sous-commande) (nom_sous-commande):identifiant&gt;</code>.
 
 Par exemple, le texte suivant :
 
@@ -325,7 +325,7 @@ Source : [discord.dev](https://discord.com/developers/docs/reference#message-fo
 Sur Discord, il est possible d'afficher une date et l'heure suivant la plage horaire et la langue locale de l'utilisateur.
 Cette fonctionnalité est notamment très pratique pour afficher l'heure de réunions et d'évènements.
 
-Pour mentionner un [timestamp](https://unixtime.org), il vous suffit de commencer par "`&lt;t:timestamp:`", puis de choisir l'une de ces lettres :
+Pour mentionner un [timestamp](https://unixtime.org), il vous suffit de commencer par "<code><t:timestamp:</code>", puis de choisir l'une de ces lettres :
 
 - `t` (heure courte) - `<t:0:t>` donnera "01:00" ;
 - `T` (heure longue) - `<t:0:T>` donnera "01:00:00" ;
