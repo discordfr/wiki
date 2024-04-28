@@ -65,5 +65,5 @@ Cette restriction s'applique instantanément aux membres du serveur qui ont des 
 ::::
 
 :::caution Attention
-L'A2F n'est pas infaillible en cas de fuite du token d'authentification ou d'interaction avec un QR code malveillant.
+L'A2F n'est pas infaillible en cas de fuite du token d'authentification ou d'interaction avec un [QR code malveillant](/blog/2021/01/27/nitro-qr-code).
 :::

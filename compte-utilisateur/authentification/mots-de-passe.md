@@ -31,7 +31,7 @@ Il est important de diversifier les adresses email, c’est utile pour protéger
 
 Pour répondre à cela, il existe une astuce pratique qui est l'utilisation de l'opérateur "+" dans votre adresse Gmail. Il permet de créer des adresses distinctes redirigeant les messages vers une boîte principale. Par exemple, `roosterwumpus+92zg389@gmail.com` redirige vers `roosterwumpus@gmail.com`. 
 
-Autrement il existe des services intégrés, comme chez Apple qui propose une solution gratuite de mails de redirections à l’inscription sur des applications et une version payante plus complète, ou encore le service Simple Login https://simplelogin.io/ qui propose une option gratuite pour faire des mails générés aléatoirement avec des redirections. 
+Autrement il existe des services intégrés, comme chez Apple qui propose une solution gratuite de mails de redirections à l’inscription sur des applications et une version payante plus complète, ou encore le service [Simple Login](https://simplelogin.io) qui propose une option gratuite pour faire des mails générés aléatoirement avec des redirections. 
 
 :::caution Attention
 Ceci doit être fait avec modération étant donné qu’il n’est pas toujours possible de pouvoir répondre avec ces adresses de redirections aux équipes d’assistances des services sur lesquels les mails seront inscrits, ils seraient dans le droit de refuser la prise en charge en cas de problème.
@@ -46,7 +46,7 @@ De plus, l’adresse de récupération doit être distincte et sécurisée, ce q
 ![Comparaison des gestionnaires de mots de passe](https://i.dfr.gg/aRZ6.png)
 
 2. Changer périodiquement ses mots de passe, surtout en cas de suspicion de compromission. Par exemple 1 fois par mois ou par trimestre sur les plateformes essentielles pour contrer de possibles fuites de données.
-3. Activer l'A2F pour une couche de sécurité supplémentaire. (VOIR ARTICLE À CE SUJET)
+3. Activer l'[A2F](/wiki/compte-utilisateur/authentification/a2f) pour une couche de sécurité supplémentaire.
 
 ## Sécurité et Précautions
 - Utiliser un gestionnaire de MDP
