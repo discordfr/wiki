@@ -39,7 +39,7 @@ Le Wiki nécessite une forme de rédaction unie afin de le rendre accessible à 
 - **Le wiki *n'est pas* un tutoriel.** L'objectif du Wiki est de servir de banque de données sur tous les aspects de Discord. Il convient donc de rester purement informatif et ne pas expliquer pas à pas comment utiliser une fonctionnalité, ce n'est pas un guide.
 
 - **Respectez une mise en forme correcte.** Afin d'obtenir un rendu final correct et agréable à la lecture, il est conseillé d'utiliser la mise en forme markdown de la bonne façon. Commencez toujours les titres par ceux de niveau 2 `## Titre` puis continuez sur les titres 3, puis 4, etc. N'abusez pas du gras ou de l'italique, par exemple.<br/>
-[Exemple de page correcte](https://dfr.gg/wiki/configuration-serveur/configuration-serveur/personnalisation/) ([Voir la source](https://github.com/discordfr/wiki/blob/master/configuration-serveur/configuration-serveur/personnalisation.md))
+[Exemple de page correcte](https://dfr.gg/wiki/gestion-serveur/configuration/personnalisation/) ([Voir la source](https://github.com/discordfr/wiki/blob/master/gestion-serveur/configuration/personnalisation.md))
 
 - **Restez impersonnel.** Comme plus haut, il est important de rester impersonnel et de parler d'utilisateur en général plutôt que du lecteur en particulier. Sont donc à proscrire les "vous", "vos", "votre" ou autres pronoms impliquant directement le lecteur.
 
