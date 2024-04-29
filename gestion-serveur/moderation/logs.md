@@ -56,8 +56,8 @@ Les logs consignent différentes actions.
 Pour une recherche plus précise, des filtres sont utilisables : 
 1. Les filtres d'utilisateurs.
 
-![Les filtres d'utilisateurs](https://i.discord.fr/stb.png)
+![Les filtres d'utilisateurs](https://i.dfr.gg/stb.png)
 
 2. Les filtres d'actions.
 
-![Les filtres d'action](https://i.discord.fr/F0I.png)
+![Les filtres d'action](https://i.dfr.gg/F0I.png)

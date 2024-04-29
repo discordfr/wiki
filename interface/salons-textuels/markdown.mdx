@@ -1,0 +1,428 @@
+---
+title: Écriture en Markdown
+keywords:
+  - discord
+  - markdown
+  - écriture
+  - ecriture
+description: Discord utilise le langage markdown afin de permettre aux utilisateurs de mettre en forme leurs messages.
+contributors: [volcanofr, xox, dragrame]
+short_slug: Markdown
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+export function Spoiler({children}) {
+  return (
+    <span style={{
+      backgroundColor: "var(--ifm-background-surface-color)",
+      color: "var(--ifm-background-surface-color)",
+      borderRadius: "5px"
+    }}>
+      {children}
+    </span>
+  )
+}
+
+La syntaxe Markdown se caractérise par le positionnement de caractères simples, tel que `*` et `#`, qui permettent la mise en forme d'un texte.
+
+Par exemple, la syntaxe suivante :
+
+```md
+Le *pré* est rempli d'**animaux joyeux** chantant __gaiement__ ~~tant que le loup n'est pas là.~~
+```
+
+Affichera :
+
+![Exemple de texte sous Markdown](https://i.dfr.gg/HBj.png)
+
+:::info
+Sur cette page, il est conseillé d'utiliser le panneau de navigation. Il est disponible sur la droite de cette bulle informative.
+:::
+
+## Syntaxe
+
+### Formatage de texte {#fomat-texte}
+
+<Tabs defaultValue="gras" queryString="texte">
+<TabItem value="italique" label="Italique">
+1 astérisque (<code>*</code>) ou 1 underscore (<code>_</code>) de part et d'autre d'une chaîne de caractères donnera un texte en <i>italique</i>.
+
+Par exemple, le message suivant :
+
+```md
+Bienvenue sur *dfr.*_gg_ !
+```
+
+Donnera :
+
+![Texte en italique sur Discord](https://i.dfr.gg/6XX3.png)
+</TabItem>
+<TabItem value="gras" label="Gras">
+2 astérisques (<code>**</code>) de chaque côté d'un texte donnera message en <strong>gras</strong>.
+
+Par exemple, le message suivant :
+
+```md
+Bienvenue sur **dfr.gg** !
+```
+
+Donnera :
+
+![Texte en gras sur Discord](https://i.dfr.gg/zB46.png)
+</TabItem>
+<TabItem value="souligne" label="Souligné">
+2 underscores (<code>__</code>) de chaque côté d'une chaîne de caractères donnera un texte <u>souligné</u>.
+
+Par exemple, le message suivant :
+
+```md
+Bienvenue sur __dfr.gg__ !
+```
+
+Donnera :
+
+![Texte souligné sur Discord](https://i.dfr.gg/O6eK.png)
+</TabItem>
+<TabItem value="barre" label="Barré">
+2 tildes (<code>~~</code>) de part et d'autre d'un texte donnera message <s>barré</s>.
+
+Par exemple, le message suivant :
+
+```md
+Bienvenue sur ~~dfr.gg~~ !
+```
+
+Donnera :
+
+![Texte barré sur Discord](https://i.dfr.gg/UUQM.png)
+</TabItem>
+<TabItem value="spoiler" label="Spoiler">
+2 barres verticales (<code>||</code>) de chaque côté d'un texte donnera message <Spoiler>caché</Spoiler>.
+
+Par exemple, le message suivant :
+
+```md
+Bienvenue sur ||dfr.gg|| !
+```
+
+Donnera :
+
+![Texte caché sur Discord](https://i.dfr.gg/7cIk.png)
+
+:::note
+Une fois la partie cachée cliqué, elle s'affiche :
+
+![Texte visible après avoir cliqué sur le spoiler](https://i.dfr.gg/fbqV.png)
+:::
+</TabItem>
+<TabItem value="citation" label="Bloc de citation">
+1 signe plus grand que (<code>&gt;</code>), au début de la ligne, donnera un texte sous :
+
+> citation
+
+Par exemple, le message suivant :
+
+```md
+> Bienvenue sur dfr.gg !
+```
+
+Donnera :
+
+![Citation sur Discord](https://i.dfr.gg/I2AM.png)
+
+:::note
+Placer 3 signes plus grand que (`>>>`), au début de la ligne, rendera automatiquement tout le reste du message sous citation.
+:::
+</TabItem>
+<TabItem value="titres" label="Titres">
+1, 2 ou 3 hashtags (<code>#</code>, <code>##</code>, <code>###</code>), en début de ligne, donnera un texte agrandi tel que :
+
+<p style={{fontSize: "var(--ifm-h1-font-size)"}}>Titre 1</p>
+<p style={{fontSize: "var(--ifm-h2-font-size)"}}>Titre 2</p>
+<p style={{fontSize: "var(--ifm-h3-font-size)"}}>Titre 3</p>
+
+Par exemple, le message suivant :
+
+```md
+# Bienvenue sur dfr.gg !
+## Ce site est contributif.
+### Bonne visite !
+```
+
+Donnera :
+
+![Titres sur Discord](https://i.dfr.gg/xOGm.png)
+</TabItem>
+</Tabs>
+
+---
+
+### Bloc de code {#bloc-code}
+
+<Tabs defaultValue="multiligne" queryString="bloc">
+<TabItem value="uniligne" label="Bloc uniligne">
+1 accent grave (<code>`</code>) de chaque côté d'un texte donnera message en `bloc`.
+
+Par exemple, le message suivant :
+
+```md
+Bienvenue sur `dfr.gg` !
+```
+
+Donnera :
+
+![Bloc de code uniligne sur Discord](https://i.dfr.gg/IXwk.png)
+</TabItem>
+<TabItem value="multiligne" label="Bloc multiligne">
+3 accents grave (<code>```</code>) de chaque côté d'un texte donnera message en
+
+```
+bloc
+```
+
+Il est aussi possible, mais non-obligatoire, de rajouter l'[alias d'un langage](https://github.com/volcanofr/volcanofr/blob/main/supported_languages.md),
+après les caractères d'ouverture du bloc.
+
+Tel que :
+
+```
+```diff
+- discord.fr
++ dfr.gg
+  slash.fr.community
+``` 
+```
+
+Donnera :
+
+![Bloc de code multiligne sur Discord (langage diff)](https://i.dfr.gg/r2SB.png)
+
+:::note
+Il est aussi possible d'utiliser l'alias `ansi` afin de customiser les couleurs du bloc de code.
+Un générateur de code ansi est disponible [ici](https://rebane2001.com/discord-colored-text-generator).
+:::
+</TabItem>
+</Tabs>
+
+---
+
+### Mentions
+
+<Tabs defaultValue="utilisateur" queryString="mention">
+<TabItem value="utilisateur" label="Utilisateur de Discord">
+La mention d'utilisateur se trouve sous le format <code>&lt;@identifiant&gt;</code>
+
+Par exemple, le texte suivant :
+
+```
+<@1231631025914904576>
+```
+
+Donnera :
+
+![Mention de Wumpus](https://i.dfr.gg/BPif.png)
+
+:::note
+Le format `<@!identifiant>` est aussi utilisable, mais déconseillé.
+:::
+</TabItem>
+<TabItem value="salon" label="Salon et fil">
+La mention de salons se présente sous le format <code>&lt;#identifiant&gt;</code>.
+
+Par exemple, le texte suivant :
+
+```
+<#264363166316756992>
+```
+
+Donnera :
+
+![Mention d'un salon vocal](https://i.dfr.gg/M576.png)
+
+:::note
+La mention de tout types de salons, posts, fils de discussion et messages privés est possible.
+Les catégories sont aussi mentionables, mais ne seront pas cliquable.
+
+---
+
+Il est aussi possible d'utiliser le lien du salon afin de le mentionner.
+:::
+</TabItem>
+<TabItem value="role" label="Rôle">
+La mention des rôles se forme sous le format <code>&lt;@&identifiant&gt;</code>.
+
+Par exemple, le texte suivant :
+
+```
+<@&1120672019135090729>
+```
+
+Donnera :
+
+![Mention d'un rôle](https://i.dfr.gg/ZPx0.png)
+</TabItem>
+<TabItem value="commande" label="Commande slash">
+La mention des commandes d'application se fait sous le format <code>&lt;nom (nom_groupe-sous-commande) (nom_sous-commande):identifiant&gt;</code>.
+
+Par exemple, le texte suivant :
+
+```
+</serveur:942123323482054797> </event help:1090669974470803656>
+```
+
+Donnera :
+
+![Mention des slash commandes](https://i.dfr.gg/sL9h.png)
+
+:::note
+Une commande n'a pas nécessairement de Subcommands et de Subcommand Groups, il n'est donc pas nécessaire de placer ces noms.
+:::
+</TabItem>
+<TabItem value="message" label="Message">
+La mention des messages se fait uniquement via leur lien de partage.
+
+Par exemple, le texte suivant :
+
+```
+https://discord.com/channels/812028116552777738/909858896431161375/909905242466951168
+```
+
+Donnera :
+
+![Mention d'un message](https://i.dfr.gg/0Q3H.png)
+</TabItem>
+<TabItem value="special" label="Spécial">
+Certains emplacements ont des mentions spéciales.
+
+- `<id:guide>` mentionne le guide du serveur ;
+- `<id:browse>` mentionne la recherche des salons ;
+- `<id:customize>` mentionne les questions de personnalisation et l'affichage des salons.
+
+Par exemple, le texte suivant :
+
+```
+<id:guide> <id:browse> <id:customize>
+```
+
+Donnera :
+
+![Mentions spéciales](https://i.dfr.gg/hrnj.png)
+</TabItem>
+</Tabs>
+
+:::info
+Afin de trouver les différents identifiants, il vous suffit d'activer le [`Mode développeur`](/wiki/interface/mode-developpeur).
+:::
+
+Source : [discord.dev](https://discord.com/developers/docs/reference#message-formatting-formats)
+
+---
+
+### Unix Timestamp {#timestamp}
+
+Sur Discord, il est possible d'afficher une date et l'heure suivant la plage horaire et la langue locale de l'utilisateur.
+Cette fonctionnalité est notamment très pratique pour afficher l'heure de réunions et d'évènements.
+
+Pour mentionner un [timestamp](https://unixtime.org), il vous suffit de commencer par "<code><t:timestamp:</code>", puis de choisir l'une de ces lettres :
+
+- `t` (heure courte) - `<t:0:t>` donnera "01:00" ;
+- `T` (heure longue) - `<t:0:T>` donnera "01:00:00" ;
+- `d` (date courte) - `<t:0:d>` donnera "01/01/1970" ;
+- `D` (date longue) - `<t:0:D>` donnera "1 janvier 1970" ;
+- `f` (date et heure courts) - `<t:0:f>` donnera "1 janvier 1970 01:00" ;
+- `F` (date et heure longs) - `<t:0:F>` donnera "jeudi 1 janvier 1970 01:00" ;
+- `R` (temps relatif) - `<t:0:R>` donnera "il y a 54 ans".
+
+Puis de refermer la syntaxe par le signe plus petit que (`>`).
+
+Par exemple, le texte suivant :
+```
+<t:1431476999:t>
+<t:1431476999:T>
+<t:1431476999:d>
+<t:1431476999:D>
+<t:1431476999:f>
+<t:1431476999:F>
+<t:1431476999:R>
+```
+
+Donnera en français, avec comme zone locale la France :
+
+![Mention des timestamps](https://i.dfr.gg/IcK5.png)
+
+:::note
+Il est aussi possible de ne pas ajouter de lettre de style. Il faut alors enlever le dernier `:` tel que : `<t:0>`.
+Cela donnera la date et l'heure sosu le format court.
+:::
+
+Source : [discord.dev](https://discord.com/developers/docs/reference#message-formatting-timestamp-styles)
+
+---
+
+### Formatage de liens {#lien}
+
+#### Suppression d'embed généré {#lien-embed}
+
+Afin de supprimer l'embed généré par un lien, il suffit de mettre les signes plus grand (`<`) et plus petit que (`>`) autour du lien en question.
+
+Par exemple, le texte suivant :
+
+```
+https://dfr.gg
+```
+
+Donnera :
+
+![Embed de lien visible](https://i.dfr.gg/I13U.png)
+
+Alors que avec les signes :
+
+```
+<https://dfr.gg>
+```
+
+Cela n'affichera pas l'embed :
+
+![Pas d'embed du lien](https://i.dfr.gg/11bT.png)
+
+---
+
+#### Lien hypertexte {#lien-hypertexte}
+
+Afin de rendre un texte cliquable, tel un lien, il suffit de prendre le format : `[texte à afficher](http://example.com)`.
+
+Il est aussi possible d'y rajouter un texte dans l'info-bulle, en rajoutant `'texte au survole'` à l'intérieur des crochets.
+
+Par exemple, le texte suivant [:](https://printer.discord.com)
+
+```
+[Anciennement discord.fr](<https://dfr.gg> 'DFR') : un site à propos de Discord.
+```
+
+Donnera :
+
+![Lien hypertexte](https://i.dfr.gg/3BYD.png)
+
+:::note
+Il est aussi possible de [supprimer l'embed du lien](#lien-embed).
+:::
+
+## La mise en forme rapide {#forme-rapide}
+
+Pour faciliter l'utilisation de la mise en forme, Discord a également ajouté une fonctionalité de mise en forme rapide
+(Disponible uniquement sur l'application Windows, Linux, MacOS ainsi que l'application Web).
+Pour l'utiliser, il suffit de sélectionner avec la souris ou le clavier la zone à modifier.
+Plusieurs boutons apparaîtront alors afin de mettre en forme le texte :
+
+![Mise en forme rapide](https://i.dfr.gg/ejU.png)
+
+## Les raccourcis claviers {#raccourcis}
+
+Plusieurs raccourcis claviers sont disponible pour gagner du temps lors de la mise en forme.
+Pour les utiliser il suffit de sélectionner le texte à mettre forme et effectuer une combinaison de touche comme suit :
+
+- <kbd>Ctrl</kbd> + <kbd>I</kbd> : *Italique*
+- <kbd>Ctrl</kbd> + <kbd>B</kbd> : **Gras**
+- <kbd>Ctrl</kbd> + <kbd>U</kbd> : <u>Souligné</u>

@@ -17,7 +17,7 @@ Les salons textuels, sur Discord, permettent aux utilisateurs de discuter par me
 
 Afin de créer un salon textuel sur un serveur, il faut avoir la permission "Gérer les salons". Les salons textuels, tout comme les salons vocaux ou les salons d'annonce, peuvent être publics ou privés.
 
-<img src="https://i.discord.fr/lcb.png" width="421" height="" /> 
+<img src="https://i.dfr.gg/lcb.png" width="421" height="" /> 
 
 ## La discussion
 
@@ -39,19 +39,19 @@ Pour configurer un salon textuel, il faut se rendre dans les paramètres du salo
 
 Il est possible de modifier le nom du salon.
 
-<img src="https://i.discord.fr/5qj.png" width="650" height="" />
+<img src="https://i.dfr.gg/5qj.png" width="650" height="" />
 
 ### La description du salon
 
-Il est possible d'ajouter une description du salon. [Markdown](https://discord.fr/wiki/interface/salon-textuel/markdown) y est partiellement autorisé, uniquement pour  mettre en gras, en italique ou souligner une partie de texte. Les emojis ou mentions de salons y sont autorisés, il faut pour cela mentionner l'identifiant du salon ou celui de l'emoji choisi.
+Il est possible d'ajouter une description du salon. [Markdown](https://dfr.gg/wiki/interface/salon-textuel/markdown) y est partiellement autorisé, uniquement pour  mettre en gras, en italique ou souligner une partie de texte. Les emojis ou mentions de salons y sont autorisés, il faut pour cela mentionner l'identifiant du salon ou celui de l'emoji choisi.
 
-<img src="https://i.discord.fr/TiC.png" width="650" height="" />
+<img src="https://i.dfr.gg/TiC.png" width="650" height="" />
 
 ### Le mode lent
 
 Le mode lent permet de limiter le nombre de messages par utilisateur sur une intervalle. Les utilisateurs avec la permission "Gérer les messages" ou "Gérer le salon" sont exempts de cette limitation.
 
-<img src="https://i.discord.fr/6Ub.png" width="650" height="" />
+<img src="https://i.dfr.gg/6Ub.png" width="650" height="" />
 
 ### Autres options
 
