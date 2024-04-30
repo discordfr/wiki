@@ -28,6 +28,6 @@ Les webhooks peuvent être utilisés avec n'importe quel service externe, y comp
 :::
 
 ## L'exemple de Discohook
-Discohook représente un service externe parmi de nombreux autres qui permettent l'envoi de messages via des webhooks. Il démontre parfaitement la flexibilité des webhooks, qui peuvent être adaptés en fonction des besoins des utilisateurs. Le service offert par Discohook est simple : il permet d'envoyer des messages via des webhooks, que ce soit sous forme d'embeds ou de texte.
+[Discohook](https://discohook.org/) représente un service externe parmi de nombreux autres qui permettent l'envoi de messages via des webhooks. Il démontre parfaitement la flexibilité des webhooks, qui peuvent être adaptés en fonction des besoins des utilisateurs. Le service offert par Discohook est simple : il permet d'envoyer des messages via des webhooks, que ce soit sous forme d'embeds ou de texte.
 
 ![image discohook](http://i.dfr.gg/I05C.png)
