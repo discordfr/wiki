@@ -16,7 +16,7 @@ import TabItem from '@theme/TabItem';
 Les forums sur Discord sont des canaux de discussion comparables à des étals sur un marché. Ils permettent notamment de lancer des discussions séparées sur des sujets, de créer des canaux de débat ou encore de discuter autour d'une image. Les forums ont diverses utilisations en fonction des communautés mais leur fonctionnement est le même. 
 
 ## L'activation des forums
-Les forums ne sont pas présents automatiquement lors de la création d'un serveur Discord. Pour y avoir accès, quelques étapes doivent être suivies. Tout d'abord, il est nécessaire d'activer la fonctionnalité de la communauté. Pour ce faire, il faut se rendre dans les paramètres du serveur, puis dans la catégorie `Communauté`. Ensuite, il suffit de cliquer sur `Activer la communauté` et de suivre les instructions de Discord. Avec la fonctionnalité de communauté activée, les forums deviennent disponibles. Pour en créer un, il n'y a qu'à créer un nouveau salon et à choisir celui qui se nomme `Forum`.
+Les forums ne sont pas présents automatiquement lors de la création d'un serveur Discord. Pour y accéder, il est primordial d'avoir activé la [communauté](https://dfr.gg/wiki/gestion-serveur/outils-communautaires#activer-le-serveur-communautaire). Une fois la communauté activée, il suffit de créer un nouveau salon et de choisir celui nommé `Forum`
 
 ![image activation communauté](https://i.dfr.gg/kY33.png)
 
@@ -32,7 +32,7 @@ Les forums peuvent servir à de nombreuses fins, et les administrateurs de serve
 </TabItem>
 
 <TabItem value="guide des posts" label="Guide des posts">
-Le guide des posts est un ensemble de règles auxquelles les membres doivent se conformer lors de leur utilisation du forum. Modifiable à tout moment par les administrateurs, son contenu est libre et peut inclure des règles concernant le langage approprié, le respect des autres membres, ainsi que les types de contenu autorisés ou interdits dans le forum. Chaque forum peut avoir un guide des posts complètement différent. 
+Le guide des posts est un ensemble de règles auxquelles les membres doivent se conformer lors de leur utilisation du forum. Chaque forum peut avoir un guide des posts complètement différent.
 
 ![guide des posts image](https://i.dfr.gg/6PW0.png)
 </TabItem>
