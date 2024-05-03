@@ -9,9 +9,9 @@ description: Liste des membres
 contributors: [antoine]
 ---
 
-La `liste des membres` de Discord est un outil de modération apparu il y a peu, offrant une solution simple et pratique pour gérer les membres d'un serveur. Elle fournit une gamme étendue d'informations sur chaque membre, ce qui facilite grandement les actes de la modération.
+La `liste des membres` de Discord est un outil de modération offrant une solution simple et pratique pour gérer les membres d'un serveur. Elle fournit une gamme étendue d'informations sur chaque membre.
 
-## Comment se construit la liste des membres ?
+## La structure de la liste
 La liste des membres est structurée sous forme de tableau, comprenant plusieurs catégories telles que :
 * **Nom** : regroupe les noms des utilisateurs du serveur.
 * **Membre depuis** : informe le modérateur sur la durée pendant laquelle le membre est présent sur le serveur depuis son arrivée.
@@ -24,13 +24,3 @@ La liste des membres est structurée sous forme de tableau, comprenant plusieurs
 
 ## Un outil modulable
 La liste des membres est un outil facilement modulable selon les besoins. Elle peut être triée par plage, notamment pour les catégories `Membre depuis...` et `A rejoint Discord...`, ou par une méthode d'arrivée spécifique pour la catégorie `Méthode d'arrivée`. De plus, elle peut être triée selon un rôle particulier pour la catégorie `Rôles`, ou par type de signalement pour `Les signalements`. Cet outil permet également de congédier les membres inactifs d'un serveur ou d'appliquer des actions de modération telles que des exclusions ou des bannissements. Pour trier d'une façon particulière, il suffit de cliquer sur l'icône à côté de la catégorie et de choisir la méthode de tri.
-
-## La vue moderateur
-La vue modérateur s'ouvre lorsqu'un modérateur clique sur le nom d'un membre dans la liste des membres ou sur l'icône en fin de ligne. Cette vue permet de consulter :
-* Les permissions du membre
-* Son activité sur le serveur
-* Ses rôles
-* Un journal des actions de modération effectuées sur l'utilisateur
-* Un panel d'actions de modération comprenant : `Envoyer un message privé`, `Expluser`, `Bannir` et `Exclure temporairement`
-
-![image vue moderateur](https://i.dfr.gg/UjEX.png)
