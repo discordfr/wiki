@@ -18,7 +18,7 @@ Lorsqu'un message d'annonce est partagé, il est affiché sous le tag Serveur.
 :::
 
 ## Partage
-Le salon d'annonces fonctionne de manière similaire à un salon textuel, mais sa portée diffère. Lorsqu'un message est envoyé dans un salon d'annonces, un petit champ apparaît sous le message indiquant `Partage ça avec tes abonnés !`. Une nouvelle icône apparaît également dans les paramètres du message. Ces deux options permettent d'envoyer l'annonce sur les serveurs qui suivent le salon.
+Le salon d'annonces fonctionne de manière similaire à un salon textuel, mais sa portée diffère. Lorsqu'un message est envoyé dans un salon d'annonces, un petit champ apparaît sous le message indiquant `Partage ça avec tes abonnés !`. Une nouvelle icône apparaît également dans les options du message. Ces deux options permettent d'envoyer l'annonce sur les serveurs qui suivent le salon.
 
 ## Création de salon d'annonces
 Les salons d'annonces ne sont pas présents automatiquement lors de la création d'un serveur Discord. Pour y accéder, il est primordial d'avoir activé la [communauté](https://dfr.gg/wiki/gestion-serveur/outils-communautaires#activer-le-serveur-communautaire). Une fois la communauté activée, il suffit de créer un nouveau salon et de choisir le type `Annonce`
