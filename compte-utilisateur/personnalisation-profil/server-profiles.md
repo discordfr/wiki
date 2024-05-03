@@ -27,4 +27,4 @@ Les fonctionnalités sont simples et sont les mêmes que pour la personnalisatio
 
 Pour accéder à ces options de personnalisation, l'une des possibilités est de se rendre dans les paramètres puis dans `Profils`. Ensuite, il suffit de choisir le serveur sur lequel les modifications doivent être apportées et de laisser libre cours à sa créativité pour créer un serveur de profil adapté.  Une autre option consiste à effectuer un clic droit sur le nom dans le serveur concerné et à choisir `Modifier le profil de serveur`.
 
-![illustration fonctionnalités profil de serveur](http://i.discord.fr/hqjz.webp)
+![illustration fonctionnalités profil de serveur](http://i.dfr.gg/hqjz.webp)
