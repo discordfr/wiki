@@ -12,7 +12,7 @@ short_slug: AboNitro
 ## Qu’est-ce que Discord Nitro ?
 Les abonnements [Nitro](https://discord.com/nitro) sont conçus pour offrir aux utilisateurs une expérience premium, avec deux options d'abonnement l'un par mois et l'autre par ans. Lorsqu'un utilisateur s'abonne, un badge affiche la durée de son soutien à Discord.
 
-![Capture Nitro](https://i.discord.fr/bRo.png)
+![Capture Nitro](https://i.dfr.gg/bRo.png)
 
 ## Nitro Basic (€2,99 par mois / €29,99 par an)
 Nitro Classic, autrefois la seule option d'abonnement, sert désormais de formule "basique" pour Discord Nitro.
@@ -47,4 +47,4 @@ Si un utilisateur est présent sur plus de 100 serveurs à la fin de son abonnem
 ## Comment s'abonner ?
 Il suffit de se rendre dans les paramètres, puis dans la catégorie Nitro, cliquer sur s'abonner et choisir l'offre qui convient le mieux. Enfin il faut suivre les instructions de Discord pour finaliser son abonnement !
 
-![image comment acheter Nitro](https://i.discord.fr/4aWS.png)
+![image comment acheter Nitro](https://i.dfr.gg/4aWS.png)
