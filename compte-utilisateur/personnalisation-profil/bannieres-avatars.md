@@ -26,4 +26,4 @@ Dans l'onglet `Profil`, il existe deux sous-catégories : `Profil d'utilisateur`
 ## Dimensions de la Bannière et de l'Avatar
 Pour la bannière, il est recommandé d'utiliser une image de 680 x 240 pixels et de moins de 10 Mo. Pour l'avatar, la taille recommandée est de 128 x 128 pixels.
 
-![Personalisation de bannière](https://i.discord.fr/Uk9s.png)
+![Personalisation de bannière](https://i.dfr.gg/Uk9s.png)
