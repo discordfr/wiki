@@ -12,7 +12,7 @@ short-slug: false
 
 La **Discovery** est un outil communautaire permettant de faire apparaitre votre serveur parmi une liste de serveurs publics, certifiés, et partenaires. Elle permet de faire la promotion de votre serveur et de le mettre en avant. Cependant, cette fonctionnalité requiert certains prérequis pour son activation sur votre serveur.
 
-![discovery image](http://i.discord.fr/hWXQ.webp)
+![discovery image](http://i.dfr.gg/hWXQ.webp)
 
 ## Emplacement de la Discovery
 
@@ -30,4 +30,4 @@ La Discovery possède de nombreuses exigences pour filtrer les serveurs entrant 
 * Pas de gros mots
 * Une A2F obligatoire pour la modération activée
 
-![discovery activation](http://i.discord.fr/8CwM.webp) 
+![discovery activation](http://i.dfr.gg/8CwM.webp) 
