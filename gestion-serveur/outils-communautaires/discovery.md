@@ -18,7 +18,9 @@ La **Discovery** est un outil communautaire permettant de faire apparaitre votre
 
 Pour un utilisateur cherchant à découvrir de nouveaux serveurs, il repérera la fonctionnalité Discovery en bas de sa liste de serveurs sur son ordinateur. Par contre, si vous souhaitez mettre votre serveur dans cette catégorie, il faudra pour commencer vous rendre dans les paramètres du serveur, puis dans `Activer la communauté`. Une fois celle-ci activé, il vous suffira de vous rendre dans `Découverte`.
 
-:::note Si vous cherchez la fonctionnalité Discovery pour trouver de nouveaux serveurs à explorer sur votre téléphone, attention, elle n'existe pas. Elle n'est disponible que sur ordinateur. :::
+:::note
+Si vous cherchez la fonctionnalité Discovery pour trouver de nouveaux serveurs à explorer sur votre téléphone, attention, elle n'existe pas. Elle n'est disponible que sur ordinateur.
+:::
 
 ## Les exigences pour activer la Discovery
 
