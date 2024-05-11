@@ -8,7 +8,7 @@ keywords:
 description: L'utilisation des statuts personnalisés sur Discord
 contributors: [zallom]
 ---
-Un statut personnalisé se présente avec un texte qui s'affichera sur votre profil lorsque vous êtes en ligne. Ce dernier peut également être accompagné d'un emoji (personnalisé si l'utilisateur possède [Discord Nitro](https://discord.fr/wiki/nitro-jeux/nitro/abonnements)).
+Un statut personnalisé se présente avec un texte qui s'affichera sur votre profil lorsque vous êtes en ligne. Ce dernier peut également être accompagné d'un emoji (personnalisé si l'utilisateur possède [Discord Nitro](https://dfr.gg/wiki/nitro-jeux/nitro/abonnements)).
 
 ## Procédure à suivre
 * Un clique sur la photo de profil de l'utilisateur (ou onglet paramètres sur smartphone)
@@ -16,4 +16,4 @@ Un statut personnalisé se présente avec un texte qui s'affichera sur votre pro
 * Un texte, une durée (et un émoji) doivent être saisie
 * L'enrengistrement permettera de l'appliquer sur le profil correspondant
 
-![Mise en place d'un statut personnalisé](https://i.discord.fr/Oho.gif)
+![Mise en place d'un statut personnalisé](https://i.dfr.gg/Oho.gif)

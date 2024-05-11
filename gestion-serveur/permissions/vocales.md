@@ -10,7 +10,7 @@ description: Les permissions vocales
 contributors: [autumn, zallom]
 ---
 
-![Permissions](https://i.discord.fr/ypS.png)
+![Permissions](https://i.dfr.gg/ypS.png)
 
 ### • Se connecter
 

@@ -20,13 +20,13 @@ Sur Discord, les utilisateurs peuvent utiliser deux types d'emoji : les emojis p
 
 Comme bien d'autres plateformes de discussion, des emojis par défaut, de type "unicode" stylisés par la suite, sont présents sur Discord. Ces emojis sont utilisables sur n'importe quel serveur par n'importe qui sans restriction.
 
-<img src="https://i.discord.fr/lE0.png" width="321" height="" />
+<img src="https://i.dfr.gg/lE0.png" width="321" height="" />
 
 ## Les emojis personnalisés
 
 - Uploader un emoji personnalisé :
 
-<img src="https://i.discord.fr/pos.png" width="645" height="" />
+<img src="https://i.dfr.gg/pos.png" width="645" height="" />
 
 - Utiliser les emojis :
  
@@ -34,9 +34,9 @@ Comme bien d'autres plateformes de discussion, des emojis par défaut, de type "
  
   Pour l'utiliser en tant que réaction, il faut cliquer sur "Ajouter une réaction", puis sélectionner l'emoji souhaité.
  
-<img src="https://i.discord.fr/icm.png" width="645" height="" />
+<img src="https://i.dfr.gg/icm.png" width="645" height="" />
  
  
 :::note Note
-L'abonnement à [Discord Nitro](https://discord.fr/wiki/nitro-jeux/nitro/abonnements) est requis pour l'utilisation d'emojis animés, ou bien l'emploi d'emojis personnalisés sur d'autres serveurs que celui d'origine/via MP.
+L'abonnement à [Discord Nitro](https://dfr.gg/wiki/nitro-jeux/nitro/abonnements) est requis pour l'utilisation d'emojis animés, ou bien l'emploi d'emojis personnalisés sur d'autres serveurs que celui d'origine/via MP.
 :::

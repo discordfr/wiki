@@ -15,7 +15,7 @@ contributors: [luke]
 Chaque serveur Discord a la possiblité d'ajouter un certian nombre d'émojis et de stickers personnalisés, ceux-ci peuvent être fixes ou animés. La gestion des émojis et des stickers personnalisés nécessite la permission `Gérer les émojis et les stickers` ou `Administrateur`.
 
 :::info Information
-Le nombre d'emplacements dépend du [niveau de boost du serveur](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/).
+Le nombre d'emplacements dépend du [niveau de boost du serveur](https://dfr.gg/wiki/nitro-jeux/boost-serveur/boost/).
 :::
 
 | Niveaux de boosts | Emplacements d'emojis | Emplacement de stickers |
@@ -32,19 +32,19 @@ La gestion des émojis personnalisés se fait dans la catégorie `Émojis` des p
 
 ### Ajouter un émoji
 
-![Ajouter emoji](https://i.discord.fr/8Vq.png)
+![Ajouter emoji](https://i.dfr.gg/8Vq.png)
 
 ### Modifier un émoji
 
 Comme dit précedement, il est possible de modifier le nom d'un émoji, et puisque qu'ils sont rangés dans l'ordre anti-alphabétique, on peut les classer comme on le souhaite.
 
-![Modifier emoji](https://i.discord.fr/ICj.png)
+![Modifier emoji](https://i.dfr.gg/ICj.png)
 
 ### Supprimer un émoji
 
 Pour supprimer un émoji, il faut simplement aller dans la section `Émojis` des paramètres, en survolant la ligne conrrespondant à un émoji, un croix rouge apparaît.
 
-![Supprimer émoji](https://i.discord.fr/hfz.png)
+![Supprimer émoji](https://i.dfr.gg/hfz.png)
 
 ## Gestion des stickers
 
@@ -57,16 +57,16 @@ Pour ajouter un sticker, il faut que celui-ci respecte les critères d'upload :
  - Taille maximum du fichier : 500 Ko.
  - Dimensions recommandées : 320 x 320.
 
-![Ajout d'un emoji](https://i.discord.fr/Me9.png)
+![Ajout d'un emoji](https://i.dfr.gg/Me9.png)
 
 ### Modifier un sticker
 
 Pour modifier un sticker, il faut se rendre dans la partie `Stickers` des paramètres du serveur, en cliquant sur le crayon qui apparaît lors du survol du sticker.
 
-![Modification Sticker #2](https://i.discord.fr/nCK.png)
+![Modification Sticker #2](https://i.dfr.gg/nCK.png)
 
 ### Supprimer un sticker
 
 Pour supprimer un sticker, il faut se rendre dans la partie `Stickers` des paramètres du serveur, en cliquant sur la croix rouge qui apparaît lors du survol du sticker.
 
-![Suppression Sticker](https://i.discord.fr/YK7.png)
+![Suppression Sticker](https://i.dfr.gg/YK7.png)

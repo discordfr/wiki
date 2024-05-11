@@ -29,7 +29,7 @@ Après contribution, vous pourrez obtenir des rôles sur [notre serveur Discord]
 - Création de guides
 - Création d’articles sur le blog
 
-*Retrouvez la liste de tous les avantages sur [notre page prévue à cet effet](https://discord.fr/serveur)*
+*Retrouvez la liste de tous les avantages sur [notre page prévue à cet effet](https://dfr.gg/serveur)*
 
 :::caution Attention !
 Les rôles de contribution sont distribués au bon vouloir de l'équipe de gestion du wiki, selon la qualité de vos articles.

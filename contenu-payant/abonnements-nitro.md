@@ -14,7 +14,7 @@ short_slug: AboNitro
 ## Qu’est-ce que [Discord Nitro](https://support.discord.com/hc/fr/articles/115000435108-Discord-Nitro-Classic-Nitro) ?
 Les abonnements [Nitro](https://support.discord.com/hc/fr/articles/115000435108-Discord-Nitro-Classic-Nitro) sont faits pour que les utilisateurs aient une expérience premium, avec deux offres par mois/an. Si un utilisateur possède un abonnement, le badge affichera depuis quand il supporte Discord.
 
-![Capture Nitro](https://i.discord.fr/bRo.png)
+![Capture Nitro](https://i.dfr.gg/bRo.png)
 
 ## Nitro Classic ($4,99 par mois / $49,99 par an)
 Nitro Classic était pendant très longtemps le seul abonnement. Désormais, il est l'abonnement "basique" de Discord Nitro.
@@ -34,7 +34,7 @@ Encore une fois, il y a des avantages supplémentaires, comme :
 * Tous les avantages de Nitro Classic
 * Partage de fichiers de 8Mo à ~~50Mo~~ 100Mo
 * Partage d'écran à la source
-* Deux boosts de serveur inclus (voir [ici](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost))
+* Deux boosts de serveur inclus (voir [ici](https://dfr.gg/wiki/nitro-jeux/boost-serveur/boost))
 * Une bannière de profil 
 * La taille des messages est doublée, elle passe de 2000 à 4000 caractères
 * La limite du nombre de serveurs pouvant être rejoint double pour atteindre 200
@@ -48,4 +48,4 @@ Si un utilisateur est présent sur plus de 100 serveurs à la fin de son abonnem
 ## Comment s'abonner ?
 Rien de plus simple, il faut se rendre dans les paramètres / catégorie des messages privés et dans Nitro. Une suite d'intructions s'affichera et donnera la procédure à effectuer !
 
-![GIF comment acheter Nitro](https://i.discord.fr/jc3.gif)
+![GIF comment acheter Nitro](https://i.dfr.gg/jc3.gif)

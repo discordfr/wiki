@@ -18,7 +18,7 @@ L'équipe de confiance et sécurité de Discord peut également supprimer un ser
 
 ## L'option de suppression d'un serveur Discord
 
-En tant que propriétaire, l'option se trouve en bas des paramètres du serveur Discord. L'application demandera le mot de passe du compte ou un un mot de passe temporaire relatif à [l'authentification à deux facteurs](https://discord.fr/wiki/parametres-compte/connexion-verification/a2f/) si cette dernière est configurée sur le compte en question.
+En tant que propriétaire, l'option se trouve en bas des paramètres du serveur Discord. L'application demandera le mot de passe du compte ou un un mot de passe temporaire relatif à [l'authentification à deux facteurs](https://dfr.gg/wiki/parametres-compte/connexion-verification/a2f/) si cette dernière est configurée sur le compte en question.
 
 
 ![Procédure à suivre pour supprimer un serveur discord](https://user-images.githubusercontent.com/87481394/125986314-ddc4f4c9-8002-4a69-a1ee-bceee76d6b7c.gif)
