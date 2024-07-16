@@ -10,11 +10,11 @@ description: Le transfert de propriété de serveurs sur discord
 contributors: [notix, leanks]
 ---
 
-## À quoi sert le transfert de propriété ?
+## À quoi sert le transfert de propriété ?
 *********************
 Le transfert de propriété d'un serveur permet de léguer entièrement un serveur à une autre personne. Cette personne possédera alors toutes les permissions et aura la possibilité de supprimer celui-ci. L'utilisateur ayant transféré le serveur, perdra toutes ses permissions, sauf si celui-ci possède un rôle avec des permissions spécifiques. Seul le propriétaire d'un serveur peut en faire le transfert.
 
-## Comment transférer une propriété ?
+## Comment transférer une propriété ?
 *********************
 ### 1. **Cliquer sur le nom du serveur**
 
@@ -87,6 +87,6 @@ Le nouveau propriétaire possède désormais la couronne 👑 (la propriété du
 
 
 
-:::caution Attention !
+:::caution Attention !
 Si vous transferez votre serveur et qu'il fait partie d'un programme (tel que le programme partenaire), vous risquez de ne plus faire partie de ce programme après le transfert. 
 :::

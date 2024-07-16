@@ -16,7 +16,7 @@ Les threads, sur Discord, permettent aux utilisateurs d'avoir des "sous-discussi
 ## Création/Supression de threads
 ### La création de threads
 
-Afin de créer un thread sur un serveur, il faut avoir une des permissions suivantes : "Créer des fils publics" ; "Créer des fils privés" ; "Gérer les fils" . Les threads, tout comme les salons textuels, les salons vocaux ou les salons d'annonces, peuvent être publics ou privés.
+Afin de créer un thread sur un serveur, il faut avoir une des permissions suivantes : "Créer des fils publics" ; "Créer des fils privés" ; "Gérer les fils" . Les threads, tout comme les salons textuels, les salons vocaux ou les salons d'annonces, peuvent être publics ou privés.
 
 ![Création d'un thread](https://i.dfr.gg/xeH.png)
 ### La suppression de threads
@@ -62,12 +62,12 @@ Les threads archivés peuvent être consultés ou rouverts à tout moment.
 
 ## Les permissions
 
-Voici la liste des permissions liées aux threads :
-- Créer des fils publics : permet de créer de nouveaux threads publics.
-- Créer des fils privés : permet de créer de nouveaux threads privés.
-- Envoyer des messages dans les fils : permet d'envoyer des messages dans tous les types de thread. 
-- Gérer les fils : capacité d'activer le mode lent, de supprimer et d'archiver/désarchiver les threads.
+Voici la liste des permissions liées aux threads :
+- Créer des fils publics : permet de créer de nouveaux threads publics.
+- Créer des fils privés : permet de créer de nouveaux threads privés.
+- Envoyer des messages dans les fils : permet d'envoyer des messages dans tous les types de thread. 
+- Gérer les fils : capacité d'activer le mode lent, de supprimer et d'archiver/désarchiver les threads.
 
 ### Autre option
 
- - NSFW : Un thread est configuré comme NSFW (Not Safe For Work) si son salon parent l'est. Un message apparaît pour demander à l'utilisateur de confirmer qu'il a bien 18 ans car certaines images/liens/contenus dans le thread peuvent choquer un public non averti.
+ - NSFW : Un thread est configuré comme NSFW (Not Safe For Work) si son salon parent l'est. Un message apparaît pour demander à l'utilisateur de confirmer qu'il a bien 18 ans car certaines images/liens/contenus dans le thread peuvent choquer un public non averti.

@@ -35,7 +35,7 @@ Plusieurs informations sont ensuite demandées par l'application dans le menu qu
 
 ![Exemple de prévisualisation - Création Event](https://i.dfr.gg/MQUg.png)
 
-:::note Remarques :
+:::note Remarques :
  - Si l'emplacement sélectionné est un salon du serveur, détenir la permission de `Gérer les évènements` dans celui-ci permet de gérer les évènements liés au salon en question, même si l'utilisateur ne dispose pas de cette permission sur l'ensemble du serveur.
  - Actuellement, il y a une limite de 100 événements planifiés qui peuvent avoir lieu sur un serveur.
 :::
@@ -54,7 +54,7 @@ Lorsque l'évènement débute, il faut cliquer sur "Commencer l'évènement" et 
 
 ![Début/Fin Event](https://i.dfr.gg/QXvQ.png)
 
-:::note Notes : 
+:::note Notes : 
  - Si l'évènement n'a pas été débuté une heure après l'heure prévue, le système le supprimera automatiquement.
  - Il n'est pas nécéssaire de débuter ou de stopper manuellement  un évènement si un horaire de début et de fin est défini. Discord s'en chargera automatiquement (mis à part les évènements stage, qui s'arrêteront quand tous les speakers auront quitté ce dernier).
 :::

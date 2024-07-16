@@ -13,7 +13,7 @@ La fonctionnalité "répondre" a fait officiellement son apparition le 16/11/202
 ![Fontionnalité "répondre"](https://i.dfr.gg/aiX.png)
 
 ### PC
-Pour utiliser cette fonctionnalité sur pc, il y a deux façons :
+Pour utiliser cette fonctionnalité sur pc, il y a deux façons :
 
 - Passer le curseur sur un message et cliquer sur “Répondre”.
 ![Fontionnalité "répondre" sur pc en passant dessus](https://i.dfr.gg/lqr.png)
@@ -28,7 +28,7 @@ Sur mobile, il suffira d’appuyer longuement sur un message et de sélectionner
 <br /> <br />
 
 :::tip
-Le message d'origine est affiché au dessus du message de réponse ; en cliquant dessus, vous pouvez être renvoyé à celui-ci.
+Le message d'origine est affiché au dessus du message de réponse ; en cliquant dessus, vous pouvez être renvoyé à celui-ci.
 
 ![Message répondre affiché au-dessus](https://i.dfr.gg/cwd.png)
 :::

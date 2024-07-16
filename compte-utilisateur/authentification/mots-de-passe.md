@@ -16,7 +16,7 @@ Les mots de passe sont des éléments essentiels de la sécurité en ligne, util
 ## Caractéristiques d'un bon mot de passe
 
 - Opter pour des mots de passe longs (idéalement entre 12 et 25 caractères) pour augmenter la complexité.
-- Utiliser une combinaison de lettres majuscules et minuscules, chiffres et caractères spéciaux (#, !, $, etc.).
+- Utiliser une combinaison de lettres majuscules et minuscules, chiffres et caractères spéciaux (#, !, $, etc.).
 - Éviter les informations personnelles évidentes comme les noms, dates de naissance ou mots de passe courants.
 - Utiliser des mots de passe différents pour chaque compte pour éviter la compromission en cas de fuite de données. Privilégier les phrases de passe plutôt que des schémas prévisibles.
 
@@ -50,5 +50,5 @@ De plus, l’adresse de récupération doit être distincte et sécurisée, ce q
 
 ## Sécurité et Précautions
 - Utiliser un gestionnaire de MDP
-- Ne jamais saisir un mot de passe sur un site web non officiel ou des mails non sécurisés. Il est important de [systématiquement vérifier les URLs, il pourrait s'agir d’une copie qui viserait à vous hameçonner](https://discord.fr/blog/2023/11/26/arnaque-page-connexion).
+- Ne jamais saisir un mot de passe sur un site web non officiel ou des mails non sécurisés. Il est important de [systématiquement vérifier les URLs, il pourrait s'agir d’une copie qui viserait à vous hameçonner](/blog/2023/11/26/arnaque-page-connexion).
 

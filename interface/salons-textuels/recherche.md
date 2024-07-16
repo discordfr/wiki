@@ -24,7 +24,7 @@ En tapant une phrase ou un mot, puis en appuyant sur la touche <kbd>Entrée</kbd
 ## Filtrer les résultats
 
 Il est possible d'affinier une recherche à l'aide de differents préfix.
-Ces préfixes permettent de faire une recherche par :
+Ces préfixes permettent de faire une recherche par :
 - auteur
 - mentions
 - texte contenu

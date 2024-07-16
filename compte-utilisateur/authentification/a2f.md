@@ -18,11 +18,11 @@ L'authentification à deux facteurs (A2F), également connue sous le nom de 2FA 
 La fonctionnalité de [QR Code](/wiki/compte-utilisateur/authentification/qr-code) passera toujours outre l'authentification à deux facteurs.
 :::
 
-Discord propose différents types d'A2F :
+Discord propose différents types d'A2F :
 
-- Code renouvelé via une application : La deuxième couche est souvent un code généré régulièrement par une [application mobile comme Authy, Google Authenticator](/wiki/compte-utilisateur/authentification/mots-de-passe#bonnes-pratiques-gestion).
-- Code par SMS ou e-mail : Ces méthodes offrent une sécurité en envoyant un code temporaire. Il est généralement composé de 4 à 6 chiffres, nécessaire pour permettre la connexion. Certains services exigent une vérification de connexion via un lien unique, ce qui permet d'approuver ou de refuser l'accès depuis une adresse IP ou un appareil spécifique.
-- [Clé d'authentification physique ou numérique](/wiki/compte-utilisateur/authentification/cles-securite-passkeys) (passkeys / clés de sécurité) : Certains services peuvent utiliser en plus ou en remplacement des solutions habituelles, une clé physique ou une confirmation via une autre forme comme à partir d’une application sur smartphone.
+- Code renouvelé via une application : La deuxième couche est souvent un code généré régulièrement par une [application mobile comme Authy, Google Authenticator](/wiki/compte-utilisateur/authentification/mots-de-passe#bonnes-pratiques-gestion).
+- Code par SMS ou e-mail : Ces méthodes offrent une sécurité en envoyant un code temporaire. Il est généralement composé de 4 à 6 chiffres, nécessaire pour permettre la connexion. Certains services exigent une vérification de connexion via un lien unique, ce qui permet d'approuver ou de refuser l'accès depuis une adresse IP ou un appareil spécifique.
+- [Clé d'authentification physique ou numérique](/wiki/compte-utilisateur/authentification/cles-securite-passkeys) (passkeys / clés de sécurité) : Certains services peuvent utiliser en plus ou en remplacement des solutions habituelles, une clé physique ou une confirmation via une autre forme comme à partir d’une application sur smartphone.
 
 Pour le cas de Discord, il s’agit des méthodes de code renouvelé via une application d’authentification, d’une validation par SMS ou d’une clé de sécurité. En revanche, ces méthodes doivent être activées manuellement par l'utilisateur.
 
@@ -38,18 +38,18 @@ Pour ceux qui utilisent des [gestionnaires de mots de passe](/wiki/compte-utilis
 
 ## Activation de l'A2F sur Discord
 
-1. Installation de l'application d'authentification : Avant d'activer l'A2F, il est nécessaire d’installer une application d'authentification sur l’appareil, telle qu'Authy ou Google Authenticator. Il est aussi possible d’utiliser une solution incluse dans un [gestionnaire de mot de passe](/wiki/compte-utilisateur/authentification/mots-de-passe#bonnes-pratiques-gestion).
-2. Accéder aux paramètres utilisateur : Dans Discord, il faut se rendre dans l'onglet "Paramètres" dans la catégorie "Mon Compte”.
-3. Activation de l'A2F : Cliquer sur le bouton "Activer l'authentification à deux facteurs" et suivre les instructions.
-4. Scan du QR Code ou saisie manuelle : Utiliser l’application d'authentification pour scanner le QR Code fourni ou entrer manuellement le code fourni.
-5. Validation : Après avoir effectué ces étapes, un code à six chiffres sera fourni. Pour terminer, saisir ce code dans le champ prévu et cliquer sur "Activer."
+1. Installation de l'application d'authentification : Avant d'activer l'A2F, il est nécessaire d’installer une application d'authentification sur l’appareil, telle qu'Authy ou Google Authenticator. Il est aussi possible d’utiliser une solution incluse dans un [gestionnaire de mot de passe](/wiki/compte-utilisateur/authentification/mots-de-passe#bonnes-pratiques-gestion).
+2. Accéder aux paramètres utilisateur : Dans Discord, il faut se rendre dans l'onglet "Paramètres" dans la catégorie "Mon Compte”.
+3. Activation de l'A2F : Cliquer sur le bouton "Activer l'authentification à deux facteurs" et suivre les instructions.
+4. Scan du QR Code ou saisie manuelle : Utiliser l’application d'authentification pour scanner le QR Code fourni ou entrer manuellement le code fourni.
+5. Validation : Après avoir effectué ces étapes, un code à six chiffres sera fourni. Pour terminer, saisir ce code dans le champ prévu et cliquer sur "Activer."
 
 ## Codes de Secours
 
 Lors de l'activation de l'A2F, Discord générera des codes de secours. Ces codes sont essentiels en cas de perte de l'application d'authentification. Il faut constamment s’assurer de les sauvegarder dans un endroit sûr comme dans des notes hébergées dans le cloud, imprimées ou sur un [gestionnaire de mots de passe](/wiki/compte-utilisateur/authentification/mots-de-passe#bonnes-pratiques-gestion).
 
 :::caution Attention
-Il ne faut pas les partager avec d’autres personnes ! En cas de perte des codes de secours et de l'impossibilité d'accéder à l'application d'authentification, Discord ne générera pas à nouveau ces codes.
+Il ne faut pas les partager avec d’autres personnes ! En cas de perte des codes de secours et de l'impossibilité d'accéder à l'application d'authentification, Discord ne générera pas à nouveau ces codes.
 :::
 
 ## Application de l'A2F sur un Serveur Discord

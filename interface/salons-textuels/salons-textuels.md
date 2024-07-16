@@ -21,13 +21,13 @@ Afin de créer un salon textuel sur un serveur, il faut avoir la permission "Gé
 
 ## La discussion
 
-Discord offre plusieurs possibilités aux utilisateurs afin de discuter :
+Discord offre plusieurs possibilités aux utilisateurs afin de discuter :
  - Envoyer des messages, les modifier et les supprimer.
  - Ajouter des réactions.
  - Dicter les messages.
  - Répondre à un message.
  
-Avec la permission "Gérer les messages", l'utilisateur peut en outre :
+Avec la permission "Gérer les messages", l'utilisateur peut en outre :
  - Supprimer n'importe quel message.
  - Épingler n'importe quel message.
  
@@ -43,7 +43,7 @@ Il est possible de modifier le nom du salon.
 
 ### La description du salon
 
-Il est possible d'ajouter une description du salon. [Markdown](https://dfr.gg/wiki/interface/salon-textuel/markdown) y est partiellement autorisé, uniquement pour  mettre en gras, en italique ou souligner une partie de texte. Les emojis ou mentions de salons y sont autorisés, il faut pour cela mentionner l'identifiant du salon ou celui de l'emoji choisi.
+Il est possible d'ajouter une description du salon. [Markdown](/wiki/interface/salons-textuels/markdown) y est partiellement autorisé, uniquement pour  mettre en gras, en italique ou souligner une partie de texte. Les emojis ou mentions de salons y sont autorisés, il faut pour cela mentionner l'identifiant du salon ou celui de l'emoji choisi.
 
 <img src="https://i.dfr.gg/TiC.png" width="650" height="" />
 
@@ -55,9 +55,9 @@ Le mode lent permet de limiter le nombre de messages par utilisateur sur une int
 
 ### Autres options
 
- - NSFW : Il y a la possibilité de configurer son salon comme NSFW (Not Safe For Work), qui demande alors à l'utilisateur de confirmer qu'il a bien 18 ans car certaines images/liens/contenus dans le salon peuvent être sexuellement explicites.
+ - NSFW : Il y a la possibilité de configurer son salon comme NSFW (Not Safe For Work), qui demande alors à l'utilisateur de confirmer qu'il a bien 18 ans car certaines images/liens/contenus dans le salon peuvent être sexuellement explicites.
  
- - Permissions de salon : 
+ - Permissions de salon : 
  
 Les permissions de salon permettent d'accorder/retirer certaines permissions à des utilisateurs. Les permissions de salon prévalent sur les permissions de rôles.
 :::note
@@ -65,5 +65,5 @@ La permission "Gérer les salons" ne permet pas de gérer les permissions de sal
 Les utilisateurs avec la permission "Administrateur" passent outre les dérogations de salon.
 :::
  
- - Invitations de salon : Les utilisateurs avec la permission peuvent gérer les invitations créées pour le salon correspondant. Toutefois, ils ne peuvent pas accéder aux invitations de tous les salons via l'onglet "Invitations" dans les paramètres de serveur. Il faut pour cela la permission "Gérer le serveur". 
+ - Invitations de salon : Les utilisateurs avec la permission peuvent gérer les invitations créées pour le salon correspondant. Toutefois, ils ne peuvent pas accéder aux invitations de tous les salons via l'onglet "Invitations" dans les paramètres de serveur. Il faut pour cela la permission "Gérer le serveur". 
 

@@ -16,13 +16,13 @@ Ces dernières, particulièrement précises –notamment pour les serveurs de pl
 
 ## Accéder aux Analyses de Serveur
 
-Pour accéder aux **Analyses de Serveur**, le serveur doit soit être vérifié, soit être [partenaire](https://dfr.gg/wiki/programmes-communautaires/partenariat/serveur/), soit avoir activé la [Communauté de serveur](https://dfr.gg/wiki/programmes-communautaires/outils-communautaires/serveur-communautaire/).
+Pour accéder aux **Analyses de Serveur**, le serveur doit soit être vérifié, soit être [partenaire](/wiki/programmes-communautaires/partenariat), soit avoir activé la [Communauté de serveur](/wiki/gestion-serveur/outils-communautaires).
 
 Cette option se situe dans les **Paramètres de serveur**, dans l'onglet **Analyses de serveur** de la partie **Communauté**.
 
 ![Onglet - Menu - Analyses de Serveur](https://i.dfr.gg/v3G.png)
 
-Discord affichera un lien sur lequel il faut cliquer pour accéder à la page des statistiques. Ce lien a la forme https://discord.com/developers/servers/{ID-du-serveur}/analytics/.
+Discord affichera un lien sur lequel il faut cliquer pour accéder à la page des statistiques. Ce lien a la forme https://discord.com/developers/servers/{ID-du-serveur}/analytics.
 
 ![Onglet - Page - Analyses de Serveur](https://i.dfr.gg/xMy.png)
 
@@ -30,7 +30,7 @@ Discord affichera un lien sur lequel il faut cliquer pour accéder à la page de
 
 Les **Analyses de Serveur** permettent d'accéder à de nombreuses statistiques afin que les gérants de serveurs puissent améliorer l'activité de ces derniers. Il est ainsi possible de prendre connaissance et d'analyser non seulement la croissance du serveur, l'engagement (textuel et vocal) des membres, des informations sur les membres, les salons d'annonces, l'écran d'accueil mais aussi le statut du serveur par rapport aux exigences du programme partenaire.
 
-#### Glossaire
+**Glossaire**
 
 | Mot anglais | Traduction utilisée dans l'article | Définition |
 | ----------- | ----------- | ----------- |
@@ -45,7 +45,7 @@ Les **Analyses de Serveur** permettent d'accéder à de nombreuses statistiques 
 
 Littéralement "Croissance et Activation", cet onglet permet de comparer l'évolution de l'activité du serveur en fonction d'une période sélectionnée par l'utilisateur.  
 
-On y retrouve notamment l'évolution :
+On y retrouve notamment l'évolution :
  - Du nombre de membres.
  - Du nombre d'utilisateurs discutant sur le serveur.
  - De la rétention des membres.
@@ -62,7 +62,7 @@ Cet onglet est uniquement accessible aux serveurs de plus de 500 membres n'ayant
 
 Cet onglet permet d'accéder à l'évolution de l'engagement des membres sur le serveur et leurs interactions.
 
-Les critères suivants peuvent y être retrouvés :
+Les critères suivants peuvent y être retrouvés :
  - Le nombre de visiteurs.
  - Le nombre de personnes discutant.
  - Le nombre de messages envoyés.
@@ -79,7 +79,7 @@ Cet onglet est uniquement accessible aux serveurs de plus de 500 membres n'ayant
 
 Cet onglet permet d'afficher des informations sur les membres. Afin de protéger la confidentialité des utilisateurs, si des membres d'un groupe donné (dans les statistiques) sont d'un nombre inférieurs à 50, Discord les affiche dans le groupe "Autre".
 
-On y retrouve la proportion :
+On y retrouve la proportion :
  - Des régions du monde/pays dont sont membres les utilisateurs du serveur.
  - De l'appareil utilisé (`Ordinateur uniquement`, `Téléphone uniquement` et `Téléphone et ordinateur`).
  - Du temps depuis lequel ils sont membres du serveur (`< 1 mois`, `1 - 6 mois`, `6 mois - 1 an` et `1 an et +`).
@@ -91,9 +91,9 @@ Cet onglet est uniquement accessible aux serveurs de plus de 500 membres n'ayant
 
 ### Announcement channels
 
-Désignant les salons d'annonces, cet onglet permet d'accéder à des informations sur l'utilisation des [salons d'annonces](https://dfr.gg/wiki/interface/salon-textuel/salons-textuels/).
+Désignant les salons d'annonces, cet onglet permet d'accéder à des informations sur l'utilisation des [salons d'annonces](/wiki/interface/salons-textuels).
 
-On y retrouve notamment :
+On y retrouve notamment :
  - L'évolution du nombre de serveurs suivant le serveur en question.
  - L'évolution du nombre de serveurs ayant arrêté de suivre le serveur en question.
  - La taille des serveurs suivant le serveur en question (`< 30 membres`, `30 - 200 membres`, `200 - 1000 membres`, `1000 - 10 000 membres`, `10 000 et +` et `N/A` (indéterminé).
@@ -106,7 +106,7 @@ Cet onglet est accessible à tous les serveurs communautaires, peu importe leur 
 
 Signifiant "Écran d'accueil", cet onglet affiche des informations sur les membres qui ont visité le serveur durant les 28 derniers jours.
 
-On y retrouve :
+On y retrouve :
  - Les personnes ayant vu l'écran d'accueil.
  - La proportion de personnes ayant cliqué sur une option du menu ainsi que celle ayant par la suite envoyé un message.
 
@@ -116,7 +116,7 @@ Cet onglet est accessible à tous les serveurs communautaires, peu importe leur 
 
 ### Partner program
 
-Désignant le [programme partenaire de Discord](https://dfr.gg/wiki/programmes-communautaires/partenariat/serveur/), cet onglet permet d'accéder soit à l'activité du serveur requise par rapport aux exigences de ce programme communautaire, soit de comparer les statistiques actuelles d'un serveur partenaire par rapport aux demandes de Discord. 
+Désignant le [programme partenaire de Discord](/wiki/programmes-communautaires/partenariat), cet onglet permet d'accéder soit à l'activité du serveur requise par rapport aux exigences de ce programme communautaire, soit de comparer les statistiques actuelles d'un serveur partenaire par rapport aux demandes de Discord. 
 
 :::caution
 Cet onglet est uniquement accessible aux serveurs de plus de 500 membres n'ayant pas désactivé le suivi analytique dans leurs paramètres.

@@ -9,14 +9,14 @@ short_slug: Tokens
 ---
 
 Un token Discord est une chaîne de caractères unique qui agit comme une forme d'authentification directe et qui permet de communiquer avec les services internes de Discord (l’API). En d'autres termes, le token est une sorte de clé d'accès qui permet à l'application de se connecter à Discord et d'interagir avec ses fonctionnalités.
-Si un message est envoyé sur Discord : le token est sollicité pour envoyer l’information.
+Si un message est envoyé sur Discord : le token est sollicité pour envoyer l’information.
 
-Chaque bot ou compte requiert un token pour être autorisé à fonctionner sur la plateforme. Ils sont générés par Discord et sont composés de moitié à partir de votre identifiant unique Discord. Donc pas de panique si un utilisateur vous partage le début de votre token !
+Chaque bot ou compte requiert un token pour être autorisé à fonctionner sur la plateforme. Ils sont générés par Discord et sont composés de moitié à partir de votre identifiant unique Discord. Donc pas de panique si un utilisateur vous partage le début de votre token !
 
 Il est crucial de traiter les tokens avec beaucoup de précautions, car quiconque a accès à un token Discord peut contrôler le bot ou le compte associé. 
 En ce qui concerne les bots, les tokens ne doivent jamais être partagés publiquement ou inclus dans du code source accessible par d'autres utilisateurs, car cela pourrait compromettre la sécurité du bot. 
 
-## Comment changer son token ?
+## Comment changer son token ?
 
 En cas de compromission d'un token, il est recommandé de le réinitialiser immédiatement pour éviter tout accès non autorisé au bot. 
 Pour changer le token d’un compte il suffit de se rendre dans les paramètres Discord et de changer votre mot de passe.
@@ -28,7 +28,7 @@ Pour changer le token d’un bot, il faut se rendre sur le Portail des Développ
 
 Un token ne peut pas approprement être sécurisé, c'est la sécurité de la machine où celui-ci est échangé et stocké qui importe réellement.
 
-Voici une liste non exaustive des choses à ne surtout pas faire :
+Voici une liste non exaustive des choses à ne surtout pas faire :
 
 Pour un compte utilisateur,
 - Installer un logiciel malveillant, un “jeu” envoyé en messages privés, une pièce téléchargeable envoyée par un utilisateur.

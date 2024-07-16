@@ -15,14 +15,14 @@ Les **Stage Channels** sont des salons vocaux spéciaux permettant à un nombre 
 Étant basés sur les salons vocaux classiques, leur fonctionnement est très similaire. Il est possible pour l'utilisateur de se rendre muet, et de couper son micro normalement. La seule différence notable étant que seuls les présentateurs sont notés séparément des autres utilisateurs sur le serveur et que les auditeurs n'ont pas le droit de parole sauf si les modérateurs de la présentation la leur accordent.
 
 :::note À noter
-Pour le moment, les présentateurs ne peuvent ni utiliser la fonction [Go Live](https://dfr.gg/wiki/interface/salon-vocal/partage-video) ni leur caméra. Néanmoins, selon les récents datamines de Discord Canary, il serait probable que ce soit le cas dans les plus brefs délais.
+Pour le moment, les présentateurs ne peuvent ni utiliser la fonction [Go Live](/wiki/interface/salons-vocaux/partage-video) ni leur caméra. Néanmoins, selon les récents datamines de Discord Canary, il serait probable que ce soit le cas dans les plus brefs délais.
 :::
 
 ![L'affichage des présentateurs](https://i.dfr.gg/AffichagePresentateurs.webp)
 
 ### La modération
 Les utilisateurs ayant la permission de déplacer, de rendre muet des membres et de gérer le salon, ont la possibilité de modérer la présentation à leur guise.
-Les actions suivantes leurs sont possibles :
+Les actions suivantes leurs sont possibles :
 
 - Changer leur place de l'audience aux présentateurs directement.
 - Déplacer les membres des présentateurs à l'audience et inviter des membres de l'audience à parler.

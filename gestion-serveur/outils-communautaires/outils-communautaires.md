@@ -19,17 +19,17 @@ Pour activer la Communauté de serveur, il faut se rendre dans les **Paramètres
 
 <img alt="Activation du serveur communautaire" src="https://i.dfr.gg/WJm.png" width="" height="412"/>
 
-#### Un menu s'ouvrira alors. Il s'agit des différentes étapes à réaliser afin d'activer la Communauté de serveur.
+### Différentes étapes à réaliser afin d'activer le mode communautaire
 
  - La première étape consiste à obliger les membres du serveur à avoir une adresse e-mail vérifiée et d'autoriser l'analyse des contenus médias de tous les membres.
  
  <img alt="Première étape - Activer la Communauté de serveur" src="https://i.dfr.gg/vUc.png" width="" height="412"/>
  
- - La deuxième étape consiste à créer ou définir un salon pour les Annonces officielles de Discord pour les serveurs communautaires, et un pour les règles du serveur. Ce dernier aura une icône spéciale : <img src="https://i.dfr.gg/bt8.png" width="16" height="16" />
+ - La deuxième étape consiste à créer ou définir un salon pour les Annonces officielles de Discord pour les serveurs communautaires, et un pour les règles du serveur. Ce dernier aura une icône spéciale : <img src="https://i.dfr.gg/bt8.png" width="16" height="16" />
  
  <img alt="Deuxième étape - Activer la communauté de serveur" src="https://i.dfr.gg/RAe.png" width="" height="412" />
  
- - La troisième et dernière étape consiste à définir les notifications par défaut du serveur sur `Mentions uniquement` ainsi qu'à retirer les permissions de modération au rôle `@everyone` (les permissions de modération sont celles de : gérer les messages, gérer les webhooks, expulser/bannir des membres, gérer les salons, gérer les rôles, gérer le serveur et la permission Administrateur).
+ - La troisième et dernière étape consiste à définir les notifications par défaut du serveur sur `Mentions uniquement` ainsi qu'à retirer les permissions de modération au rôle `@everyone` (les permissions de modération sont celles de : gérer les messages, gérer les webhooks, expulser/bannir des membres, gérer les salons, gérer les rôles, gérer le serveur et la permission Administrateur).
  
 Il faudra accepter les [Lignes de conduite des Serveurs communautaires](https://support.discord.com/hc/fr/articles/360035969312-Lignes-de-conduite-des-serveurs-communautaires).
  
@@ -69,8 +69,8 @@ Pour activer/configurer ce menu, il faut aller dans les Paramètres du serveur, 
  
 <img alt="Configurer l'écran d'accueil" src="https://i.dfr.gg/hRp.png" width="" height="385" />
 
-:::note Notes : 
-1. Pour utiliser des emojis personnalisés dans l'écran d'accueil, le serveur doit avoir débloqué le niveau 2 des [niveau de boosts de serveur](https://dfr.gg/wiki/nitro-jeux/boost-serveur/boost).
+:::note Notes : 
+1. Pour utiliser des emojis personnalisés dans l'écran d'accueil, le serveur doit avoir débloqué le niveau 2 des [niveau de boosts de serveur](/wiki/contenu-payant/boost-serveur).
 2. Le nombre maximum de salons recommandés est de 5.
 :::
 
@@ -84,7 +84,7 @@ Un nouveau type de salon s'affichera alors.
 
 <img alt="Nouveau tyoe de salon" src="https://i.dfr.gg/z9T.png" width="" height="425" />
 
-:::note Notes :
+:::note Notes :
 1. Si un message publié d'un salon d'annonces est édité, il s'éditera dans les autres serveurs. Si le message est supprimé, l'information `[Message d'origine supprimé].` s'affichera.
 2. Pour qu'un message d'un salon d'annonces s'affiche sur les serveurs qui le suivent, il faut le publier.
 :::
@@ -95,14 +95,14 @@ Discovery est un outil permettant aux utilisateurs de trouver rapidement et faci
 
 ![Discovery](https://i.dfr.gg/0SC.png)
 
-Pour apparaître dans Discovery, il faut remplir plusieurs conditions :
+Pour apparaître dans Discovery, il faut remplir plusieurs conditions :
 
 <img alt="Discovery conditions" src="https://i.dfr.gg/d3l.png" width="" height="416" />
 
 :::note
 Le nombre de membres pour être éligible à la découverte de serveurs est susceptible d'être réduit.
 
-Une fois la Discovery activée, il y a la possibilité de configurer plusieurs options :
+Une fois la Discovery activée, il y a la possibilité de configurer plusieurs options :
  - Les images qui s'affichent, ainsi que l'emoji mis en valeur.
  
 <img alt="Image Discovery Activée" src="https://i.dfr.gg/Bqw.png" width="" height="435" />
@@ -121,7 +121,7 @@ La communauté de serveur donne accès à une page dédiée au partenariat Disco
 
 <img alt="Critères d'accueil" src="https://i.dfr.gg/1Wm.png" width="" height="435" />
 
-Il y a aussi la possibilité d'ajouter : 
+Il y a aussi la possibilité d'ajouter : 
 - Des règles résumant celles du serveur.
 
 <img alt="Règles du serveur" src="https://i.dfr.gg/rYJ.png" width="" height="335" /> 

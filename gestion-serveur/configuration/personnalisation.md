@@ -41,7 +41,7 @@ Un salon AFK est un salon vocal où sont déplacés les utilisateurs inactifs (n
 
 ## Gestion du salon de messages système
 
-Dans un serveur, le salon de messages système est un salon dans lequel, Discord envoie des messages automatiques afin de souhaiter la bienvenue, notifier d'un [boost](https://dfr.gg/wiki/nitro-jeux/boost-serveur/boost/) ou aider à la gestion du serveur.
+Dans un serveur, le salon de messages système est un salon dans lequel, Discord envoie des messages automatiques afin de souhaiter la bienvenue, notifier d'un [boost](/wiki/contenu-payant/boost-serveur) ou aider à la gestion du serveur.
 
 Pour changer le salon de messages système, il faut se rendre dans la partie "salon de messages système" et choisir le salon voulu dans le menu déroulant. Une fois cela fait, le salon recevra des messages lors de l'arrivée d'un nouveau membre ou l'ajout d'un boost sur le serveur.
 

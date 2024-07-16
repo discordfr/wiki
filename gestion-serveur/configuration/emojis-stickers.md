@@ -15,7 +15,7 @@ contributors: [luke]
 Chaque serveur Discord a la possiblité d'ajouter un certian nombre d'émojis et de stickers personnalisés, ceux-ci peuvent être fixes ou animés. La gestion des émojis et des stickers personnalisés nécessite la permission `Gérer les émojis et les stickers` ou `Administrateur`.
 
 :::info Information
-Le nombre d'emplacements dépend du [niveau de boost du serveur](https://dfr.gg/wiki/nitro-jeux/boost-serveur/boost/).
+Le nombre d'emplacements dépend du [niveau de boost du serveur](/wiki/contenu-payant/boost-serveur).
 :::
 
 | Niveaux de boosts | Emplacements d'emojis | Emplacement de stickers |
@@ -52,10 +52,10 @@ La gestion des stickers personnalisés s'effectue dans la catégorie `Autocollan
 
 ### Ajouter un sticker
 
-Pour ajouter un sticker, il faut que celui-ci respecte les critères d'upload :
- - Type de fichier : PNG, APNG ou [Lottie](https://lottiefiles.com/).
- - Taille maximum du fichier : 500 Ko.
- - Dimensions recommandées : 320 x 320.
+Pour ajouter un sticker, il faut que celui-ci respecte les critères d'upload :
+ - Type de fichier : PNG, APNG ou [Lottie](https://lottiefiles.com/).
+ - Taille maximum du fichier : 500 Ko.
+ - Dimensions recommandées : 320 x 320.
 
 ![Ajout d'un emoji](https://i.dfr.gg/Me9.png)
 

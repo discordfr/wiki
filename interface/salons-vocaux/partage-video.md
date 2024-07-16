@@ -13,7 +13,7 @@ contributors: [luke, dragrame]
 L'application Discord propose aux utilisateurs connectés dans un salon vocal la possibilité de partager leur vidéo ou leur écran. 50 personnes au maximum peuvent simultanément partager du contenu.
 
 :::note
-Seuls les utilisateurs disposant de la permission de partager leur caméra (cf l'article sur les [permissions vocales](https://dfr.gg/wiki/configuration-serveur/permissions/vocales/)  peuvent partager cette dernière.
+Seuls les utilisateurs disposant de la permission de partager leur caméra (cf l'article sur les [permissions vocales](/wiki/gestion-serveur/permissions/vocales)  peuvent partager cette dernière.
 :::
 
 ## Fonctionnalités
@@ -48,7 +48,7 @@ L'écran partagé ou la vidéo de l'utilisateur s'affichera en plein écran. Pou
 
 ## Partager sa vidéo
 
-Les conditions suivantes doivent être vérifiées pour partager sa vidéo :
+Les conditions suivantes doivent être vérifiées pour partager sa vidéo :
 
  - Disposer de la permission vocale "Vidéo".
  - Être connecté à un salon vocal.

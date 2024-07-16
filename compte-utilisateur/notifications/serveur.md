@@ -16,6 +16,6 @@ Tous les membres d'un serveur ont la possibilité de personnaliser leurs notific
 ![Personnaliser notifications](https://i.dfr.gg/ps8.png)
 
 ## Ce que les propriétaires et administrateurs peuvent faire
-Pour être plus précis, tous les utilisateurs disposant de la permission `Gérer le serveur` ont accès aux paramètres de notifications par défaut. Si les utilisateurs n'ont pas défini leurs propres paramètres, ils seront notifiés en fonction de ceux du serveur : soit à chaque message envoyé, soit uniquement quand ils seront mentionnés. Notez que ce paramètre est à l'origine réglé sur tous les messages.
+Pour être plus précis, tous les utilisateurs disposant de la permission `Gérer le serveur` ont accès aux paramètres de notifications par défaut. Si les utilisateurs n'ont pas défini leurs propres paramètres, ils seront notifiés en fonction de ceux du serveur : soit à chaque message envoyé, soit uniquement quand ils seront mentionnés. Notez que ce paramètre est à l'origine réglé sur tous les messages.
 
 ![Personnalisation admin](https://i.dfr.gg/MUR.png)

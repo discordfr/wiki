@@ -26,7 +26,7 @@ Les membres ayant cette permission peuvent créer des threads visibles par tous 
 
 ### • Créer des fils privés
 
-Les membres ayant cette permission peuvent créer des threads visibles uniquement par les personnes invitées et les modérateurs. Cette fonctionnalité se débloque au [niveau 2 des boosts de serveur](https://dfr.gg/wiki/nitro-jeux/boost-serveur/boost/).
+Les membres ayant cette permission peuvent créer des threads visibles uniquement par les personnes invitées et les modérateurs. Cette fonctionnalité se débloque au [niveau 2 des boosts de serveur](/wiki/contenu-payant/boost-serveur).
 
 ### • Intégrer des liens
 
@@ -52,7 +52,7 @@ Les membres ayant cette permission peuvent utiliser des stickers provenant d'aut
 
 ### • Mentionner @everyone, @here et tous les rôles
 
-Les membres qui ont cette permission peuvent utiliser @everyone et @here pour mentionner tous les membres qui ont accès au salon dans lequel la mention est envoyée. Ils peuvent aussi mentionner tous les rôles du serveur, même si la permission « Autoriser tout le monde à mentionner ce rôle » est désactivée pour ces rôles.
+Les membres qui ont cette permission peuvent utiliser @everyone et @here pour mentionner tous les membres qui ont accès au salon dans lequel la mention est envoyée. Ils peuvent aussi mentionner tous les rôles du serveur, même si la permission « Autoriser tout le monde à mentionner ce rôle » est désactivée pour ces rôles.
 
 ### • Gérer les messages
 
