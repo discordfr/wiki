@@ -25,7 +25,7 @@ Voici la liste des sites avec lesquels il est possible de relier son compte :
  - Le réseau social [Facebook](https://facebook.com).
  - La plateforme de discussion en ligne [Twitter](https://twitter.com).
  - Le service jeu en ligne de Microsoft, [Xbox Live](https://xbox.com).
- - Le service de streaming musical [Spotify](https://spotify.com), vous pouvez retrouver un [article dédié à cette connexion ici](/wiki/compte-utilisateur/connexions-externes/connexion).
+ - Le service de streaming musical [Spotify](https://spotify.com), vous pouvez retrouver un [article dédié à cette connexion ici](/wiki/compte-utilisateur/connexions-externes/spotify).
  - Le site d'hébergement de code source [Github](https://github.com).
  - La plateforme de jeu [PlayStation Network](https://playstation.com). 
 
