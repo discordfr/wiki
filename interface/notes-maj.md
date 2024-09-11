@@ -19,11 +19,11 @@ Elles sont automatiquement affichées lors du demarrage de l'application après 
 - Les notes résument souvent plusieurs mises à jour.
 :::
 
-## Où les trouver ?
-Il est possible de retrouver la dernière note dans les paramètres en cliquant sur « Notes de mise à jour ».
+## Où les trouver ?
+Il est possible de retrouver la dernière note dans les paramètres en cliquant sur « Notes de mise à jour ».
 
-![Trouver les notes de mise à jour](https://i.discord.fr/u1w.gif)
+![Trouver les notes de mise à jour](https://i.dfr.gg/u1w.gif)
 
 Il est également possible de trouver les anciennes notes de mises à jour sur les réseaux sociaux de Discord.
 
-![Les réseaux sociaux de Discord](https://i.discord.fr/nkQ.png)
+![Les réseaux sociaux de Discord](https://i.dfr.gg/nkQ.png)

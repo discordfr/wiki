@@ -13,18 +13,18 @@ contributors: [moonrise, karal]
 
 Sur Discord, il est possible de rechercher un ou plusieurs messages parmi tout ceux envoyés sur un serveur. En haut à droite de l'écran, se trouve une barre de recherche (cadre rouge).
 
-<img alt="La barre de recherche" src="https://i.discord.fr/CBsW.png"/>
+<img alt="La barre de recherche" src="https://i.dfr.gg/CBsW.png"/>
 
 ## Trier les résultats
 
 En tapant une phrase ou un mot, puis en appuyant sur la touche <kbd>Entrée</kbd>, l'application affiche les résultats de la recherche. Il est également possible de choisir la méthode de tri parmi: `Nouveau` / `Ancien` / `Pertinent`.
 
-<img alt="Taper une phrase et chercher" src="https://i.discord.fr/0abE.gif" />
+<img alt="Taper une phrase et chercher" src="https://i.dfr.gg/0abE.gif" />
 
 ## Filtrer les résultats
 
 Il est possible d'affinier une recherche à l'aide de differents préfix.
-Ces préfixes permettent de faire une recherche par :
+Ces préfixes permettent de faire une recherche par :
 - auteur
 - mentions
 - texte contenu
@@ -53,4 +53,4 @@ Le raccourci `CTRL + F` permet de rechercher parmi les messages du salon actuel.
 ## Types de contenu
 
 Le préfixe `contient:` accepte les paramètres suivants:
-![Types de contenu](https://i.discord.fr/fcLV.png)
+![Types de contenu](https://i.dfr.gg/fcLV.png)
