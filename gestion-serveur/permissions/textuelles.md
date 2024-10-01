@@ -10,7 +10,7 @@ description: Les permissions textuelles
 contributors: [autumn, zallom, luke, feoxy]
 ---
 
-![Permissions des salons textuels](https://i.discord.fr/bJzZ.png)
+![Permissions des salons textuels](https://i.dfr.gg/bJzZ.png)
 
 ### • Envoyer des messages
 
@@ -26,7 +26,7 @@ Les membres ayant cette permission peuvent créer des threads visibles par tous 
 
 ### • Créer des fils privés
 
-Les membres ayant cette permission peuvent créer des threads visibles uniquement par les personnes invitées et les modérateurs. Cette fonctionnalité se débloque au [niveau 2 des boosts de serveur](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost/).
+Les membres ayant cette permission peuvent créer des threads visibles uniquement par les personnes invitées et les modérateurs. Cette fonctionnalité se débloque au [niveau 2 des boosts de serveur](/wiki/contenu-payant/boost-serveur).
 
 ### • Intégrer des liens
 
@@ -36,7 +36,7 @@ Les membres ayant cette permission voient l'aperçu des liens qu'ils envoient s'
 
 Les membres ayant cette permission ont la possibilité d'envoyer des fichiers.
 
-![Joindre un fichier](https://i.discord.fr/Lzd.png)
+![Joindre un fichier](https://i.dfr.gg/Lzd.png)
 
 ### • Ajouter des réactions
 
@@ -52,7 +52,7 @@ Les membres ayant cette permission peuvent utiliser des stickers provenant d'aut
 
 ### • Mentionner @everyone, @here et tous les rôles
 
-Les membres qui ont cette permission peuvent utiliser @everyone et @here pour mentionner tous les membres qui ont accès au salon dans lequel la mention est envoyée. Ils peuvent aussi mentionner tous les rôles du serveur, même si la permission « Autoriser tout le monde à mentionner ce rôle » est désactivée pour ces rôles.
+Les membres qui ont cette permission peuvent utiliser @everyone et @here pour mentionner tous les membres qui ont accès au salon dans lequel la mention est envoyée. Ils peuvent aussi mentionner tous les rôles du serveur, même si la permission « Autoriser tout le monde à mentionner ce rôle » est désactivée pour ces rôles.
 
 ### • Gérer les messages
 
@@ -66,7 +66,7 @@ Les membres ayant cette permission peuvent activer le mode lent, renommer, suppr
 
 Les membres ayant cette permission ont accès à l'historique des messages des salons textuels.
 
-![Voir les anciens messages... ou pas](https://i.discord.fr/ail.png)
+![Voir les anciens messages... ou pas](https://i.dfr.gg/ail.png)
 
 ### • Envoyer des messages de synthèse vocale
 
@@ -76,4 +76,4 @@ Les membres ayant cette permission peuvent envoyer des messages TTS (messages de
 
 Les membres ayant cette permission peuvent utiliser les commandes Slash dans les salons textuels.
 
-![Permission d'utiliser les slash commands](https://i.discord.fr/xr5k.png)
+![Permission d'utiliser les slash commands](https://i.dfr.gg/xr5k.png)

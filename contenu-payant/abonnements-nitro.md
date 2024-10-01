@@ -3,9 +3,9 @@ title: Les abonnements Nitro
 keywords:
   - discord
   - nitro
-  - boost
+  - boosts
 description: Découvrez l'utilisation des abonnements nitro
-contributors: [luke, xox, notix, b2856203,antoine]
+contributors: [luke, xox, notix, b2856203, antoine]
 short_slug: AboNitro
 ---
 
@@ -47,4 +47,4 @@ Si un utilisateur est présent sur plus de 100 serveurs à la fin de son abonnem
 ## Comment s'abonner ?
 Il suffit de se rendre dans les paramètres, puis dans la catégorie Nitro, cliquer sur s'abonner et choisir l'offre qui convient le mieux. Enfin il faut suivre les instructions de Discord pour finaliser son abonnement !
 
-![image comment acheter Nitro](https://i.dfr.gg/4aWS.png)
+![comment acheter Nitro](https://i.dfr.gg/4aWS.png)

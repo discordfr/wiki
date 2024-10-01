@@ -10,7 +10,7 @@ description: Les permissions vocales
 contributors: [autumn, zallom]
 ---
 
-![Permissions](https://i.discord.fr/ypS.png)
+![Permissions](https://i.dfr.gg/ypS.png)
 
 ### • Se connecter
 
@@ -38,7 +38,7 @@ Les membres ayant cette permission peuvent déplacer n'importe quel membre du se
 
 ### • Utiliser la Détection de la voix
 
-Les membres ayant cette permission peuvent utiliser la fonctionnalité « Détection de la voix ». Si désactivé, ils doivent utiliser le mode Appuyer-pour-parler (Push-to-talk).
+Les membres ayant cette permission peuvent utiliser la fonctionnalité « Détection de la voix ». Si désactivé, ils doivent utiliser le mode Appuyer-pour-parler (Push-to-talk).
 
 ### • Voix prioritaire
 
