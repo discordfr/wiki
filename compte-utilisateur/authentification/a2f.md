@@ -8,7 +8,7 @@ keywords:
   - compte
   - sécurité
 description: Utilisation de l'authentification à deux facteurs sur Discord
-contributors: [mapidae, ichii, volcanofr, xox]
+contributors: [mapidae, freiik, ichii, volcanofr, xox]
 short_slug: A2F
 ---
 
