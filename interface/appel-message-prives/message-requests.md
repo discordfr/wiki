@@ -1,53 +1,45 @@
 ---
-title: Les Demandes de messages
+title: Demandes de message
 keywords:
-  - discord
-  - message requests
-  - demandes de messages
-description: Les Demandes de messages
-contributors: []
+  - message request
+  - demandes de message
+  - messages privés
+description: La fonctionnalité des demandes de message
+contributors: [rodenzo, nyro, volcanofr, luke]
 short_slug: false
 ---
 
-## Qu'est-ce que les Demandes de Messages ? 
+Les [demandes de message](https://discord.com/message-requests) permettent de trier les messages privés entrants.
 
-Les [Demandes de Messages](https://discord.com/message-requests) sont une fonctionnalité, permettant aux utilisateurs de pouvoir être prévenu quand quelqu'un leur envoie un Message Privé. Discord a voulu intégrer cette fonctionnalité afin de pouvoir garantir une expérience plus optimale et plus sûre dans le but de pouvoir trier les nouveaux Messages privés, dans un nouvel onglet distinct nommé "Demandes de message".
+Cette fonctionnalité est située au-dessus des messages privés, dans un onglet distinct nommé "Demandes de message".
 
-Seul un utilisateur n'ayant jamais eu de message privé avec un autre utilisateur auparavant, apparaîtra dans cette onglet.
-Cette fonctionnalité se situe en dessous du dossier "Amis" en cliquant sur l'icône Discord en haut à gauche de l'application sur PC, et au dessus des messages privés sur téléphone.
+![Onglet des demandes de message](https://i.dfr.gg/IX4B.png)
 
-![message_request](https://i.discord.fr/IX4B.png)
+## Utilisation de la fonctionnalité
 
-## À quoi ressemble les Demandes de Messages ?
-
-Les Demandes de Messages contiennent plusieurs fonctionnalités toutes différentes. Tout d'abord deux petites icônes tout à droite, permettent le refus ou l'acceptation d'une Demande de Message. Puis un petit œil à gauche des deux icônes précédentes, donne l'accès au contenu de la Demande de Message.
-
-:::note
-Après avoir accepté la Demande de Message d'une personne, il est impossible de recevoir une autre Demande de Message de celle-ci.
-:::
-
-![accept](https://i.discord.fr/7mqG.png)
-*********************
-![refuse](https://i.discord.fr/Op0B.png)
-
-## À quoi sert le bouton Signaler un spam ?
-
-Discord améliore constamment la sécurité qu'ils peuvent fournir à leurs utilisateurs, c'est donc pour ça qu'ils ont ajouté récemment un bouton afin de pouvoir Signaler une personne étant considéré comme du *"Spam"* dans les messages privés, en cliquant sur ce bouton cela enverra un "rapport" à l'équipe de Confiance & Sécurité de Discord.
+Chaque demande de message peut être traitée individuellement de plusieurs façons :
+- Accepter le MP, qui permet de transférer la demande en message privé classique.
+- Ignorer, qui supprime la conversation avec l'utilisateur.
+- Voir la demande, qui affiche le message dans son intégralité.
 
 :::note
-Il est ***conseillé*** d'activer les Demandes de Messages sur les serveurs ayant une quantité de membres assez élevés afin d'être protéger de ces potentiels "Spam".
+Après avoir accepté la demande de message d'un utilisateur, il est impossible de recevoir une autre demande de celui-ci.
 :::
 
-![report_spam](https://i.discord.fr/7vaU.png)
+![Exemple de demande de message](https://i.dfr.gg/1Fuw.png)
 
-## Comment désactiver les Demandes de Messages pour les nouveaux serveurs rejoints ?
+## Configuration
 
-Il est possible de désactiver les Demandes de Messages pour les nouveaux serveurs rejoints via l'onglet "Confidentialité & Sécurité" dans les paramètres utilisateurs, et en descendant un peu, un bouton "Enable Message Requests from server membres you may not know" en Anglais ou bien "Activer les Demandes de Messages de membres du serveur que vous ne connaissez peut-être pas" en français sera affiché.
+Il est possible de désactiver la fonctionnalité des demandes de message par serveur.
 
-![disable_message_request_new_server](https://i.discord.fr/MHnK.png)
+> Cette fonctionnalité se trouve dans les paramètres de confidentialité du serveur sélectionné.
+> ![Configuration à un serveur spécifié](https://i.dfr.gg/FjNh.png)
 
-## Comment désactiver les Demandes de Messages pour un serveur en particulier ?
+ Par ailleurs, il est possible de définir une configuration par défaut qui s'applique automatiquement dès que l'on rejoint un serveur.
 
-Pour cela c'est très simple, il suffit de faire "Clic droit" sur la photo de profil d'un serveur ou bien en cliquant directement sur le nom du serveur en question, puis "Paramètres de confidentialité", un onglet apparaîtra ou l'option "Demandes de message" sera affichée, il suffit de cliquer sur le bouton à droite et tout est bon.
+> Dans les paramètres d'utilisateur puis "Confidentialité & Sécurité" :
+> ![Configuration pour les nouveaux serveurs](https://i.dfr.gg/MHnK.png)
 
-![disable_message_request_server](https://i.discord.fr/FjNh.png)
+:::note
+Si la fonctionnalité des demandes de message est désactivée, les messages entrants sont affichés avec les messages privés de l'utilisateur.
+:::
