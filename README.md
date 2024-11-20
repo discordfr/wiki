@@ -15,14 +15,14 @@ Bienvenue sur le Wiki Discord Francophone du site Discord.fr. Nous avons pour ob
 
 ## Contribuer au Wiki
 
-Nous ouvrons la modification de notre banque de données à tous ceux qui souhaitent y contribuer, et ce simplement grâce au fonctionnement de GitHub. Besoin de modifier un article ou suggérer la création d'une page ? On vous explique comment faire plus bas ! :smile:
+Nous ouvrons la modification de notre banque de données à tous ceux qui souhaitent y contribuer, et ce simplement grâce au fonctionnement de GitHub. Besoin de modifier un article ou suggérer la création d'une page ? On vous explique comment faire plus bas ! :smile:
 
 ### Règles de contribution
-Afin que la gestion du wiki soit la plus efficace possible, plusieurs règles sont à suivre lors de la contribution :
+Afin que la gestion du wiki soit la plus efficace possible, plusieurs règles sont à suivre lors de la contribution :
 
 - **Pas de duplication de Pull Request.** Il est important de bien prendre en compte [les Pull Requests actives](https://github.com/discordfr/wiki/pulls) avant d'en créer une, c'est aussi le cas pour [les Issues](https://github.com/discordfr/wiki/issues). Si vous ne souhaitez pas que quelqu'un prenne l'article que vous comptez modifier, n'hésitez pas à créer un brouillon de Pull Request.
 
-- **Restez actif sur les Pull Requests.** L'équipe a un délai de 4 jours avant de vous répondre, mais vous vous devez d'être réactif à votre tour ; vous recevrez un rappel après 7 jours d'inactivité et la Pull Request sera fermée une semaine plus tard, faute de réponse.
+- **Restez actif sur les Pull Requests.** L'équipe a un délai de 4 jours avant de vous répondre, mais vous vous devez d'être réactif à votre tour ; vous recevrez un rappel après 7 jours d'inactivité et la Pull Request sera fermée une semaine plus tard, faute de réponse.
 
 - **Restez courtois dans vos échanges.** Lorsque vous commentez des Pull Requests ou des Issues, merci de respecter autrui et de ne pas chercher à imposer votre vision. Si vous avez un doute, les membres de l'équipe auront le dernier mot.
 <br/>
@@ -30,22 +30,22 @@ Afin que la gestion du wiki soit la plus efficace possible, plusieurs règles so
 
 - **Ne créez pas de fichier par vous-même.** Si jamais l'article que vous souhaitez rédiger n'est pas présent, ouvrez [une Issue](https://github.com/discordfr/wiki/issues/new) et suggérez l'ajout du fichier pour qu'un membre de l'équipe s'en occupe. *Vous pouvez utiliser le modèle donné pour la suggestion d'article.*
 
-- **Un problème avec le wiki ? Ouvrez une issue.** Si vous voyez une faute, une approximation, un changement à faire en général mais que vous ne souhaitez pas ouvrir de Pull Request, ouvrez plutôt une [Issue](https://github.com/discordfr/wiki/issues/new) pour informer les contributeurs volontaires de ce qu'il faut changer.
+- **Un problème avec le wiki ? Ouvrez une issue.** Si vous voyez une faute, une approximation, un changement à faire en général mais que vous ne souhaitez pas ouvrir de Pull Request, ouvrez plutôt une [Issue](https://github.com/discordfr/wiki/issues/new) pour informer les contributeurs volontaires de ce qu'il faut changer.
 
 ### Règles de rédaction et de mise en forme 
 
-Le Wiki nécessite une forme de rédaction unie afin de le rendre accessible à tous. C'est pourquoi il est obligatoire de suivre certaines règles quand on rédige sur ce dernier :
+Le Wiki nécessite une forme de rédaction unie afin de le rendre accessible à tous. C'est pourquoi il est obligatoire de suivre certaines règles quand on rédige sur ce dernier :
 
 - **Le wiki *n'est pas* un tutoriel.** L'objectif du Wiki est de servir de banque de données sur tous les aspects de Discord. Il convient donc de rester purement informatif et ne pas expliquer pas à pas comment utiliser une fonctionnalité, ce n'est pas un guide.
 
 - **Respectez une mise en forme correcte.** Afin d'obtenir un rendu final correct et agréable à la lecture, il est conseillé d'utiliser la mise en forme markdown de la bonne façon. Commencez toujours les titres par ceux de niveau 2 `## Titre` puis continuez sur les titres 3, puis 4, etc. N'abusez pas du gras ou de l'italique, par exemple.<br/>
-[Exemple de page correcte](https://discord.fr/wiki/configuration-serveur/configuration-serveur/personnalisation/) ([Voir la source](https://github.com/discordfr/wiki/blob/master/configuration-serveur/configuration-serveur/personnalisation.md))
+[Exemple de page correcte](https://dfr.gg/wiki/gestion-serveur/configuration/personnalisation/) ([Voir la source](https://github.com/discordfr/wiki/blob/master/gestion-serveur/configuration/personnalisation.md))
 
 - **Restez impersonnel.** Comme plus haut, il est important de rester impersonnel et de parler d'utilisateur en général plutôt que du lecteur en particulier. Sont donc à proscrire les "vous", "vos", "votre" ou autres pronoms impliquant directement le lecteur.
 
 - **Les images doivent être anonymes et centrées sur le sujet.** Aucune mention d'un compte particulier ou de l'auteur de l'article ne doit apparaitre, il convient donc de faire des captures d'écran anonymes pour illustrer vos propos. Évitez également de prendre des captures trop larges et concentrez l'intérêt sur ce qu'il y a d'important.
 
-**Note:** Toutes les images doivent être hébergées sur le service d'images i.discord.fr, n'hésitez pas à demander à les faire héberger dans la Pull Request.
+**Note:** Toutes les images doivent être hébergées sur le service d'images i.dfr.gg, n'hésitez pas à demander à les faire héberger dans la Pull Request.
 
 ## Notre Discord dédié
 
@@ -59,12 +59,12 @@ Nous avons créé un serveur Discord afin d'encourager l'entraide et la contribu
 
 ## Liens importants
 
-<img src="https://i.discord.fr/DhsG.png" height="16px"/> [Syntaxe Markdown spécifique à Docusaurus](https://docusaurus.io/docs/markdown-features)
+<img src="https://i.dfr.gg/DhsG.png" height="16px"/> [Syntaxe Markdown spécifique à Docusaurus](https://docusaurus.io/docs/markdown-features)
 
-<img src="https://i.discord.fr/asjC.png" height="16px"/> [MarkdownGuide.org](https://www.markdownguide.org/)
+<img src="https://i.dfr.gg/asjC.png" height="16px"/> [MarkdownGuide.org](https://www.markdownguide.org/)
 
-<img src="https://i.discord.fr/hG2E.png" height="16px"/> [Notre Discord communautaire : **Slash FR**](https://discord.com/invite/fr)
+<img src="https://i.dfr.gg/hG2E.png" height="16px"/> [Notre Discord communautaire : **Slash FR**](https://discord.com/invite/fr)
 
-<img src="https://i.discord.fr/hG2E.png" height="16px"/> [Blog Discord Officiel](https://discord.com/blog)
+<img src="https://i.dfr.gg/hG2E.png" height="16px"/> [Blog Discord Officiel](https://discord.com/blog)
 
-<img src="https://i.discord.fr/hG2E.png" height="16px"/> [Centre d'aide de Discord](https://support.discord.com/hc/en-us)
+<img src="https://i.dfr.gg/hG2E.png" height="16px"/> [Centre d'aide de Discord](https://support.discord.com/hc/en-us)

@@ -34,6 +34,7 @@ Les emplacements d'émoji supplémentaires constituent une extension catégoriel
 :::
 
 ### ![Niveau 1](https://i.dfr.gg/1xdN.png)
+
 * 50 emplacements supplémentaires d'émoji du serveur (pour un total de 100)
 * 10 emplacements supplémentaires d'autocollant personnalisé (pour un total de 15)
 * 16 emplacements supplémentaires de soundboard (pour un total de 24)
@@ -43,8 +44,8 @@ Les emplacements d'émoji supplémentaires constituent une extension catégoriel
 * Icône de serveur animée
 * Arrière-plan d'invitation du serveur personnalisé
 
-
 ### ![Niveau 2](https://i.dfr.gg/Ihfg.png)
+
 * 50 emplacements supplémentaires d'émoji du serveur (pour un total de 150)
 * 15 emplacements supplémentaires d'autocollant personnalisé (pour un total de 30)
 * 12 emplacements supplémentaires de soundboard (pour un total de 36)
@@ -58,6 +59,7 @@ Les emplacements d'émoji supplémentaires constituent une extension catégoriel
 * Icône de serveur animée
 
 ### ![Niveau 3](https://i.dfr.gg/c7ai.png)
+
 * 100 emplacements supplémentaires d'émoji du serveur (pour un total de 250)
 * 30 emplacements supplémentaires d'autocollant personnalisé (pour un total de 60)
 * 12 emplacements supplémentaires de soundboard (pour un total de 48)
@@ -70,7 +72,7 @@ Les emplacements d'émoji supplémentaires constituent une extension catégoriel
 * Icônes de rôles personnalisées
 * Lien d'invitation personnalisé
 
-## Comment acheter un boost
+## Comment acheter un boost ?
 Pour acheter un boost, il faut se rendre sur le serveur en question et cliquer sur "Boost de serveur". Les utilisateurs abonnés à Nitro peuvent également attribuer leurs boosts au serveur avec le même bouton.
 
 ![Achat boost](https://i.dfr.gg/Qel.gif)

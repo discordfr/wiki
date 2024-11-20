@@ -11,16 +11,16 @@ keywords:
   - bug-tracker
   - bug-terminator
 description: Explication du fonctionnement du serveur Discord Testers et de ses utilisateurs
-contributors: [dragrame, notix]
+contributors: [freiik, dragrame, notix]
 ---
 
-### Qu'est-ce que le serveur [Discord Testers](https://discord.gg/discord-testers) et ses membres ?
+### Qu'est-ce que le serveur [Discord Testers](https://discord.gg/discord-testers) et ses membres ?
 Le serveur Discord Testers est officiel, les employés de l'entreprise le dirigent. Il sert à réunir toute personne voulant aider à chercher des bugs, failles sur les différents systèmes pour aider le réseau. Ces utilisateurs sont souvent appelés par leur nom de tier (exemple: Bug Hunter). Ils peuvent également faire l'office de test sur de futures nouveautés, qui doivent être testées avant d'être déployées au grand public.
 
-### Quels sont les différents tiers ?
+### Quels sont les différents tiers ?
 Les tiers permettent d'obtenir des avantages divers.
 
-![Tableau des différents tiers](https://i.discord.fr/sab.png)
+![Tableau des différents tiers](https://i.dfr.gg/sab.png)
 
 #### Tier 1 (@everyone)
 ##### Pré-requis
@@ -62,7 +62,7 @@ Les tiers permettent d'obtenir des avantages divers.
 * Badge Bug Hunter "Doré"
 * Possibilité de faire parti du groupe junior de modérateur
 
-### Comment contribuer à l'envoi de bug (accèder au Tier 2) ?
-Rien de plus simple, il suffit juste d'envoyer un message au robot DBug (d'accès également tout en haut dans la liste des membres du serveur), et lui envoyer "!quiz" en message privé. Il vous retournera alors le fameux "Bug Hunter Quiz" à compléter avec son code unique !
+### Comment contribuer à l'envoi de bug (accèder au Tier 2) ?
+Rien de plus simple, il suffit juste d'envoyer un message au robot DBug (d'accès également tout en haut dans la liste des membres du serveur), et lui envoyer "!quiz" en message privé. Il vous retournera alors le fameux "Bug Hunter Quiz" à compléter avec son code unique !
 
-![Accès au formulaire](https://i.discord.fr/yD2.png)
+![Accès au formulaire](https://i.dfr.gg/yD2.png)
