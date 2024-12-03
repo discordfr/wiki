@@ -6,7 +6,7 @@ keywords:
   - boosts
   - serveurs
 description: Utilisation des boosts de serveurs sur Discord
-contributors: [notix, zallom, dreas, luke, patatejalo, xox, b2856203, antoine]
+contributors: [notix, zallom, dreas, luke, patatejalo, freiik, xox, b2856203, antoine]
 short_slug: Boosting
 ---
 
