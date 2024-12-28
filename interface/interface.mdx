@@ -2,33 +2,51 @@
 title: Interface
 keywords:
   - discord
-  - clients
-  - ptb
-  - canary
-  - langue
-description: Les clients Discord, canary, ptb, stable
+  - interface
+  - paramètres
+  - liste des serveurs
+  - messages
+description: La mise en page de Discord comporte plusieurs éléments. Sur cette page, nous expliquons la disposition des composants de l'application.
 contributors: []
 slug: /interface
 ---
 
 import DocCardList from "@theme/DocCardList";
 import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 :::info L'article n'existe pas encore
 Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
 Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
 :::
 
-## Les clients Discord
+## Les éléments de l'interface
+
+<!--
+  ToDo: description globale à ajouter,
+        en signalant le changement global de disposition selon l'appareil (sans détails, restez généraliste).
+-->
+
+<Tabs defaultValue="ordinateur" queryString="platforme">
+<TabItem value="ordinateur" label="Ordinateur/Web">
 Ajouter du contenu...
 
-## Le thème de l'application
+<!--
+  ToDo: capture de la disposition de l'application, en entourant de manière colorée les différentes zones
+  ToDo: décrire la position et l'utilité générale de chaque zone
+-->
+</TabItem>
+<TabItem value="mobile" label="Mobile">
 Ajouter du contenu...
 
-## La langue
-Ajouter du contenu...
+<!--
+  ToDo: capture de la disposition de l'application, en entourant de manière colorée les différentes zones
+  ToDo: décrire la position et l'utilité générale de chaque zone
+-->
+</TabItem>
+</Tabs>
 
-## Les paramètres OS
-Ajouter du contenu...
+## Liste des articles
 
 <DocCardList items={useCurrentSidebarCategory().items} />
