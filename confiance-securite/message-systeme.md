@@ -3,7 +3,7 @@ title: Message Système
 keywords:
   - message officiel
 description: Message Système
-contributors: ["Axlag"]
+contributors: ["axlag"]
 short_slug: false
 ---
 
