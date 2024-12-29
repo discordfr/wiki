@@ -31,6 +31,11 @@ Cette fenêtre contextuelle permet d'**avertir l'utilisateur** de l'arrivée d'u
 ![Fenêtre contextuelle d'un message urgent](https://i.dfr.gg/LitQ.png)
 
 :::warning
-Discord ne demandera jamais de mot de passe ou token.
+**Discord ne demandera jamais de mot de passe ou token.**
+Ne scannez pas non plus de QR code d'origine incertaine.
+
+Seul les messages des utilisateurs @`discord` et @`discordupdates` sont officiels.
+**Tout autre compte prétendant être Discord peu être considéré comme faux** et ayant un caractère frauduleux.
+
 En cas de doute sur un contenu potentiellement frauduleux, [signalez-le aux équipes de Discord](https://dis.gd/howtoreport).
 :::
