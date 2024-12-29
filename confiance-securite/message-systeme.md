@@ -1,22 +1,36 @@
 ---
-
 title: Message Système
 keywords:
-  - discord
-  - message système
+  - message officiel
 description: Message Système
-contributors: []
+contributors: ["Axlag"]
 short_slug: false
 ---
-Les messages officiels de Discord sont conçus pour garantir une communication claire et sécurisée avec les utilisateurs. Ces messages utilisent des fonctionnalités spécifiques et reconnaissables dans l’application pour éviter toute confusion avec des contenus frauduleux.
 
-## Messages officiels dans l’application  
-- Les messages officiels de Discord apparaissent sous le nom **@Discord**, accompagné d’un badge **Discord Staff**.  
-- Ces messages ne sont visibles qu’à travers des canaux vérifiés ou directement dans l’interface utilisateur sous la forme de bannières ou notifications.  
+Les messages officiels de Discord sont conçus pour garantir une communication claire et sécurisée avec les utilisateurs.
+Ces messages utilisent des fonctionnalités reconnaissables dans l’application pour éviter toute confusion avec des contenus frauduleux.
+
+## Messagerie officielle
+
+Les messages officiels de Discord apparaissent avec **l'étiquette certifiée "Officiel"**.
+
+![Étiquette utilisateur officiel certifié](https://i.dfr.gg/eHOT.png)
+
+En bas des messages privées d'une messagerie officielle se trouve,
+à la place de l'encadré d'envoi de message,
+**une banière informative**.
+
+![Banière de salon réservé aux notifications officielles de Discord](https://i.dfr.gg/docJ.png)
+
+> Le bouton "En savoir plus" permet d'accéder à [l'article du support de Discord sur les Messages Officiels](https://support.discord.com/hc/fr/articles/360036118732).
 
 ## Message urgent
-Les messages urgents seront également accompagnés d'une fenêtre contextuelle dans l'application pour vous avertir que vous avez un nouveau message à lire. 
 
-:::info  
-Si un message ou une notification semble douteux, privilégiez la prudence. Signalez l’utilisateur ou le contenu concerné via les outils intégrés à Discord. Pour toute question ou assistance, référez-vous aux modérateurs de votre communauté.  
+Cette fenêtre contextuelle permet d'**avertir l'utilisateur** de l'arrivée d'un message officiel important.
 
+![Fenêtre contextuelle d'un message urgent](https://i.dfr.gg/LitQ.png)
+
+:::warning
+Discord ne demandera jamais de mot de passe ou token.
+En cas de doute sur un contenu potentiellement frauduleux, [signalez-le aux équipes de Discord](https://dis.gd/howtoreport).
+:::
