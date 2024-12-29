@@ -1,4 +1,5 @@
 ---
+
 title: Message Système
 keywords:
   - discord
@@ -19,4 +20,4 @@ Les messages urgents seront également accompagnés d'une fenêtre contextuelle 
 :::info  
 Si un message ou une notification semble douteux, privilégiez la prudence. Signalez l’utilisateur ou le contenu concerné via les outils intégrés à Discord. Pour toute question ou assistance, référez-vous aux modérateurs de votre communauté.  
 :::
-:::
+
