@@ -44,14 +44,14 @@ Lorsque la présentation est ouverte, n'importe quel membre du serveur a la poss
 
 ### Le Stage Discovery
 
-Le Stage Discovery permet aux stage channels d'être référencés publiquement, et par conséquent d'être rejoints par n'importe quel utilisateur de Discord. Cette option n'est toutefois pas disponible pour n'importe quel stage channel.
+Le Stage Discovery permettait aux stage channels d'être référencés publiquement, et par conséquent d'être rejoints par n'importe quel utilisateur de Discord. Cette option n'était toutefois pas disponible pour n'importe quel stage channel.
 
-Pour utiliser le Stage Discovery, il faut activer le référencement au début d'une conférence. Le salon en question doit être accessible au rôle `@everyone`.
+Pour utiliser le Stage Discovery, il fallait activer le référencement au début d'une conférence. Le salon en question devait être accessible au rôle `@everyone`.
 
 ![Stage Discovery](https://i.dfr.gg/frZ.png)
 
 ## Informations Complémentaires
-- Lors de l'activation d'un Stage Channel, il devient vert et une notification apparaît en haut du serveur pour notifier de la présence d'une présentation.
+- Lors de l'activation d'un Stage Channel, il devient vert et une notification apparaît en haut du serveur pour notifier de la présence d'une conférence.
 - Une description peut-être ajoutée au salon et sera affichée directement en dessous de son nom pour donner le thème de la discussion.
 - La limite de membres présents simultanément dans le salon est de 1000 utilisateurs, présentateurs et audience compris.
 
