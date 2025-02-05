@@ -25,7 +25,9 @@ Afin que la gestion du wiki soit la plus efficace possible, plusieurs règles so
 - **Restez actif sur les Pull Requests.** L'équipe a un délai de 4 jours avant de vous répondre, mais vous vous devez d'être réactif à votre tour ; vous recevrez un rappel après 7 jours d'inactivité et la Pull Request sera fermée une semaine plus tard, faute de réponse.
 
 - **Restez courtois dans vos échanges.** Lorsque vous commentez des Pull Requests ou des Issues, merci de respecter autrui et de ne pas chercher à imposer votre vision. Si vous avez un doute, les membres de l'équipe auront le dernier mot.
-<br/>
+
+<br />
+
 *Les contributeurs commentant les Pull Requests ne sont là que pour suggérer des changements, seuls les maintainers vous demanderont de les effectuer.*
 
 - **Ne créez pas de fichier par vous-même.** Si jamais l'article que vous souhaitez rédiger n'est pas présent, ouvrez [une Issue](https://github.com/discordfr/wiki/issues/new) et suggérez l'ajout du fichier pour qu'un membre de l'équipe s'en occupe. *Vous pouvez utiliser le modèle donné pour la suggestion d'article.*
