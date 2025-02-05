@@ -11,7 +11,7 @@ keywords:
 description: Les salons textuels sur discord
 contributors: [luke, ichii, xox]
 ---
-Les salons textuels, sur Discord, permettent aux utilisateurs de discuter par message.
+Les salons textuels, sur Discord, permettent aux utilisateurs de discuter par écrit.
 
 ## La création de salons textuels
 
@@ -26,6 +26,7 @@ Discord offre plusieurs possibilités aux utilisateurs afin de discuter :
  - Ajouter des réactions.
  - Dicter les messages.
  - Répondre à un message.
+ - Transférer les messages.
  
 Avec la permission "Gérer les messages", l'utilisateur peut en outre :
  - Supprimer n'importe quel message.
@@ -37,13 +38,13 @@ Pour configurer un salon textuel, il faut se rendre dans les paramètres du salo
 
 ### Le nom du salon 
 
-Il est possible de modifier le nom du salon.
+Il est possible de modifier le nom du salon. Il est possible d'y inclure des emojis mais pas d'espaces ni de majuscules.
 
 <img src="https://i.dfr.gg/5qj.png" width="650" height="" />
 
 ### La description du salon
 
-Il est possible d'ajouter une description du salon. [Markdown](/wiki/interface/salons-textuels/markdown) y est partiellement autorisé, uniquement pour  mettre en gras, en italique ou souligner une partie de texte. Les emojis ou mentions de salons y sont autorisés, il faut pour cela mentionner l'identifiant du salon ou celui de l'emoji choisi.
+Il est possible d'ajouter une description au salon. [Markdown](/wiki/interface/salons-textuels/markdown) y est partiellement autorisé, uniquement pour  mettre en **gras**, en *italique* ou __souligner__ une partie de texte. Les emojis ou mentions de salons y sont autorisés, il faut pour cela mentionner l'identifiant du salon ou celui de l'emoji choisi.
 
 <img src="https://i.dfr.gg/TiC.png" width="650" height="" />
 
@@ -55,11 +56,10 @@ Le mode lent permet de limiter le nombre de messages par utilisateur sur une int
 
 ### Autres options
 
- - NSFW : Il y a la possibilité de configurer son salon comme NSFW (Not Safe For Work), qui demande alors à l'utilisateur de confirmer qu'il a bien 18 ans car certaines images/liens/contenus dans le salon peuvent être sexuellement explicites.
+ - NSFW : Il y a la possibilité de configurer son salon comme NSFW (Not Safe For Work), qui demande alors à l'utilisateur souhaitant consulter le salon, de confirmer qu'il a bien 18 ans car certaines images/liens/contenus dans le salon peuvent être sexuellement explicites.
  
- - Permissions de salon : 
+ - Permissions de salon : Les permissions de salon permettent d'accorder/retirer certaines permissions à des utilisateurs. Les permissions de salon prévalent sur les permissions de rôles.
  
-Les permissions de salon permettent d'accorder/retirer certaines permissions à des utilisateurs. Les permissions de salon prévalent sur les permissions de rôles.
 :::note
 La permission "Gérer les salons" ne permet pas de gérer les permissions de salon. Il faut en effet la permission "Gérer les rôles" pour modifier les permissions des salons.
 Les utilisateurs avec la permission "Administrateur" passent outre les dérogations de salon.
