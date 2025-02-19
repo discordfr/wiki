@@ -9,6 +9,7 @@ keywords:
   - communauté gaming
 description: Fonctionnement des Guildes sur Discord, une expérimentation permettant aux joueurs de créer des communautés exclusives avec un système de recrutement avancé, une gestion optimisée et une identité visuelle unique.
 contributors: [derrios]
+short_slug: false
 ---
 
 Les **Guildes** sont une fonctionnalité de Discord visant à structurer les communautés de joueurs en proposant un format intermédiaire entre les **serveurs privés d'amis** et les **serveurs communautaires**. Leur particularité repose sur un **système de candidature** et un **tag personnalisé** attribué aux membres acceptés.
