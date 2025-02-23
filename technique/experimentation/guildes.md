@@ -19,9 +19,9 @@ L'expérimentation des Guildes sur Discord est une fonctionnalité en cours de t
 :::
 
 ## Caractéristiques principales
-- **Limitation** : Une Guilde peut accueillir jusqu'à **200 membres maximum**.
-- **Système de candidature** : Tout utilisateur doit **envoyer une candidature** pour rejoindre une Guilde. Les administrateurs et modérateurs possédant la permission d'expulsion (kick) peuvent **accepter, refuser ou discuter** avec le candidat dans un groupe privé sans avoir besoin de l’ajouter en ami.
-- **Tag personnalisé** : Chaque Guilde dispose d'un **tag**, affiché sur le **profil public** des membres. Un utilisateur ne peut afficher qu'un seul tag à la fois s’il est dans plusieurs Guildes.
+- **Limitation** : Une Guilde peut accueillir jusqu'à **200 membres maximum**.
+- **Système de candidature** : Tout utilisateur doit **envoyer une candidature** pour rejoindre une Guilde. Les administrateurs et modérateurs possédant la permission d'expulsion (kick) peuvent **accepter, refuser ou discuter** avec le candidat dans un groupe privé sans avoir besoin de l’ajouter en ami.
+- **Tag personnalisé** : Chaque Guilde dispose d'un **tag**, affiché sur le **profil public** des membres. Un utilisateur ne peut afficher qu'un seul tag à la fois s’il est dans plusieurs Guildes.
 
 ## Création et Gestion
 ### Activation et désactivation
@@ -32,7 +32,7 @@ Avant de désactiver une Guilde, il est recommandé de sauvegarder les candidatu
 :::
 
 ### Paramètres et Personnalisation
-Les **paramètres des Guildes** sont accessibles dans **"Guild Settings"** sous l’onglet des paramètres du serveur. Les options de personnalisation comprennent :
+Les **paramètres des Guildes** sont accessibles dans **"Guild Settings"** sous l’onglet des paramètres du serveur. Les options de personnalisation comprennent :
 - **Un tag** unique en quatre caractères.
 - **Un icône** et **une bannière** associés à la Guilde.
 - **Un tag** visible sur le profil des membres.
@@ -49,10 +49,10 @@ Les candidatures refusées ou acceptées restent consultables pendant 180 jours,
 :::
 
 ### Limitations
-- **Aucune option de modération spécifique** : Les Guildes n’intègrent pas d’outils avancés pour gérer les candidatures ou les comportements des membres.
-- **Pas de journal d’activité** : Aucune trace des actions liées aux candidatures n'est enregistrée.
-- **Pas d'intégration spécifique aux jeux** : Les Guildes ne bénéficient pas d’outils particuliers pour l’organisation d’activités en jeu.
-- **Une seule Guilde affichable par utilisateur** : Un membre ne peut montrer qu’un seul tag, même s’il fait partie de plusieurs Guildes.
+- **Aucune option de modération spécifique** : Les Guildes n’intègrent pas d’outils avancés pour gérer les candidatures ou les comportements des membres.
+- **Pas de journal d’activité** : Aucune trace des actions liées aux candidatures n'est enregistrée.
+- **Pas d'intégration spécifique aux jeux** : Les Guildes ne bénéficient pas d’outils particuliers pour l’organisation d’activités en jeu.
+- **Une seule Guilde affichable par utilisateur** : Un membre ne peut montrer qu’un seul tag, même s’il fait partie de plusieurs Guildes.
 
 :::caution
 Les Guildes ne disposent pas d’un système de logs des activités des membres. Il est recommandé d’utiliser des bots tiers pour pallier cette limitation.
