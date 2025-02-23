@@ -14,7 +14,7 @@ short_slug: false
 
 Les **Guildes** sont une fonctionnalité de Discord visant à structurer les communautés de joueurs en proposant un format intermédiaire entre les **serveurs privés d'amis** et les **serveurs communautaires**. Leur particularité repose sur un **système de candidature** et un **tag personnalisé** attribué aux membres acceptés.
 
-:::note
+:::warning Avertissement
 L'expérimentation des Guildes sur Discord est une fonctionnalité en cours de test (sur environ 1000 serveurs) et est susceptible de changer ou d'être retirée à l'avenir.
 :::
 
@@ -27,7 +27,7 @@ L'expérimentation des Guildes sur Discord est une fonctionnalité en cours de t
 ### Activation et désactivation
 L'activation de la fonctionnalité **n’impacte pas** la structure existante du serveur. Une fois transformé en Guilde, un serveur conserve ses canaux, rôles et permissions. En revanche, **la désactivation est définitive** et entraîne la suppression des candidatures en attente.
 
-:::tip
+:::tip Astuce
 Avant de désactiver une Guilde, il est recommandé de sauvegarder les candidatures en cours, car elles seront définitivement perdues.
 :::
 
