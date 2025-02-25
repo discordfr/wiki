@@ -36,12 +36,13 @@ L'expérimentation des Guildes sur Discord est une fonctionnalité en cours de t
 
 ### Profil
 - **Tag et badge personnalisé** affiché sur le **profil public** des membres. Un utilisateur ne peut afficher qu'un seul tag à la fois s’il est dans plusieurs Guildes. Le tag disparait immédiatement du profil des membres dès qu’ils quittent la Guilde associé.
+- **Profil de guilde** accessible en cliquant sur le tag. Icône, bannière et description de la guilde.
 
 <Tabs>
   <TabItem value="tag-guilde" label="Tag de Guilde" default>
     <img src="https://i.dfr.gg/guilde-tag.webp" alt="Tag de guilde Discord" loading="eager" />
   </TabItem>
-  <TabItem value="profil-guilde" label="Profil de Guilde" default>
+  <TabItem value="profil-guilde" label="Profil de Guilde">
     <img src="https://i.dfr.gg/guilde-BUG.webp" alt="Profil de guilde Discord" loading="lazy" />
   </TabItem>
   <TabItem value="guilde-complet" label="Complet">
@@ -54,6 +55,10 @@ L'expérimentation des Guildes sur Discord est une fonctionnalité en cours de t
 
 ## Création et Gestion
 ### Activation et désactivation
+Si votre serveur est inclus dans l’expérience en cours, un pop-up apparaîtra en haut à gauche de votre application, proposant une option pour le convertir.
+
+<img src="https://i.dfr.gg/convertir-serveur-guilde.webp" alt="Pop-up pour convertir un serveur en guilde" loading="lazy" />
+
 L'activation de la fonctionnalité **n’impacte pas** la structure existante du serveur. Une fois transformé en Guilde, un serveur conserve ses canaux, rôles et permissions. En revanche, **la désactivation est définitive** et entraîne la suppression des candidatures en attente.
 
 :::tip Astuce
@@ -93,13 +98,27 @@ Les **paramètres des Guildes** sont accessibles dans **"Guild Settings"** sous 
 ## Candidatures de membre
 ### Configuration des candidatures
 
+Il est possible d’ajouter jusqu’à 5 questions, qui peuvent être sous forme de réponse courte, paragraphe ou choix multiple. 
+
 <Thumbnail src="https://i.dfr.gg/guilde-configuration-candidature.webp" alt="Configuration candidatures de guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
 
 ### Vérifier les candidatures
 
+Dans cet onglet, plusieurs actions sont possibles pour consulter les candidatures classées en trois catégories :
+	•	En attente
+	•	Approuvées
+	•	Rejetées
+
+**Démarrer un entretien** avec un candidat en créant une discussion de groupe.
+**Approuver la candidature**, ce qui ajoute automatiquement l’utilisateur à la guilde.
+**Rejeter la candidature**, empêchant ainsi l’utilisateur d’intégrer la guilde.
+
 <Tabs>
   <TabItem value="consulter" label="Consulter" default>
     <Thumbnail src="https://i.dfr.gg/guilde-candidatures-de-membre.webp" alt="Vérifier les candidatures de guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
+  </TabItem>
+  <TabItem value="entretien" label="Entretien">
+    <Thumbnail src="https://i.dfr.gg/guilde-candidature-entretien.webp" alt="Entretien avec le candidat de guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
   </TabItem>
   <TabItem value="refuser" label="Refuser">
     <Thumbnail src="https://i.dfr.gg/guilde-refuser-candidature.webp" alt="Refuser une candidature de guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
@@ -107,6 +126,8 @@ Les **paramètres des Guildes** sont accessibles dans **"Guild Settings"** sous 
 </Tabs>
 
 ### Candidater pour rejoindre une guilde
+
+La seule manière d’accéder à une guilde est **d’utiliser un lien d’invitation**. Les guildes peuvent restreindre l’accès à leur lien d’invitation ou le partager publiquement selon leur politique. Selon les critères de sélection, le candidat peut être accepté, placé en attente ou refusé.
 
 <Tabs>
   <TabItem value="candidater" label="Candidater" default>
