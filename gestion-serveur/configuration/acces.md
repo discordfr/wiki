@@ -5,7 +5,7 @@ keywords:
   - candidatures discord
   - invitations
   - serveurs discord
-description: L'accès aux serveurs Discord peut être configuré sur 3 modes : sur invitation seulement, postuler pour rejoindre et découverte.
+description: "L'accès aux serveurs Discord peut être configuré sur 3 modes : sur invitation seulement, postuler pour rejoindre et découverte."
 contributors: [zallom]
 short_slug: false
 ---
