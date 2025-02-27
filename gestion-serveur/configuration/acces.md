@@ -10,8 +10,8 @@ contributors: [zallom]
 short_slug: false
 ---
 
-:::info Déploiement progressif
-Cette fonctionnalité est en cours de déploiement. Elle touche actuellement 20 % des serveurs Discord.
+:::info Déploiement terminé
+Cette fonctionnalité est disponible pour tous les serveurs.
 :::
 
 :::info L'article est en cours de rédaction
