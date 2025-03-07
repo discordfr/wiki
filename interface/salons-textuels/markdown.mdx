@@ -12,17 +12,22 @@ short_slug: Markdown
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import { useState } from 'react';
 
-export function Spoiler({children}) {
-  return (
-    <span style={{
-      backgroundColor: "var(--ifm-background-surface-color)",
-      color: "var(--ifm-background-surface-color)",
-      borderRadius: "5px"
-    }}>
-      {children}
-    </span>
-  )
+export function Spoiler({ children }) {
+	const [revealed, setRevealed] = useState(false);
+	return (
+		<span style={{
+			backgroundColor: 'var(--ifm-color-sidebar)',
+			color: revealed ? 'inherit' : 'var(--ifm-color-sidebar)',
+			borderRadius: '5px',
+			padding: '0 5px',
+			cursor: revealed ? 'auto' : 'pointer',
+			transition: 'color 0.2s ease-in-out, background-color 0.2s ease-in-out',
+		}} onClick={() => setRevealed(true)}>
+		{children}
+		</span>
+	)
 }
 
 La syntaxe Markdown se caractérise par le positionnement de caractères simples, tel que `*` et `#`, qui permettent la mise en forme d'un texte.
