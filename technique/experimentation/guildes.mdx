@@ -1,0 +1,142 @@
+---
+title: Les serveurs de Guildes
+keywords:
+  - discord
+  - guildes discord
+  - recrutement discord
+  - tag de guilde
+  - gestion de guilde
+  - communauté gaming
+description: Fonctionnement des Guildes sur Discord, une expérimentation permettant aux joueurs de créer des communautés exclusives avec un système de recrutement avancé, une gestion optimisée et une identité visuelle unique.
+contributors: [derrios]
+short_slug: Guildes
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import Thumbnail from "@site/src/components/Thumbnail";
+
+Les **Guildes** sont une fonctionnalité de Discord visant à structurer les communautés de joueurs en proposant un format intermédiaire entre les **serveurs privés d'amis** et les **serveurs communautaires**. Leur particularité repose sur un **système de candidature** et un **tag personnalisé** attribué aux membres acceptés.
+
+:::caution Avertissement
+L'expérimentation des guildes sur Discord est une fonctionnalité en cours de test (sur environ 1000 serveurs) et est susceptible de changer ou d'être retirée à l'avenir.
+:::
+
+## Caractéristiques principales
+
+### Fonctionnalités
+- **Système de candidature** pour rejoindre une guilde. Les administrateurs et modérateurs possédant la permission d'expulsion (kick) peuvent **accepter, refuser ou discuter** avec le candidat dans un groupe privé sans avoir besoin de l’ajouter en ami.
+- **Possibilité pour les administrateurs de modifier les paramètres** de la guilde à tout moment.
+- **Historique des candidatures** conservé pendant **180 jours**.
+
+### Limitations
+- **200 membres maximum** peuvent rejoindre une guilde.
+- **Pas de journal d’activité (log)** liées aux candidatures.
+- **Un seul tag affichable par utilisateur** même s’il fait partie de plusieurs guildes.
+
+### Profil
+- **Tag et badge personnalisé** affiché sur le **profil public** des membres. Un utilisateur ne peut afficher qu'un seul tag à la fois s’il est dans plusieurs guildes. Le tag disparait immédiatement du profil des membres dès qu’ils quittent la guilde associé.
+- **Profil de guilde** accessible en cliquant sur le tag. Icône, bannière et description de la guilde.
+
+<Tabs>
+  <TabItem value="tag-guilde" label="Tag de guilde" default>
+    <img src="https://i.dfr.gg/guilde-tag.webp" alt="Tag de guilde Discord" loading="eager" />
+  </TabItem>
+  <TabItem value="profil-guilde" label="Profil de guilde">
+    <img src="https://i.dfr.gg/guilde-BUG.webp" alt="Profil de guilde Discord" loading="lazy" />
+  </TabItem>
+  <TabItem value="guilde-complet" label="Complet">
+    <img src="https://i.dfr.gg/guilde-complet.webp" alt="Profil de guilde Discord complet" loading="lazy" />
+  </TabItem>
+  <TabItem value="guilde-rejoint" label="Rejoint">
+    <img src="https://i.dfr.gg/guilde-rejoint.webp" alt="Profil de guilde Discord rejoint" loading="lazy" />
+  </TabItem>
+</Tabs>
+
+## Création et gestion
+### Activation et désactivation
+Si votre serveur est inclus dans l’expérience en cours, un pop-up apparaîtra en haut à gauche de votre application, proposant une option pour le convertir.
+
+<img src="https://i.dfr.gg/convertir-serveur-guilde.webp" alt="Pop-up pour convertir un serveur en guilde" loading="lazy" />
+
+L'activation de la fonctionnalité **n’impacte pas** la structure existante du serveur. Une fois transformé en guilde, un serveur conserve ses canaux, rôles et permissions. En revanche, **la désactivation est définitive** et entraîne la suppression des candidatures en attente.
+
+:::tip Astuce
+Avant de désactiver une guilde, il est recommandé de sauvegarder les candidatures en cours, car elles seront définitivement perdues.
+:::
+
+### Paramètres et personnalisation
+Les **paramètres des guildes** sont accessibles dans **"Guild Settings"** sous l’onglet des paramètres du serveur. Les options de personnalisation comprennent :
+- **Un tag** en 4 caractères.
+- **Un badge et une bannière** customisables, suivant différents presets et couleurs.
+- **Une description** en 300 caractères, sans émoji custom ni lien.
+- **Des mots-clés** orienter vers la tranche d'âge, les caractéristiques ou langues.
+- **Le style de jeu** allant de très tranquille, à très compétitif.
+- **Une liste de jeux** auxquels les membres de la guilde jouent.
+
+<Tabs>
+  <TabItem value="tag-badge" label="Tag et Badge" default>
+    <Thumbnail src="https://i.dfr.gg/guilde-configuration-tag-badge.webp" alt="Configuration tag et badge de guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
+  </TabItem>
+  <TabItem value="banniere" label="Bannière">
+    <Thumbnail src="https://i.dfr.gg/guilde-configuration-banniere.webp" alt="Configuration bannière de guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
+  </TabItem>
+  <TabItem value="description" label="Description">
+    <Thumbnail src="https://i.dfr.gg/guilde-configuration-description.webp" alt="Configuration description de guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
+  </TabItem>
+  <TabItem value="mots-cles" label="Mots-clés">
+    <Thumbnail src="https://i.dfr.gg/guilde-configuration-caracteristiques.webp" alt="Configuration caractéristiques de guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
+  </TabItem>
+  <TabItem value="style" label="Style">
+    <Thumbnail src="https://i.dfr.gg/guilde-configuration-style-de-jeu.webp" alt="Configuration style de jeu guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
+  </TabItem>
+  <TabItem value="jeux" label="Jeux">
+    <Thumbnail src="https://i.dfr.gg/guilde-configuration-jeux.webp" alt="Configuration liste de jeux guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
+  </TabItem>
+</Tabs>
+
+## Candidatures de membre
+### Configuration des candidatures
+
+Il est possible d’ajouter jusqu’à 5 questions, qui peuvent être sous forme de réponse courte, paragraphe ou choix multiple. 
+
+<Thumbnail src="https://i.dfr.gg/guilde-configuration-candidature.webp" alt="Configuration candidatures de guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
+
+### Vérifier les candidatures
+
+Dans cet onglet, plusieurs actions sont possibles pour consulter les candidatures classées en trois catégories :
+- En attente
+- Approuvées
+- Rejetées
+
+**Démarrer un entretien** avec un candidat en créant une discussion de groupe.
+**Approuver la candidature**, ce qui ajoute automatiquement l’utilisateur à la guilde.
+**Rejeter la candidature**, empêchant ainsi l’utilisateur d’intégrer la guilde.
+
+<Tabs>
+  <TabItem value="consulter" label="Consulter" default>
+    <Thumbnail src="https://i.dfr.gg/guilde-candidatures-de-membre.webp" alt="Vérifier les candidatures de guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
+  </TabItem>
+  <TabItem value="refuser" label="Refuser">
+    <Thumbnail src="https://i.dfr.gg/guilde-refuser-candidature.webp" alt="Refuser une candidature de guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
+  </TabItem>
+  <TabItem value="entretien" label="Entretien">
+    <Thumbnail src="https://i.dfr.gg/guilde-candidature-entretien.webp" alt="Entretien avec le candidat de guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
+  </TabItem>
+</Tabs>
+
+### Candidater pour rejoindre une guilde
+
+La seule manière d’accéder à une guilde est **d’utiliser un lien d’invitation**. Les guildes peuvent restreindre l’accès à leur lien d’invitation ou le partager publiquement selon leur politique. Selon les critères de sélection, le candidat peut être accepté, placé en attente ou refusé.
+
+<Tabs>
+  <TabItem value="candidater" label="Candidater" default>
+    <Thumbnail src="https://i.dfr.gg/guilde-candidater.webp" alt="Candidater pour une guilde Discord" title="Cliquez pour voir en plein écran" loading="lazy" />
+  </TabItem>
+  <TabItem value="attente" label="En attente">
+    <Thumbnail src="https://i.dfr.gg/guilde-candidature-en-attente.webp" alt="Candidature de guilde Discord en attente" title="Cliquez pour voir en plein écran" loading="lazy" />
+  </TabItem>
+  <TabItem value="refusee" label="Refusée">
+    <Thumbnail src="https://i.dfr.gg/guilde-candidature-refusee.webp" alt="Candidature de guilde Discord refusée" title="Cliquez pour voir en plein écran" loading="lazy" />
+  </TabItem>
+</Tabs>

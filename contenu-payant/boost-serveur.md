@@ -4,62 +4,75 @@ keywords:
   - discord
   - nitro
   - boosts
-  - boost
-  - tutoriel
-  - serveur
   - serveurs
 description: Utilisation des boosts de serveurs sur Discord
-contributors: [notix, zallom, dreas, patatejalo, xox, b2856203]
+contributors: [notix, zallom, dreas, luke, patatejalo, freiik, xox, b2856203, antoine]
 short_slug: Boosting
 ---
 
-## Qu'est-ce qu'un boost ?
-Un boost est un abonnement (inclu ou payé), qui permet de faire bénéficier un serveur de fonctionnalités. Booster un serveur lui permet de progresser et de passer aux niveaux supérieurs. Chaque niveau donne des avantages collectifs pour tout le serveur. L'utilisateur ayant boosté un serveur recevra un badge sur son profil discord, un rôle exclusif sur le serveur en question et l'affichage d'une icône boost à côté de son pseudo dans la liste des membres du serveur. En fonction de la durée pendant laquelle vous boostez un serveur, votre badge pourra changer au fur et à mesure du temps.
+## Le fonctionnement du boost
+Un boost est un abonnement qui peut être inclus avec un abonnement Nitro sur Discord ou acheté individuellement pour soutenir un serveur spécifique. Le boost permet à un serveur de débloquer des fonctionnalités en fonction du nombre de boosts reçus, lui permettant ainsi de passer à des niveaux supérieurs. Chaque niveau confère des avantages collectifs à l'ensemble du serveur. L'utilisateur qui booste un serveur reçoit un badge sur son profil Discord, un rôle exclusif, ainsi qu'une icône de boost à côté de son pseudo dans la liste des membres du serveur. La durée pendant laquelle un utilisateur maintient son boost sur un serveur affecte l'évolution de son badge au fil du temps.
 
 ![Badge boosteur](https://i.dfr.gg/jZ6.png)
 
 :::info Information
-Quelqu'un payant l'abonnement Nitro possède 2 boosts à utiliser comme il le souhaite.
+Les utilisateurs abonnés à Discord Nitro possèdent 2 boosts qu'ils peuvent utiliser ou non.
 :::
 
-## Quel est le prix d'un boost ?
-Un boost coûte 4,99 $US, mais si l'utilisateur possède un abonnement Nitro, il bénéficie de -30% sur l'achat d'un boost (soit 3,49 $US).
+## Prix d'un boost
+Un boost coûte 4.99 $. Cependant, les utilisateurs abonnés à Nitro bénéficient d'une réduction de 30% sur l'achat d'un boost.
 
-## Qu'est-ce que sont les niveaux de serveur ?
-Un niveau de serveur est un palier qui permet de débloquer des avantages au sein d'un serveur. Ils sont débloqués dès lors que le serveur a atteint un nombre de boost défini.
+## Niveaux de serveur
+Un niveau de serveur est un palier qui permet de débloquer des avantages au sein d'un serveur, et il est atteint lorsque le serveur a accumulé un certain nombre de boosts.
 
 ![Exemple boost](https://i.dfr.gg/pL8n.png)
 
-Voici les fonctionnalités qui peuvent être débloquées à chaque palier :
+Voici la liste des fonctionnalités débloquées à chaque palier :
 
-### ![Niveau 1](https://i.dfr.gg/1xdN.png)
+:::note
+Les emplacements d'émoji supplémentaires constituent une extension catégorielle, ce qui signifie que le nombre d'emojis fixes et non-animés dont dispose le serveur double.
+:::
+
+### ![Niveau 1](https://i.dfr.gg/1xdN.png)
+
 * 50 emplacements supplémentaires d'émoji du serveur (pour un total de 100)
 * 10 emplacements supplémentaires d'autocollant personnalisé (pour un total de 15)
+* 16 emplacements supplémentaires de soundboard (pour un total de 24)
+* Stream en haute définition (720p 60 fps) pour tous les membres
 * Qualité audio améliorée (128ko/s)
+* La limite de taille des uploads est augmentée à 25 Mo
 * Icône de serveur animée
 * Arrière-plan d'invitation du serveur personnalisé
-* Stream en haute définition (720p 60 fps) pour tous les membres
 
-### ![Niveau 2](https://i.dfr.gg/Ihfg.png)
-* Avantages du niveau 1
+### ![Niveau 2](https://i.dfr.gg/Ihfg.png)
+
 * 50 emplacements supplémentaires d'émoji du serveur (pour un total de 150)
-* 15 emplacements d'autocollant personnalisé (pour un total de 30)
+* 15 emplacements supplémentaires d'autocollant personnalisé (pour un total de 30)
+* 12 emplacements supplémentaires de soundboard (pour un total de 36)
+* Qualité du partage améliorée (1080p et 60fps)
 * Qualité audio améliorée (256ko/s)
-* Bannière de serveur
-* Limite de téléchargement pour tous les membres de 50Mo
-* Stream en 1080p 60fps pour tous les membres
+* La limite de taille des uploads est augmentée à 50 Mo
+* Place en salon conférence de 150 personnes
+* Bannière de serveur immobile
 * Icônes de rôles personnalisées
+* Arrière-plan d'invitation du serveur personnalisé
+* Icône de serveur animée
 
-### ![Niveau 3](https://i.dfr.gg/c7ai.png)
-* Avantages du niveau 2
+### ![Niveau 3](https://i.dfr.gg/c7ai.png)
+
 * 100 emplacements supplémentaires d'émoji du serveur (pour un total de 250)
-* 30 emplacements d'autocollant personnalisé (pour un total de 60)
+* 30 emplacements supplémentaires d'autocollant personnalisé (pour un total de 60)
+* 12 emplacements supplémentaires de soundboard (pour un total de 48)
 * Qualité audio améliorée (384ko/s)
-* URL personnalisée pour l'invitation du serveur
-* Limite de téléchargement pour tous les membres de 100Mo
-* Bannière animée de serveur
+* La limite de taille des uploads est augmentée à 100 Mo
+* Place en salon conférence de 300 personnes
+* Icône de serveur animée
+* Arrière-plan d'invitation de serveur personnalisé
+* Bannière de serveur animée
+* Icônes de rôles personnalisées
+* Lien d'invitation personnalisé
 
-## Comment procéder à l'achat de boost ?
-Pour cela, il faut se rendre sur le serveur en question, et cliquer sur "Boost de serveur". Si l'utilisateur possède des boosts inclus dans un abonnement Nitro, il peut également donner ses boosts au serveur avec le même bouton.
+## Comment acheter un boost ?
+Pour acheter un boost, il faut se rendre sur le serveur en question et cliquer sur "Boost de serveur". Les utilisateurs abonnés à Nitro peuvent également attribuer leurs boosts au serveur avec le même bouton.
 
 ![Achat boost](https://i.dfr.gg/Qel.gif)
