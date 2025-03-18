@@ -13,7 +13,11 @@ La catégorie **évènements** a pour but d'afficher les évènements en cours o
 Il est nécessaire de disposer de la permission `Gérer les évènements` sur le serveur afin de créer, éditer, débuter, terminer ou encore annuler un évènement.
 
 ## La planification d'évènements
-Pour planifier un évènement, il y a deux moyens. Le premier moyen est de créer l'évènement directement depuis le menu **Évènements**. La seconde méthode consiste à cliquer sur le nom du serveur et à chercher **créer un évènement**. Plusieurs informations sont ensuite demandées par l'application dans le menu qui s'ouvre afin de configurer l'évènement. On y retrouve :
+
+Il y a deux moyens de planifier un évènément :
+- Créer l'évènement directement depuis le menu **Évènements**.
+- Cliquer sur le nom du serveur et chercher **créer un évènement**.
+Plusieurs informations sont ensuite demandées par l'application dans le menu qui s'ouvre afin de configurer l'évènement. On y retrouve :
 
 > L'emplacement de l'évènement 
 
@@ -40,17 +44,18 @@ Une fois un évènement créé, il est possible d'éditer les informations qui l
 
 ### Debuter ou mettre fin à un évènement
 
-L'évènement créé, il se lance à la date prévue. Cependant, il peut être décidé de le commencer plus tôt. Si l'évènement comporte une date de fin, il se stoppera de lui-même. Cependant, l'évènement peut être arrêté manuellement et doit l'être s'il n'y a pas de date de fin. 
+L'événement démarre à la date prévue, mais peut aussi commencer plus tôt via le menu des évènements.
+S'il a une date de fin, il s'arrêtera automatiquement. Sinon, il doit être arrêté manuellement.
 
 ![Débuter ou mettre fin à un évènement](https://i.dfr.gg/uOHQ.png)
 
 :::note Notes : 
-Il n'est pas nécéssaire de débuter ou de stopper manuellement  un évènement si un horaire de début et de fin est défini cependant les évènements stage s'arrêteront quand tous les speakers auront quitté ce dernier.
+Il n'est pas nécessaire de débuter ou d'annuler manuellement un évènement si un horaire de début et de fin est défini cependant les évènements stage s'arrêteront quand tous les speakers auront quitté ce dernier.
 :::
 
 ## Les options des évènements
 
-Il est possible de faire beaucoup de choses avec les événements et les options ne manquent pas. On peut: 
+Discord propose un large choix de fonctionnalités liées aux évènements. On peut ainsi :
 
  - Marquer son intérêt : Afin de marquer son intérêt pour un évènement et d'être, en conséquence, notifié lors du début de ce dernier, il est possible de cliquer sur le bouton `Intéressé(e)`. 
 
