@@ -10,7 +10,7 @@ zallom:
  
 derrios:
   name: Derrios
-  url: https://github.com/Derrios
+  url: https://github.com/MrDerrios
   image_url: https://avatars.githubusercontent.com/u/47801257?size=48
 
 luke:
@@ -127,3 +127,13 @@ mapidae:
   name: Mapidae
   url: https://github.com/Mapidae
   image_url: https://avatars.githubusercontent.com/u/44315462?size=48
+
+freiik:
+  name: Freiik
+  url: https://github.com/eyoboyhowareyou
+  image_url: https://avatars.githubusercontent.com/u/40209525?size=48
+
+axlag:
+  name: Axlag
+  url: https://github.com/Axlag3
+  image_url: https://avatars.githubusercontent.com/u/193156154?size=48

@@ -6,7 +6,7 @@ keywords:
   - statuts
   - personnalisé
 description: L'utilisation des statuts personnalisés sur Discord
-contributors: [zallom]
+contributors: [freiik]
 ---
 Un statut personnalisé se présente avec un texte qui s'affichera sur votre profil lorsque vous êtes en ligne. Ce dernier peut également être accompagné d'un emoji (personnalisé si l'utilisateur possède [Discord Nitro](/wiki/contenu-payant/abonnements-nitro)).
 

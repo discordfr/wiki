@@ -1,0 +1,40 @@
+---
+title: Définition d'un serveur Discord
+keywords:
+  - discord
+  - serveurs
+  - gestion
+  - création
+  - types
+description: Un serveur Discord est un espace structuré permettant l'échange de messages textuels, d'appels vocaux et vidéo.
+contributors: [derrios]
+short_slug: Serveurs
+---
+
+import DocCardList from "@theme/DocCardList";
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+Un **serveur Discord** est un espace structuré permettant l'échange de messages [textuels](/wiki/interface/salons-textuels), d'appels [vocaux](/wiki/interface/salons-vocaux) et vidéo, ainsi que l'utilisation de divers outils communautaires. Deux types de serveurs existent :
+
+- **Serveurs d'amis** : accessibles uniquement sur **invitation**, ils sont conçus pour des échanges privés et restreints.
+- **Serveurs communautaires** : organisés autour d'un **centre d'intérêt commun**, ils disposent d'outils avancés de gestion et de modération.
+
+Les **administrateurs** peuvent convertir un **serveur d'amis** en **[serveur communautaire](/wiki/gestion-serveur/outils-communautaires)** via les paramètres. Certains serveurs peuvent être rendus **[découvrables](/wiki/gestion-serveur/outils-communautaires/discovery)** sous réserve de critères spécifiques.
+
+:::info Information
+Une troisième catégorie, [les Guildes](/wiki/technique/experimentation/guildes), est actuellement en phase d'[expérimentation](/wiki/technique/experimentation). Ce type de serveur vise à offrir des fonctionnalités spécifiques pour les communautés de joueurs et les groupes organisés.
+:::
+
+## Création d'un **serveur**
+
+1. Cliquer sur le bouton **« + »** dans l'interface Discord.
+2. Sélectionner un modèle prédéfini ou créer un **serveur vierge**.
+3. Un choix optionnel est proposé pour **déclarer** le serveur comme privé ou communautaire *(uniquement à des fins statistiques et d'accompagnement).* 
+4. Définir le **nom** et l'**icône** du serveur.
+5. Une fois créé, l'accès aux **[paramètres](/wiki/gestion-serveur/configuration)** permet une personnalisation avancée.
+
+:::tip Astuce
+Les modèles prédéfinis permettent une mise en place rapide en fonction du type de communauté souhaitée.
+:::
+
+<DocCardList items={useCurrentSidebarCategory().items} />
