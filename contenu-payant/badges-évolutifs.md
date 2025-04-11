@@ -6,7 +6,7 @@ keywords:
   - badges
   - évolution
 description: Découvrez l'évolution des badges nitro
-contributors: 
+contributors: [tristan] 
 short_slug: BadgesEvo
 ---
 
