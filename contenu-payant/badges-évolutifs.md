@@ -16,7 +16,7 @@ Découvrez les badges de profil évolutifs de [Discord Nitro](https://github.com
 Tous les abonnés [Nitro](https://discord.com/nitro) reçoivent un badge de profil spécial lors de leur inscription. Une fois abonné, votre badge évoluera pour afficher différents designs à chaque étape franchie.
 
 :::note 
-La version évolutive du badge Nitro n'est pas disponible pour si vous souscrivez à un abonnement Nitro Basic.  
+La version évolutive du badge Nitro n'est pas disponible si vous souscrivez à un abonnement Nitro Basic.  
 :::
 
 ## Comment fonctionnent les Badges Évolutifs
