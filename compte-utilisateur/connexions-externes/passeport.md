@@ -17,19 +17,31 @@ Il s'agit principalement de réseaux sociaux, de plateformes de streaming ainsi 
 
 Voici la liste des sites avec lesquels il est possible de relier son compte :
 
- - Le service de VOD communautaire [Youtube](https://youtube.com).
- - La plateforme de diffusion en direct [Twitch](https://twitch.tv).
- - La plateforme de jeu Blizzard, [Battle.net](https://blizzard.com).
- - Le service d'achat de jeux dématérialisés [Steam](https://store.steampowered.com).
- - Le forum communautaire [Reddit](https://reddit.com).
- - Le réseau social [Facebook](https://facebook.com).
- - La plateforme de discussion en ligne [Twitter](https://twitter.com).
+ - La plateforme d’achat et de vente en ligne, [Ebay](https://ebay.fr)
+ - Le service de vidéo à la demande, [Crunchyroll](https://crunchyroll.com)
+ - La plateforme de jeu [PlayStation Network](https://playstation.com).
  - Le service jeu en ligne de Microsoft, [Xbox Live](https://xbox.com).
+ - Le service d'abonnement de musique premium, [Amazon Music](https://music.amazon.fr/).
+ - La plateforme de jeu Blizzard, [Battle.net](https://blizzard.com).
+ - Le site de gestion de communautés de jeux Bungie, [Bungie.net](https://www.bungie.net/7).
+ - Le réseau social [Facebook](https://facebook.com).
+ - La plateforme de création et de jeu, [Roblox](https://www.roblox.com/fr/home).
+ - Le réseau social décentralisé, [Bluesky](https://bsky.app/).
+ - Le service de paiement en ligne, [PayPal](https://www.paypal.com/fr/home).
+ - Le forum communautaire [Reddit](https://reddit.com).
+ - Le service d'achat de jeux dématérialisés [Steam](https://store.steampowered.com).
+ - La plateforme de partage de vidéos courtes, [TikTok](https://www.tiktok.com/).
+ - La plateforme de discussion en ligne [Twitter](https://twitter.com).
  - Le service de streaming musical [Spotify](https://spotify.com), vous pouvez retrouver un [article dédié à cette connexion ici](/wiki/compte-utilisateur/connexions-externes/spotify).
+ - La société de développement de jeux [Epic Games](https://www.epicgames.com/). 
  - Le site d'hébergement de code source [Github](https://github.com).
- - La plateforme de jeu [PlayStation Network](https://playstation.com). 
+ - Le jeu en ligne multijoueur populaire [League of Legends](https://www.leagueoflegends.com/fr-fr/).
+ - Le développeur et éditeur de jeux vidéo [Riot Games](https://www.riotgames.com/fr).
+ - La plateforme de diffusion en direct [Twitch](https://twitch.tv).
+ - Le service de VOD communautaire [Youtube](https://youtube.com). 
 
-![Toutes les possibilités de connexion](https://i.dfr.gg/AFRj.jpg)
+![Toutes les possibilités de connexion](https://i.dfr.gg/tOzu.png)
+
 
 ## Relier son compte Discord à l'une des connexions
 
