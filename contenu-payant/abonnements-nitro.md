@@ -49,9 +49,9 @@ Il suffit de se rendre dans les paramètres, puis dans la catégorie Nitro, cliq
 
 ![comment acheter Nitro](https://i.dfr.gg/4aWS.png)
 
-# Que sont les Badges Nitro Évolutifs ?
+## Que sont les Badges Nitro Évolutifs ?
 
-Les abonnements [Nitro](https://discord.com/nitro) incluent un badge de profil spécial qui évolue automatiquement au fil du temps. Ce badge adopte différents designs en fonction des étapes franchies dans la durée de l'abonnement.
+Les abonnements [Nitro](https://discord.com/nitro) comprennent un badge de profil spécial qui évolue automatiquement au fil du temps. Ce badge adopte différents designs en fonction des étapes franchies dans la durée de l'abonnement.
 
 :::note
 La version évolutive du badge Nitro n’est pas disponible avec un abonnement Nitro Basic.
@@ -66,7 +66,7 @@ Le badge Nitro évolue automatiquement à chaque nouveau palier d’abonnement a
 En cas d’interruption de l’abonnement Nitro, puis de réabonnement ultérieur, la progression du badge est réinitialisée. Un abonnement continu est nécessaire pour maintenir la progression.
 :::
 
-## Vérification de la progression du badge Nitro
+## Vérification de la progression du Badge Nitro
 
 ### Sur PC
 Le niveau de badge actuel peut être consulté en plaçant le curseur sur le badge de profil. Il est également possible d’accéder à cette information via l’onglet Nitro dans la section Messages Privés.
@@ -79,12 +79,7 @@ Le niveau de badge actuel peut être consulté en plaçant le curseur sur le bad
 L’évolution des badges Nitro sur mobile fait actuellement l’objet d’un déploiement limité.
 :::
 
-1. Appuyer sur l’avatar dans le coin inférieur droit.
+Appuyer sur l’avatar dans le coin inférieur droit, puis accéder aux paramètres via l’icône [⚙️] et sélectionner gérer Nitro.
+Dans la page d’accueil Nitro, localiser la carte Badge de profil évolutif et sélectionner voir tous les badges pour afficher la progression.
 
-2. Accéder aux **Paramètres** via l’icône en forme de roue dentée [⚙️], puis sélectionner **Gérer Nitro**.
-
-![Capture Badge Progression Mobile](https://i.dfr.gg/t7e9.png)
-
-3. Dans la page d’accueil Nitro, localiser la carte **Badge de profil évolutif**. Sélectionner **Voir tous les badges** pour afficher la progression actuelle.
-
-![Capture Badge Progression Mobile 2](https://i.dfr.gg/NfTW.png)
+![Capture Badge Progression Mobile](https://i.dfr.gg/t7e9.png) ![Capture Badge Progression Mobile 2](https://i.dfr.gg/NfTW.png)
