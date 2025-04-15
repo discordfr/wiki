@@ -57,7 +57,7 @@ Les abonnements [Nitro](https://discord.com/nitro) comprennent un badge de profi
 La version évolutive du badge Nitro n’est pas disponible avec un abonnement Nitro Basic.
 :::
 
-## Fonctionnement des Badges Évolutifs
+### Fonctionnement des Badges Évolutifs
 Le badge Nitro évolue automatiquement à chaque nouveau palier d’abonnement atteint. L’apparence affichée sur le profil correspond au dernier palier franchi.
 
 ![Capture Badges Evolutifs](https://i.dfr.gg/wHJp.png)
@@ -66,14 +66,14 @@ Le badge Nitro évolue automatiquement à chaque nouveau palier d’abonnement a
 En cas d’interruption de l’abonnement Nitro, puis de réabonnement ultérieur, la progression du badge est réinitialisée. Un abonnement continu est nécessaire pour maintenir la progression.
 :::
 
-## Vérification de la progression du Badge Nitro
+### Vérification de la progression du Badge Nitro
 
-### Sur PC
+#### Sur PC/Mac
 Le niveau de badge actuel peut être consulté en plaçant le curseur sur le badge de profil. Il est également possible d’accéder à cette information via l’onglet Nitro dans la section Messages Privés.
 
 ![Capture Badge Progression PC](https://i.dfr.gg/UfZL.png)
 
-### Sur Mobile
+#### Sur Mobile
 
 :::note
 L’évolution des badges Nitro sur mobile fait actuellement l’objet d’un déploiement limité.
