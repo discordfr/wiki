@@ -7,7 +7,7 @@ keywords:
   - tutoriel
   - personnaliser
 description: Personnaliser son serveur discord
-contributors: [moonrise, ichii]
+contributors: [moonrise, ichii, awareeeee]
 ---
 
 Chaque serveur Discord peut être personnalisé, pour le rendre unique et facilement reconnaissable par ses membres. La gestion du nom du serveur, de son icône, du salon de messages système ainsi que la gestion du salon vocal AFK et des paramètres de notification par défaut requièrent la permission `Gérer le serveur` ou `Administrateur`. Tous les paramètres définis sur cette page sont situés dans la section `Vue d'ensemble` des paramètres d'un serveur.
@@ -36,10 +36,28 @@ Il est également possible de supprimer l'icône d'un serveur et retrouver celle
 
 Il est possible d'ajouter une couleur ( ou une bannière pour les serveurs ayant [plus de deux boosts](/wiki/contenu-payant/boost-serveur) ) qui apparaîtra sur le profil du serveur en cliquant sur l'une des couleurs proposées (ou en bas à gauche pour la bannière). Lors de la création d'un serveur, la couleur par défaut est choisie à partir de celle de l'icône du serveur.
 
-![Ajout de la coulur](https://i.dfr.gg/Q4Rf.png)
+![Ajout de la couleur](https://i.dfr.gg/Q4Rf.png)
 
-Il est également possible de supprimer l'icône d'un serveur et retrouver celle par défaut. Pour ce faire, il faut, toujours dans les paramètres du serveur, cliquer sur le lien hypertexte `Supprimer` situé sous l'icône du serveur, à gauche du nom du serveur.
 
+
+## Gestion des "particularités" d'un serveur
+
+En effet, il est possible d'ajouter jusqu'à cinq "particularités" sur un serveur, ces derniers sont visible lorsque le profil d'un serveur est consulté. 
+
+![Ajout de la description](https://i.dfr.gg/j0Y1.png)
+
+:::note Note 
+Une particularité peut-être composée de 24 caractères au maximum ainsi qu'à un émoji
+:::
+
+## Gestion de la description d'un serveur
+
+
+
+Il est possible d'ajouter une description sur un serveur, celle-ci est visible lorsque le profil d'un serveur est consulté.
+À noter : La description ne peut pas être supérieure à 300 caractères.
+
+![Ajout de la description](https://i.dfr.gg/DSe0.png)
 
 ## Gestion du salon AFK d'un serveur
 
