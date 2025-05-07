@@ -72,9 +72,9 @@ Les emplacements d'émoji supplémentaires constituent une extension catégoriel
 * Icônes de rôles personnalisées
 * Lien d'invitation personnalisé
 
-## Avantages supplémentaires {#avantages-supplemntaires}
+## Avantages supplémentaires {#avantages-supplementaires}
 
-:::note Déploiement progressif
+:::info Déploiement progressif
 Les avantages supplémentaires sont en cours de déploiement. Ils affectent actuellement **0,1 %** des serveurs Discord.
 :::
 
@@ -84,9 +84,11 @@ Les avantages supplémentaires regroupent des fonctionnalités activables de man
 
 Discord propose pour le moment deux avantages supplémentaires :
 - Tags de serveurs
+
 ![Tags de serveurs](https://i.dfr.gg/81xc.png)
 
 - Styles de rôles améliorés (dégradés et holographiques)
+
 ![Styles de rôles améliorés](https://i.dfr.gg/pDXe.png)
 
 ## Comment acheter un boost ?
