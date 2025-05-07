@@ -53,7 +53,7 @@ Les emplacements d'émoji supplémentaires constituent une extension catégoriel
 * Qualité audio améliorée (256ko/s)
 * La limite de taille des uploads est augmentée à 50 Mo
 * Place en salon conférence de 150 personnes
-* Bannière de serveur immobile
+* Bannière de serveur statique
 * Icônes de rôles personnalisées
 * Arrière-plan d'invitation du serveur personnalisé
 * Icône de serveur animée
@@ -71,6 +71,23 @@ Les emplacements d'émoji supplémentaires constituent une extension catégoriel
 * Bannière de serveur animée
 * Icônes de rôles personnalisées
 * Lien d'invitation personnalisé
+
+## Avantages supplémentaires {#avantages-supplemntaires}
+
+:::note Déploiement progressif
+Les avantages supplémentaires sont en cours de déploiement. Ils touchent actuellement **0,1 %** des serveurs Discord.
+:::
+
+Les avantages supplémentaires regroupent des fonctionnalités activables dynamiquement sans modifier le niveau du serveur.
+
+![Activation d'un avantage supplémentaire](https://i.dfr.gg/VooH.png)
+
+Discord propose pour le moment deux avantages supplémentaires :
+- Tags de serveurs
+![Tags de serveurs](https://i.dfr.gg/81xc.png)
+
+- Styles de rôles améliorés (dégradés et holographiques)
+![Styles de rôles améliorés](https://i.dfr.gg/pDXe.png)
 
 ## Comment acheter un boost ?
 Pour acheter un boost, il faut se rendre sur le serveur en question et cliquer sur "Boost de serveur". Les utilisateurs abonnés à Nitro peuvent également attribuer leurs boosts au serveur avec le même bouton.
