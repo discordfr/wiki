@@ -75,7 +75,7 @@ Les emplacements d'émoji supplémentaires constituent une extension catégoriel
 ## Avantages supplémentaires {#avantages-supplementaires}
 
 :::info Déploiement progressif
-Les avantages supplémentaires sont en cours de déploiement. Ils affectent actuellement **0,5%** des serveurs Discord.
+Les avantages supplémentaires sont en cours de déploiement. Ils affectent actuellement **1%** des serveurs Discord.
 :::
 
 Les avantages supplémentaires regroupent des fonctionnalités activables de manière dynamique, sans modifier le niveau du serveur.
