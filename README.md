@@ -1,4 +1,4 @@
-# Le Wiki Discord.fr
+# Le Wiki Discord FR
 
 Bienvenue sur le Wiki Discord Francophone du site Discord.fr. Nous avons pour objectif de répertorier une base conséquente d'informations, libre et accessible pour les utilisateurs de Discord. Vous pouvez retrouver sur notre wiki de nombreux articles sur des sujets divers, allant de la HypeSquad à la personnalisation du profil. 
 
