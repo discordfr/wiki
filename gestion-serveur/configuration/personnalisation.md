@@ -34,28 +34,24 @@ Il est également possible de supprimer l'icône d'un serveur et retrouver celle
 
 ## Gestion de la couleur / bannière d'un serveur
 
-Il est possible d'ajouter une couleur ( ou une bannière pour les serveurs ayant [plus de deux boosts](/wiki/contenu-payant/boost-serveur) ) qui apparaîtra sur le profil du serveur en cliquant sur l'une des couleurs proposées (ou en bas à gauche pour la bannière). Lors de la création d'un serveur, la couleur par défaut est choisie à partir de celle de l'icône du serveur.
+Il est possible d'ajouter une couleur (ou une bannière pour les serveurs ayant [plus de deux boosts](/wiki/contenu-payant/boost-serveur)) qui apparaît sur le profil du serveur en cliquant sur l'une des couleurs proposées (ou en bas à gauche pour la bannière). Lors de la création d'un serveur, la couleur par défaut est choisie à partir de celle de l'icône du serveur.
 
 ![Ajout de la couleur](https://i.dfr.gg/Q4Rf.png)
 
-
-
 ## Gestion des "particularités" d'un serveur
 
-En effet, il est possible d'ajouter jusqu'à cinq "particularités" sur un serveur, ces derniers sont visible lorsque le profil d'un serveur est consulté. 
+En effet, il est possible d'ajouter jusqu'à cinq "particularités" sur un serveur. Ces derniers sont visibles lorsque l'on consulte le profil d'un serveur. 
 
 ![Ajout de la description](https://i.dfr.gg/j0Y1.png)
 
 :::note Note 
-Une particularité peut-être composée de 24 caractères au maximum ainsi qu'à un émoji
+Une particularité peut être composée de 24 caractères au maximum ainsi que d'un émoji.
 :::
 
 ## Gestion de la description d'un serveur
 
-
-
-Il est possible d'ajouter une description sur un serveur, celle-ci est visible lorsque le profil d'un serveur est consulté.
-À noter : La description ne peut pas être supérieure à 300 caractères.
+La description de serveur est l'emplacement idéal pour dépeindre brièvement le thème et l'objectif éventuel du serveur. On peut accéder à la description du serveur en consultant le profil d'un serveur.
+À noter : La description ne peut pas comporter plus de 300 caractères.
 
 ![Ajout de la description](https://i.dfr.gg/DSe0.png)
 
@@ -72,7 +68,7 @@ Dans un serveur, le salon de messages système est un salon dans lequel, Discord
 
 Pour changer le salon de messages système, il faut se rendre dans la partie "salon de messages système" et choisir le salon voulu dans le menu déroulant. Une fois cela fait, le salon recevra des messages lors de l'arrivée d'un nouveau membre ou l'ajout d'un boost sur le serveur.
 
-Il est également possible de ne choisir aucun salon pour les messages système, ce qui aura pour effet de complètement les désactiver. Il est également possible de n'activer que certains messages système via les boutons situés au dessus du menu déroulant.
+Il est également possible de ne pas sélectionner de salon pour les messages système, ce qui aura pour effet de complètement les désactiver. L'application propose aussi une fonctionnalité permettant de n'activer que certains messages système via les boutons situés au dessus du menu déroulant.
 
 ![Activer ou désactiver les messages système](https://i.dfr.gg/ZMoy.png)
 
