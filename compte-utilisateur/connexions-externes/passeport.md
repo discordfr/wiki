@@ -28,8 +28,8 @@ Voici la liste des sites avec lesquels il est possible de relier son compte :
  - La plateforme de jeu Blizzard, [Battle.net](https://blizzard.com).
  - Le site de gestion de communautés de jeux Bungie, [Bungie.net](https://www.bungie.net/7).
  - Le réseau social [Facebook](https://facebook.com).
-- Le jeu en ligne multijoueur populaire [League of Legends](https://www.leagueoflegends.com/fr-fr/).
- - Le développeur et éditeur de jeux vidéo [Riot Games](https://www.riotgames.com/fr).
+ - Le jeu en ligne multijoueur [League of Legends](https://www.leagueoflegends.com/fr-fr/).
+ - L'éditeur de jeux vidéo [Riot Games](https://www.riotgames.com/fr).
  - La plateforme de création et de jeu, [Roblox](https://www.roblox.com/fr/home).
  - Le service de paiement en ligne, [PayPal](https://www.paypal.com/fr/home).
  - Le service d'achat de jeux dématérialisés [Steam](https://store.steampowered.com).
