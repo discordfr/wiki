@@ -7,10 +7,10 @@ keywords:
   - conférence
   - stage channels
 description: Les Stage Channels sur Discord
-contributors: [ichii, luke]
+contributors: [ichii, luke, wolfyzdbois]
 ---
 
-Les **Stage Channels** sont des salons vocaux spéciaux permettant à un nombre limité d'utilisateurs de parler tandis qu'un plus grand nombre d'auditeurs peuvent être présents à les écouter. 
+Les **Stage Channels** sont des salons vocaux spéciaux permettant à un nombre limité d'utilisateurs de parler tandis qu'un plus grand nombre d'auditeurs peuvent être présents pour les écouter.
 
 ## Le fonctionnement des Stage Channels
 
@@ -18,7 +18,7 @@ Les **Stage Channels** sont des salons vocaux spéciaux permettant à un nombre 
 
 Par ailleurs, les présentateurs peuvent utiliser la fonctionnalité [Go Live](/wiki/interface/salons-vocaux/partage-video) pour streamer en direct et activer leur caméra.
 
-:::note::: À noter
+:::note À noter
 Lorsqu'une session n'a pas encore été débutée, Discord diffuse automatiquement une musique d'attente dans le stage channel. 
 :::
 
@@ -42,17 +42,11 @@ De plus, pour être facilement reconnaissables, les modérateurs possèdent une 
 
 Lorsque la présentation est ouverte, n'importe quel membre du serveur a la possibilité d'y assister. Les membres sont séparés en fonction de leurs rôles, si ces derniers sont affichés séparément des autres. Une icône à côté du bouton fait pour quitter le salon permet de demander la parole auprès des modérateurs, qui disposent de la possibilité d'approuver ou de rejeter cette requête.
 
-### Le Stage Discovery
-
-Le Stage Discovery permet aux stage channels d'être référencés publiquement, et par conséquent d'être rejoints par n'importe quel utilisateur de Discord. Cette option n'est toutefois pas disponible pour n'importe quel stage channel.
-
-Pour utiliser le Stage Discovery, il faut activer le référencement au début d'une conférence. Le salon en question doit être accessible au rôle `@everyone`.
-
-![Stage Discovery](https://i.dfr.gg/frZ.png)
 
 ## Informations Complémentaires
 - Lors de l'activation d'un Stage Channel, il devient vert et une notification apparaît en haut du serveur pour notifier de la présence d'une présentation.
-- Une description peut-être ajoutée au salon et sera affichée directement en dessous de son nom pour donner le thème de la discussion.
-- La limite de membres présents simultanément dans le salon est de 1000 utilisateurs, présentateurs et audience compris.
+- Une description peut être ajoutée au salon et sera affichée directement en dessous de son nom pour donner le thème de la discussion.
+- La limite de membres présents simultanément dans le salon dépend de l'utilisation ou non de la vidéo et du partage d'écran. Si aucun intervenant n'a la vidéo ou le partage d'écran activé, la limite est de 10 000 personnes présentes dans l'audience. Si un intervenant utilise sa caméra ou partage son écran, le nombre limite de personnes présentes dépend du nombre de boosts. Jusqu'à 50 utilisateurs peuvent être présents par défaut dans le salon, 150 utilisateurs si le serveur est niveau 2, 300 utilisateurs si le serveur est niveau 3, puis la limite augmente de 30 utilisateurs par boost jusqu'à une limite de 10000 utilisateurs, présentateurs et audience compris.
+- Jusqu'à 5 personnes en conférence peuvent activer leurs caméras et activer la vidéo.
 
 ![Pop-up Stage](https://i.dfr.gg/Pop-upStage.webp)
