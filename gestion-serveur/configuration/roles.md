@@ -7,7 +7,7 @@ keywords:
   - roles
   - permissions
 description: Les rôles sur un serveur Discord
-contributors: [autumn, ichii, dreas, feoxy]
+contributors: [autumn, ichii, dreas, feoxy, wolfyzdbois]
 short_slug: Roles
 ---
 
@@ -81,6 +81,10 @@ Cependant, Discord ne préviendra pas si une couleur sera illisible dans vos sal
 
 ![illisibilité de couleur](https://i.dfr.gg/FaQ4.png)
 
+Il est également possible de sélectionner un dégradé de couleur parmi 12 dégradés proposés par défaut, ou en sélectionnant deux couleurs dans la roue des couleurs. La couleur Holographique est également disponible, qui donnera un effet arc-en-ciel.
+
+![sélection du dégradé de couleur](https://wolfyzdfile.fr/20260127_002620_image_bc53d924.png)
+
 
 ## Les paramètres du rôle
 
@@ -101,9 +105,9 @@ Depuis peu, il est possible d'ajouter des badges de rôle personnalisé. On ne p
 
 Le panneau de gestion se trouve ici 
 
-![Paneau de Gestion](https://i.dfr.gg/veaf.png)
+![Panneau de Gestion](https://i.dfr.gg/veaf.png)
 
-Après configuration du bage, voilà ce que cela donne sur le serveur
+Après configuration du badge, voilà ce que cela donne sur le serveur
 
 ![Affichage Serveur](https://i.dfr.gg/ey8T.png)
 
