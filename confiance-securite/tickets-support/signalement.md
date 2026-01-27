@@ -1,15 +1,19 @@
 ---
-title: Un bon signalement
+title: Signalement
 keywords:
   - discord
   - tickets
   - signalement
-description: Un bon signalement
-contributors: []
-short_slug: false
+description: Signaler un mauvais comportement
+contributors: [wolfyzdbois]
 ---
 
-:::info L'article n'existe pas encore
-Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
-Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
+Il existe trois options de signalement sur Discord : 
+- Le signalement d'un message
+- Le signalement d'un profil
+- Le signalement d'un serveur (disponible uniquement sur mobile)
+
+
+:::info
+Jusqu'à (date à préciser), les signalements Discord passaient par l'ouverture d'un ticket support. Depuis cette date, les signalements passent exclusivement par l'interface de l'application.
 :::
