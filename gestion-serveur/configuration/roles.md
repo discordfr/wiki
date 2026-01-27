@@ -39,19 +39,6 @@ Il n'est pas possible de configurer le nom, l'icône et la couleur de celui-ci, 
 ::: 
 
 
-## Petit point sur la couronne
-
-Une couronne est affichée à côté du nom du propriétaire.
-Si un autre rôle ayant la permission administrateur est affiché séparément, la couronne disparaît.
-
-• Avec la couronne
-
-![Couronne du propriétaire](https://i.dfr.gg/75f7.png)
-
-• Sans la couronne 
-
-![Couronne du propriétaire absente](https://i.dfr.gg/xiTu.png)
-
 ## Création d'un rôle
 Pour créer un rôle, vous avez maintenant deux possibilités de le faire ! Il faut soit cliquer sur le petit plus à côté de « retour », juste ici :
 
@@ -63,7 +50,7 @@ Soit vous avez la possibilité de cliquer sur le bouton bleu « Création de r�
 
 Un rôle nouvellement créé s'appelle par défaut « nouveau rôle ». Sa couleur est "invisible" et les mêmes permissions que le rôle everyone lui sont attribuées par défaut. Pensez donc à bien configurer votre rôle everyone avant de créer le reste de vos rôles, vous gagnerez du temps et vous n'oublierez pas les petits détails qui peuvent à l'avenir déranger le bon fonctionnement de votre serveur.
 
-![newrole](https://i.dfr.gg/AbWQ.png)
+![newrole](https://wolfyzdfile.fr/20260127_004224_image_4c213949.png)
 
 Un rôle peut être modifié à tout moment par un utilisateur, à condition que celui-ci ait la permission "gérer les rôles" et qu'il dispose des permissions qu'il souhaite lui-même attribuer. Si la personne qui effectue les modifications sur un rôle ne dispose pas lui-même de la permission qu'il souhaite attribuer, la case sera grisée et il sera impossible d'interagir avec. Par exemple si l'auteur de l'édition ne dispose pas de la permission "mentionner everyone", il ne pourra donc pas l'attribuer à un autre rôle.
 
@@ -83,8 +70,9 @@ Cependant, Discord ne préviendra pas si une couleur sera illisible dans vos sal
 
 Il est également possible de sélectionner un dégradé de couleur parmi 12 dégradés proposés par défaut, ou en sélectionnant deux couleurs dans la roue des couleurs. La couleur Holographique est également disponible, qui donnera un effet arc-en-ciel.
 
-![sélection du dégradé de couleur](https://wolfyzdfile.fr/20260127_002620_image_bc53d924.png)
-
+:::note Avantage Boost
+La sélection d'un dégradé de couleur ou de la couleur Holographique nécessite d'activer l'avantage "Style de rôles améliorés" pour 3 boosts de serveur dans l'onglet correspondant.
+:::
 
 ## Les paramètres du rôle
 
@@ -111,3 +99,26 @@ Après configuration du badge, voilà ce que cela donne sur le serveur
 
 ![Affichage Serveur](https://i.dfr.gg/ey8T.png)
 
+## Les rôles liés
+
+Un rôle lié est un rôle qu'un membre peut obtenir s'il respecte certains prérequis de connexion entre des comptes externes et son compte Discord.
+
+![Configuration du rôle lié](https://wolfyzdfile.fr/20260127_003735_image_3b3692ac.png)
+
+Le membre pourra ensuite aller dans l'onglet "Rôle lié" dans le menu du serveur, et sélectionner ses rôles, selon les prérequis qu'il respecte.
+
+![Sélection par le membre du rôle lié](https://wolfyzdfile.fr/20260127_003856_image_2df1cadf.png)
+
+
+## Petit point sur la couronne
+
+Une couronne est affichée à côté du nom du propriétaire.
+Si un autre rôle ayant la permission administrateur est affiché séparément, la couronne disparaît.
+
+• Avec la couronne
+
+![Couronne du propriétaire](https://i.dfr.gg/75f7.png)
+
+• Sans la couronne
+
+![Couronne du propriétaire absente](https://i.dfr.gg/xiTu.png)
