@@ -3,12 +3,16 @@ title: Les GIFs
 keywords:
   - discord
   - gif
-description: Les GIFs
-contributors: []
-short_slug: false
+description: Sélectionner et envoyer des GIFs
+contributors: [wolfyzdbois]
 ---
 
-:::info L'article n'existe pas encore
-Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
-Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
-:::
+Un GIF est un format d'image animé. Sur Discord, ils sont souvent utilisés pour poster des mèmes ou des messages d'une manière plus expressive.
+
+Discord met à disposition un panneau pour rechercher un GIF ou en sélectionner un parmi ceux proposés ou parmi les favoris. Ce panneau est disponible dans la barre des messages sur ordinateur, ou en sélectionnant le panneau des [émojis]() puis en choisissant l'onglet "GIF".
+
+![Ecran des GIFs sur ordinateur](https://wolfyzdfile.fr/20260127_214054_image_06f62d5d.png)
+
+Il est également possible d'enregistrer un GIF en favori, en cliquant sur l'étoile présente en haut à gauche lors du survol de la souris, ou en appuyant dessus et en utilisant l'étoile en haut à droite sur ordinateur.
+
+Il est nécessaire d'avoir la permission "Intégrer des liens" pour qu'un GIF soit visible lorsqu'on l'envoie sur un serveur.
