@@ -7,10 +7,10 @@ keywords:
   - tutoriel
   - générales
 description: Les permissions générales
-contributors: [autumn, zallom]
+contributors: [autumn, zallom, wolfyzdbois]
 ---
 
-![Permissions](https://i.dfr.gg/YNX.png)
+![Permissions](https://wolfyzdfile.fr/20260127_161956_image_d7c46f14.png)
 
 ### • Administrateur
 Les membres ayant cette permission ont accès aux mêmes droits que le propriétaire du serveur. Cependant, une personne ayant ce rôle ne peut pas modifier son rôle le plus haut ni ceux au-dessus s'il y en a, ni supprimer le serveur.
@@ -20,10 +20,20 @@ Il n'est pas non plus possible de gérer l'A2F ; si celle-ci est rendue obligat
 
 ![Logs du serveur](https://i.dfr.gg/fwp.png)
 
-Les membres ayant cette permission ont accès au logs du serveur permettant de consulter un certain nombre d'actions effectuées sur celui-ci.
+Les membres ayant cette permission ont accès aux logs du serveur permettant de consulter un certain nombre d'actions effectuées sur celui-ci.
 Il est également possible de filtrer ces actions par utilisateurs et/ou par type d'actions.
 
 ![Filtres des actions](https://i.dfr.gg/46i.png)
+
+### • Voir les analyses du serveur
+
+Les membres ayant cette permission ont accès aux analyses du serveur, qui présente dans un onglet des paramètres et [dans un onglet sur le site Discord Developer Portal](https://discord.com/developers/servers) différentes statistiques sur le serveur.
+
+[Un article présente plus en détail cette fonctionnalité.](https://dfr.gg/wiki/gestion-serveur/outils-communautaires/insights)
+
+### • Voir les analyses d'abonnements du serveur
+
+Si le serveur bénéficie de [la fonctionnalité des abonnements de serveur](https://dfr.gg/wiki/gestion-serveur/outils-communautaires/premium-membership), le membre pourra consulter diverses statistiques sur les revenus générés, les abonnements pris ou les essais gratuits.
 
 ### • Gérer le serveur
 
@@ -43,7 +53,7 @@ Les membres ayant cette permission peuvent expulser des membres du serveur. Cett
 
 ### • Bannir des membres
 
-Les membres ayant cette permission peuvent bannir des membres du serveur. Cette action a pour effet faire quitter le serveur un utilisateur sans lui laisser la possibilité de revenir.
+Les membres ayant cette permission peuvent bannir des membres du serveur. Cette action a pour effet de faire quitter le serveur un utilisateur sans lui laisser la possibilité de revenir.
 Il est cependant possible de le débannir via l'onglet "Bannissements".
 
 ![Expulser des membres, bannir des membres](https://i.dfr.gg/Jl4.png)
@@ -54,21 +64,13 @@ Les membres ayant cette permission peuvent créer une invitation pour le serveur
 
 ![Créer une invitation](https://i.dfr.gg/0D8.png)
 
-### • Changer le pseudo
+### • Créer des expressions
 
-Les membres ayant cette permission peuvent changer eux-mêmes leur pseudo au sein du serveur.
+Les membres ayant cette permission peuvent ajouter des émojis, des autocollants et des sons personnalisés.
 
-![Changer de pseudo](https://i.dfr.gg/k8b.png)
+### • Gérer les expressions
 
-### • Gérer les pseudos
-
-Les membres ayant cette permission peuvent modifier les pseudos d'autres membres, à condition qu'ils n'aient pas le même rôle qu'eux ou un au-dessus.
-
-![Gérer les pseudos](https://i.dfr.gg/T06.png)
-
-### • Gérer les émojis
-
-Les membres ayant cette permission peuvent ajouter, modifier et supprimer des émojis.
+Les membres ayant cette permission peuvent modifier et supprimer des émojis, des autocollants et des sons personnalisés.
 
 ![Gérer les émojis](https://i.dfr.gg/pAB.png)
 
