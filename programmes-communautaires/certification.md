@@ -6,7 +6,7 @@ keywords:
   - certification
   - exigences
   - tutoriel
-description:  La certification de serveur
+description:  Les serveurs officiellement affiliés à une marque ou personnalité sur Discord
 contributors: [karal, wolfyzdbois]
 ---
 Plus d'informations sur la certification sont disponibles [sur l'article officiel du support](https://support.discord.com/hc/fr/articles/360001107231-Pr%C3%A9requis-du-Serveur-Certifi%C3%A9).
