@@ -1,28 +1,28 @@
 ---
-title: Les exigences de la certification
+title: La certification de serveur
 keywords:
   - discord
   - serveur
   - certification
   - exigences
   - tutoriel
-description: Les exigences de la certification de serveurs
+description:  La certification de serveur
 contributors: [karal, wolfyzdbois]
 ---
-Plus d'informations sur la certification sont disponibles [ici](https://support.discord.com/hc/fr/articles/360001107231-Pr%C3%A9requis-du-Serveur-Certifi%C3%A9).
+Plus d'informations sur la certification sont disponibles [sur l'article officiel du support](https://support.discord.com/hc/fr/articles/360001107231-Pr%C3%A9requis-du-Serveur-Certifi%C3%A9).
 
 *********************
 
-Un serveur certifié est un serveur affilié officiellement à une communauté, une marque, un créateur de contenu, ou d'intérêt public.
+Un serveur certifié est un serveur affilié officiellement à une marque, un créateur de contenu, ou d'intérêt public.
 
 Ces serveurs obtiennent un badge, attribué par Discord et visible à côté du nom du serveur, indiquant qu'il s'agit bien d'un serveur officiel.
 
-![Le serveur Discord TownHall est certifié, indiquant qu'il s'agit d'un serveur officiel de Discord.](https://wolfyzdfile.fr/20260126_234235_Discord_TownHall_bc31d2af.png)
+![Le serveur Discord TownHall est certifié, indiquant qu'il s'agit d'un serveur officiel de Discord.](i.dfr.gg/Agmf.png)
 
 ## Les exigences de la certification
 
 :::warning
-Il n'est actuellement plus possible de postuler afin de faire certifier son serveur.
+Depuis le 14 juillet 2023, Discord a suspendu la possibilité de postuler afin de faire certifier son serveur.
 :::
 
 Pour faire vérifier son serveur il faut respecter plusieurs conditions:
@@ -40,3 +40,7 @@ Le serveur se doit d'être:
 :::note
 Discord peut faire des exceptions dans le cas où la marque possède plusieurs serveurs de régions/langues différentes.
 :::
+
+## Les avantages de la certification
+
+En plus du badge présent à côté du nom du serveur, les serveurs certifiés disposent d'un lien d'invitation personnalisé et d'un arrière plan d'invitation.
