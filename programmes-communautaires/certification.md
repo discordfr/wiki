@@ -1,5 +1,5 @@
 ---
-title: La certification de serveur
+title: Certification de serveur
 keywords:
   - discord
   - serveur
