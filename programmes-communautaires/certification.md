@@ -19,7 +19,7 @@ Ces serveurs obtiennent un badge, attribué par Discord et visible à côté du 
 
 ![Le serveur Discord TownHall est certifié, indiquant qu'il s'agit d'un serveur officiel de Discord.](https://i.dfr.gg/Agmf.png)
 
-## Les exigences de la certification
+## Exigences de la certification
 
 :::warning
 Depuis le 14 juillet 2023, Discord a suspendu la possibilité de postuler afin de faire certifier son serveur.
