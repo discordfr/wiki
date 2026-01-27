@@ -1,5 +1,5 @@
 ---
-title: Salons de Conférence
+title: Salons de conférence
 keywords:
   - discord
   - serveur
