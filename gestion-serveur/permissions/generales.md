@@ -47,22 +47,6 @@ Les membres ayant cette permission peuvent créer, modifier et supprimer des rô
 
 Les membres ayant cette permission peuvent créer, modifier et supprimer des salons.
 
-### • Expulser des membres
-
-Les membres ayant cette permission peuvent expulser des membres du serveur. Cette action a pour effet de faire quitter le serveur un utilisateur tout en lui laissant la possibilité de revenir.
-
-### • Bannir des membres
-
-Les membres ayant cette permission peuvent bannir des membres du serveur. Cette action a pour effet de faire quitter le serveur un utilisateur sans lui laisser la possibilité de revenir.
-Il est cependant possible de le débannir via l'onglet "Bannissements".
-
-![Expulser des membres, bannir des membres](https://i.dfr.gg/Jl4.png)
-
-### • Créer une invitation
-
-Les membres ayant cette permission peuvent créer une invitation pour le serveur.
-
-![Créer une invitation](https://i.dfr.gg/0D8.png)
 
 ### • Créer des expressions
 
