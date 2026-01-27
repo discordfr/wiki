@@ -17,7 +17,7 @@ Un serveur certifié est un serveur affilié officiellement à une marque, un cr
 
 Ces serveurs obtiennent un badge, attribué par Discord et visible à côté du nom du serveur, indiquant qu'il s'agit bien d'un serveur officiel.
 
-![Le serveur Discord TownHall est certifié, indiquant qu'il s'agit d'un serveur officiel de Discord.](i.dfr.gg/Agmf.png)
+![Le serveur Discord TownHall est certifié, indiquant qu'il s'agit d'un serveur officiel de Discord.](https://i.dfr.gg/Agmf.png)
 
 ## Les exigences de la certification
 
