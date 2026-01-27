@@ -1,12 +1,12 @@
 ---
-title: Les Salons de Conférence
+title: Salons de Conférence
 keywords:
   - discord
   - serveur
   - vocal
   - conférence
   - stage channels
-description: Salons de conférence
+description: Les Stage Channels sur Discord
 contributors: [ichii, luke, wolfyzdbois]
 ---
 
