@@ -4,12 +4,19 @@ keywords:
   - discord
   - mode streamer
   - streamer mode
-description: Mode Streamer
-contributors: []
-short_slug: false
+description: Cacher ses informations personnelles en stream
+contributors: [wolfyzdbois]
 ---
 
-:::info L'article n'existe pas encore
-Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
-Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
-:::
+### Activation
+
+Le mode est activable sur ordinateur uniquement, dans les paramètres de Discord, dans l'onglet "Mode streamer". Une option permet également de l'activer automatiquement lorsqu'on ouvre OBS ou XSplit, deux logiciels de capture vidéo. 
+
+![Paramètres du mode streamer](https://wolfyzdfile.fr/20260127_200729_image_a8cf731c.png)
+
+### Avantages
+
+Le mode Streamer est un mode qui permet de masquer ses informations personnelles sur la plateforme, ce qui permet de streamer sa fenêtre sans risque de dévoiler son adresse email, des pseudos, des invitations ou encore l'aperçu des messages privés. 
+
+Ce mode permet également de couper toute notification et effets sonores venant de Discord afin d'éviter qu'ils ne soient retransmis. 
+
