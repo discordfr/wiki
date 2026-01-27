@@ -7,14 +7,14 @@ keywords:
   - tutoriel
   - textuel
 description: Les permissions textuelles
-contributors: [autumn, zallom, luke, feoxy]
+contributors: [autumn, zallom, luke, feoxy, wolfyzdbois]
 ---
 
 ![Permissions des salons textuels](https://i.dfr.gg/bJzZ.png)
 
-### • Envoyer des messages
+### • Envoyer des messages et créer des posts
 
-Les membres ayant cette permission peuvent envoyer des messages.
+Les membres ayant cette permission peuvent envoyer des messages dans les salons textuels et créer des posts dans les salons forums.
 
 ### • Envoyer des messages dans les fils
 
@@ -26,11 +26,11 @@ Les membres ayant cette permission peuvent créer des threads visibles par tous 
 
 ### • Créer des fils privés
 
-Les membres ayant cette permission peuvent créer des threads visibles uniquement par les personnes invitées et les modérateurs. Cette fonctionnalité se débloque au [niveau 2 des boosts de serveur](/wiki/contenu-payant/boost-serveur).
+Les membres ayant cette permission peuvent créer des threads visibles uniquement par les personnes invitées et les modérateurs. 
 
 ### • Intégrer des liens
 
-Les membres ayant cette permission voient l'aperçu des liens qu'ils envoient s'afficher.
+L'aperçu des liens envoyés par les membres avec cette permission sera visible par tous. Cela inclut les GIF et les embeds de site Internet ou de vidéo.
 
 ### • Joindre des fichiers
 
@@ -56,11 +56,28 @@ Les membres qui ont cette permission peuvent utiliser @everyone et @here pour me
 
 ### • Gérer les messages
 
-Les membres ayant cette permission peuvent supprimer les messages d'autres membres et épingler n'importe quel message ainsi que rendre insensible au mode lent.
+Les membres ayant cette permission peuvent supprimer les messages d'autres membres.
 
-### • Gérer les fils
+:::note
+Par le passé, cette permission permettait également d'épingler des messages et d'ignorer le mode lent.
+:::
 
-Les membres ayant cette permission peuvent activer le mode lent, renommer, supprimer et archiver/désarchiver les threads. Ils peuvent également accéder aux threads privés.
+
+### • Épingler les messages
+
+Les membres ayant cette permission peuvent épingler un message dans un salon.
+
+### • Ignorer le mode lent
+
+Les membres ayant cette permission peuvent contourner le mode lent dans les salons concernés.
+
+### • Gérer les fils et les posts
+
+Les membres ayant cette permission peuvent activer le mode lent, renommer, supprimer et archiver/désarchiver les threads ainsi que les posts dans les salons forums. Ils peuvent également accéder aux threads privés.
+
+:::note
+Par le passé, cette permission permettait également d'ignorer le mode lent.
+:::
 
 ### • Voir les anciens messages
 
@@ -77,3 +94,13 @@ Les membres ayant cette permission peuvent envoyer des messages TTS (messages de
 Les membres ayant cette permission peuvent utiliser les commandes Slash dans les salons textuels.
 
 ![Permission d'utiliser les slash commands](https://i.dfr.gg/xr5k.png)
+
+### • Utiliser des applications externes
+
+Les membres peuvent utiliser les applications qu'ils ont ajoutés sur leur compte sur le serveur.
+Quand cette permission est activée, les messages de ces applications sont visibles par tous.
+
+:::warning
+Il est conseillé de désactiver cette permission.
+Certains utilisateurs malveillants peuvent utiliser cette permission pour envoyer des messages d'arnaques ou spammer sans dévoiler leur identité ni possibilité de bloquer le bot.
+:::
