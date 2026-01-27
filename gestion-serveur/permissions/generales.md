@@ -84,3 +84,11 @@ Les membres ayant cette permission peuvent ajouter, modifier et supprimer des we
 ### • Lire les salons textuels & voir les salons vocaux
 
 Les membres ayant cette permission peuvent avoir accès par défaut aux salons textuels et vocaux.
+
+###  • Créer des évènements
+
+Les membres avec cette permission peuvent créer des évènements sur le serveur
+
+### • Gérer les évènements
+
+Les membres avec cette permission peuvent modifier un évènement déjà existant ou le supprimer en l'annulant.
