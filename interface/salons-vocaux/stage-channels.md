@@ -42,11 +42,20 @@ De plus, pour être facilement reconnaissables, les modérateurs possèdent une 
 
 Lorsque la présentation est ouverte, n'importe quel membre du serveur a la possibilité d'y assister. Les membres sont séparés en fonction de leurs rôles, si ces derniers sont affichés séparément des autres. Une icône à côté du bouton fait pour quitter le salon permet de demander la parole auprès des modérateurs, qui disposent de la possibilité d'approuver ou de rejeter cette requête.
 
+### Limite d'utilisateur
+
+Sans utilisation de la caméra ni du partage d'écran, jusqu'à 10 000 membres peuvent être présents dans l'audience.
+
+Si un intervenant utilise sa caméra ou fait un partage d'écran, la limite dépend du niveau de boosts du serveur :
+- 50 utilisateurs présents par défaut dans le salon.
+- 150 utilisateurs si le serveur est niveau 2.
+- 300 utilisateurs si le serveur est niveau 3.
+- Puis la limite augmente de 30 utilisateurs par boost jusqu'à une limite de 10 000 utilisateurs, présentateurs et audience compris.
+
 
 ## Informations Complémentaires
 - Lors de l'activation d'un Stage Channel, il devient vert et une notification apparaît en haut du serveur pour notifier de la présence d'une présentation.
 - Une description peut être ajoutée au salon et sera affichée directement en dessous de son nom pour donner le thème de la discussion.
-- La limite de membres présents simultanément dans le salon dépend de l'utilisation ou non de la vidéo et du partage d'écran. Si aucun intervenant n'a la vidéo ou le partage d'écran activé, la limite est de 10 000 personnes présentes dans l'audience. Si un intervenant utilise sa caméra ou partage son écran, le nombre limite de personnes présentes dépend du nombre de boosts. Jusqu'à 50 utilisateurs peuvent être présents par défaut dans le salon, 150 utilisateurs si le serveur est niveau 2, 300 utilisateurs si le serveur est niveau 3, puis la limite augmente de 30 utilisateurs par boost jusqu'à une limite de 10000 utilisateurs, présentateurs et audience compris.
-- Jusqu'à 5 personnes en conférence peuvent activer leurs caméras et activer la vidéo.
+- Jusqu'à 5 personnes en conférence peuvent activer leurs caméras et faire un partage d'écran.
 
 ![Pop-up Stage](https://i.dfr.gg/Pop-upStage.webp)
