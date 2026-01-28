@@ -10,17 +10,19 @@ description: Les permissions liées aux applications
 contributors: [wolfyzdbois]
 ---
 
-### • Utiliser les commandes de l'application
+Ces permissions permettent aux membres d'utiliser les applications, que ce soit les applications ajoutées au serveur mais aussi les activités et les applications externes.
+
+### Utiliser les commandes de l'application
 
 Les membres ayant cette permission peuvent utiliser les commandes Slash dans les salons textuels.
 
 ![Permission d'utiliser les slash commands](https://i.dfr.gg/xr5k.png)
 
-### • Utiliser les activités
+### Utiliser les activités
 
 Les membres ayant cette permission peuvent lancer une activité dans le salon, qu'il soit textuel ou vocal
 
-### • Utiliser des applications externes
+### Utiliser des applications externes
 
 Les membres peuvent utiliser les applications qu'ils ont ajoutés sur leur compte sur le serveur.
 Quand cette permission est activée, les messages de ces applications sont visibles par tous.
