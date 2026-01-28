@@ -30,7 +30,7 @@ Les membres ayant cette permission peuvent créer des threads visibles uniquemen
 
 ### • Intégrer des liens
 
-L'aperçu des liens envoyés par les membres avec cette permission sera visible par tous. Cela inclut les GIF et les embeds de site Internet ou de vidéo.
+[L'aperçu des liens](https://dfr.gg/wiki/interface/salons-textuels/embeds#les-int%C3%A9grations-de-liens) envoyés par les membres avec cette permission sera visible par tous. Cela inclut les GIF et les embeds de site Internet ou de vidéo.
 
 ### • Joindre des fichiers
 
@@ -88,19 +88,3 @@ Les membres ayant cette permission ont accès à l'historique des messages des s
 ### • Envoyer des messages de synthèse vocale
 
 Les membres ayant cette permission peuvent envoyer des messages TTS (messages de synthèse vocale ou Text-To-Speech en anglais).
-
-### • Utiliser les commandes de l'application
-
-Les membres ayant cette permission peuvent utiliser les commandes Slash dans les salons textuels.
-
-![Permission d'utiliser les slash commands](https://i.dfr.gg/xr5k.png)
-
-### • Utiliser des applications externes
-
-Les membres peuvent utiliser les applications qu'ils ont ajoutés sur leur compte sur le serveur.
-Quand cette permission est activée, les messages de ces applications sont visibles par tous.
-
-:::warning
-Il est conseillé de désactiver cette permission.
-Certains utilisateurs malveillants peuvent utiliser cette permission pour envoyer des messages d'arnaques ou spammer sans dévoiler leur identité ni possibilité de bloquer le bot.
-:::
