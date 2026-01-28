@@ -19,7 +19,7 @@ Il est nécessaire d'enregistrer les modifications pour qu'elles soient effectiv
 Les permissions des salons sont prioritaires quand elles sont vertes. (voir articles permissions rôles et permissions générales)
 :::
 
-Le panneau de gestion des rôles est trouvable à cet endroit.
+Le panneau de gestion des rôles est présent dans le menu des paramètres, disponible dans le menu qui s'affiche en cliquant sur le nom du serveur.
 
 ![où est le panneau de gestion des rôles](https://i.dfr.gg/89gp.png)
 
@@ -40,23 +40,26 @@ Il n'est pas possible de configurer le nom, l'icône et la couleur de celui-ci, 
 
 
 ## Création d'un rôle
-Pour créer un rôle, vous avez maintenant deux possibilités de le faire ! Il faut soit cliquer sur le petit plus à côté de « retour », juste ici :
+
+Il existe deux possibilités pour créer un rôle : via le « + » ou via le bouton bleu « Création de rôle ». Après cela, vous serez redirigé vers la page des rôles pour la configuration.
 
 ![créer un rôle](https://i.dfr.gg/Oc7f.png) 
 
-Soit vous avez la possibilité de cliquer sur le bouton bleu « Création de rôle ». Après cela vous serez redirigé vers la page des rôles pour la configuration.
-
 ![créer un rôle autrement](https://i.dfr.gg/QqbC.png)
 
-Un rôle nouvellement créé s'appelle par défaut « nouveau rôle ». Sa couleur est "invisible" et les mêmes permissions que le rôle everyone lui sont attribuées par défaut. Pensez donc à bien configurer votre rôle everyone avant de créer le reste de vos rôles, vous gagnerez du temps et vous n'oublierez pas les petits détails qui peuvent à l'avenir déranger le bon fonctionnement de votre serveur.
+Un rôle nouvellement créé s'appelle par défaut « nouveau rôle ». Sa couleur est "invisible" et les mêmes permissions que le rôle everyone lui sont attribuées par défaut. 
 
+:::tips
+Pour gagner du temps et ne pas oublier des petits détails qui qui peuvent à l'avenir déranger le bon fonctionnement du serveur, il est important de bien configurer les permissions du rôle everyone avant de créer d'autres rôles, vous gagnerez du temps et vous n'oublierez pas les petits détails
+:::
+vtre
 ![newrole](https://wolfyzdfile.fr/20260127_004224_image_4c213949.png)
 
 Un rôle peut être modifié à tout moment par un utilisateur, à condition que celui-ci ait la permission "gérer les rôles" et qu'il dispose des permissions qu'il souhaite lui-même attribuer. Si la personne qui effectue les modifications sur un rôle ne dispose pas lui-même de la permission qu'il souhaite attribuer, la case sera grisée et il sera impossible d'interagir avec. Par exemple si l'auteur de l'édition ne dispose pas de la permission "mentionner everyone", il ne pourra donc pas l'attribuer à un autre rôle.
 
 
 ## Les couleurs
-La couleur "invisible" est celle par défaut. Si un rôle placé en dessous d'un rôle invisible a une couleur, c'est celle-ci qui apparaîtra sur le profil d'un utilisateur. Comme ceci :
+La couleur "invisible" est celle par défaut. Si un rôle placé en dessous d'un rôle invisible a une couleur, c'est celle-ci qui apparaîtra sur le profil d'un utilisateur.
 
 ![rôle invisible et rôle visible](https://i.dfr.gg/cnM8.png)
 
@@ -64,7 +67,7 @@ En plus des 20 couleurs prédéfinies, une roue de couleurs (color wheel) est di
 
 ![color wheel](https://i.dfr.gg/BZ8z.png)
 
-Cependant, Discord ne préviendra pas si une couleur sera illisible dans vos salons écrits.
+Cependant, Discord ne préviendra pas si une couleur sera illisible dans vos salons écrits. Une astuce est de vérifier que le rôle sera bien lisible, aussi bien sur thème clair que sombre.
 
 ![illisibilité de couleur](https://i.dfr.gg/FaQ4.png)
 
@@ -83,7 +86,8 @@ La sélection d'un dégradé de couleur ou de la couleur Holographique nécessit
 ![Affichage séparé du rôle](https://i.dfr.gg/xiTu.png)
 
 ### • Permettre à tout le monde de @mentionner ce rôle
-Si activé, chaque utilisateur ou un rôle ayant la permission de mentionner everyone/here et tous les rôles du serveur peut mentionner ce rôle.
+
+Si cette option est activée, tout les utilisateurs du serveur pourront mentionner ce rôle.
 
 ![Mentionner un rôle](https://i.dfr.gg/iRI.png)
 
@@ -109,6 +113,8 @@ Le membre pourra ensuite aller dans l'onglet "Rôle lié" dans le menu du serveu
 
 ![Sélection par le membre du rôle lié](https://wolfyzdfile.fr/20260127_003856_image_2df1cadf.png)
 
+:::tip
+Il est également possible de créer sa propre connexion avec ses propres prérequis pour son serveur. [La documentation officielle de Discord Developper Portal](https://discord.com/developers/docs/tutorials/configuring-app-metadata-for-linked-roles) explique comment faire. 
 
 ## Petit point sur la couronne
 
