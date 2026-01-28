@@ -5,9 +5,8 @@ keywords:
   - serveur
   - découverte de serveurs
   - discovery
-description: Faire grandir une communauté peut être difficile, mais avec Discovery, vous pourrez propulser votre serveur parmi les plus grands.
-contributors: [antoine]
-short-slug: false
+description: La découverte de serveur permet de toucher un plus grand public et d'en découvrir de nouveaux
+contributors: [antoine, wolfyzdbois]
 ---
 
 La découverte de serveur ou discovery en anglais, est un outil communautaire permettant de faire apparaitre un serveur parmi une liste de serveurs publics, certifiés, et partenaires. Elle permet de faire la promotion du serveur et de le mettre en avant. Cependant, cette fonctionnalité requiert certains prérequis pour son activation sur votre serveur.
@@ -22,10 +21,10 @@ Pour un utilisateur cherchant à découvrir de nouveaux serveurs, il repérera l
 Si vous cherchez la fonctionnalité Discovery pour trouver de nouveaux serveurs à explorer sur votre téléphone, attention, elle n'existe pas. Elle n'est disponible que sur ordinateur.
 :::
 
-## Les exigences pour activer la Discovery
+## Prérequis pour activer la Discovery
 
 La Discovery possède de nombreuses exigences pour filtrer les serveurs entrant dans cette fonctionnalité. Pour pouvoir activer la Discovery, il faut notamment : 
-* Créer un environnement sans danger
+* Créer un environnement sans danger. [Discord explique en détail les directives à suivre pour être éligible sur le support](https://support.discord.com/hc/fr/articles/4409308485271-Directives-de-la-D%C3%A9couverte-de-serveurs).
 * Avoir au moins 1000 membres
 * Avoir un serveur d'au moins 8 semaines
 * Une activité sur votre serveur
@@ -33,3 +32,5 @@ La Discovery possède de nombreuses exigences pour filtrer les serveurs entrant 
 * Une A2F obligatoire activée pour les utilisateurs ayant des permissions de modération
 
 ![discovery activation](http://i.dfr.gg/8CwM.webp) 
+
+Un serveur Discord ayant activé la Discovery mais ne répondant plus aux critères pendant une période de 4 semaines sera automatiquement retiré. 
