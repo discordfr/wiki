@@ -20,12 +20,9 @@ Beaucoup de précaution est nécessaire dans l'attribution de cette permission, 
 
 ### Voir les logs du serveur
 
-![Logs du serveur](https://i.dfr.gg/fwp.png)
 
-Les membres ayant cette permission ont accès aux logs du serveur permettant de consulter un certain nombre d'actions effectuées sur celui-ci.
-Il est également possible de filtrer ces actions par utilisateurs et/ou par type d'actions.
-
-![Filtres des actions](https://i.dfr.gg/46i.png)
+Les membres ayant cette permission ont accès [aux logs du serveur](/wiki/gestion-serveur/moderation/logs?_highlight=log) permettant de consulter un certain nombre d'actions effectuées sur celui-ci.
+Il est également possible de filtrer ces actions par utilisateurs et/ou par type d'actions. 
 
 ### Voir les analyses du serveur
 
