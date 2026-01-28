@@ -6,15 +6,19 @@ keywords:
   - permissions
   - tutoriel
   - générales
-description: Les permissions générales
+description: Les permissions générales sont les permissions permettant de gérer le serveur.
 contributors: [autumn, zallom, wolfyzdbois]
 ---
 
-### • Administrateur
-Les membres ayant cette permission ont accès aux mêmes droits que le propriétaire du serveur. Cependant, une personne ayant ce rôle ne peut pas modifier son rôle le plus haut ni ceux au-dessus s'il y en a, ni supprimer le serveur.
-Il n'est pas non plus possible de gérer l'A2F ; si celle-ci est rendue obligatoire par le propriétaire pour les actions de modération, un utilisateur qui ne l'a pas activée ne pourra pas agir malgré ses permissions.
+Ces permissions sont les permissions qui permettent d'administrer un serveur, du suivi des modifications aux évènements en passant par les salons et les rôles.
 
-### • Voir les logs du serveur
+### Administrateur
+
+Les membres ayant cette permission ont accès à l'ensemble des permissions listés dans l'onglet des permissions.
+
+Beaucoup de précaution est nécessaire dans l'attribution de cette permission, et il est déconseillé de la donner à un membre ou à un bot.
+
+### Voir les logs du serveur
 
 ![Logs du serveur](https://i.dfr.gg/fwp.png)
 
@@ -23,54 +27,54 @@ Il est également possible de filtrer ces actions par utilisateurs et/ou par typ
 
 ![Filtres des actions](https://i.dfr.gg/46i.png)
 
-### • Voir les analyses du serveur
+### Voir les analyses du serveur
 
 Les membres ayant cette permission ont accès aux analyses du serveur, qui présente dans un onglet des paramètres et [dans un onglet sur le site Discord Developer Portal](https://discord.com/developers/servers) différentes statistiques sur le serveur.
 
-[Un article présente plus en détail cette fonctionnalité.](https://dfr.gg/wiki/gestion-serveur/outils-communautaires/insights)
+[Un article présente plus en détail cette fonctionnalité.](/wiki/gestion-serveur/outils-communautaires/insights)
 
-### • Voir les analyses d'abonnements du serveur
+### Voir les analyses d'abonnements du serveur
 
-Si le serveur bénéficie de [la fonctionnalité des abonnements de serveur](https://dfr.gg/wiki/gestion-serveur/outils-communautaires/premium-membership), le membre pourra consulter diverses statistiques sur les revenus générés, les abonnements pris ou les essais gratuits.
+Si le serveur bénéficie de [la fonctionnalité des abonnements de serveur](/wiki/gestion-serveur/outils-communautaires/premium-membership), le membre pourra consulter diverses statistiques sur les revenus générés, les abonnements pris ou les essais gratuits.
 
-### • Gérer le serveur
+### Gérer le serveur
 
 Les membres ayant cette permission peuvent non seulement changer le nom du serveur et sa région, mais également tous les paramètres disponibles dans "Vue d'ensemble", "Modération", "Intégrations", "Widget" et "Invitations".
 
-### • Gérer les rôles
+### Gérer les rôles
 
 Les membres ayant cette permission peuvent créer, modifier et supprimer des rôles, excepté le plus haut rôle possédé et ceux au-dessus.
 
-### • Gérer les salons
+### Gérer les salons
 
 Les membres ayant cette permission peuvent créer, modifier et supprimer des salons.
 
 
-### • Créer des expressions
+### Créer des expressions
 
 Les membres ayant cette permission peuvent ajouter des émojis, des autocollants et des sons personnalisés.
 
-### • Gérer les expressions
+### Gérer les expressions
 
 Les membres ayant cette permission peuvent modifier et supprimer des émojis, des autocollants et des sons personnalisés.
 
 ![Gérer les émojis](https://i.dfr.gg/pAB.png)
 
-### • Gérer les webhooks
+### Gérer les webhooks
 
 Les membres ayant cette permission peuvent ajouter, modifier et supprimer des webhooks.
 
 ![Gérer les webhooks](https://i.dfr.gg/CWx.png)
 
 
-### • Lire les salons textuels & voir les salons vocaux
+### Lire les salons textuels & voir les salons vocaux
 
 Les membres ayant cette permission peuvent avoir accès par défaut aux salons textuels et vocaux.
 
-###  • Créer des évènements
+### Créer des évènements
 
 Les membres avec cette permission peuvent créer des évènements sur le serveur
 
-### • Gérer les évènements
+### Gérer les évènements
 
 Les membres avec cette permission peuvent modifier un évènement déjà existant ou le supprimer en l'annulant.
