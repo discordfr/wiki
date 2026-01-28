@@ -10,8 +10,6 @@ description: Les permissions générales
 contributors: [autumn, zallom, wolfyzdbois]
 ---
 
-![Permissions](https://wolfyzdfile.fr/20260127_161956_image_d7c46f14.png)
-
 ### • Administrateur
 Les membres ayant cette permission ont accès aux mêmes droits que le propriétaire du serveur. Cependant, une personne ayant ce rôle ne peut pas modifier son rôle le plus haut ni ceux au-dessus s'il y en a, ni supprimer le serveur.
 Il n'est pas non plus possible de gérer l'A2F ; si celle-ci est rendue obligatoire par le propriétaire pour les actions de modération, un utilisateur qui ne l'a pas activée ne pourra pas agir malgré ses permissions.
