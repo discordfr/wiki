@@ -36,11 +36,15 @@ Pour l'utiliser en tant que réaction, il faut cliquer sur "Ajouter une réactio
  
  
 :::note
+
 L'abonnement à [Discord Nitro](/wiki/contenu-payant/abonnements-nitro) est requis pour l'utilisation d'emojis animés, ou bien l'emploi d'emojis personnalisés sur d'autres serveurs que celui d'origine/via MP.
+
 :::
 
 :::tip
+
 Il est aussi possible de faire une "super réaction", qui ajoutera une animation à chaque réaction mise sur un message, et mettra la réaction en surbrillance. Ce mode est activable dans le panel de sélection des émojis.
 
 ![Activation des super réactions](https://wolfyzdfile.fr/20260127_011118_image_f07f00f7.png)
+
 :::
