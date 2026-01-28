@@ -9,8 +9,6 @@ description: Permissions de membres
 contributors: [wolfyzdbois]
 ---
 
-![Permissions](https://wolfyzdfile.fr/20260127_165846_Screenshot_From_2026-01-27_11-_246a34db.png)
-
 ### • Créer une invitation
 
 Les membres ayant cette permission peuvent créer une invitation pour le serveur.
