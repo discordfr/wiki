@@ -10,8 +10,6 @@ description: Les permissions textuelles
 contributors: [autumn, zallom, luke, feoxy, wolfyzdbois]
 ---
 
-![Permissions des salons textuels](https://i.dfr.gg/bJzZ.png)
-
 ### • Envoyer des messages et créer des posts
 
 Les membres ayant cette permission peuvent envoyer des messages dans les salons textuels et créer des posts dans les salons forums.
