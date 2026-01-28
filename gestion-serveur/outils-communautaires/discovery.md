@@ -1,5 +1,5 @@
 ---
-title: La Découverte de serveurs
+title: Découverte de serveurs
 keywords:
   - discord
   - serveur
@@ -9,7 +9,7 @@ description: La découverte de serveur permet de toucher un plus grand public et
 contributors: [antoine, wolfyzdbois]
 ---
 
-La découverte de serveur ou discovery en anglais, est un outil communautaire permettant de faire apparaitre un serveur parmi une liste de serveurs publics, certifiés, et partenaires. Elle permet de faire la promotion du serveur et de le mettre en avant. Cependant, cette fonctionnalité requiert certains prérequis pour son activation sur votre serveur.
+La découverte de serveur, ou Discovery en anglais, est un outil communautaire faisant apparaître un serveur parmi une **liste de serveurs publics**, certifiés et partenaires. Elle permet de faire la promotion du serveur et de le mettre en avant. Cependant, cette fonctionnalité requiert certains prérequis pour son activation sur un serveur.
 
 ![discovery image](http://i.dfr.gg/hWXQ.webp)
 
@@ -21,16 +21,17 @@ Pour un utilisateur cherchant à découvrir de nouveaux serveurs, il repérera l
 Si vous cherchez la fonctionnalité Discovery pour trouver de nouveaux serveurs à explorer sur votre téléphone, attention, elle n'existe pas. Elle n'est disponible que sur ordinateur.
 :::
 
-## Prérequis pour activer la Discovery
+## Prérequis pour l'activer
 
-La Discovery possède de nombreuses exigences pour filtrer les serveurs entrant dans cette fonctionnalité. Pour pouvoir activer la Discovery, il faut notamment : 
-* Créer un environnement sans danger. [Discord explique en détail les directives à suivre pour être éligible sur le support](https://support.discord.com/hc/fr/articles/4409308485271-Directives-de-la-D%C3%A9couverte-de-serveurs).
+La Discovery possède de nombreuses exigences pour filtrer les serveurs entrant dans cette fonctionnalité. Pour pouvoir activer la Discovery, il faut notamment :
+
+* Respecter les [directives de la découverte de serveurs](https://support.discord.com/hc/fr/articles/4409308485271-Directives-de-la-D%C3%A9couverte-de-serveurs).
 * Avoir au moins 1000 membres
 * Avoir un serveur d'au moins 8 semaines
 * Une activité sur votre serveur
 * Pas de gros mots
 * Une A2F obligatoire activée pour les utilisateurs ayant des permissions de modération
 
-![discovery activation](http://i.dfr.gg/8CwM.webp) 
+![Interface de la découverte de serveur](http://i.dfr.gg/hWXQ.webp)
 
-Un serveur Discord ayant activé la Discovery mais ne répondant plus aux critères pendant une période de 4 semaines sera automatiquement retiré. 
+Un serveur Discord ayant activé la Discovery mais ne répondant plus aux critères pendant une période de 4 semaines est automatiquement retiré.
