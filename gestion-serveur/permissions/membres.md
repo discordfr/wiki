@@ -34,7 +34,7 @@ Les membres ayant cette permission peuvent modifier les pseudos d'autres membres
 
 Les membres ayant cette permission peuvent expulser des membres du serveur. Cette action a pour effet de faire quitter le serveur un utilisateur. Ce dernier pourra rejoindre à nouveau avec une invitation.
 
-Si le serveur a choisi d'imposer une candidature via [le formulaire intégré dans ses paramètres d'accès](/blog/2025/02/25/systeme-candidatures-discord?_highlight=candi), les membres peuvent accepter les candidatures et permettre au membre de rejoindre le serveur ou de les refuser.
+Si le serveur a choisi d'imposer une candidature via [le formulaire intégré dans ses paramètres d'accès](/blog/2025/02/25/systeme-candidatures-discord), les membres peuvent accepter les candidatures et permettre au membre de rejoindre le serveur ou de les refuser.
 
 ### Bannir des membres
 
