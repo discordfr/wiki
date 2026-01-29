@@ -14,7 +14,7 @@ Les permissions textuelles permettent aux membres d'interagir avec les salons te
 
 ### Envoyer des messages et créer des posts
 
-Les membres ayant cette permission peuvent envoyer des messages dans les salons textuels et créer des posts dans les salons forums.
+Les membres ayant cette permission peuvent envoyer des messages dans les [salons textuels](/wiki/interface/salons-textuels) et créer des posts dans les salons forums.
 
 ### Envoyer des messages dans les fils
 
