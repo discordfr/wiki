@@ -30,7 +30,7 @@ Les membres ayant cette permission peuvent créer des threads visibles uniquemen
 
 ### Intégrer des liens
 
-[L'aperçu des liens](https://dfr.gg/wiki/interface/salons-textuels/embeds#les-int%C3%A9grations-de-liens) envoyés par les membres avec cette permission sera visible par tous. Cela inclut les GIF et les embeds de site Internet ou de vidéo.
+[L'aperçu des liens](/wiki/interface/salons-textuels/embeds#les-int%C3%A9grations-de-liens) envoyés par les membres avec cette permission sera visible par tous. Cela inclut les GIFs et les embeds de site Internet ou de vidéo.
 
 ### Joindre des fichiers
 
