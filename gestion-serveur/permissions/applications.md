@@ -20,7 +20,7 @@ Les membres ayant cette permission peuvent utiliser les commandes Slash dans les
 
 ### Utiliser les activités
 
-Les membres ayant cette permission peuvent lancer une activité dans le salon, qu'il soit textuel ou vocal
+Les membres ayant cette permission peuvent lancer une activité dans le salon, qu'il soit textuel ou vocal.
 
 ### Utiliser des applications externes
 
