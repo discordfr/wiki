@@ -10,7 +10,7 @@ description: Les permissions textuelles sont les permissions permettant aux memb
 contributors: [autumn, zallom, luke, feoxy, wolfyzdbois]
 ---
 
-Les permissions textuelles sont les permissions permettant aux membres d'interagir avec les salons textuels, les forums et les threads.
+Les permissions textuelles permettent aux membres d'interagir avec les salons textuels, les forums et les threads.
 
 ### Envoyer des messages et créer des posts
 
