@@ -21,7 +21,7 @@ Beaucoup de précaution est nécessaire dans l'attribution de cette permission, 
 ### Voir les logs du serveur
 
 
-Les membres ayant cette permission ont accès [aux logs du serveur](/wiki/gestion-serveur/moderation/logs?_highlight=log) permettant de consulter un certain nombre d'actions effectuées sur celui-ci.
+Les membres ayant cette permission ont accès [aux logs du serveur](/wiki/gestion-serveur/moderation/logs) permettant de consulter un certain nombre d'actions effectuées sur celui-ci.
 Il est également possible de filtrer ces actions par utilisateurs et/ou par type d'actions. 
 
 ### Voir les analyses du serveur
