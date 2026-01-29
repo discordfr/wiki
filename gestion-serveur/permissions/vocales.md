@@ -6,7 +6,7 @@ keywords:
   - permissions
   - tutoriel
   - vocal
-description: Les permissions vocales sont toutes les permissions liées aux salons vocaux
+description: Les permissions associées aux salons vocaux et de conférence
 contributors: [autumn, zallom, wolfyzdbois]
 ---
 
