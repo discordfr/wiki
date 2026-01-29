@@ -69,7 +69,7 @@ Les membres ayant cette permission peuvent épingler un message dans un salon.
 
 ### Ignorer le mode lent
 
-Les membres ayant cette permission peuvent contourner le mode lent dans les salons concernés.
+Les membres ayant cette permission peuvent contourner le mode lent dans les salons où ce mode est activé.
 
 ### Gérer les fils et les posts
 
