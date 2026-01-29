@@ -6,7 +6,7 @@ keywords:
   - permissions
   - tutoriel
   - textuel
-description: Les permissions textuelles sont les permissions permettant aux membres d'interagir avec les salons textuels, les forums et les threads.
+description: Les permissions textuelles permettent aux membres d'interagir avec les salons textuels, les forums et les threads.
 contributors: [autumn, zallom, luke, feoxy, wolfyzdbois]
 ---
 
