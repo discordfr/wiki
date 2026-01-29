@@ -10,7 +10,7 @@ description: Les permissions générales sont les permissions permettant de gér
 contributors: [autumn, zallom, wolfyzdbois]
 ---
 
-Ces permissions permettent d'administrer et modérer un serveur, du suivi des modifications aux évènements en passant par les salons et les bannissements.
+Ces permissions permettent d'administrer un serveur, du suivi des modifications aux évènements en passant par les salons et les rôles.
 
 ### Administrateur
 
