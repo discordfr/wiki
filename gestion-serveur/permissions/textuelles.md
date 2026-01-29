@@ -83,7 +83,7 @@ Par le passé, cette permission permettait également d'ignorer le mode lent.
 
 Les membres ayant cette permission ont accès à l'historique des messages des salons textuels.
 
-![La permission de voir les anciens messages est désactivé](https://i.dfr.gg/ail.png)
+![La permission de voir les anciens messages est désactivée](https://i.dfr.gg/ail.png)
 
 ### Envoyer des messages de synthèse vocale
 
