@@ -44,6 +44,10 @@ Les membres ayant cette permission peuvent utiliser la fonctionnalité « Déte
 
 Les membres ayant cette permission peuvent être entendus plus facilement lorsqu'ils parlent. Lorsque ce mode est activé, le volume des autres utilisateurs n'ayant pas cette permission sera automatiquement baissé. La voix prioritaire est activée en actionnant la touche Appuyer-pour-parler (Prioritaire).
 
+:::info
+Les touches "Appuyer-pour-parler" et "Appuyer-pour-parler (prioritaire)" ne sont pas configurées par défaut mais peuvent être configurées dans l'onglet "Raccourcis clavier" des paramètres utilisateur.
+:::
+
 ### Demande de prise de parole
 
 Les membres ayant cette permission peuvent demander à prendre la parole dans [les salons de conférence](/wiki/interface/salons-vocaux/stage-channels)
