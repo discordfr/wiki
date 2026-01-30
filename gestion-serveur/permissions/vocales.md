@@ -34,7 +34,7 @@ Les membres ayant cette permission peuvent couper le casque de n'importe quel me
 
 ### Déplacer des membres
 
-Les membres ayant cette permission peuvent déplacer n'importe quel membre du serveur d'un salon à un autre, à condition que ce dernier soit déjà présent dans un salon vocal.
+Les membres ayant cette permission peuvent déplacer n'importe quel membre du serveur d'un salon vocal à un autre. La permission est requise dans les deux salons concernés.
 
 ### Utiliser la Détection de la voix
 
