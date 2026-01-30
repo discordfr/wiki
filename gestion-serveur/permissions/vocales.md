@@ -14,7 +14,7 @@ Les permissions vocales sont toutes les permissions liées aux salons vocaux
 
 ### Se connecter
 
-Les membres ayant cette permission peuvent se connecter aux salons vocaux.
+Les membres ayant cette permission peuvent se connecter aux salons vocaux et voir les messages du salon textuel intégré au salon.
 
 ### Parler
 
