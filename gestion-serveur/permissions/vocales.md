@@ -10,7 +10,7 @@ description: Les permissions associées aux salons vocaux et de conférence
 contributors: [autumn, zallom, wolfyzdbois]
 ---
 
-Les permissions vocales sont toutes les permissions liées aux salons vocaux
+Ces permissions permettent aux membres d'utiliser les salons vocaux et leurs fonctionnalités ainsi que de gérer les autres membres présents dans le salon.
 
 ### Se connecter
 
