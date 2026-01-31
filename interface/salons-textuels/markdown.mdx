@@ -186,7 +186,7 @@ A comme rendu :
 
 <Tabs defaultValue="multiligne" queryString="bloc">
 <TabItem value="uniligne" label="Bloc uniligne">
-1 accent grave (<code>`</code>) de chaque côté d'un texte affiche un message sous la forme de `bloc`.
+1 accent grave (<code>&#96;</code>) de chaque côté d'un texte affiche un message sous la forme de `bloc`.
 
 Par exemple, le message suivant :
 
@@ -359,15 +359,15 @@ Source : [discord.dev](https://discord.com/developers/docs/reference#message-for
 Sur Discord, il est possible d'afficher une date et l'heure suivant la plage horaire et la langue locale de l'utilisateur.
 Cette fonctionnalité est notamment très pratique pour afficher l'heure de réunions et d'évènements.
 
-Pour mentionner un [timestamp](https://unixtime.org), il suffit de commencer par "<code><t:timestamp:</code>", puis de choisir l'une de ces lettres :
+Pour mentionner un [timestamp](https://unixtime.org), il suffit de commencer par "`\<t:timestamp:`", puis de choisir l'une de ces lettres :
 
-- `t` (heure courte) - `<t:0:t>` affiche "01:00" ;
-- `T` (heure longue) - `<t:0:T>` affiche "01:00:00" ;
-- `d` (date courte) - `<t:0:d>` affiche "01/01/1970" ;
-- `D` (date longue) - `<t:0:D>` affiche "1 janvier 1970" ;
-- `f` (date et heure courts) - `<t:0:f>` affiche "1 janvier 1970 01:00" ;
-- `F` (date et heure longs) - `<t:0:F>` affiche "jeudi 1 janvier 1970 01:00" ;
-- `R` (temps relatif) - `<t:0:R>` affiche "il y a 54 ans".
+- `t` (heure courte) - `\<t:0:t>` affiche "01:00" ;
+- `T` (heure longue) - `\<t:0:T>` affiche "01:00:00" ;
+- `d` (date courte) - `\<t:0:d>` affiche "01/01/1970" ;
+- `D` (date longue) - `\<t:0:D>` affiche "1 janvier 1970" ;
+- `f` (date et heure courts) - `\<t:0:f>` affiche "1 janvier 1970 01:00" ;
+- `F` (date et heure longs) - `\<t:0:F>` affiche "jeudi 1 janvier 1970 01:00" ;
+- `R` (temps relatif) - `\<t:0:R>` affiche "il y a 54 ans".
 
 Puis de refermer la syntaxe par le signe plus petit que (`>`).
 
@@ -387,7 +387,7 @@ Affiche en français, avec comme zone locale la France :
 ![Mention des timestamps](http://i.dfr.gg/MLol.webp)
 
 :::note
-Il est aussi possible de ne pas ajouter de lettre de style. Il faut alors enlever le dernier `:` tel que : `<t:0>`.
+Il est aussi possible de ne pas ajouter de lettre de style. Il faut alors enlever le dernier `:` tel que : `\<t:0>`.
 Cela affiche la date et l'heure sous le format court.
 :::
 
