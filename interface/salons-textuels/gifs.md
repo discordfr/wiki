@@ -11,7 +11,7 @@ Un GIF est un format d'image animé. Sur Discord, ils sont souvent utilisés pou
 
 Discord met à disposition un panneau pour rechercher un GIF ou en sélectionner un parmi ceux proposés ou parmi les favoris. Ce panneau est disponible dans la barre des messages sur ordinateur, ou en sélectionnant le panneau des [émojis]() puis en choisissant l'onglet "GIF".
 
-![Ecran des GIFs sur ordinateur](https://wolfyzdfile.fr/20260127_214054_image_06f62d5d.png)
+![Ecran des GIFs sur ordinateur](https://i.dfr.gg/zztO.png)
 
 Il est également possible d'enregistrer un GIF en favori, en cliquant sur l'étoile présente en haut à gauche lors du survol de la souris, ou en appuyant dessus et en utilisant l'étoile en haut à droite sur ordinateur.
 
