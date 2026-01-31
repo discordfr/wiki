@@ -61,7 +61,7 @@ La bannière personnalisée se trouve à l'arrière plan d'une invitation, elle 
 
 ### Une URL personnalisée
 
-L'url personnalisée permet d'avoir un lien d'invitation sur le modèle discord.gg/{lien}, disponible à partir du niveau 3 des [boosts de serveur](/wiki/contenu-payant/boost-serveur).
+L'url personnalisée permet d'avoir un lien d'invitation sur le modèle `discord.gg/{lien}`, disponible à partir du niveau 3 des [boosts de serveur](/wiki/contenu-payant/boost-serveur).
 
 ![Url de serveur personnalisée](https://i.dfr.gg/2w7.png)
 
