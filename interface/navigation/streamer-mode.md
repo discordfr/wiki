@@ -10,7 +10,7 @@ contributors: [wolfyzdbois]
 
 Le mode Streamer permet de masquer ses informations personnelles sur la plateforme, ce qui permet d'afficher sa fenêtre sans risque de dévoiler son adresse email, des pseudos, des invitations ou encore l'aperçu des messages privés.
 
-Ce mode permet également de couper toute notification et effets sonores venant de Discord afin d'éviter qu'ils ne soient retransmis. 
+Ce mode permet également de couper toute notification et effets sonores venant de Discord.
 
 ### Activation
 
