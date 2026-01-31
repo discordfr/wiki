@@ -45,6 +45,6 @@ L'abonnement à [Discord Nitro](/wiki/contenu-payant/abonnements-nitro) est requ
 
 Il est aussi possible de faire une "super réaction", qui ajoutera une animation à chaque réaction mise sur un message, et mettra la réaction en surbrillance. Ce mode est activable dans le panel de sélection des émojis.
 
-![Activation des super réactions](https://wolfyzdfile.fr/20260127_011118_image_f07f00f7.png)
+![Activation des super réactions](https://i.dfr.gg/MvQW.png)
 
 :::
