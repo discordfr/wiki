@@ -16,11 +16,11 @@ Les messages officiels de Discord apparaissent avec **l'étiquette certifiée "O
 
 ![Étiquette utilisateur officiel certifié](https://i.dfr.gg/eHOT.png)
 
-En bas des messages privées d'une messagerie officielle se trouve,
+En bas des messages privés d'une messagerie officielle se trouve,
 à la place de l'encadré d'envoi de message,
-**une banière informative**.
+**une bannière informative**.
 
-![Banière de salon réservé aux notifications officielles de Discord](https://i.dfr.gg/docJ.png)
+![Bannière de salon réservé aux notifications officielles de Discord](https://i.dfr.gg/docJ.png)
 
 > Le bouton "En savoir plus" permet d'accéder à [l'article du support de Discord sur les Messages Officiels](https://support.discord.com/hc/fr/articles/360036118732).
 

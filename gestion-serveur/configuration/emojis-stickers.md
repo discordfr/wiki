@@ -12,7 +12,7 @@ keywords:
 description: Gestion des émojis et des stickers
 contributors: [luke]
 ---
-Chaque serveur Discord a la possiblité d'ajouter un certian nombre d'émojis et de stickers personnalisés, ceux-ci peuvent être fixes ou animés. La gestion des émojis et des stickers personnalisés nécessite la permission `Gérer les émojis et les stickers` ou `Administrateur`.
+Chaque serveur Discord a la possibilité d'ajouter un certain nombre d'émojis et de stickers personnalisés, ceux-ci peuvent être fixes ou animés. La gestion des émojis et des stickers personnalisés nécessite la permission `Gérer les émojis et les stickers` ou `Administrateur`.
 
 :::info Information
 Le nombre d'emplacements dépend du [niveau de boost du serveur](/wiki/contenu-payant/boost-serveur).
@@ -36,13 +36,13 @@ La gestion des émojis personnalisés se fait dans la catégorie `Émojis` des p
 
 ### Modifier un émoji
 
-Comme dit précedement, il est possible de modifier le nom d'un émoji, et puisque qu'ils sont rangés dans l'ordre anti-alphabétique, on peut les classer comme on le souhaite.
+Comme dit précédemment, il est possible de modifier le nom d'un émoji, et puisque qu'ils sont rangés dans l'ordre anti-alphabétique, on peut les classer comme on le souhaite.
 
 ![Modifier emoji](https://i.dfr.gg/ICj.png)
 
 ### Supprimer un émoji
 
-Pour supprimer un émoji, il faut simplement aller dans la section `Émojis` des paramètres, en survolant la ligne conrrespondant à un émoji, un croix rouge apparaît.
+Pour supprimer un émoji, il faut simplement aller dans la section `Émojis` des paramètres, en survolant la ligne correspondant à un émoji, un croix rouge apparaît.
 
 ![Supprimer émoji](https://i.dfr.gg/hfz.png)
 

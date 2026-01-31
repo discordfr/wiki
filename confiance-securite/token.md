@@ -26,9 +26,9 @@ Pour changer le token d’un bot, il faut se rendre sur le Portail des Développ
 
 ## Sécuriser un token
 
-Un token ne peut pas approprement être sécurisé, c'est la sécurité de la machine où celui-ci est échangé et stocké qui importe réellement.
+Un token ne peut pas proprement être sécurisé, c'est la sécurité de la machine où celui-ci est échangé et stocké qui importe réellement.
 
-Voici une liste non exaustive des choses à ne surtout pas faire :
+Voici une liste non exhaustive des choses à ne surtout pas faire :
 
 Pour un compte utilisateur,
 - Installer un logiciel malveillant, un “jeu” envoyé en messages privés, une pièce téléchargeable envoyée par un utilisateur.

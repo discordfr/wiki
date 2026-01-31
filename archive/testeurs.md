@@ -24,7 +24,7 @@ Les tiers permettent d'obtenir des avantages divers.
 
 #### Tier 1 (@everyone)
 ##### Pré-requis
-* Disponible à tout les membres lorsqu'ils rejoignent le serveur
+* Disponible à tous les membres lorsqu'ils rejoignent le serveur
 ##### ➜ Possède
 * Accès limité au serveur
 
@@ -41,12 +41,12 @@ Les tiers permettent d'obtenir des avantages divers.
 * Avoir un certain nombre de bugs approuvés (non divulgué)
 * Ancien rang de Bug Hunter
 ##### ➜ Débloque
-* Queue d'approuvement
+* Queue d'approbation
 * Chat de bug réservé à son tier
 
 #### Tier 4 (Bug Tracker ou Trackeur de Bug)
 ##### Pré-requis
-* Démonstration de l'utilisation de la queue d'approuvement
+* Démonstration de l'utilisation de la queue d'approbation
 * Avoir un certain nombre de bugs approuvés (non divulgué)
 * Ancien rang de Bug Squasher
 ##### ➜ Débloque
@@ -60,7 +60,7 @@ Les tiers permettent d'obtenir des avantages divers.
 * Ancien rang de Bug Tracker
 ##### ➜ Débloque
 * Badge Bug Hunter "Doré"
-* Possibilité de faire parti du groupe junior de modérateur
+* Possibilité de faire partie du groupe junior de modérateur
 
 ### Comment contribuer à l'envoi de bug (accèder au Tier 2) ?
 Rien de plus simple, il suffit juste d'envoyer un message au robot DBug (d'accès également tout en haut dans la liste des membres du serveur), et lui envoyer "!quiz" en message privé. Il vous retournera alors le fameux "Bug Hunter Quiz" à compléter avec son code unique !
