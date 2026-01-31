@@ -16,4 +16,4 @@ Ce mode permet également de couper toute notification et effets sonores venant 
 
 Le mode est activable sur ordinateur uniquement, dans les paramètres de Discord, dans l'onglet "Mode streamer". Une option permet également de l'activer automatiquement lorsqu'on ouvre OBS ou XSplit, deux logiciels de capture vidéo. 
 
-![Paramètres du mode streamer](https://wolfyzdfile.fr/20260127_200729_image_a8cf731c.png)
+![Paramètres du mode streamer](https://i.dfr.gg/9AAt.png)
