@@ -10,16 +10,16 @@ short_slug: krisp
 ---
 
 Discord possède une fonctionnalité de **filtrage du bruit**.
-Elle permet de réduire, pour les autres utilisateurs de la même session vocale, les bruits de fonds de l'utilisateur.
+Elle permet de réduire, pour les autres utilisateurs de la même session vocale, les bruits de fond de l'utilisateur.
 En éliminant les sons parasites tels que les bruits de clavier, les ventilateurs ou les voix éloignées, la qualité audio de l'utilisateur est améliorée.
 
 ## Paramétrage du profil d'entrée audio
 
-Dans les **paramètres utilisateur**, menu "Voix & Vidéo" dans la section "Paramètres de l'appli", se trouve les paramètres de **profil d'entrée audio**.
+Dans les **paramètres utilisateur**, menu "Voix & Vidéo" dans la section "Paramètres de l'appli", se trouve les options de **profil d'entrée audio**.
 
 Une sélection de 3 choix s'offrent alors à l'utilisateur :
 
-- **Isolement de la voix**, applique la configuration optimale afin d'uniquement laisser la voix transparaître.
+- **Isolement de la voix**, applique la configuration optimale afin de laisser uniquement la voix transparaître.
   Ce profil permet de configurer les paramètres suivant :
   - [Appuyer pour parler](#appuyer-pour-parler)
 - **Studio**, qui ne définit aucun filtre et laisse tous les bruits passer.
@@ -31,7 +31,7 @@ Une sélection de 3 choix s'offrent alors à l'utilisateur :
   - [Annulation d'écho](#annulation-décho)
   - [Appuyer pour parler](#appuyer-pour-parler)
 
-Quelque choix le profil sélectionné par l'utilisateur, les [paramètres vocaux avancés](#paramètres-vocaux-avancés) font partie de la configuration.
+Quelque soit le profil sélectionné par l'utilisateur, les [paramètres vocaux avancés](#paramètres-vocaux-avancés) font partie de la configuration.
 
 ### Ajuster automatiquement la sensibilité de la détection de la voix {#sensibilité-détection-voix}
 
@@ -39,7 +39,7 @@ Sélection manuelle ou détection automatique de la sensibilité, bascule entre 
 
 ### Suppression du bruit
 
-Sélection de l'algorithme de suppression du bruit, parmis les choix suivants :
+Sélection de l'algorithme de suppression du bruit, parmi les choix suivants :
 
 - Krisp, l'algorithme fait par [Krisp](https://krisp.ai/)
 - Standard
@@ -47,7 +47,7 @@ Sélection de l'algorithme de suppression du bruit, parmis les choix suivants :
 
 ### Annulation d'écho
 
-Annule la révebération des sons de l'entrée audio.
+Annule la réverbération des sons de l'entrée audio.
 
 ### Appuyer pour parler
 
@@ -77,7 +77,7 @@ Affiche une fenêtre de confirmation lorsque l'utilisateur souhaite passer d'une
 
 #### Atténuation globale
 
-Diminue le volume des autres applications lorsqu'un son est émis de l'utilisateur ou reçus de la session.
+Diminue le volume des autres applications lorsqu'un son est émis par l'utilisateur ou reçus de la session.
 
 #### Qualité de service
 
