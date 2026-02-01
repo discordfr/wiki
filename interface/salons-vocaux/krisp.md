@@ -90,9 +90,10 @@ La réduction de bruit est **activée automatiquement** selon le profil d'entré
 
 En cliquant sur l'icône de réduction de bruit, située dans la barre d'outils de l'appel, il est aussi possible de désactiver la suppression du bruit durant la session.
 
-![Barre d'outils de l'appel](https://github.com/user-attachments/assets/57df0a36-7319-4508-b75e-7618cc1c238f)
+![Barre d'outils de l'appel](https://i.dfr.gg/vt36.png)
 
 ## Fonctionnement de Krisp
 
 Krisp utilise des algorithmes avancés de traitement du signal afin d'identifier et supprimer les bruits de fond tout en préservant la clarté de la voix.
 Il fonctionne en temps réel, ce qui signifie que les utilisateurs peuvent bénéficier d'une réduction de bruit instantanée pendant leurs appels vocaux.
+
