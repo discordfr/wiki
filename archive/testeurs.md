@@ -11,7 +11,7 @@ keywords:
   - bug-tracker
   - bug-terminator
 description: Explication du fonctionnement du serveur Discord Testers et de ses utilisateurs
-contributors: [freiik, dragrame, notix]
+contributors: [freiik, dragrame, ben]
 ---
 
 ### Qu'est-ce que le serveur [Discord Testers](https://discord.gg/discord-testers) et ses membres ?

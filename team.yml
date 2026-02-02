@@ -1,0 +1,490 @@
+# Membres de l'équipe et contributeurs Discord FR
+# Ce fichier unifie les données des auteurs blog et contributeurs wiki
+
+# === ÉQUIPE ===
+
+zallom:
+  name: Zallom
+  description: "Développeur du site et de @RaidProtect"
+  discord_username: zallom
+  discord_badges:
+    - hypesquad_brilliance
+    - early_verified_bot_developer
+  title: Rédacteur
+  avatar: https://cdn.discordapp.com/guilds/812028116552777738/users/268108606027726849/avatars/826a71c9ad6f01dc97dc55a3058737f7.webp?size=128
+  type: team
+  socials:
+    discord: "268108606027726849"
+    github: Zallom
+
+chaussette:
+  name: Chaussette
+  discord_username: chaussette.
+  discord_badges:
+    - hypesquad_balance
+    - bug_hunter_1
+    - early_supporter
+  title: Dataminer
+  avatar: https://avatars.githubusercontent.com/u/88453928?size=128
+  type: team
+  socials:
+    discord: "487965480724987904"
+    github: justsomebigsock
+
+arthur:
+  name: Arthur
+  discord_username: derrios
+  discord_badges:
+    - certified_moderator
+    - hypesquad_events
+    - hypesquad_brilliance
+    - early_verified_bot_developer
+    - early_supporter
+  title: Rédacteur
+  avatar: https://avatars.githubusercontent.com/u/47801257?size=128
+  type: team
+  socials:
+    discord: "264320223182585858"
+    github: MrDerrios
+
+ichii:
+  name: Ichii
+  discord_username: ichiidev
+  discord_badges:
+    - certified_moderator
+    - hypesquad_events
+    - hypesquad_bravery
+    - early_verified_bot_developer
+  title: Rédacteur
+  avatar: https://cdn.discordapp.com/guilds/812028116552777738/users/530061924130488351/avatars/2cbbac91bfdf130801aa453948026ab7.webp?size=128
+  type: team
+  socials:
+    discord: "530061924130488351"
+    github: IchiiDev
+
+grifgrif:
+  name: GrifGrif
+  discord_username: grifgrif
+  discord_badges:
+    - certified_moderator
+    - hypesquad_events
+    - hypesquad_balance
+    - early_verified_bot_developer
+  title: Rédacteur
+  avatar: https://cdn.discordapp.com/guilds/812028116552777738/users/401430491481374720/avatars/25ac568ea1860dd1bd378eb7743feea6.webp?size=128
+  type: team
+  socials:
+    discord: "401430491481374720"
+    github: GrifGrif
+
+leauetla:
+  name: LeauEtLa
+  discord_username: leauetla
+  discord_badges:
+    - hypesquad_brilliance
+  title: Graphiste
+  avatar: https://cdn.discordapp.com/avatars/499977338671595520/1cfd9793fe51c9a36d607c14104fe7da.webp?size=128
+  type: team
+  socials:
+    discord: "499977338671595520"
+
+mapidae:
+  name: M'apidae
+  discord_username: mapidae
+  discord_badges:
+    - certified_moderator
+    - hypesquad_brilliance
+  title: Rédacteur
+  avatar: https://cdn.discordapp.com/avatars/449270417891262475/a_9a22a624365be4fcd0535ea38587ca4d.webp?size=128
+  type: team
+  socials:
+    discord: "449270417891262475"
+    github: Mapidae
+
+crousti67:
+  name: Crousti67
+  discord_username: crousti67
+  discord_badges:
+    - hypesquad_balance
+  title: Rédacteur
+  avatar: https://cdn.discordapp.com/guilds/812028116552777738/users/266915267223748608/avatars/42154cd2e9c9c5e2c7b585150fd5287c.webp?size=128
+  type: team
+  socials:
+    discord: "266915267223748608"
+
+armand:
+  name: Armand
+  discord_username: armand__
+  discord_badges:
+    - hypesquad_balance
+  title: Graphiste
+  avatar: https://cdn.discordapp.com/guilds/812028116552777738/users/371265833248489474/avatars/f15b90e94ae1aa9764c7e831bf002500.webp?size=128
+  type: team
+  socials:
+    discord: "371265833248489474"
+    github: armanddiotel
+
+antow:
+  name: Antow
+  discord_username: antow
+  discord_badges:
+    - hypesquad_brilliance
+    - early_verified_bot_developer
+  title: Rédacteur
+  avatar: https://cdn.discordapp.com/avatars/216214448203890688/a_c04401f90ada053a161d8036ae3c408d.webp?size=128
+  type: team
+  socials:
+    discord: "216214448203890688"
+
+axel:
+  name: Axel
+  discord_username: axel.db
+  discord_badges:
+    - partner
+    - hypesquad_brilliance
+  title: Graphiste
+  avatar: https://cdn.discordapp.com/avatars/535175755395760149/bec860e3189c28136569929ea15b11a3.webp?size=128
+  type: team
+  socials:
+    discord: "535175755395760149"
+
+chancesphere:
+  name: ChanceSphere574
+  discord_username: chancesphere574
+  discord_badges:
+    - certified_moderator
+    - hypesquad_bravery
+    - early_supporter
+  title: Graphiste
+  avatar: https://avatars.githubusercontent.com/u/61122607?size=128
+  type: team
+  socials:
+    github: ChanceSphere574
+    discord: "226001302524657665"
+
+luke:
+  name: Luke
+  discord_username: skw.luke
+  discord_badges:
+    - hypesquad_brilliance
+  title: Reviewer Wiki
+  avatar: https://avatars.githubusercontent.com/u/72082038?size=128
+  type: team
+  socials:
+    github: LukeSkywalkerDev
+
+volcanofr:
+  name: Volcano
+  discord_username: volcanofr
+  discord_badges:
+    - hypesquad_brilliance
+  title: Reviewer Wiki
+  avatar: https://avatars.githubusercontent.com/u/74511042?size=128
+  type: team
+  socials:
+    github: volcanofr
+
+wolfyzdbois:
+  name: WolfyzDBois
+  discord_username: wolfyzdbois
+  discord_badges:
+    - hypesquad_bravery
+  title: Reviewer Wiki
+  avatar: https://cdn.discordapp.com/avatars/787328494853029958/16848b2a91ef397c252185e5fde811fb.webp?size=128
+  type: team
+  socials:
+    discord: "787328494853029958"
+    github: WolfyzDBois
+
+# === CONTRIBUTEURS ===
+
+# Anciens rédacteurs
+ben:
+  name: Ben
+  discord_username: ben
+  discord_badges:
+    - hypesquad_brilliance
+  title: Rédacteur & Contributeur
+  avatar: https://avatars.githubusercontent.com/u/69650356?size=128
+  type: contributor
+  socials:
+    discord: "552550090796171265"
+    github: BenNotix
+
+nessy:
+  name: Nessy
+  discord_username: nessy
+  discord_badges:
+    - hypesquad_balance
+  title: Rédactrice
+  avatar: https://cdn.discordapp.com/avatars/448190988238848000/515c81d30c428be5120263fdb8731a53.webp?size=128
+  type: contributor
+  socials:
+    discord: "448190988238848000"
+
+azerius:
+  name: Azerius
+  discord_username: azerius
+  discord_badges:
+    - hypesquad_bravery
+  title: Rédacteur
+  avatar: https://cdn.discordapp.com/guilds/812028116552777738/users/342227000578146304/avatars/7599345fd63a36d3503ed58ddd67d183.webp?size=128
+  type: contributor
+  socials:
+    discord: "342227000578146304"
+
+danalieth:
+  name: Danalieth
+  discord_username: danalieth
+  discord_badges:
+    - hypesquad_brilliance
+  title: Rédacteur
+  avatar: https://avatars.githubusercontent.com/u/55932601?size=128
+  type: contributor
+  socials:
+    discord: "247756618815504384"
+
+evan:
+  name: evan
+  discord_username: evan
+  discord_badges:
+    - hypesquad_balance
+  title: Rédacteur
+  avatar: https://avatars.githubusercontent.com/u/56516450?size=128
+  type: contributor
+  socials:
+    discord: "399976828166602752"
+
+sou:
+  name: Sou
+  discord_username: sou
+  discord_badges:
+    - hypesquad_bravery
+  title: Rédacteur
+  avatar: https://avatars.githubusercontent.com/u/51202611?size=128
+  type: contributor
+  socials:
+    discord: "212581406344216578"
+
+# Contributeurs wiki
+
+pointvirgule:
+  name: Point;Virgule
+  discord_username: pointvirgule
+  discord_badges:
+    - hypesquad_brilliance
+  title: Ancien Rédacteur
+  avatar: https://cdn.discordapp.com/avatars/423155238082576394/5a06b1c0247a8b58ca2e8b8025e7f202.webp?size=128
+  type: contributor
+  socials:
+    discord: "423155238082576394"
+
+autumn:
+  name: Autumn
+  discord_username: autumn
+  discord_badges:
+    - hypesquad_balance
+  title: Contributrice
+  avatar: https://avatars.githubusercontent.com/u/71185180?size=128
+  type: contributor
+  socials:
+    github: AutumnHelion
+
+moonrise:
+  name: Moonrise
+  discord_username: moonrise
+  discord_badges:
+    - hypesquad_bravery
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/70655051?size=128
+  type: contributor
+  socials:
+    github: PetitPotiron
+
+xox:
+  name: Xox
+  discord_username: xox
+  discord_badges:
+    - hypesquad_brilliance
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/66182769?size=128
+  type: contributor
+  socials:
+    github: XoxFR
+
+karal:
+  name: Karal
+  discord_username: karal
+  discord_badges:
+    - hypesquad_balance
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/33130769?size=128
+  type: contributor
+  socials:
+    github: Karal0433
+
+baptiste0928:
+  name: baptiste0928
+  discord_username: baptiste0928
+  discord_badges:
+    - hypesquad_bravery
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/22115890?size=128
+  type: contributor
+  socials:
+    github: baptiste0928
+
+regnir:
+  name: Regnir
+  discord_username: regnir
+  discord_badges:
+    - hypesquad_brilliance
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/39768212?size=128
+  type: contributor
+  socials:
+    github: Regnir
+
+jacob:
+  name: Jacob
+  discord_username: jacob
+  discord_badges:
+    - hypesquad_balance
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/19372006?size=128
+  type: contributor
+  socials:
+    github: amcwb
+
+fizle:
+  name: Fizle
+  discord_username: fizle
+  discord_badges:
+    - hypesquad_bravery
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/93324402?size=128
+  type: contributor
+  socials:
+    github: Fizle0
+
+dreas:
+  name: Dréas
+  discord_username: dreas
+  discord_badges:
+    - hypesquad_brilliance
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/67920129?size=128
+  type: contributor
+  socials:
+    github: dreas222
+
+feoxy:
+  name: Feoxy
+  discord_username: feoxy
+  discord_badges:
+    - hypesquad_balance
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/74319632?size=128
+  type: contributor
+  socials:
+    github: Feoxy
+
+dragrame:
+  name: Dragrame
+  discord_username: dragrame
+  discord_badges:
+    - hypesquad_brilliance
+    - bug_hunter_2
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/58655504?size=128
+  type: contributor
+  socials:
+    github: Dragrame
+
+romain:
+  name: Romain
+  discord_username: romain
+  discord_badges:
+    - hypesquad_bravery
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/72766562?size=128
+  type: contributor
+  socials:
+    github: Romain1274
+
+patatejalo:
+  name: Patatejalo
+  discord_username: patatejalo
+  discord_badges:
+    - hypesquad_brilliance
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/80628969?size=128
+  type: contributor
+  socials:
+    github: Patatejalo
+
+nekot:
+  name: NeKoT
+  discord_username: nekot
+  discord_badges:
+    - hypesquad_balance
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/47055042?size=128
+  type: contributor
+  socials:
+    github: NeKooT
+
+b2856203:
+  name: b2856203
+  discord_username: b2856203
+  discord_badges:
+    - hypesquad_bravery
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/89143083?size=128
+  type: contributor
+  socials:
+    github: b2856203
+
+leanks:
+  name: Leanks
+  discord_username: leanks
+  discord_badges:
+    - hypesquad_brilliance
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/67518754?size=128
+  type: contributor
+  socials:
+    github: ImLeanks
+
+freiik:
+  name: Freiik
+  discord_username: freiik
+  discord_badges:
+    - hypesquad_balance
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/40209525?size=128
+  type: contributor
+  socials:
+    github: eyoboyhowareyou
+
+axlag:
+  name: Axlag
+  discord_username: axlag
+  discord_badges:
+    - hypesquad_bravery
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/193156154?size=128
+  type: contributor
+  socials:
+    github: Axlag3
+
+rodenzo:
+  name: Rodenzo
+  discord_username: rodenzo
+  discord_badges:
+    - hypesquad_brilliance
+  title: Contributeur
+  avatar: https://avatars.githubusercontent.com/u/73313357?size=128
+  type: contributor
+  socials:
+    github: Rodenzow

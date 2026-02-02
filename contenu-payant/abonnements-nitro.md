@@ -5,7 +5,7 @@ keywords:
   - nitro
   - boosts
 description: Découvrez l'utilisation des abonnements nitro
-contributors: [luke, xox, notix, freiik, b2856203, antoine]
+contributors: [luke, xox, ben, freiik, b2856203, antoine]
 short_slug: AboNitro
 ---
 
