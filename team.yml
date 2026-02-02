@@ -5,7 +5,7 @@
 
 zallom:
   name: Zallom
-  description: "Développeur du site et de @RaidProtect"
+  description: "Développeur du site"
   discord_username: zallom
   discord_badges:
     - hypesquad_brilliance
@@ -183,6 +183,7 @@ volcanofr:
   type: team
   socials:
     github: volcanofr
+    discord: "589383722759880705"
 
 wolfyzdbois:
   name: WolfyzDBois
@@ -203,8 +204,9 @@ ben:
   name: Ben
   discord_username: ben
   discord_badges:
-    - hypesquad_brilliance
-  title: Rédacteur & Contributeur
+    - certified_moderator
+    - hypesquad_balance
+  title: Contributeur
   avatar: https://avatars.githubusercontent.com/u/69650356?size=128
   type: contributor
   socials:
@@ -267,17 +269,6 @@ sou:
     discord: "212581406344216578"
 
 # Contributeurs wiki
-
-pointvirgule:
-  name: Point;Virgule
-  discord_username: pointvirgule
-  discord_badges:
-    - hypesquad_brilliance
-  title: Ancien Rédacteur
-  avatar: https://cdn.discordapp.com/avatars/423155238082576394/5a06b1c0247a8b58ca2e8b8025e7f202.webp?size=128
-  type: contributor
-  socials:
-    discord: "423155238082576394"
 
 autumn:
   name: Autumn
