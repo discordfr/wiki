@@ -14,7 +14,7 @@ Ces permissions permettent d'administrer un serveur, du suivi des modifications 
 
 ### Administrateur
 
-Les membres ayant cette permission ont accès à l'ensemble des permissions listés dans l'onglet des permissions.
+Les membres ayant cette permission ont accès à l'ensemble des permissions listées dans l'onglet des permissions.
 
 Beaucoup de précaution est nécessaire dans l'attribution de cette permission, et il est déconseillé de la donner à un membre ou à un bot.
 

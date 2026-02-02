@@ -17,7 +17,7 @@ Le nombre d'utilisateurs maximum au sein d'un groupe est de 10.
 :::
 
 ## Créer un groupe privé et ajouter des amis à l'intérieur de celui-ci 
-Pour créer un groupe privé, il est possible de créer un groupe privé depuis l'icone `+` en haut des Messages Privés ou directement depuis une conversation en cours. Tous les membres d'un groupe privé peuvent créer un lien d'invitation du groupe, afin d'inviter leurs amis. 
+Pour créer un groupe privé, il est possible de créer un groupe privé depuis l'icône `+` en haut des Messages Privés ou directement depuis une conversation en cours. Tous les membres d'un groupe privé peuvent créer un lien d'invitation du groupe, afin d'inviter leurs amis. 
 
 ![Création d'un groupe](https://i.dfr.gg/Oq7.png)
 
