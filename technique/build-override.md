@@ -33,8 +33,8 @@ Quand le lien est envoyé sur Discord, il s'affiche sous forme d'un embed avec s
 ### Comment le retirer ?
 
 Il y a trois possibilités pour retirer un build override :
-* Sur ordinateur et mobile : retrouver le lien qui a permi de l'appliquer. Le bouton "postuler" est devenu un bouton "effacer" qu'il faut alors cliquer. 
+* Sur ordinateur et mobile : retrouver le lien qui a permis de l'appliquer. Le bouton "postuler" est devenu un bouton "effacer" qu'il faut alors cliquer. 
 * Sur ordinateur seulement : faire un clic droite sur la roue crantée permettant d'accéder aux paramètres utilisateur. Tout en bas du menu déroulant se trouve un bouton "supprimer la dérogation de version".
-* Sur mobile seulement : se rendre tout en bas de la section paramètre et utiliser le bouton "clear build override"
+* Sur mobile seulement : se rendre tout en bas de la section paramètres et utiliser le bouton "clear build override"
 
 Une fois l'un de ces trois boutons cliqué, le client redémarrera en enlevant tous les précédents changements, la version de base de Discord étant à nouveau appliquée. 

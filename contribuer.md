@@ -167,4 +167,33 @@ N'hésitez pas à regarder des articles déjà en ligne, pour copier des éléme
 
 #### Liens pour les nerds
 
-[Docusaurus V2 Markdown](https://docusaurus.io/fr/docs/markdown-features) 
+[Docusaurus V2 Markdown](https://docusaurus.io/fr/docs/markdown-features)
+
+*********************
+
+## Les avantages contributeurs
+
+Après contribution, vous pourrez obtenir des rôles sur [notre serveur Discord](https://discord.gg/fr).
+
+### Contributeur 1
+Vous avez écrit un article sur le wiki validé par le staff.
+- Salon des contributeurs
+
+### Contributeur 2
+Vous avez écrit un minimum de 5 articles validés sur le wiki.
+- Salon des contributeurs
+- Salons d'informations en direct
+- Création de guides
+
+### Contributeur 3
+Vous avez écrit un minimum de 20 articles validés sur le wiki et le guide.
+- Salon des contributeurs
+- Salons d'informations en direct
+- Création de guides
+- Création d'articles sur le blog
+
+*Retrouvez la liste de tous les avantages sur [notre page prévue à cet effet](https://dfr.gg/serveur)*
+
+:::caution Attention !
+Les rôles de contribution sont distribués au bon vouloir de l'équipe de gestion du wiki, selon la qualité de vos articles.
+:::
