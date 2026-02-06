@@ -45,4 +45,4 @@ Il est cependant possible de le débannir via l'onglet "Bannissements" des param
 
 ### Exclure temporairement des membres
 
-Les membres ayant cette permission peuvent exclure temporairement un membre. Le membre ne pourra alors pas intéragir avec le serveur sur toute la durée de son exclusion, que ce soit en envoyant des messages, en réagissant, en utilisant les components des messages, tel que les des boutons présent dans les embeds ou en parlant dans un salon vocal.
+Les membres ayant cette permission peuvent exclure temporairement un membre. Le membre ne pourra alors pas interagir avec le serveur sur toute la durée de son exclusion, que ce soit en envoyant des messages, en réagissant, en utilisant les components des messages, tel que des boutons présents dans les embeds ou en parlant dans un salon vocal.

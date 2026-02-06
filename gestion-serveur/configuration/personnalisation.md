@@ -40,7 +40,7 @@ Il est possible d'ajouter une couleur (ou une bannière pour les serveurs ayant 
 
 ## Gestion des "particularités" d'un serveur
 
-En effet, il est possible d'ajouter jusqu'à cinq "particularités" sur un serveur. Ces derniers sont visibles lorsque l'on consulte le profil d'un serveur. 
+En effet, il est possible d'ajouter jusqu'à cinq "particularités" sur un serveur. Ces dernières sont visibles lorsque l'on consulte le profil d'un serveur. 
 
 ![Ajout de la description](https://i.dfr.gg/j0Y1.png)
 

@@ -24,9 +24,9 @@ Les membres ayant cette permission peuvent lancer une activité dans le salon, q
 
 ### Utiliser des applications externes
 
-Les membres peuvent utiliser dans le serveur les applications qu'ils ont ajoutés sur leur compte.
+Les membres peuvent utiliser dans le serveur les applications qu'ils ont ajoutées sur leur compte.
 Quand cette permission est activée, les messages de ces applications sont visibles par tous.
-Dans le cas où la permission est désactivée, les membres ont tout de même accès à leurs commandes, mais les réponses ne sont uniquement visible par eux.
+Dans le cas où la permission est désactivée, les membres ont tout de même accès à leurs commandes, mais les réponses sont uniquement visibles par eux.
 
 :::warning
 Il est conseillé de désactiver cette permission.

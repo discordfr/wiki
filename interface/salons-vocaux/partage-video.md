@@ -42,7 +42,7 @@ L'écran ou la vidéo de l'utilisateur apparaîtra dans une fenêtre séparée.
 
  - Affichage en plein écran
 
-L'écran partagé ou la vidéo de l'utilisateur s'affichera en plein écran. Pour sortir du mode "Plein écran", il suffit d'appuyer sur la touche "Echap".
+L'écran partagé ou la vidéo de l'utilisateur s'affichera en plein écran. Pour sortir du mode "Plein écran", il suffit d'appuyer sur la touche "Échap".
 
 <img alt="Affichage en mode plein écran" src="https://i.dfr.gg/C95.png" width="" height="400px"/>
 
@@ -64,8 +64,8 @@ Pour partager sa webcam avec les autres utilisateurs présents dans le salon voc
 
 ### Partage de l'écran
 
-Discord offre aussi la possibilité de partager son écran (de "streamer"). Pour se faire, il faut cliquer sur l'icône <img src="" width="14" height="14" />.
-Une nouvelle fenêtre s'ouvrira alors, permettant de sélectionner l'onglet, l'application ou bien l'écran entier à partager. Une fois le partage d'écran activé, les mots " "Stream en cours" s'afficheront à droite du nom de l'utilisateur.
+Discord offre aussi la possibilité de partager son écran (de "streamer"). Pour ce faire, il faut cliquer sur l'icône <img src="" width="14" height="14" />.
+Une nouvelle fenêtre s'ouvrira alors, permettant de sélectionner l'onglet, l'application ou bien l'écran entier à partager. Une fois le partage d'écran activé, les mots "Stream en cours" s'afficheront à droite du nom de l'utilisateur.
 
 ![Image de la fenêtre](https://i.dfr.gg/lmk.png)
 

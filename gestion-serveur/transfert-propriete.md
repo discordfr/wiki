@@ -7,7 +7,7 @@ keywords:
   - tutoriel
   - serveur
 description: Le transfert de propriété de serveurs sur discord
-contributors: [notix, leanks]
+contributors: [ben, leanks]
 ---
 
 ## À quoi sert le transfert de propriété ?
@@ -58,7 +58,7 @@ Un menu déroulant apparaît alors:
 
 ### 5. **Cliquer sur "Transférer la propriété"**
 
-![bouton tranfert propriété](https://i.dfr.gg/OxX.png)
+![bouton transfert propriété](https://i.dfr.gg/OxX.png)
 
 Une boîte de dialogue apparaît:
 
@@ -83,10 +83,10 @@ Une fois cela fait, il faut confirmer une dernière fois le transfert.
 ### 7. **Transfert terminé**
 Le nouveau propriétaire possède désormais la couronne 👑 (la propriété du serveur)
 
-![courone](https://i.dfr.gg/DEd.png)
+![couronne](https://i.dfr.gg/DEd.png)
 
 
 
 :::caution Attention !
-Si vous transferez votre serveur et qu'il fait partie d'un programme (tel que le programme partenaire), vous risquez de ne plus faire partie de ce programme après le transfert. 
+Si vous transférez votre serveur et qu'il fait partie d'un programme (tel que le programme partenaire), vous risquez de ne plus faire partie de ce programme après le transfert. 
 :::

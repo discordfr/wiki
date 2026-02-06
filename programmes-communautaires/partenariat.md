@@ -7,7 +7,7 @@ keywords:
   - partner
   - partenaires
 description: Les serveurs partenaires sur Discord
-contributors: [luke, notix, nekot]
+contributors: [luke, ben, nekot]
 ---
 
 :::note
@@ -29,7 +29,7 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
  - Activer l'analyse des contenus médias des membres.
  - Paramétrer les notifications par défaut sur @mentions uniquement.
  - Retirer la permission à tout le monde de mentionner @everyone.
- - Accepter la [charte d'utilisation des serveurs commmunautaires](https://support.discord.com/hc/fr/articles/360035969312-Lignes-de-conduite-des-serveurs-communautaires) de discord.
+ - Accepter la [charte d'utilisation des serveurs communautaires](https://support.discord.com/hc/fr/articles/360035969312-Lignes-de-conduite-des-serveurs-communautaires) de discord.
  - Définir un salon des règles/conditions d'utilisation et un salon pour les annonces discord.
  
  :::tip
@@ -45,7 +45,7 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
  - Avoir au moins 500 membres.
  - Avoir au moins 50 personnes actives (communiquant) sur le serveur par semaine.
  - Avoir au moins 100 visiteurs, qui ne participent pas forcément, mais qui "visitent le serveur".
- - Sur les utilisateurs "visitant" le serveur, il est nécéssaire qu'au minimum 20% d'entre-eux ne quittent pas le serveur, et ce chaque semaine sur une durée totale de 8 semaines ; c'est ce qui est appelé la "rétention".
+ - Sur les utilisateurs "visitant" le serveur, il est nécessaire qu'au minimum 20% d'entre-eux ne quittent pas le serveur, et ce chaque semaine sur une durée totale de 8 semaines ; c'est ce qui est appelé la "rétention".
  
  Les statistiques de serveurs sont disponibles ici : https://discord.com/developers/servers/
  
