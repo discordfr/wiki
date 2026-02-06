@@ -7,7 +7,7 @@ keywords:
   - partner
   - partenaires
 description: Les serveurs partenaires sur Discord
-contributors: [luke, notix, nekot]
+contributors: [luke, ben, nekot]
 ---
 
 :::note
