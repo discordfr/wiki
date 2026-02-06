@@ -7,7 +7,7 @@ keywords:
   - tutoriel
   - textuel
 description: Les permissions textuelles permettent aux membres d'interagir avec les salons textuels, les forums et les threads.
-contributors: [autumn, zallom, luke, feoxy, wolfyzdbois]
+contributors: [autumn, zallom, luke, wolfyzdbois]
 ---
 
 Les permissions textuelles permettent aux membres d'interagir avec les salons textuels, les forums et les threads.
@@ -79,7 +79,7 @@ Les membres ayant cette permission peuvent activer le mode lent, renommer, suppr
 Par le passé, cette permission permettait également d'ignorer le mode lent.
 :::
 
-### • Voir les anciens messages
+### Voir les anciens messages
 
 Les membres ayant cette permission ont accès à l'historique des messages des salons textuels.
 

@@ -25,7 +25,7 @@ Lorsqu'une session n'a pas encore été débutée, Discord diffuse automatiqueme
 ![L'affichage des présentateurs](https://i.dfr.gg/AffichagePresentateurs.webp)
 
 ### La modération
-Les utilisateurs ayant la permission de déplacer, de rendre muet des membres et de gérer le salon, ont la possibilité de modérer la présentation à leur guise.
+Les utilisateurs ayant la permission de déplacer, de rendre muet des membres et de gérer le salon ont la possibilité de modérer la présentation à leur guise.
 Ces derniers ont la possibilité d'effectuer les actions suivantes :
 
 - Changer leur place de l'audience aux présentateurs directement.

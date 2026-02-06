@@ -43,7 +43,7 @@ Activer la **Communauté de serveur** permet à votre serveur d'accéder à plus
 
 > Analyses de serveur
 
-Les analyses de serveur permettent de visualiser le nombre de serveurs recevant les annonces de tel ou tel salon, mais encore, **si le serveur a plus ee 500 membres**, d'accéder aux statistiques sur la croissance du nombre de membres, l'engagement, l'audience ainsi que de voir s'il remplit les conditions afin de postuler au programme partenaire.
+Les analyses de serveur permettent de visualiser le nombre de serveurs recevant les annonces de tel ou tel salon, mais encore, **si le serveur a plus de 500 membres**, d'accéder aux statistiques sur la croissance du nombre de membres, l'engagement, l'audience ainsi que de voir s'il remplit les conditions afin de postuler au programme partenaire.
 
 L'accès aux statistiques du serveur se fait depuis les paramètres du serveur, onglet **Analyses du serveur** de la partie **Communauté**.
 
@@ -59,7 +59,7 @@ L'écran d'accueil permet aux nouveaux arrivants d'un serveur d'accéder à un p
 
 <img alt="Ecran d'accueil" src="https://i.dfr.gg/BAd.png" width="" height="545" />
 
-Pour activer/configurer ce menu, il faut aller dans les Paramètres du serveur, onglet **Ecran d'accueil** de la partie **Communauté.**
+Pour activer/configurer ce menu, il faut aller dans les Paramètres du serveur, onglet **Écran d'accueil** de la partie **Communauté.**
 
  - Activer l'écran d'accueil.
 
@@ -82,7 +82,7 @@ Les salons d'annonces permettent aux utilisateurs d'installer les annonces d'un 
 
 Un nouveau type de salon s'affichera alors.
 
-<img alt="Nouveau tyoe de salon" src="https://i.dfr.gg/z9T.png" width="" height="425" />
+<img alt="Nouveau type de salon" src="https://i.dfr.gg/z9T.png" width="" height="425" />
 
 :::note Notes :
 1. Si un message publié d'un salon d'annonces est édité, il s'éditera dans les autres serveurs. Si le message est supprimé, l'information `[Message d'origine supprimé].` s'affichera.
