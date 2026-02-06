@@ -29,7 +29,7 @@ Télécharger un fichier sur Discord peut être **très dangereux**, celui-ci po
 
 L'envoi d'images et de vidéos NSFW, c'est-à-dire sexuellement explicite, n'est possible que dans un salon NSFW ou en message privé si l'utilisateur autorise leur envoie.
 
-## Modification d'image
+## Personnalisation du fichier
 
 Il est possible de modifier le nom du fichier avant de l'envoyer ou de le mettre en spoiler (c'est-à-dire visible uniquement en cliquant dessus), grâce à l'icone du crayon présent sur le média. Sur téléphone, il est également possible de modifier l'image, en la retournant ou en la découpant.
 
