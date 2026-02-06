@@ -43,4 +43,4 @@ Discord peut faire des exceptions dans le cas où la marque possède plusieurs s
 
 ## Avantages débloqués
 
-En plus du badge présent à côté du nom du serveur, les serveurs certifiés disposent d'un lien d'invitation personnalisé et d'un arrière plan d'invitation.
+En plus du badge présent à côté du nom du serveur, les serveurs certifiés disposent d'un lien d'invitation personnalisé et d'un arrière-plan d'invitation.

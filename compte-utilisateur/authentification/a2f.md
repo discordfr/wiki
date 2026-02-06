@@ -30,7 +30,7 @@ Pour le cas de Discord, il s’agit des méthodes de code renouvelé via une app
 
 Lorsqu'il s'agit de choisir un bon outil d'authentification à deux facteurs, plusieurs options sont disponibles, chacune avec ses avantages spécifiques. 
 
-De manière générale, les systèmes d’exploitation intègrent des solutions, comme du coté d’Apple qui propose sa solution intégrée “Apple Keychain” (Trousseau) qui  offre une sécurité robuste et est directement sauvegardé dans le cloud sur le compte Apple et synchronisé avec les appareils, ceci porte des avantages comme des inconvénients.
+De manière générale, les systèmes d'exploitation intègrent des solutions, comme du côté d'Apple qui propose sa solution intégrée "Apple Keychain" (Trousseau) qui offre une sécurité robuste et est directement sauvegardé dans le cloud sur le compte Apple et synchronisé avec les appareils, ceci porte des avantages comme des inconvénients.
 
 Authy et Google Authenticator par exemple proposent une solution plus souple en étant lié à un compte sécurisé, permettant une synchronisation aisée entre différents appareils, offrant ainsi une meilleure flexibilité.
 
@@ -38,7 +38,7 @@ Pour ceux qui utilisent des [gestionnaires de mots de passe](/wiki/compte-utilis
 
 ## Activation de l'A2F sur Discord
 
-1. Installation de l'application d'authentification : Avant d'activer l'A2F, il est nécessaire d’installer une application d'authentification sur l’appareil, telle qu'Authy ou Google Authenticator. Il est aussi possible d’utiliser une solution incluse dans un [gestionnaire de mot de passe](/wiki/compte-utilisateur/authentification/mots-de-passe#bonnes-pratiques-gestion).
+1. Installation de l'application d'authentification : Avant d'activer l'A2F, il est nécessaire d'installer une application d'authentification sur l'appareil, telle qu'Authy ou Google Authenticator. Il est aussi possible d'utiliser une solution incluse dans un [gestionnaire de mots de passe](/wiki/compte-utilisateur/authentification/mots-de-passe#bonnes-pratiques-gestion).
 2. Accéder aux paramètres utilisateur : Dans Discord, il faut se rendre dans l'onglet "Paramètres" dans la catégorie "Mon Compte”.
 3. Activation de l'A2F : Cliquer sur le bouton "Activer l'authentification à deux facteurs" et suivre les instructions.
 4. Scan du QR Code ou saisie manuelle : Utiliser l’application d'authentification pour scanner le QR Code fourni ou entrer manuellement le code fourni.
@@ -62,7 +62,7 @@ Les administrateurs de serveurs Discord peuvent imposer l'A2F aux membres, restr
 
 :::note
 Cette restriction s'applique instantanément aux membres du serveur qui ont des permissions spécifiques, cela les empêche de faire des actions de modération ou de configuration si la sécurité n’est pas activée.
-::::
+:::
 
 :::caution Attention
 L'A2F n'est pas infaillible en cas de fuite du token d'authentification ou d'interaction avec un [QR code malveillant](/blog/2021/01/27/nitro-qr-code).

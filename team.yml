@@ -1,0 +1,469 @@
+# Membres de l'équipe et contributeurs DFR
+# Ce fichier unifie les données des auteurs blog et contributeurs wiki
+
+# === ÉQUIPE ===
+
+zallom:
+  name: Zallom
+  description: "Développeur créatif et administrateur de communautés Discord. Depuis 2017, je conçois des bots et des événements pour enrichir l'expérience des membres."
+  discord_username: zallom
+  discord_badges:
+    - hypesquad_brilliance
+    - early_verified_bot_developer
+  title: Rédacteur
+  type: team
+  socials:
+    discord: "268108606027726849"
+    github: Zallom
+    linkedin: matthias-gp
+    email: matthias@fca.gg
+
+chaussette:
+  name: Chaussette
+  discord_username: chaussette.
+  discord_badges:
+    - hypesquad_balance
+    - bug_hunter_1
+    - early_supporter
+  title: Dataminer
+  type: team
+  socials:
+    discord: "487965480724987904"
+    github: justsomebigsock
+
+arthur:
+  name: Arthur
+  description: "Président de l’agence FCA, je place l’humain, l’innovation et la pédagogie au cœur de chaque communauté."
+  discord_username: derrios
+  discord_badges:
+    - certified_moderator
+    - hypesquad_events
+    - hypesquad_brilliance
+    - early_verified_bot_developer
+    - early_supporter
+  title: Rédacteur
+  type: team
+  socials:
+    discord: "264320223182585858"
+    github: MrDerrios
+    linkedin: arthurbattais
+    email: arthur@fca.gg
+
+ichii:
+  name: Ethan
+  discord_username: ichiidev
+  discord_badges:
+    - certified_moderator
+    - hypesquad_events
+    - hypesquad_bravery
+    - early_verified_bot_developer
+  title: Rédacteur
+  type: team
+  socials:
+    discord: "530061924130488351"
+    github: IchiiDev
+    linkedin: ethan-thierry
+
+grifgrif:
+  name: Varyn
+  description: "Modérateur passionné par la sécurité digitale, je veille à la protection des communautés en ligne. Grâce à mon expertise en modération et gestion des risques, j’œuvre pour des espaces Discord plus sains, sûrs et durables."
+  discord_username: grifgrif
+  discord_badges:
+    - certified_moderator
+    - hypesquad_events
+    - hypesquad_balance
+    - early_verified_bot_developer
+  title: Rédacteur
+  type: team
+  socials:
+    discord: "401430491481374720"
+    github: grifgrif
+    linkedin: varyn-navas
+    email: varyn@fca.gg
+
+leauetla:
+  name: Lola
+  description: "Arrivée sur Discord en 2018, j’y ai trouvé ce qui me fait vibrer : le graphisme. Créer, tester, affiner — jusqu’à ce que l’idée prenne forme."
+  discord_username: leauetla
+  discord_badges:
+    - hypesquad_brilliance
+  title: Graphiste
+  type: team
+  socials:
+    discord: "499977338671595520"
+    linkedin: lola-c-062651250
+
+mapidae:
+  name: Mattéo
+  discord_username: mapidae
+  discord_badges:
+    - certified_moderator
+    - hypesquad_brilliance
+  title: Rédacteur
+  type: team
+  socials:
+    discord: "449270417891262475"
+    github: Mapidae
+    linkedin: matteoptrl
+
+crousti67:
+  name: Constantin
+  discord_username: crousti67
+  discord_badges:
+    - hypesquad_balance
+  title: Rédacteur
+  type: team
+  socials:
+    discord: "266915267223748608"
+    linkedin: constantin-batt-bb6070217
+
+armand:
+  name: Armand
+  discord_username: armand__
+  discord_badges:
+    - hypesquad_balance
+  title: Graphiste
+  type: team
+  socials:
+    discord: "371265833248489474"
+    github: armanddiotel
+    linkedin: armanddiotel
+    email: armand@fca.gg
+
+antow:
+  name: Antow
+  discord_username: antow
+  discord_badges:
+    - hypesquad_brilliance
+    - early_verified_bot_developer
+  title: Rédacteur
+  type: team
+  socials:
+    discord: "216214448203890688"
+    github: Antoww
+
+#axel:
+#  name: Axel
+#  discord_username: axel.db
+#  discord_badges:
+#    - partner
+#    - hypesquad_brilliance
+#  title: Graphiste
+#  type: team
+#  socials:
+#    discord: "535175755395760149"
+#    linkedin: axel-debonn
+
+chancesphere:
+  name: ChanceSphere574
+  discord_username: chancesphere574
+  discord_badges:
+    - certified_moderator
+    - hypesquad_bravery
+    - early_supporter
+  title: Graphiste
+  type: team
+  socials:
+    discord: "226001302524657665"
+    github: ChanceSphere574
+
+luke:
+  name: Luke
+  discord_username: skw.luke
+  discord_badges:
+    - hypesquad_brilliance
+  title: Reviewer Wiki
+  type: team
+  socials:
+    discord: "585166080071172098"
+    github: LukeSkywalkerDev
+
+volcanofr:
+  name: Volcano
+  discord_username: volcanofr
+  discord_badges:
+    - hypesquad_brilliance
+  title: Reviewer Wiki
+  type: team
+  socials:
+    discord: "589383722759880705"
+    github: volcanofr
+
+wolfyzdbois:
+  name: Thibault
+  discord_username: wolfyzdbois
+  discord_badges:
+    - hypesquad_bravery
+  title: Reviewer Wiki
+  type: team
+  socials:
+    discord: "787328494853029958"
+    github: WolfyzDBois
+
+# === CONTRIBUTEURS ===
+
+# Anciens rédacteurs
+ben:
+  name: Ben
+  discord_username: ben.notix
+  discord_badges:
+    - certified_moderator
+    - hypesquad_balance
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "552550090796171265"
+    github: BenNotix
+
+nessy:
+  name: Nessy
+  discord_username: nessylwenn
+  discord_badges:
+    - hypesquad_bravery
+  title: Rédactrice
+  type: contributor
+  socials:
+    discord: "448190988238848000"
+
+azerius:
+  name: Azerius
+  discord_username: azerius
+  discord_badges:
+    - hypesquad_brilliance
+  title: Rédacteur
+  type: contributor
+  socials:
+    discord: "342227000578146304"
+
+danalieth:
+  name: Danalieth
+  discord_username: danaliethpantheus
+  discord_badges:
+    - hypesquad_bravery
+  title: Rédacteur
+  type: contributor
+  socials:
+    discord: "247756618815504384"
+
+evan:
+  name: evan
+  discord_username: evan.sh
+  discord_badges:
+    - certified_moderator
+    - hypesquad_balance
+    - early_verified_bot_developer
+  title: Rédacteur
+  type: contributor
+  socials:
+    discord: "399976828166602752"
+
+sou:
+  name: Sou
+  discord_username: sou.hoc
+  discord_badges:
+    - hypesquad_events
+    - hypesquad_brilliance
+    - early_supporter
+  title: Rédacteur
+  type: contributor
+  socials:
+    discord: "212581406344216578"
+
+# Contributeurs wiki
+
+autumn:
+  name: Ely
+  discord_username: elyeo
+  discord_badges:
+    - hypesquad_balance
+    - early_supporter
+  title: Contributrice
+  type: contributor
+  socials:
+    discord: "180391259351810048"
+    github: AutumnHelion
+
+moonrise:
+  name: Moonrise
+  discord_username: moonrise88
+  discord_badges:
+    - hypesquad_brilliance
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "715826047949471785"
+    github: PetitPotiron
+
+xox:
+  name: Xox
+  discord_username: mynameisxox
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "320503214229291008"
+    github: mynameisxox
+
+karal:
+  name: Karal
+  discord_username: .karal
+  discord_badges:
+    - hypesquad_brilliance
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "381574094316896258"
+    github: Karal
+
+baptiste0928:
+  name: Baptiste
+  discord_username: baptiste0928
+  discord_badges:
+    - hypesquad_brilliance
+    - early_verified_bot_developer
+    - early_supporter
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "207852811596201985"
+    github: baptiste0928
+
+regnir:
+  name: Regnir
+  discord_username: regnir.
+  discord_badges:
+    - hypesquad_brilliance
+    - bug_hunter_1
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "234371871791906817"
+    github: Regnir
+
+jacob:
+  name: Jacob
+  discord_username: jmcwb
+  discord_badges:
+    - hypesquad_bravery
+    - early_verified_bot_developer
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "301736945610915852"
+    github: mwja
+
+fizle:
+  name: Mathis
+  discord_username: fizle
+  discord_badges:
+    - hypesquad_balance
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "596108145592500276"
+    github: fizliteau
+
+dreas:
+  name: Dréas
+  discord_username: dreasgoat
+  discord_badges:
+    - hypesquad_brilliance
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "370336295815348236"
+    github: dreas222
+
+dragrame:
+  name: Dragrame
+  discord_username: dragrame
+  discord_badges:
+    - hypesquad_brilliance
+    - bug_hunter_2
+  title: Contributeur
+  type: contributor
+  socials: 
+    discord: "348858417257119764"
+    github: Dragrame
+
+romain:
+  name: Romain
+  discord_username: romain
+  discord_badges:
+    - hypesquad_brilliance
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "902129992643805214"
+    github: Romain1274
+
+patatejalo:
+  name: Patatejalo
+  discord_username: patatejalo
+  title: Contributeur
+  type: contributor
+  socials:
+    github: Patatejalo
+
+nekot:
+  name: NeKoT
+  discord_username: nekot.
+  discord_badges:
+    - hypesquad_balance
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "1206356045983649884"
+    github: NeKooT
+
+b2856203:
+  name: b2856203
+  discord_username: geeki1tv
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "969284902350630982"
+    github: b2856203
+
+leanks:
+  name: Leanks
+  discord_username: leanks
+  discord_badges:
+    - hypesquad_bravery
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "697377393727373372"
+    github: ImLeanks
+
+freiik:
+  name: Adam
+  discord_username: freiik
+  discord_badges:
+    - hypesquad_balance
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "809849085305421835"
+    github: eyoboyhowareyou
+
+axlag:
+  name: Alex
+  discord_username: axlag
+  discord_badges:
+    - hypesquad_balance
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "1242185957684547624"
+    github: Axlag3
+
+rodenzo:
+  name: Rodenzo
+  discord_username: rodenzo
+  discord_badges:
+    - hypesquad_balance
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "578231146765352970"
+    github: Rodenzow
