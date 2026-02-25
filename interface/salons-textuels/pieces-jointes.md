@@ -19,7 +19,7 @@ L'envoi de fichier passe par le bouton **+** présent à gauche de la barre d'en
 
 ![Aperçu de pièces jointes envoyés dans le chat](https://i.dfr.gg/2q2h.png)
 
-Ces fichiers pourront être téléchargés par les autres utilisateurs. 
+Ces fichiers pourront être téléchargés par les autres utilisateurs.
 
 :::danger ATTENTION !!!
 
