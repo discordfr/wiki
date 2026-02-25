@@ -55,6 +55,10 @@ Définis comme pré-requis de l'émission de la voix l'appui sur des touches con
 
 ### Paramètres vocaux avancés
 
+:::note
+Les paramètres vocaux avancés ne sont pas disponible sur l'application mobile.
+:::
+
 #### Contrôle automatique de gain
 
 Ajuste automatiquement le volume du microphone pour qu'il reste clair et constant.
@@ -96,4 +100,5 @@ En cliquant sur l'icône de réduction de bruit, située dans la barre d'outils 
 
 Krisp utilise des algorithmes avancés de traitement du signal afin d'identifier et supprimer les bruits de fond tout en préservant la clarté de la voix.
 Il fonctionne en temps réel, ce qui signifie que les utilisateurs peuvent bénéficier d'une réduction de bruit instantanée pendant leurs appels vocaux.
+
 
