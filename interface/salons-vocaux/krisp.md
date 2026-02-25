@@ -1,5 +1,5 @@
 ---
-title: Réduction de bruit, Krisp
+title: Krisp et la réduction de bruit
 keywords:
   - krisp
   - reduction de bruit
