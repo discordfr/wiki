@@ -12,6 +12,7 @@ short_slug: false
 Discord permet aux utilisateurs d'envoyer des fichiers en pièce jointe dans un message.
 
 Dans le cas d'images, de vidéos ou de fichiers textuels, elles seront affichés et visibles par tous. Les vidéos peuvent également être lu directement sur l'application, via le lecture vidéo intégré.
+Le contenu des autres fichiers n'est pas visible dans l'application. 
 
 L'envoi de fichier passe par le bouton **+** présent à gauche de la barre d'envoi de message sur mobile ou sur ordinateur. Il est nécessaire d'avoir la permission "**Joindre des fichiers**" pour envoyer un fichier dans le salon textuel d'un serveur.
 
