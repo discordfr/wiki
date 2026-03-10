@@ -6,11 +6,11 @@ keywords:
   - reactions
   - réaction
   - tutoriel
-description: Les émojis et les réactions sur discord
+description: S'exprimer avec les émojis et les réactions sur Discord
 contributors: [luke, wolfyzdbois]
 ---
 
-Discord offre la possibilité à ses utilisateurs d'utiliser des emojis, qui peuvent être ceux proposés par défaut ou des émojis personnalisés. 
+Discord offre la possibilité à ses utilisateurs d'utiliser des emojis dans les messages ou en réaction à un message, qui peuvent être ceux proposés par défaut ou des émojis personnalisés.
 
 ## Les emojis par défaut
 
@@ -40,7 +40,7 @@ Un sélecteur d'émojis dans la barre d'envoie de message est disponible.
 
 ![Sélecteur d'émojis, section émojis par défaut](https://i.dfr.gg/a8eP.png)
 
-Il est aussi possible d'utiliser le [format Markdown de Discord](/wiki/interface/salon-textuels/markdown) en récupérant l'ID de l'émoji, ce qui est pratique dans les embeds. 
+Il est aussi possible d'utiliser le [format Markdown de Discord](/wiki/interface/salon-textuels/markdown) en récupérant l'ID de l'émoji, ce qui est pratique dans les embeds.
 
 ```md
 <:NAME:ID>
@@ -49,19 +49,19 @@ Il est aussi possible d'utiliser le [format Markdown de Discord](/wiki/interface
 
 :::tip Astuce
 
-Ce format peut se récupérer en tapant dans la barre d'envoie de message un anti-slash **\*** puis en placant l'émojis, via le sélecteur par exemple. 
+Ce format peut se récupérer en tapant dans la barre d'envoie de message un anti-slash **\\** puis en placant l'émojis, via le sélecteur par exemple.
 
 :::
 
 ## Réactions
 
-Les émojjis peuvent aussi être utilisé en réaction sous un message.
+Les émojis peuvent aussi être utilisé en réaction sous un message.
 
 Pour l'utiliser en tant que réaction, il faut cliquer sur "Ajouter une réaction", puis sélectionner l'emoji souhaité.
  
 ![Bouton pour une réaction sous un message](https://i.dfr.gg/icm.png)
  
 
-Il est aussi possible de faire une "super réaction", qui ajoutera une animation à chaque réaction mise sur un message, et mettra la réaction en surbrillance. Ce mode est activable dans le panel de sélection des émojis.
+Pour les utilisateurs de [Nitro](/wiki/) est aussi possible de faire une "super réaction", qui ajoutera une animation à chaque réaction mise sur un message, et mettra la réaction en surbrillance. Ce mode est activable dans le panel de sélection des émojis.
 
 ![Activation des super réactions](https://i.dfr.gg/MvQW.png)
