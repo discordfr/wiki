@@ -60,7 +60,6 @@ Les émojis peuvent aussi être utilisé en réaction sous un message.
 Pour l'utiliser en tant que réaction, il faut cliquer sur "Ajouter une réaction", puis sélectionner l'emoji souhaité.
  
 ![Bouton pour une réaction sous un message](https://i.dfr.gg/icm.png)
- 
 
 Pour les utilisateurs de [Nitro](/wiki/) est aussi possible de faire une "super réaction", qui ajoutera une animation à chaque réaction mise sur un message, et mettra la réaction en surbrillance. Ce mode est activable dans le panel de sélection des émojis.
 
