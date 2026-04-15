@@ -11,45 +11,63 @@ description: Les logs de serveurs
 contributors: [luke, karal, dreas, chaussette]
 ---
 
-Les logs (ou "journaux") du serveur permettent, aux utilisateurs ayant la permission d'y accéder, d'obtenir l'ensemble des opérations effectuées sur un serveur.
+Les logs (ou "journaux") du serveur permettent aux utilisateurs disposant de la permission appropriée de consulter une grande partie des actions effectuées sur un serveur.
+
+__À noter :__ les entrées des logs sont conservées pendant environ 45 jours.
+
+__Permission requise :__ *Voir les journaux d’audit*
 
 ## Les actions consignées
 
-Les logs consignent différentes actions.
-> Actions associées au serveur.
-- Les mises à jour du serveur : modification d'icône, de nom...
-> Actions associées aux salons
-- Les créations de salons.
-- Les mises à jour de salons ainsi que des permissions associées aux salons.
-- Les suppressions de salons.
-> Actions associées aux rôles.
-- Les créations de rôles
-- Les modifications de rôles ainsi que des permissions associées aux rôles.
-- Les suppressions de rôles.
-> Les modifications/sanctions envers des membres
-- Les rôles d'un utilisateur modifiés : ajout/enlèvement de rôle(s).
-- Les modifications de surnom.
-- Les expulsions de membres.
-- Les congédiements de membres.
-- Les bannissements de membres.
-- Les débannissements de membres.
-- Les déplacements vocaux de membres.
-- Les déconnexions vocales de membres.
-> Actions associées aux messages
-- La suppression de messages. __Attention :__ Le contenu du message n'est pas consigné dans les logs.
-- La suppression en masse d'un ensemble de messages.
-- Les créations, mises à jour et suppressions de thread.
-- Épingler/Désépingler des messages.
-> Les autres actions.
-- Les ajouts de bots.
-- Les créations, mises à jour et suppressions d'invitation.
-- Les créations, mises à jour et suppressions de webhooks.
-- Les créations, mises à jour et suppressions d'emojis.
-- Les créations, mises à jour et suppressions d'intégrations.
-- Les créations, mises à jour et suppressions d'autocollants.
-- Les créations, mises à jour et suppressions d'évènements.
-- Les créations, mises à jour et suppressions de conférences.
+Les logs enregistrent différentes actions :
 
+> Actions associées au serveur
+- Mises à jour du serveur (modification d’icône, de nom, etc.)
+
+> Actions associées aux salons
+- Création de salons
+- Modification des salons et de leurs permissions (overwrites)
+- Suppression de salons
+- Création, modification et suppression de threads (publics ou privés)
+
+> Actions associées aux rôles
+- Création de rôles
+- Modification des rôles et de leurs permissions
+- Suppression de rôles
+
+> Actions associées aux membres
+- Modification des rôles d’un utilisateur (ajout/retrait)
+- Modification du surnom
+- Expulsion de membres
+- Suppression de membres inactifs (prune)
+- Bannissement de membres
+- Débannissement de membres
+- Timeout (mise en sourdine temporaire)
+- Déplacement vocal de membres
+- Déconnexion vocale de membres
+
+> Actions associées aux messages
+- Suppression de messages  
+  __Attention :__ le contenu du message n’est pas conservé dans les logs
+- Suppression en masse de messages
+- Épinglage et désépinglage de messages
+- Messages bloqués ou signalés par AutoMod (selon la configuration)
+
+> Autres actions
+- Ajout de bots
+- Création, modification et suppression d’invitations
+- Création, modification et suppression de webhooks
+- Création, modification et suppression d’emojis
+- Création, modification et suppression d’intégrations
+- Mise à jour des permissions des commandes d’application
+- Création, modification et suppression d’autocollants
+- Création, modification et suppression d’événements
+- Création, modification et suppression de conférences
+- Création, modification et suppression de sons (Soundboard)
+- Création, modification et suppression de règles AutoMod
+- Timeout appliqué automatiquement par AutoMod
+- Création, modification et suppression du processus d’accueil
+- Création et mise à jour du guide du serveur / page d’accueil
 
 ## Les filtres
 
