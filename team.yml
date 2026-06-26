@@ -9,6 +9,7 @@ zallom:
   discord_username: zallom
   discord_badges:
     - hypesquad_brilliance
+    - bug_hunter_2
     - early_verified_bot_developer
   title: Rédacteur
   type: team
@@ -39,6 +40,7 @@ arthur:
     - certified_moderator
     - hypesquad_events
     - hypesquad_brilliance
+    - bug_hunter_2
     - early_verified_bot_developer
     - early_supporter
   title: Rédacteur
@@ -194,6 +196,7 @@ wolfyzdbois:
   discord_username: wolfyzdbois
   discord_badges:
     - hypesquad_bravery
+    - bug_hunter_2
   title: Reviewer Wiki
   type: team
   socials:
