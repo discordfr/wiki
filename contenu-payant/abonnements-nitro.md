@@ -5,12 +5,12 @@ keywords:
   - nitro
   - boosts
 description: Découvrez l'utilisation des abonnements nitro
-contributors: [luke, xox, notix, freiik, b2856203, antoine]
+contributors: [luke, xox, ben, freiik, b2856203, antoine]
 short_slug: AboNitro
 ---
 
 ## Qu’est-ce que Discord Nitro ?
-Les abonnements [Nitro](https://discord.com/nitro) sont conçus pour offrir aux utilisateurs une expérience premium, avec deux options d'abonnement l'un par mois et l'autre par ans. Lorsqu'un utilisateur s'abonne, un badge affiche la durée de son soutien à Discord.
+Les abonnements [Nitro](https://discord.com/nitro) sont conçus pour offrir aux utilisateurs une expérience premium, avec deux options d'abonnement l'un par mois et l'autre par an. Lorsqu'un utilisateur s'abonne, un badge affiche la durée de son soutien à Discord.
 
 ![Capture Nitro](https://i.dfr.gg/bRo.png)
 
@@ -26,7 +26,7 @@ L'abonnement octroie des avantages supplémentaires, comme :
 * Des arrières plans vidéo personnalisés
 
 ## Nitro (€9,99 par mois / €99,99 par an)
-Nitro est l'abonnement le plus utilisé, avec le plus de bénéfices.
+Nitro est l'abonnement le plus utilisé, avec le plus d'avantages.
 
 Encore une fois, il y a des avantages supplémentaires, comme :
 * Tous les avantages de Nitro Basic

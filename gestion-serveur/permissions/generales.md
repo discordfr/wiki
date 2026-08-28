@@ -6,79 +6,72 @@ keywords:
   - permissions
   - tutoriel
   - générales
-description: Les permissions générales
-contributors: [autumn, zallom]
+description: Les permissions générales sont les permissions permettant de gérer le serveur.
+contributors: [autumn, zallom, wolfyzdbois]
 ---
 
-![Permissions](https://i.dfr.gg/YNX.png)
+Ces permissions permettent d'administrer un serveur, du suivi des modifications aux évènements en passant par les salons et les rôles.
 
-### • Administrateur
-Les membres ayant cette permission ont accès aux mêmes droits que le propriétaire du serveur. Cependant, une personne ayant ce rôle ne peut pas modifier son rôle le plus haut ni ceux au-dessus s'il y en a, ni supprimer le serveur.
-Il n'est pas non plus possible de gérer l'A2F ; si celle-ci est rendue obligatoire par le propriétaire pour les actions de modération, un utilisateur qui ne l'a pas activée ne pourra pas agir malgré ses permissions.
+### Administrateur
 
-### • Voir les logs du serveur
+Les membres ayant cette permission ont accès à l'ensemble des permissions listées dans l'onglet des permissions.
 
-![Logs du serveur](https://i.dfr.gg/fwp.png)
+Beaucoup de précaution est nécessaire dans l'attribution de cette permission, et il est déconseillé de la donner à un membre ou à un bot.
 
-Les membres ayant cette permission ont accès au logs du serveur permettant de consulter un certain nombre d'actions effectuées sur celui-ci.
-Il est également possible de filtrer ces actions par utilisateurs et/ou par type d'actions.
+### Voir les logs du serveur
 
-![Filtres des actions](https://i.dfr.gg/46i.png)
 
-### • Gérer le serveur
+Les membres ayant cette permission ont accès [aux logs du serveur](/wiki/gestion-serveur/moderation/logs) permettant de consulter un certain nombre d'actions effectuées sur celui-ci.
+Il est également possible de filtrer ces actions par utilisateurs et/ou par type d'actions. 
+
+### Voir les analyses du serveur
+
+Les membres ayant cette permission ont accès aux analyses du serveur, qui présente dans un onglet des paramètres et [dans un onglet sur le site Discord Developer Portal](https://discord.com/developers/servers) différentes statistiques sur le serveur.
+
+[Un article présente plus en détail cette fonctionnalité.](/wiki/gestion-serveur/outils-communautaires/insights)
+
+### Voir les analyses d'abonnements du serveur
+
+Si le serveur bénéficie de [la fonctionnalité des abonnements de serveur](/wiki/gestion-serveur/outils-communautaires/premium-membership), le membre pourra consulter diverses statistiques sur les revenus générés, les abonnements pris ou les essais gratuits.
+
+### Gérer le serveur
 
 Les membres ayant cette permission peuvent non seulement changer le nom du serveur et sa région, mais également tous les paramètres disponibles dans "Vue d'ensemble", "Modération", "Intégrations", "Widget" et "Invitations".
 
-### • Gérer les rôles
+### Gérer les rôles
 
 Les membres ayant cette permission peuvent créer, modifier et supprimer des rôles, excepté le plus haut rôle possédé et ceux au-dessus.
 
-### • Gérer les salons
+### Gérer les salons
 
 Les membres ayant cette permission peuvent créer, modifier et supprimer des salons.
 
-### • Expulser des membres
 
-Les membres ayant cette permission peuvent expulser des membres du serveur. Cette action a pour effet de faire quitter le serveur un utilisateur tout en lui laissant la possibilité de revenir.
+### Créer des expressions
 
-### • Bannir des membres
+Les membres ayant cette permission peuvent ajouter des émojis, des autocollants et des sons personnalisés.
 
-Les membres ayant cette permission peuvent bannir des membres du serveur. Cette action a pour effet faire quitter le serveur un utilisateur sans lui laisser la possibilité de revenir.
-Il est cependant possible de le débannir via l'onglet "Bannissements".
+### Gérer les expressions
 
-![Expulser des membres, bannir des membres](https://i.dfr.gg/Jl4.png)
-
-### • Créer une invitation
-
-Les membres ayant cette permission peuvent créer une invitation pour le serveur.
-
-![Créer une invitation](https://i.dfr.gg/0D8.png)
-
-### • Changer le pseudo
-
-Les membres ayant cette permission peuvent changer eux-mêmes leur pseudo au sein du serveur.
-
-![Changer de pseudo](https://i.dfr.gg/k8b.png)
-
-### • Gérer les pseudos
-
-Les membres ayant cette permission peuvent modifier les pseudos d'autres membres, à condition qu'ils n'aient pas le même rôle qu'eux ou un au-dessus.
-
-![Gérer les pseudos](https://i.dfr.gg/T06.png)
-
-### • Gérer les émojis
-
-Les membres ayant cette permission peuvent ajouter, modifier et supprimer des émojis.
+Les membres ayant cette permission peuvent modifier et supprimer des émojis, des autocollants et des sons personnalisés.
 
 ![Gérer les émojis](https://i.dfr.gg/pAB.png)
 
-### • Gérer les webhooks
+### Gérer les webhooks
 
 Les membres ayant cette permission peuvent ajouter, modifier et supprimer des webhooks.
 
 ![Gérer les webhooks](https://i.dfr.gg/CWx.png)
 
 
-### • Lire les salons textuels & voir les salons vocaux
+### Lire les salons textuels & voir les salons vocaux
 
 Les membres ayant cette permission peuvent avoir accès par défaut aux salons textuels et vocaux.
+
+### Créer des évènements
+
+Les membres avec cette permission peuvent créer des évènements sur le serveur
+
+### Gérer les évènements
+
+Les membres avec cette permission peuvent modifier un évènement déjà existant ou le supprimer en l'annulant.

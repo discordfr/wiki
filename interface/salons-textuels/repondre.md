@@ -10,16 +10,16 @@ description: La fonctionnalité "Répondre" sur discord
 contributors: [autumn, zallom]
 ---
 La fonctionnalité "répondre" a fait officiellement son apparition le 16/11/2020 dans l'optique de remplacer les citations qui n'étaient pas suffisamment intuitives.
-![Fontionnalité "répondre"](https://i.dfr.gg/aiX.png)
+![Fonctionnalité "répondre"](https://i.dfr.gg/aiX.png)
 
 ### PC
 Pour utiliser cette fonctionnalité sur pc, il y a deux façons :
 
 - Passer le curseur sur un message et cliquer sur “Répondre”.
-![Fontionnalité "répondre" sur pc en passant dessus](https://i.dfr.gg/lqr.png)
+![Fonctionnalité "répondre" sur pc en passant dessus](https://i.dfr.gg/lqr.png)
 
 - Faire un clic droit sur un message et sélectionner “Répondre”.
-![Fontionnalité "répondre" sur pc par clic droit](https://i.dfr.gg/c4Z.png)
+![Fonctionnalité "répondre" sur pc par clic droit](https://i.dfr.gg/c4Z.png)
 
 ### Mobile
 

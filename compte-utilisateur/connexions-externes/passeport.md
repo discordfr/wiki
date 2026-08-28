@@ -10,7 +10,7 @@ description: Les connexions officielles sur discord
 contributors: [luke, ichii, dragrame]
 ---
 
-Discord propose aux utilisateurs de relier et de synchroniser leur compte à de mutliples sites.
+Discord propose aux utilisateurs de relier et de synchroniser leur compte à de multiples sites.
 Il s'agit principalement de réseaux sociaux, de plateformes de streaming ainsi que de jeux. Ces connexions sont officielles, et ne sont pas à confondre avec les [applications tierces](/wiki/compte-utilisateur/connexions-externes/applications).
 
 ## Les connexions disponibles
@@ -49,16 +49,16 @@ L'utilisateur a la possibilité de paramétrer ses connexions à travers l'ongle
 
 ![Onglet Connexions](https://i.dfr.gg/CzF.png)
 
- Chaque connexion se configure en cliquant sur l'icone de la plateforme de son choix. Une fois cela fait, l'utilisateur devra accepter la synchronisation entre la plateforme et Discord. Puis, une fois synchronisée avec succès, elle s'affichera dans l'onglet `Connexions` des paramètres de l'utilisateur ainsi que sur son profil si il souhaite l'activer.
+ Chaque connexion se configure en cliquant sur l'icône de la plateforme de son choix. Une fois cela fait, l'utilisateur devra accepter la synchronisation entre la plateforme et Discord. Puis, une fois synchronisée avec succès, elle s'affichera dans l'onglet `Connexions` des paramètres de l'utilisateur ainsi que sur son profil s'il souhaite l'activer.
  
-![Affichage de la connexion dans l onglet des parametres](https://i.dfr.gg/mhA.png) 
+![Affichage de la connexion dans l'onglet des paramètres](https://i.dfr.gg/mhA.png) 
     
 ![Affichage de la connexion sur le profil](https://i.dfr.gg/95E.png)
 
 ## Désactiver l'affichage dans le profil/Supprimer la connexion
 ### Désactiver l'affichage sur le profil 
 
-Les utilisateurs disposent de la possibilité de désactiver l'affichage de la connexion sur votre profil en dé-sélectionnant l'icône ✅ :
+Les utilisateurs disposent de la possibilité de désactiver l'affichage de la connexion sur votre profil en désélectionnant l'icône ✅ :
 
 ![Désactiver l'affichage d'une connexion sur le profil](https://i.dfr.gg/MHt.png)
 

@@ -13,7 +13,7 @@ contributors: [karal, dragrame]
 
 Les threads, sur Discord, permettent aux utilisateurs d'avoir des "sous-discussions" au sein d'un salon textuel.
 
-## Création/Supression de threads
+## Création/Suppression de threads
 ### La création de threads
 
 Afin de créer un thread sur un serveur, il faut avoir une des permissions suivantes : "Créer des fils publics" ; "Créer des fils privés" ; "Gérer les fils" . Les threads, tout comme les salons textuels, les salons vocaux ou les salons d'annonces, peuvent être publics ou privés.

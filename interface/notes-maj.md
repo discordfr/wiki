@@ -12,10 +12,10 @@ contributors: [jacob, karal, moonrise]
 ---
 
 Les notes de mises à jour expliquent ce qu'il y a de nouveau sur Discord. Elles contiennent essentiellement la présentation des nouvelles fonctionnalités.
-Elles sont automatiquement affichées lors du demarrage de l'application après certaines mises à jour.
+Elles sont automatiquement affichées lors du démarrage de l'application après certaines mises à jour.
 
 :::note
-- Il n'y a pas de notes à chaque mises à jour.
+- Il n'y a pas de notes à chaque mise à jour.
 - Les notes résument souvent plusieurs mises à jour.
 :::
 

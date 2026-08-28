@@ -2,8 +2,8 @@
 title: Connexion via un QR Code
 keywords:
   - discord
-  - conenxion
-  - sécuité
+  - connexion
+  - sécurité
   - comptes
   - tutoriel
 description: Connexion via un QR Code sur discord
@@ -23,7 +23,7 @@ La connexion par QR-Code est faite pour pouvoir se connecter rapidement à Disco
 
 <img alt="Scanner le QR-Code" src="https://i.dfr.gg/j7VN.png" width="" height="435" />
 
-3) Une fois le QR-Code scanné un message de confirmation apparait sur le téléphone.
+3) Une fois le QR-Code scanné un message de confirmation apparaît sur le téléphone.
 
 <img alt="Message de confirmation" src="https://i.dfr.gg/gUHf.png" width="" height="435" />
 

@@ -11,7 +11,7 @@ description: Les recherches de messages avancées sur Discord
 contributors: [moonrise, karal]
 ---
 
-Sur Discord, il est possible de rechercher un ou plusieurs messages parmi tout ceux envoyés sur un serveur. En haut à droite de l'écran, se trouve une barre de recherche (cadre rouge).
+Sur Discord, il est possible de rechercher un ou plusieurs messages parmi tous ceux envoyés sur un serveur. En haut à droite de l'écran, se trouve une barre de recherche (cadre rouge).
 
 <img alt="La barre de recherche" src="https://i.dfr.gg/CBsW.png"/>
 
@@ -23,7 +23,7 @@ En tapant une phrase ou un mot, puis en appuyant sur la touche <kbd>Entrée</kbd
 
 ## Filtrer les résultats
 
-Il est possible d'affinier une recherche à l'aide de differents préfix.
+Il est possible d'affiner une recherche à l'aide de différents préfixes.
 Ces préfixes permettent de faire une recherche par :
 - auteur
 - mentions

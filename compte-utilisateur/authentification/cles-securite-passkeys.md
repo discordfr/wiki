@@ -2,8 +2,8 @@
 title: Les clés de sécurité et Passkeys
 keywords:
   - discord
-  - conenxion
-  - sécuité
+  - connexion
+  - sécurité
   - comptes
   - tutoriel
 description: Les clés de sécurité et Passkeys sur Discord
@@ -19,7 +19,7 @@ Les clés de sécurité et Pass Keys n’empêchent pas certaines méthodes visa
 
 ## Fonctionnement
 
-Ces clés fonctionnent comme des jetons d'authentification chiffré (tokens), qui offrent un niveau de sécurité élevé tout en éliminant la nécessité de mémoriser des mots de passe. Elles peuvent être stockées de manière sécurisée dans des dispositifs physiques ou synchronisées entre différents appareils via des services cloud. Elles sont généralement utilisées avec d'autres facteurs d'authentification, tels que la biométrie ou la possession d'un appareil spécifiques.
+Ces clés fonctionnent comme des jetons d'authentification chiffrés (tokens), qui offrent un niveau de sécurité élevé tout en éliminant la nécessité de mémoriser des mots de passe. Elles peuvent être stockées de manière sécurisée dans des dispositifs physiques ou synchronisées entre différents appareils via des services cloud. Elles sont généralement utilisées avec d'autres facteurs d'authentification, tels que la biométrie ou la possession d'un appareil spécifique.
 
 ## Types de Clés de Sécurité
 

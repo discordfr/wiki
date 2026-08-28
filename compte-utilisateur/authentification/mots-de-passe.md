@@ -2,8 +2,8 @@
 title: Mots de Passe
 keywords:
   - discord
-  - conenxion
-  - sécuité
+  - connexion
+  - sécurité
   - comptes
   - tutoriel
 description: Mots de passe sur Discord
@@ -31,13 +31,13 @@ Il est important de diversifier les adresses email, c’est utile pour protéger
 
 Pour répondre à cela, il existe une astuce pratique qui est l'utilisation de l'opérateur "+" dans votre adresse Gmail. Il permet de créer des adresses distinctes redirigeant les messages vers une boîte principale. Par exemple, `roosterwumpus+92zg389@gmail.com` redirige vers `roosterwumpus@gmail.com`. 
 
-Autrement il existe des services intégrés, comme chez Apple qui propose une solution gratuite de mails de redirections à l’inscription sur des applications et une version payante plus complète, ou encore le service [Simple Login](https://simplelogin.io) qui propose une option gratuite pour faire des mails générés aléatoirement avec des redirections. 
+Autrement il existe des services intégrés, comme chez Apple qui propose une solution gratuite de mails de redirection à l'inscription sur des applications et une version payante plus complète, ou encore le service [Simple Login](https://simplelogin.io) qui propose une option gratuite pour faire des mails générés aléatoirement avec des redirections.
 
 :::caution Attention
 Ceci doit être fait avec modération étant donné qu’il n’est pas toujours possible de pouvoir répondre avec ces adresses de redirections aux équipes d’assistances des services sur lesquels les mails seront inscrits, ils seraient dans le droit de refuser la prise en charge en cas de problème.
 :::
 
-De plus, l’adresse de récupération doit être distincte et sécurisée, ce qui joue un rôle crucial en cas de problème d'accès au compte principal, mais elle nécessite également une protection rigoureuse, comme l’[authentification à doubles facteurs](/wiki/compte-utilisateur/authentification/a2f) ou une [clé de sécurité](/wiki/compte-utilisateur/authentification/cles-securite-passkeys). 
+De plus, l'adresse de récupération doit être distincte et sécurisée, ce qui joue un rôle crucial en cas de problème d'accès au compte principal, mais elle nécessite également une protection rigoureuse, comme l'[authentification à deux facteurs](/wiki/compte-utilisateur/authentification/a2f) ou une [clé de sécurité](/wiki/compte-utilisateur/authentification/cles-securite-passkeys).
 
 ## Bonnes pratiques de gestion des mots de passe {#bonnes-pratiques-gestion}
 

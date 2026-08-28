@@ -1,5 +1,5 @@
 ---
-title: Les Salons de Conférence
+title: Salons de conférence
 keywords:
   - discord
   - serveur
@@ -7,25 +7,25 @@ keywords:
   - conférence
   - stage channels
 description: Les Stage Channels sur Discord
-contributors: [ichii, luke]
+contributors: [ichii, luke, wolfyzdbois]
 ---
 
-Les **Stage Channels** sont des salons vocaux spéciaux permettant à un nombre limité d'utilisateurs de parler tandis qu'un plus grand nombre d'auditeurs peuvent être présents à les écouter. 
+Les **Stage Channels** sont des salons vocaux permettant des conférences : un nombre restreint d'intervenants sélectionnés s'expriment devant une audience.
 
-## Le fonctionnement des Stage Channels
+## Fonctionnement des Stage Channels
 
 Étant basés sur les salons vocaux classiques, leur fonctionnement est très similaire. Il est possible pour l'utilisateur de se rendre muet, et de couper son micro normalement. La seule différence notable étant que seuls les présentateurs sont affichés séparément des autres utilisateurs sur le serveur et que les auditeurs n'ont pas le droit de prendre la parole à moins que les modérateurs de la présentation la leur accordent.
 
 Par ailleurs, les présentateurs peuvent utiliser la fonctionnalité [Go Live](/wiki/interface/salons-vocaux/partage-video) pour streamer en direct et activer leur caméra.
 
-:::note::: À noter
+:::note À noter
 Lorsqu'une session n'a pas encore été débutée, Discord diffuse automatiquement une musique d'attente dans le stage channel. 
 :::
 
 ![L'affichage des présentateurs](https://i.dfr.gg/AffichagePresentateurs.webp)
 
 ### La modération
-Les utilisateurs ayant la permission de déplacer, de rendre muet des membres et de gérer le salon, ont la possibilité de modérer la présentation à leur guise.
+Les utilisateurs ayant la permission de déplacer, de rendre muet des membres et de gérer le salon ont la possibilité de modérer la présentation à leur guise.
 Ces derniers ont la possibilité d'effectuer les actions suivantes :
 
 - Changer leur place de l'audience aux présentateurs directement.
@@ -42,17 +42,20 @@ De plus, pour être facilement reconnaissables, les modérateurs possèdent une 
 
 Lorsque la présentation est ouverte, n'importe quel membre du serveur a la possibilité d'y assister. Les membres sont séparés en fonction de leurs rôles, si ces derniers sont affichés séparément des autres. Une icône à côté du bouton fait pour quitter le salon permet de demander la parole auprès des modérateurs, qui disposent de la possibilité d'approuver ou de rejeter cette requête.
 
-### Le Stage Discovery
+### Limite d'utilisateur
 
-Le Stage Discovery permet aux stage channels d'être référencés publiquement, et par conséquent d'être rejoints par n'importe quel utilisateur de Discord. Cette option n'est toutefois pas disponible pour n'importe quel stage channel.
+Sans utilisation de la caméra ni du partage d'écran, jusqu'à 10 000 membres peuvent être présents dans l'audience.
 
-Pour utiliser le Stage Discovery, il faut activer le référencement au début d'une conférence. Le salon en question doit être accessible au rôle `@everyone`.
+Si un intervenant utilise sa caméra ou fait un partage d'écran, la limite dépend du niveau de boosts du serveur :
+- 50 utilisateurs présents par défaut dans le salon.
+- 150 utilisateurs si le serveur est niveau 2.
+- 300 utilisateurs si le serveur est niveau 3.
+- Puis la limite augmente de 30 utilisateurs par boost jusqu'à une limite de 10 000 utilisateurs, présentateurs et audience compris.
 
-![Stage Discovery](https://i.dfr.gg/frZ.png)
 
-## Informations Complémentaires
+## Informations complémentaires
 - Lors de l'activation d'un Stage Channel, il devient vert et une notification apparaît en haut du serveur pour notifier de la présence d'une présentation.
-- Une description peut-être ajoutée au salon et sera affichée directement en dessous de son nom pour donner le thème de la discussion.
-- La limite de membres présents simultanément dans le salon est de 1000 utilisateurs, présentateurs et audience compris.
+- Une description peut être ajoutée au salon et sera affichée directement en dessous de son nom pour donner le thème de la discussion.
+- Jusqu'à 5 personnes en conférence peuvent activer leurs caméras et faire un partage d'écran en simultané.
 
 ![Pop-up Stage](https://i.dfr.gg/Pop-upStage.webp)

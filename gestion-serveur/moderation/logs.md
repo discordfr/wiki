@@ -39,7 +39,7 @@ Les logs consignent différentes actions.
 - La suppression de messages. __Attention :__ Le contenu du message n'est pas consigné dans les logs.
 - La suppression en masse d'un ensemble de messages.
 - Les créations, mises à jour et suppressions de thread.
-- Epingler/Désepinlger des messages.
+- Épingler/Désépingler des messages.
 > Les autres actions.
 - Les ajouts de bots.
 - Les créations, mises à jour et suppressions d'invitation.
