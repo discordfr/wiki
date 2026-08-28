@@ -1,11 +1,6 @@
 ---
 title: Rôles
 keywords:
-  - discord
-  - serveur
-  - tutoriel
-  - roles
-keywords:
   - rôle
   - permission
   - serveur
@@ -22,8 +17,6 @@ Les rôles permettent de configurer les [permissions](/wiki/gestion-serveur/perm
 
 Pour que les changements soient pris en compte, l'utilisateur configurant le serveur doit sauvegarder ses modifications.
 
-:::caution Attention !
-Les permissions des salons sont prioritaires quand elles sont vertes. (voir articles permissions rôles et permissions générales)
 :::warning
 Les permissions par défaut liées aux salons sont prioritaires quand elles sont vertes.
 :::
@@ -43,11 +36,10 @@ Le menu se présente comme tel :
 Ce rôle configure les permissions de base de tous les membres du serveur.
 Une permission désactivée sur un rôle en particulier, mais activée sur le rôle everyone, permettra tout de même l'exécution de cette dernière.
 
-:::note Note
-Il n'est pas possible de configurer le nom, l'icône et la couleur de celui-ci, tout comme il est impossible de supprimer ou encore de se retirer ce rôle.
 :::note
 Il n'est pas possible de configurer le nom, l'icône et la couleur de celui-ci, tout comme il est impossible de supprimer ou encore de retirer ce rôle à un membre.
-::: 
+:::
+
 ## Création d'un rôle
 
 Il existe deux possibilités pour créer un rôle : via le « + » ou le bouton bleu « Création de rôle ».
@@ -64,6 +56,7 @@ Sa couleur est "invisible" (transparente) et aucune permission n'est attribuée 
 
 Un rôle peut être modifié à tout moment par un utilisateur, à condition que celui-ci ait la permission "gérer les rôles" et que son rôle le plus haut se situe au-dessus de celui souhaité.
 Si la personne qui effectue les modifications sur un rôle ne dispose pas elle-même de la permission qu'elle souhaite modifier, la case sera grisée et il sera impossible d'interagir avec.
+
 ## Les couleurs
 
 La couleur "invisible" est celle par défaut.
