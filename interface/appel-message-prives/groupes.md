@@ -1,41 +1,73 @@
 ---
-title: Les groupes privés
+title: Groupes privés
 keywords:
-  - discord
-  - groupes
-  - amis
+  - groupe
+  - ami
+  - message
   - privé
-  - tutoriel
-description: Les groupes privés sur discord
-contributors: [xox]
+description: Rassembler plusieurs personnes autour d'une même discussion privée
+contributors: [xox, volcanofr]
 ---
-## Qu'est-ce que les groupes privés ?
-Les groupes privés permettent de regrouper ses amis dans une seule conversation, cela permet à tous les membres du groupe de se parler au même endroit. La personnalisation de l'icône du groupe et de son nom y est possible. Il est aussi possible de désactiver les notifications en rendant la conversation muette. 
+
+Les **groupes privés** permettent de rassembler les amis de ses participants dans une seule conversation, accessible dans les **messages privés**.
 
 :::note
-Le nombre d'utilisateurs maximum au sein d'un groupe est de 10.
+Le nombre d'utilisateurs maximum au sein d'un groupe est de 10, ou 25 avec [Nitro](/wiki/contenu-payant/abonnements-nitro).
 :::
 
-## Créer un groupe privé et ajouter des amis à l'intérieur de celui-ci 
-Pour créer un groupe privé, il est possible de créer un groupe privé depuis l'icône `+` en haut des Messages Privés ou directement depuis une conversation en cours. Tous les membres d'un groupe privé peuvent créer un lien d'invitation du groupe, afin d'inviter leurs amis. 
+## Création d'un groupe privé
+
+Depuis l'interface des **Messages privés**, l'utilisateur peut créer un nouveau groupe depuis l'icône `+`.
+Un bouton situé à gauche de la **recherche dans les MP** permet lui aussi de créer une nouvelle discussion commune.
 
 ![Création d'un groupe](https://i.dfr.gg/Oq7.png)
 
-## Discuter dans un groupe privé
-Le système de conversation dans un groupe est le même que dans des messages privés normaux, les utilisateurs peuvent donc envoyer des GIFs, des stickers ou encore épingler des messages comme ils le feraient de manière ordinaire.
+## Invitation
 
-## Comment personnaliser un groupe privé ?
-Comme dit précédemment, il est possible de modifier l'icône et le nom d'un groupe privé, et tous les membres du groupe peuvent le faire.
+Il est possible d'y inviter des amis ainsi que les membres de serveurs en commun, serveurs n'ayant pas fermé les messages privés.
+Un lien d'invitation est aussi obtenable.
 
-![Personnalisation nom](https://i.dfr.gg/nVW.png)
-![Personnalisation icône](https://i.dfr.gg/abO.png)
+![Invitation dans un groupe](https://i.dfr.gg/4PVN.png)
 
-## Comment retirer des membres d'un groupe et le supprimer ?
-Le propriétaire du groupe est le seul à pouvoir retirer des utilisateurs de celui-ci. Pour supprimer un groupe, le propriétaire doit d'abord en retirer tous ses membres et ensuite le quitter lui-même. La propriété du groupe est automatiquement attribuée à un autre utilisateur quand le propriétaire le quitte.
+## Discussion
+
+De la même manière que dans les messages privés classiques, les participants peuvent envoyer des GIFs et des stickers, épingler des messages et sont notifiés à chaque nouveau message.
+
+## Personnalisation
+
+À la création du groupe, l'utilisateur créateur peut configurer l'**icône** et le **nom** au démarrage du groupe.
+Par la suite, tous ses participants peuvent eux aussi modifier ces paramètres via divers boutons :
+
+- Au clic droit sur le nom du groupe dans la liste des discussions
+- Tout en haut de la discussion
+- Via un lien disponible à chaque modification de personnalisation
+- En cliquant sur le nom du groupe, à côté de la boîte "recherche ou lance une conversation"
+
+![Tous les boutons de modification disponibles](https://i.dfr.gg/6zsv.png)
+
+Par défaut, le nom du groupe liste tous ses participants originels et l'icône représente des utilisateurs.
+
+:::note
+Il n'y a pas de configuration de rôle ou de permission.
+Pour cela, il est nécessaire d'être sur un [serveur](/wiki/gestion-serveur).
+:::
+
+## Retirer des participants
+
+Le [propriétaire du groupe](#propriétaire) est le seul à pouvoir forcer le retrait de ses participants.
 
 ![Exclusion d'un membre](https://i.dfr.gg/GpI.png)
 
-## Comment quitter un groupe privé ?
-Pour quitter un groupe privé, il suffit de faire un clic droit sur l'onglet du groupe et cliquer sur "Quitter le groupe". Le groupe disparaîtra alors de la liste des messages privés. Afin de pouvoir quitter le groupe sans en avertir les autres utilisateurs, il suffit de cliquer sur le petit carré à gauche de "Quitter sans en informer les autres membres" et les membres présents dans le groupe ne recevront pas de notification.
+## Propriétaire
 
-![Quitter un groupe](https://i.dfr.gg/yLO.png)
+Le propriétaire du groupe peut transférer sa propriété à un autre participant en cliquant droit sur son nom d'utilisateur.
+Quand il quitte le groupe, la propriété est automatiquement attribuée à un autre participant.
+
+## Quitter un groupe privé
+
+N'importe quel participant peut quitter son groupe à tout moment en faisant un clic droit sur le nom du groupe puis sélectionner "Quitter le groupe".
+La discussion disparaîtra alors de sa liste des conversations.
+
+Une option permet à l'utilisateur de quitter sans en informer les autres membres, sans les mentionner.
+
+![Quitter un groupe](https://i.dfr.gg/crsy.png)
