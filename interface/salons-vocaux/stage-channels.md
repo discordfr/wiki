@@ -31,7 +31,7 @@ Lorsque tous les intervenants ont coupé leur micro, Discord diffuse automatique
 ![Interfarce en étant dans un salon de conférence](https://i.dfr.gg/Ynus.png)
 
 :::note
-Comme dans tous les salons vocaux, la [suppression des bruits de fond](/wiki/interface/salons-vocaux/krisp) n'est pas activée par défaut pour les intervenants.
+Comme dans tous les salons vocaux, la [suppression des bruits de fond](/wiki/interface/salons-vocaux/entree-audio) n'est pas activée par défaut pour les intervenants.
 :::
 
 ### La modération
