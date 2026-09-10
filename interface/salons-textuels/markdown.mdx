@@ -20,6 +20,9 @@ export function Spoiler({ children }) {
 	const [revealed, setRevealed] = useState(false);
 	return (
 		<span
+			role="button"
+			tabIndex={revealed ? -1 : 0}
+			aria-pressed={revealed}
 			style={{
 				backgroundColor: 'var(--ifm-color-sidebar)',
 				color: revealed ? 'inherit' : 'var(--ifm-color-sidebar)',
@@ -30,6 +33,12 @@ export function Spoiler({ children }) {
 				transition: 'color 0.2s ease-in-out, background-color 0.2s ease-in-out',
 			}}
 			onClick={() => setRevealed(true)}
+			onKeyDown={(e) => {
+				if (e.key === 'Enter') {
+					e.preventDefault();
+					setRevealed(true);
+				}
+			}}
 		>
 			{children}
 		</span>
@@ -48,7 +57,7 @@ Le *pré* est rempli d'**animaux joyeux** chantant __gaiement__ ~~tant que le lo
 
 Apparaît tel que :
 
-![Exemple de texte formatté avec Markdown](http://i.dfr.gg/c4Lm.webp)
+![Exemple de texte formatté avec Markdown](https://i.dfr.gg/c4Lm.webp)
 
 :::info
 <details style={{
@@ -77,7 +86,7 @@ Bienvenue sur *dfr.*_gg_ !
 
 A comme rendu :
 
-![Texte en italique sur Discord](http://i.dfr.gg/NHBY.webp)
+![Texte en italique sur Discord](https://i.dfr.gg/NHBY.webp)
 </TabItem>
 <TabItem value="gras" label="Gras">
 2 astérisques (<code>**</code>) de chaque côté d'un texte affiche un message en <strong>gras</strong>.
@@ -90,7 +99,7 @@ Bienvenue sur **dfr.gg** !
 
 A comme rendu :
 
-![Texte en gras sur Discord](http://i.dfr.gg/Jiuv.webp)
+![Texte en gras sur Discord](https://i.dfr.gg/Jiuv.webp)
 </TabItem>
 <TabItem value="souligne" label="Souligné">
 2 underscores (<code>__</code>) de chaque côté d'une chaîne de caractères affiche un texte <u>souligné</u>.
@@ -103,7 +112,7 @@ Bienvenue sur __dfr.gg__ !
 
 A comme rendu :
 
-![Texte souligné sur Discord](http://i.dfr.gg/aC0n.webp)
+![Texte souligné sur Discord](https://i.dfr.gg/aC0n.webp)
 </TabItem>
 <TabItem value="barre" label="Barré">
 2 tildes (<code>~~</code>) de part et d'autre d'un texte affiche un message <s>barré</s>.
@@ -116,7 +125,7 @@ Bienvenue sur ~~dfr.gg~~ !
 
 A comme rendu :
 
-![Texte barré sur Discord](http://i.dfr.gg/LA24.webp)
+![Texte barré sur Discord](https://i.dfr.gg/LA24.webp)
 </TabItem>
 <TabItem value="spoiler" label="Spoiler">
 2 barres verticales (<code>||</code>) de chaque côté d'un texte affiche un message <Spoiler>caché</Spoiler>.
@@ -129,12 +138,12 @@ Bienvenue sur ||dfr.gg|| !
 
 A comme rendu :
 
-![Texte caché sur Discord](http://i.dfr.gg/arCL.webp)
+![Texte caché sur Discord](https://i.dfr.gg/arCL.webp)
 
 :::note
 Après avoir cliqué sur la partie cachée, son contenu s'affiche :
 
-![Texte visible après avoir cliqué sur le spoiler](http://i.dfr.gg/KkY5.webp)
+![Texte visible après avoir cliqué sur le spoiler](https://i.dfr.gg/KkY5.webp)
 :::
 </TabItem>
 <TabItem value="citation" label="Bloc de citation">
@@ -150,7 +159,7 @@ Par exemple, le message suivant :
 
 A comme rendu :
 
-![Citation sur Discord](http://i.dfr.gg/vNMi.webp)
+![Citation sur Discord](https://i.dfr.gg/vNMi.webp)
 
 :::note
 Placer 3 signes plus grand que (`>>>`), au début de la ligne, rendera automatiquement tout le reste du message sous citation.
@@ -173,7 +182,7 @@ Par exemple, le message suivant :
 
 A comme rendu :
 
-![Titres sur Discord](http://i.dfr.gg/IwhK.webp)
+![Titres sur Discord](https://i.dfr.gg/IwhK.webp)
 </TabItem>
 <TabItem value="petit" label="Sous-texte">
 Un tiret suivi d'un hashtag (<code>-#</code>), en début de ligne, affiche un petit texte gris tel que :
@@ -189,7 +198,7 @@ dfr.gg !
 
 A comme rendu :
 
-![Sous-texte sur Discord](http://i.dfr.gg/7D4S.webp)
+![Sous-texte sur Discord](https://i.dfr.gg/7D4S.webp)
 </TabItem>
 </Tabs>
 
@@ -209,7 +218,7 @@ Bienvenue sur `dfr.gg` !
 
 A comme rendu :
 
-![Bloc de code uniligne sur Discord](http://i.dfr.gg/hg5r.webp)
+![Bloc de code uniligne sur Discord](https://i.dfr.gg/hg5r.webp)
 </TabItem>
 <TabItem value="multiligne" label="Bloc multiligne">
 3 accents grave (<code>```</code>) de chaque côté d'un texte affiche un message sous la forme de
@@ -233,7 +242,7 @@ Tel que :
 
 A comme rendu :
 
-![Bloc de code multiligne sur Discord (langage diff)](http://i.dfr.gg/Nbpo.webp)
+![Bloc de code multiligne sur Discord (langage diff)](https://i.dfr.gg/Nbpo.webp)
 
 :::note
 Il est aussi possible d'utiliser l'alias `ansi` afin de customiser les couleurs du bloc de code.
@@ -258,12 +267,12 @@ Par exemple, le texte suivant :
 
 A comme rendu :
 
-![Mention de Wumpus](http://i.dfr.gg/dz44.webp)
+![Mention de Wumpus](https://i.dfr.gg/dz44.webp)
 
 :::note
 La mention devient orange lorsqu'elle est destinée à l'utilisateur.
 
-![Mention de Wumpus](http://i.dfr.gg/Kx6z.webp)
+![Mention de Wumpus](https://i.dfr.gg/Kx6z.webp)
 :::
 
 :::note
@@ -281,7 +290,7 @@ Par exemple, le texte suivant :
 
 A comme rendu :
 
-![Mention d'un salon vocal](http://i.dfr.gg/ocqf.webp)
+![Mention d'un salon vocal](https://i.dfr.gg/ocqf.webp)
 
 :::note
 La mention de tout types de salons, posts, fils de discussion et messages privés est possible.
@@ -303,7 +312,7 @@ Par exemple, le texte suivant :
 
 A comme rendu :
 
-![Mention d'un rôle](http://i.dfr.gg/WOgL.webp)
+![Mention d'un rôle](https://i.dfr.gg/WOgL.webp)
 </TabItem>
 <TabItem value="commande" label="Commande slash">
 La mention des commandes d'application se fait sous le format <code>&lt;nom_commande (nom_groupe-sous-commande) (nom_sous-commande):identifiant&gt;</code>.
@@ -316,7 +325,7 @@ Par exemple, le texte suivant :
 
 A comme rendu :
 
-![Mention des slash commandes](http://i.dfr.gg/7Ly6.webp)
+![Mention des slash commandes](https://i.dfr.gg/7Ly6.webp)
 
 :::note
 Une commande n'a pas nécessairement de Subcommands et de Subcommand Groups, il n'est donc pas nécessaire de placer ces noms.
@@ -333,11 +342,11 @@ https://discord.com/channels/812028116552777738/909858896431161375/9099052424669
 
 A comme rendu :
 
-![Mention d'un message](http://i.dfr.gg/PjfU.webp)
+![Mention d'un message](https://i.dfr.gg/PjfU.webp)
 
 :::note
 Si le message provient d'un autre serveur que celui d'origine, le nom du serveur s'affiche lorsque l'utilisateur est dessus.
-![Mention d'un message externe](http://i.dfr.gg/TsMO.webp)
+![Mention d'un message externe](https://i.dfr.gg/TsMO.webp)
 :::
 </TabItem>
 <TabItem value="jeu" label="Jeu">
@@ -438,7 +447,7 @@ https://dfr.gg
 
 A comme rendu :
 
-![Embed de lien visible](http://i.dfr.gg/bgQk.webp)
+![Embed de lien visible](https://i.dfr.gg/bgQk.webp)
 
 Alors qu'avec les signes :
 
@@ -448,7 +457,7 @@ Alors qu'avec les signes :
 
 Cela n'affiche pas l'embed :
 
-![Pas d'embed du lien](http://i.dfr.gg/MtYW.webp)
+![Pas d'embed du lien](https://i.dfr.gg/MtYW.webp)
 
 ---
 
@@ -460,7 +469,7 @@ Il est aussi possible d'y rajouter un texte dans l'info-bulle, en rajoutant <cod
 
 Par exemple, le texte suivant [:](https://printer.discord.com)
 
-![Info-bulle au survol](http://i.dfr.gg/eoWV.webp)
+![Info-bulle au survol](https://i.dfr.gg/eoWV.webp)
 
 ```
 [Anciennement discord.fr](<https://dfr.gg> 'DFR') : un site à propos de Discord.
@@ -468,7 +477,7 @@ Par exemple, le texte suivant [:](https://printer.discord.com)
 
 A comme rendu :
 
-![Lien hypertexte](http://i.dfr.gg/fKoA.webp)
+![Lien hypertexte](https://i.dfr.gg/fKoA.webp)
 
 :::note
 Il est aussi possible de [supprimer l'embed du lien](#suppression-dembed-généré).
