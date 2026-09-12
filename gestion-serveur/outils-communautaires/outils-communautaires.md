@@ -15,25 +15,25 @@ Discord a mis en place, en août 2020 la possibilité de définir son serveur co
 
 ## Activer le serveur communautaire.
 
-Pour activer la Communauté de serveur, il faut se rendre dans les **Paramètres du serveur**, aller dans l'onglet **Activer la communauté** de la partie **Communauté**. Il suffit ensuite de cliquer sur "Commencer".
+Pour activer la Communauté de serveur, il faut se rendre dans les **Paramètres du serveur**, puis aller dans l'onglet **Activer la communauté**. Il suffit ensuite de cliquer sur "Activer la communauté".
 
-<img alt="Activation du serveur communautaire" src="https://i.dfr.gg/WJm.png" width="" height="412"/>
+<img alt="Activation du serveur communautaire" src="https://i.dfr.gg/Ra86.png" width="" height="412"/>
 
 ### Différentes étapes à réaliser afin d'activer le mode communautaire
 
  - La première étape consiste à obliger les membres du serveur à avoir une adresse e-mail vérifiée et d'autoriser l'analyse des contenus médias de tous les membres.
  
- <img alt="Première étape - Activer la Communauté de serveur" src="https://i.dfr.gg/vUc.png" width="" height="412"/>
+ <img alt="Première étape - Activer la Communauté de serveur" src="https://i.dfr.gg/aRtm.png" width="" height="412"/>
  
- - La deuxième étape consiste à créer ou définir un salon pour les Annonces officielles de Discord pour les serveurs communautaires, et un pour les règles du serveur. Ce dernier aura une icône spéciale : <img src="https://i.dfr.gg/bt8.png" width="16" height="16" />
+ - La deuxième étape consiste à créer ou définir un salon pour les règles du serveur ou la charte d'utilisation et un autre qui accueillera les mises à jour de la communauté. Le salon qui héberge les règles aura une icône spéciale : <img src="https://i.dfr.gg/bt8.png" width="16" height="16" />
  
- <img alt="Deuxième étape - Activer la communauté de serveur" src="https://i.dfr.gg/RAe.png" width="" height="412" />
+ <img alt="Deuxième étape - Activer la communauté de serveur" src="https://i.dfr.gg/Mfob.png" width="" height="412" />
  
- - La troisième et dernière étape consiste à définir les notifications par défaut du serveur sur `Mentions uniquement` ainsi qu'à retirer les permissions de modération au rôle `@everyone` (les permissions de modération sont celles de : gérer les messages, gérer les webhooks, expulser/bannir des membres, gérer les salons, gérer les rôles, gérer le serveur et la permission Administrateur).
+ - La troisième et dernière étape consiste à définir les notifications du serveur par défaut sur `Mentions seulement` ainsi qu'à désactiver les permissions risquées pour `@everyone` (les permissions risquées sont : Administrateur, Expulser des membres, Bannir des membres, Gérer le serveur, Gérer les salons, Gérer les rôles, Gérer les messages, Gérer les emojis, Création d'emoji, Gérer les événements, Créer des événements, Modérer les membres, Mentionner @everyone et Gérer les messages officiels).
  
-Il faudra accepter les [Lignes de conduite des Serveurs communautaires](https://support.discord.com/hc/fr/articles/360035969312-Lignes-de-conduite-des-serveurs-communautaires).
+Il faudra déclarer que le serveur respecte la [Charte d'Utilisation des serveurs de communauté](https://support.discord.com/hc/fr/articles/360035969312-Charte-d-utilisation-des-serveurs-communautaires).
  
-<img alt="Troisième étape - Activer la communauté de serveur" src="https://i.dfr.gg/H7v.png" width="" height="412" />
+<img alt="Troisième étape - Activer la communauté de serveur" src="https://i.dfr.gg/m3AS.png" width="" height="412" />
  
 ## Avantages des serveurs communautaires
 
@@ -43,40 +43,40 @@ Activer la **Communauté de serveur** permet à votre serveur d'accéder à plus
 
 > Analyses de serveur
 
-Les analyses de serveur permettent de visualiser le nombre de serveurs recevant les annonces de tel ou tel salon, mais encore, **si le serveur a plus de 500 membres**, d'accéder aux statistiques sur la croissance du nombre de membres, l'engagement, l'audience ainsi que de voir s'il remplit les conditions afin de postuler au programme partenaire.
+Les analyses de serveur permettent de visualiser le nombre de serveurs recevant les annonces de tel ou tel salon, mais encore, **si le serveur a plus de 500 membres**, d'accéder aux statistiques sur la croissance du nombre de membres, l'engagement mais aussi l'audience.
 
-L'accès aux statistiques du serveur se fait depuis les paramètres du serveur, onglet **Analyses du serveur** de la partie **Communauté**.
+L'accès aux statistiques du serveur se fait depuis les paramètres du serveur, onglet **Analyses du serveur**.
 
 <img alt="Accès aux statistiques du serveur" src="https://i.dfr.gg/UO4.png" width="" height="454" />
 
-Une page s'ouvrira ensuite, avec les analyses du serveur
+Une page s'ouvrira ensuite, avec les analyses du serveur.
 
 <img alt="Analyses du serveur" src="https://i.dfr.gg/cQg.png" width="" height="454" />
 
-> L'écran d'accueil 
+> Processus d'accueil 
 
-L'écran d'accueil permet aux nouveaux arrivants d'un serveur d'accéder à un petit menu afin qu'ils puissent se repérer sur le serveur.
+Le processus d'accueil permet aux nouveaux arrivants d'ajuster leur propre expérience sur le serveur suivant la façon dont ils veulent y participer.
+Grâce au processus d'accueil il est possible : d'aider les membres à choisir des salons et des rôles supplémentaires, saluer chaque membre et les aider à participer mais encore choisir les salons que les nouveaux membres verront en premier.
 
-<img alt="Ecran d'accueil" src="https://i.dfr.gg/BAd.png" width="" height="545" />
+<img alt="Processus d'accueil" src="https://i.dfr.gg/BAd.png" width="" height="545" />
 
-Pour activer/configurer ce menu, il faut aller dans les Paramètres du serveur, onglet **Écran d'accueil** de la partie **Communauté.**
+Pour activer/configurer ce menu, il faut aller dans les Paramètres du serveur, onglet **Processus d'accueil**.
 
- - Activer l'écran d'accueil.
+ - Cliquer sur "Y jeter un œil".
 
-<img alt="Activer l'écran d'accueil" src="https://i.dfr.gg/gzR.png" width="" height="445" />
+<img alt="Activer le processus d'accueil" src="https://i.dfr.gg/gzR.png" width="" height="445" />
 
- - Configurer l'écran d'accueil.
+ - Configurer le processus d'accueil.
  
-<img alt="Configurer l'écran d'accueil" src="https://i.dfr.gg/hRp.png" width="" height="385" />
+<img alt="Configurer le processus d'accueil" src="https://i.dfr.gg/hRp.png" width="" height="385" />
 
 :::note Notes : 
-1. Pour utiliser des emojis personnalisés dans l'écran d'accueil, le serveur doit avoir débloqué le niveau 2 des [niveau de boosts de serveur](/wiki/contenu-payant/boost-serveur).
-2. Le nombre maximum de salons recommandés est de 5.
+1. Pour utiliser des emojis personnalisés dans le processus d'accueil, le serveur doit avoir débloqué le niveau 2 des [niveau de boosts de serveur](https://dfr.gg/wiki/contenu-payant/boost-serveur#niveau-2).
 :::
 
 > Les salons d'annonces
 
-Les salons d'annonces permettent aux utilisateurs d'installer les annonces d'un serveur sur leur serveur. 
+Les utilisateurs peuvent suivre un salon d'annonces sur leurs propres serveurs. Les posts qui seront publiés dans salon apparaîtront sur ces serveurs.
 
 <img alt="Suivre un salon d'annonces" src="https://i.dfr.gg/eLp.png" width="" height="385" />
 
@@ -89,44 +89,12 @@ Un nouveau type de salon s'affichera alors.
 2. Pour qu'un message d'un salon d'annonces s'affiche sur les serveurs qui le suivent, il faut le publier.
 :::
 
-> La possibilité d'activer Discovery
+> La possibilité d'activer le **mode Découverte**
 
-Discovery est un outil permettant aux utilisateurs de trouver rapidement et facilement un serveur. Il permet en outre de référencer votre serveur sur Internet.
+Le mode Découverte permet d'activer la Découverte de serveur, permettant de rendre un serveur visible à tous les utilisateurs Discord qui recherchent de nouvelles communautés.
 
 ![Discovery](https://i.dfr.gg/0SC.png)
 
 Pour apparaître dans Discovery, il faut remplir plusieurs conditions :
 
 <img alt="Discovery conditions" src="https://i.dfr.gg/d3l.png" width="" height="416" />
-
-:::note
-Le nombre de membres pour être éligible à la découverte de serveurs est susceptible d'être réduit.
-
-Une fois la Discovery activée, il y a la possibilité de configurer plusieurs options :
- - Les images qui s'affichent, ainsi que l'emoji mis en valeur.
- 
-<img alt="Image Discovery Activée" src="https://i.dfr.gg/Bqw.png" width="" height="435" />
- 
-  - Le référencement.
-  
-<img alt="Référencement Discovery" src="https://i.dfr.gg/t7m.png" width="" height="435" />
-
-> La possibilité de postuler au programme partenaire.
-
-La communauté de serveur donne accès à une page dédiée au partenariat Discord.
-
-<img alt="Programme Partenaire page de candidature" src="https://i.dfr.gg/86q.png" width="" height="465" />
-
-> La gestion des critères d'accueil.
-
-<img alt="Critères d'accueil" src="https://i.dfr.gg/1Wm.png" width="" height="435" />
-
-Il y a aussi la possibilité d'ajouter : 
-- Des règles résumant celles du serveur.
-
-<img alt="Règles du serveur" src="https://i.dfr.gg/rYJ.png" width="" height="335" /> 
-
- - Une réponse courte.
- - Un paragraphe.
- - Un questionnaire à choix multiples.
- - Une obligation de vérifier telle ou telle connexion Discord.
