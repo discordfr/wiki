@@ -17,23 +17,23 @@ Discord a mis en place, en août 2020 la possibilité de définir son serveur co
 
 Pour activer la Communauté de serveur, il faut se rendre dans les **Paramètres du serveur**, puis aller dans l'onglet **Activer la communauté**. Il suffit ensuite de cliquer sur "Activer la communauté".
 
-<img alt="Activation du serveur communautaire" src="https://i.dfr.gg/WJm.png" width="" height="412"/>
+<img alt="Activation du serveur communautaire" src="https://i.dfr.gg/Ra86.png" width="" height="412"/>
 
 ### Différentes étapes à réaliser afin d'activer le mode communautaire
 
  - La première étape consiste à obliger les membres du serveur à avoir une adresse e-mail vérifiée et d'autoriser l'analyse des contenus médias de tous les membres.
  
- <img alt="Première étape - Activer la Communauté de serveur" src="https://i.dfr.gg/vUc.png" width="" height="412"/>
+ <img alt="Première étape - Activer la Communauté de serveur" src="https://i.dfr.gg/aRtm.png" width="" height="412"/>
  
  - La deuxième étape consiste à créer ou définir un salon pour les règles du serveur ou la charte d'utilisation et un autre qui accueillera les mises à jour de la communauté. Le salon qui héberge les règles aura une icône spéciale : <img src="https://i.dfr.gg/bt8.png" width="16" height="16" />
  
- <img alt="Deuxième étape - Activer la communauté de serveur" src="https://i.dfr.gg/RAe.png" width="" height="412" />
+ <img alt="Deuxième étape - Activer la communauté de serveur" src="https://i.dfr.gg/Mfob.png" width="" height="412" />
  
  - La troisième et dernière étape consiste à définir les notifications du serveur par défaut sur `Mentions seulement` ainsi qu'à désactiver les permissions risquées pour `@everyone` (les permissions risquées sont : Administrateur, Expulser des membres, Bannir des membres, Gérer le serveur, Gérer les salons, Gérer les rôles, Gérer les messages, Gérer les emojis, Création d'emoji, Gérer les événements, Créer des événements, Modérer les membres, Mentionner @everyone et Gérer les messages officiels).
  
 Il faudra déclarer que le serveur respecte la [Charte d'Utilisation des serveurs de communauté](https://support.discord.com/hc/fr/articles/360035969312-Charte-d-utilisation-des-serveurs-communautaires).
  
-<img alt="Troisième étape - Activer la communauté de serveur" src="https://i.dfr.gg/H7v.png" width="" height="412" />
+<img alt="Troisième étape - Activer la communauté de serveur" src="https://i.dfr.gg/m3AS.png" width="" height="412" />
  
 ## Avantages des serveurs communautaires
 
