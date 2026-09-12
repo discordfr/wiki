@@ -296,8 +296,6 @@ A comme rendu :
 La mention de tout types de salons, posts, fils de discussion et messages privés est possible.
 Les catégories sont aussi mentionables, mais ne seront pas cliquable.
 
----
-
 Il est aussi possible d'utiliser le lien du salon afin de le mentionner.
 :::
 </TabItem>
@@ -435,8 +433,8 @@ Cela affiche sous le format par défaut : date longue et l'heure courte (`f`).
 
 ### Formatage de liens
 
-#### Suppression d'embed généré
-
+<Tabs defaultValue="lien-hypertexte" queryString="formatage-de-liens">
+<TabItem value="suppression-embed" label="Suppression d'embed généré">
 Afin de supprimer l'embed généré par un lien, il suffit de mettre les signes plus petit que (<code>&lt;</code>) et plus grand que (<code>&gt;</code>) autour du lien en question.
 
 Par exemple, le texte suivant :
@@ -458,18 +456,15 @@ Alors qu'avec les signes :
 Cela n'affiche pas l'embed :
 
 ![Pas d'embed du lien](https://i.dfr.gg/MtYW.webp)
-
----
-
-#### Lien hypertexte
-
+</TabItem>
+<TabItem value="lien-hypertexte" label="Lien hypertexte">
 Afin de rendre un texte cliquable, tel un lien, il suffit de prendre le format : <code>[texte à afficher](https://example.com)</code>.
 
 Il est aussi possible d'y rajouter un texte dans l'info-bulle, en rajoutant <code>'texte au survol'</code> à l'intérieur des crochets.
 
-Par exemple, le texte suivant [:](https://printer.discord.com)
-
 ![Info-bulle au survol](https://i.dfr.gg/eoWV.webp)
+
+Par exemple, le texte suivant [:](https://printer.discord.com)
 
 ```
 [Anciennement discord.fr](<https://dfr.gg> 'DFR') : un site à propos de Discord.
@@ -480,8 +475,59 @@ A comme rendu :
 ![Lien hypertexte](https://i.dfr.gg/fKoA.webp)
 
 :::note
-Il est aussi possible de [supprimer l'embed du lien](#suppression-dembed-généré).
+Il est aussi possible de [supprimer l'embed du lien](#formatage-de-liens?formatage-de-liens=suppression-embed).
 :::
+</TabItem>
+<TabItem value="mailto" label="Adresse email">
+Une adresse email peut être rendue cliquable avec le format, dans l'ordre :
+
+1. Le signe plus petit que : <code>&lt;</code>
+2. Optionellement suivi de <code>mailto:</code>
+3. <code>nom@addresse</code>
+4. Optionellement des paramètres tel que l'URI html correspondante au `mailto`
+  * Exemple : <code>?subject=Sujet&body=Contenu%20du%20mail</code>
+5. Et finissant par le signe plus grand que : <code>&gt;</code>
+
+Par exemple, le texte suivant :
+
+```
+Lien simple : <hello@dfr.gg>
+Lien avec toutes les options : [lien hypertexte utilisant l'URL mailto](<mailto:hello@dfr.gg?subject=Exemple%20Markdown>)
+```
+
+Apparaît tel que :
+
+![Liens des addresses mail](https://i.dfr.gg/dQtA.png)
+
+:::note
+Il est uniquement possible de modifier le texte d'une addresse mail quand `mailto:` est utilisé avec le format classique des liens hypertexte.
+:::
+</TabItem>
+<TabItem value="tel-sms" label="Numéro de téléphone">
+Il est possible de rendre cliquable un numéro de téléphone en utilisant le format :
+
+1. Le signe plus petit que : <code>&lt;</code>
+2. Optionellement <code>tel:</code> ou <code>sms:</code>
+3. Le signe plus : <code>+</code>, optionnel si le paramètre précédent est utilisé
+4. Le numéro de téléphone
+5. Puis fermer avec le signe plus grand que : <code>&gt;</code>
+
+Le texte suivant :
+
+```
+Lien simple : <+33 (0)1 23 45 67 89>
+Lien utilisant l'URI : <tel:01 23 45 67 89>/<sms:+33(0)123456789>
+```
+
+Est affiché comme cela :
+
+![Liens des numéros de téléphone](https://i.dfr.gg/sJgb.png)
+
+:::note
+Contrairement à l'addresse mail, il n'est pas possible d'utiliser des liens hypertextes avec des numéros de téléphone.
+:::
+</TabItem>
+</Tabs>
 
 ## La mise en forme rapide
 
