@@ -60,7 +60,7 @@ Les analyses de serveur permettent de visualiser le nombre de serveurs recevant 
 
 L'accès aux statistiques du serveur se fait depuis les paramètres du serveur, onglet **Analyses du serveur**.
 
-<img alt="Accès aux statistiques du serveur" src="https://i.dfr.gg/UO4.png" width="" height="454" />
+![Accès aux statistiques du serveur](https://i.dfr.gg/UO4.png)
 
 Une page s'ouvrira ensuite, avec les analyses du serveur.
 
