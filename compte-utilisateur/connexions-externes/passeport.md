@@ -54,7 +54,7 @@ L'utilisateur a la possibilité de paramétrer ses connexions à travers l'ongle
  
 ![Affichage de la connexion dans l'onglet des paramètres](https://i.dfr.gg/mhA.png) 
     
-![Affichage de la connexion sur le profil](https://i.dfr.gg/95E.png)
+![Affichage de la connexion sur le profil](https://i.dfr.gg/YyNa.png)
 
 ## Désactiver l'affichage dans le profil/Supprimer la connexion
 ### Désactiver l'affichage sur le profil 
