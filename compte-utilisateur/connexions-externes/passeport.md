@@ -59,7 +59,7 @@ Puis, une fois synchronisée avec succès, elle s'affichera dans l'onglet `Conne
 ![Affichage de la connexion sur le profil](https://i.dfr.gg/YyNa.png)
 
 ## Désactiver l'affichage dans le profil/Supprimer la connexion
-### Désactiver l'affichage sur le profil 
+## Retirer la connexion
 
 Les utilisateurs disposent de la possibilité de désactiver l'affichage de la connexion sur votre profil en désélectionnant l'icône ✅ :
 
