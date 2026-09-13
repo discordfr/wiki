@@ -111,7 +111,7 @@ Pour qu'un message d'un salon d'annonce s'affiche sur les serveurs qui le suiven
 
 Le mode Découverte permet de rendre un serveur visible à tous les utilisateurs Discord qui recherchent de nouvelles communautés, en rendant recherchable le serveur via l'onglet "Découvrir" présent en bas de la liste des serveurs des utilisateurs.
 
-![Discovery](https://i.dfr.gg/9DBi.png)
+![Discovery](https://i.dfr.gg/FX7P.png)
 
 
 Pour apparaître dans Discovery, il faut remplir plusieurs conditions :
