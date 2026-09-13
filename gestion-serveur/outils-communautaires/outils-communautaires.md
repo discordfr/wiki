@@ -64,7 +64,7 @@ Une page s'ouvrira ensuite, avec les analyses du serveur.
 Le processus d'accueil permet aux nouveaux arrivants d'ajuster leur propre expérience sur le serveur suivant la façon dont ils veulent y participer.
 Grâce au processus d'accueil il est possible : d'aider les membres à choisir des salons et des rôles supplémentaires, saluer chaque membre et les aider à participer mais encore choisir les salons que les nouveaux membres verront en premier.
 
-<img alt="Processus d'accueil" src="https://i.dfr.gg/BAd.png" width="" height="545" />
+![Processus d'acceuil](https://i.dfr.gg/SvLw.png)
 
 Pour activer/configurer ce menu, il faut aller dans les Paramètres du serveur, onglet **Processus d'accueil**.
 
