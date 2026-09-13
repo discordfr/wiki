@@ -45,7 +45,7 @@ Les serveurs de communauté douvent déclarer application de la [Charte d'utilis
  
 ![Troisième étape - Activer la communauté de serveur](https://i.dfr.gg/m3AS.png)
  
-## Avantages des serveurs communautaires
+## Fonctionnalitées
 
 Activer la **Communauté de serveur** permet à votre serveur d'accéder à plusieurs avantages.
 
