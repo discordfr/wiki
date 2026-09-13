@@ -94,7 +94,7 @@ Un nouveau type de salon s'affichera alors.
 2. Pour qu'un message d'un salon d'annonces s'affiche sur les serveurs qui le suivent, il faut le publier.
 :::
 
-> La possibilité d'activer le **mode Découverte**
+### Activation de la découverte de serveurs
 
 Le mode Découverte permet d'activer la Découverte de serveur, permettant de rendre un serveur visible à tous les utilisateurs Discord qui recherchent de nouvelles communautés.
 
