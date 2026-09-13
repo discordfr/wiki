@@ -1,5 +1,5 @@
 ---
-title: Les connexions officielles
+title: Connexions officielles
 keywords:
   - discord
   - connexions
