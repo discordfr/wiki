@@ -41,7 +41,7 @@ Voici la liste des sites avec lesquels il est possible de relier son compte :
  - La plateforme de diffusion en direct [Twitch](https://twitch.tv).
  - Le service de VOD communautaire [Youtube](https://youtube.com). 
 
-![Toutes les possibilités de connexion](https://i.dfr.gg/6YU9.png)
+![Toutes les possibilités de connexion](https://i.dfr.gg/JWcm.png)
 
 
 ## Relier son compte Discord à l'une des connexions
