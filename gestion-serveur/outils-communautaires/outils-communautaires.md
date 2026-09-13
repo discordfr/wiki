@@ -81,7 +81,7 @@ Pour activer/configurer ce menu, l'utilisateur doit accéder aux paramètres du 
 
 ![Activer le processus d'accueil](https://i.dfr.gg/AbrU.png)
 
- - Configurer le processus d'accueil.
+Une fois activé, plusieurs paramètres sont disponibles sur la sécurité, sur les salons visibles par défaut, sur les questions de personnalisation ainsi que le guide du serveur.
  
 <img alt="Configurer le processus d'accueil" src="https://i.dfr.gg/hRp.png" width="" height="385" />
 
