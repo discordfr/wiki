@@ -91,7 +91,8 @@ Une fois activé, plusieurs paramètres sont disponibles sur la sécurité, sur 
 
 ### Salon d'annonce
 
-Les utilisateurs peuvent suivre un salon d'annonces sur leurs propres serveurs. Les posts qui seront publiés dans salon apparaîtront sur ces serveurs.
+Les membres peuvent suivre un salon d'annonce sur leurs propres serveurs.
+Les messages publiés apparaîssent sur tous les salons suivant le salon d'annonce correspondant.
 
 <img alt="Suivre un salon d'annonces" src="https://i.dfr.gg/eLp.png" width="" height="385" />
 
