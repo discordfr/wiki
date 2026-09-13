@@ -53,7 +53,10 @@ Activer la **Communauté de serveur** permet à votre serveur d'accéder à plus
 
 ### Analyses de serveur
 
-Les analyses de serveur permettent de visualiser le nombre de serveurs recevant les annonces de tel ou tel salon, mais encore, **si le serveur a plus de 500 membres**, d'accéder aux statistiques sur la croissance du nombre de membres, l'engagement mais aussi l'audience.
+Les analyses de serveur permettent de visualiser le nombre de serveurs recevant les messages annoncés des salons d'annonces ainsi que le nombre de membres visualisant l'écran d'acceuil.
+**Si le serveur a plus de 500 membres**, l'utilisateur peut aussi accéder aux statistiques sur la croissance, sur la participation et sur le public touché.
+
+> En savoir plus : [aller sur la page](/wiki/gestion-serveur/outils-communautaires/insights 'Statistiques de serveur')
 
 L'accès aux statistiques du serveur se fait depuis les paramètres du serveur, onglet **Analyses du serveur**.
 
