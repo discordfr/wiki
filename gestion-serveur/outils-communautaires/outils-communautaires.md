@@ -20,7 +20,8 @@ Ils ont notamment l'accès à des statistiques, à des fonctionnalités de modé
 
 ## Activation de la communauté
 
-Pour activer la Communauté de serveur, il faut se rendre dans les **Paramètres du serveur**, puis aller dans l'onglet **Activer la communauté**. Il suffit ensuite de cliquer sur "Activer la communauté".
+La communauté de serveur peut être activée par l'**administrateur** de serveur, via les **paramètres du serveur**.
+Dans l'onglet "**Activer la communauté**" se trouve un bouton du même nom qui permet d'accéder à toutes les fonctionnalitées liées.
 
 <img alt="Activation du serveur communautaire" src="https://i.dfr.gg/Ra86.png" width="" height="412"/>
 
