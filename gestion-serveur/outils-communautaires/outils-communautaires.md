@@ -30,7 +30,7 @@ Dans l'onglet "**Activer la communauté**" se trouve un bouton du même nom qui 
 La première étape permet d'optionellement obliger les membres du serveur à avoir une adresse e-mail vérifiée sur leur compte Discord.
 Elle permet aussi à Discord d'analyser les contenus médias de tous les membres.
  
- <img alt="Première étape - Activer la Communauté de serveur" src="https://i.dfr.gg/aRtm.png" width="" height="412"/>
+![Première étape - Activer la Communauté de serveur](https://i.dfr.gg/aRtm.png)
  
 La deuxième étape consiste à créer ou définir un salon pour les règles du serveur (aussi appelée charte d'utilisation) et un second qui accueillera les mises à jour de la communauté.
 Le salon qui héberge les règles aura une icône spéciale :
