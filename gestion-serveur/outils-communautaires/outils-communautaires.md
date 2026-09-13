@@ -36,7 +36,7 @@ Le salon qui héberge les règles aura une icône spéciale :
 
 ![Salon des règles](https://i.dfr.gg/fat1.png)
  
- <img alt="Deuxième étape - Activer la communauté de serveur" src="https://i.dfr.gg/Mfob.png" width="" height="412" />
+![Deuxième étape - Activer la communauté de serveur](https://i.dfr.gg/Mfob.png)
  
  - La troisième et dernière étape consiste à définir les notifications du serveur par défaut sur `Mentions seulement` ainsi qu'à désactiver les permissions risquées pour `@everyone` (les permissions risquées sont : Administrateur, Expulser des membres, Bannir des membres, Gérer le serveur, Gérer les salons, Gérer les rôles, Gérer les messages, Gérer les emojis, Création d'emoji, Gérer les événements, Créer des événements, Modérer les membres, Mentionner @everyone et Gérer les messages officiels).
  
