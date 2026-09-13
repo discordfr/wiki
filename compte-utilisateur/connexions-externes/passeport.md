@@ -46,7 +46,7 @@ Voici la liste des sites avec lesquels il est possible de relier son compte :
 
 ## Relier son compte Discord à l'une des connexions
 
-L'utilisateur a la possibilité de paramétrer ses connexions à travers l'onglet `Connexions` dans ses paramètres utilisateur.
+L'utilisateur a la possibilité de paramétrer ses connexions à travers l'onglet `Applications connectées` > `Connexions` dans ses **paramètres utilisateur**.
 
 ![Onglet Connexions](https://i.dfr.gg/CzF.png)
 
