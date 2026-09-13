@@ -31,7 +31,10 @@ Dans l'onglet "**Activer la communauté**" se trouve un bouton du même nom qui 
  
  <img alt="Première étape - Activer la Communauté de serveur" src="https://i.dfr.gg/aRtm.png" width="" height="412"/>
  
- - La deuxième étape consiste à créer ou définir un salon pour les règles du serveur ou la charte d'utilisation et un autre qui accueillera les mises à jour de la communauté. Le salon qui héberge les règles aura une icône spéciale : <img src="https://i.dfr.gg/bt8.png" width="16" height="16" />
+La deuxième étape consiste à créer ou définir un salon pour les règles du serveur (aussi appelée charte d'utilisation) et un second qui accueillera les mises à jour de la communauté.
+Le salon qui héberge les règles aura une icône spéciale :
+
+![Salon des règles](https://i.dfr.gg/fat1.png)
  
  <img alt="Deuxième étape - Activer la communauté de serveur" src="https://i.dfr.gg/Mfob.png" width="" height="412" />
  
