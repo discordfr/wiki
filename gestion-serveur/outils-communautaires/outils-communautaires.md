@@ -100,7 +100,7 @@ Les messages publiés apparaîssent sur tous les salons suivant le salon d'annon
 
 ![Création de salon d'annonce](https://i.dfr.gg/Ll2b.png)
 
-:::note Notes :
+:::note
 1. Si un message publié d'un salon d'annonces est édité, il s'éditera dans les autres serveurs. Si le message est supprimé, l'information `[Message d'origine supprimé].` s'affichera.
 2. Pour qu'un message d'un salon d'annonces s'affiche sur les serveurs qui le suivent, il faut le publier.
 :::
