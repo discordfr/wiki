@@ -96,7 +96,7 @@ Les messages publiés apparaîssent sur tous les salons suivant le salon d'annon
 
 ![Suivre un salon d'annonce](https://i.dfr.gg/eLp.png)
 
-Un nouveau type de salon s'affichera alors.
+À la création d'un salon, ou dans les paramètres de salon textuel, il est possible de définir un salon de type annonce.
 
 <img alt="Nouveau type de salon" src="https://i.dfr.gg/z9T.png" width="" height="425" />
 
