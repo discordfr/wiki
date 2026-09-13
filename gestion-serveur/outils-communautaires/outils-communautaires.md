@@ -43,7 +43,7 @@ La troisième et dernière étape consiste à définir les notifications du serv
  
 Les serveurs de communauté douvent déclarer application de la [Charte d'utilisation des serveurs communautaires](https://support.discord.com/hc/articles/360035969312).
  
-<img alt="Troisième étape - Activer la communauté de serveur" src="https://i.dfr.gg/m3AS.png" width="" height="412" />
+![Troisième étape - Activer la communauté de serveur](https://i.dfr.gg/m3AS.png)
  
 ## Avantages des serveurs communautaires
 
