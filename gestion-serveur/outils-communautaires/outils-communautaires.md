@@ -102,4 +102,5 @@ Le mode Découverte permet de rendre un serveur visible à tous les utilisateurs
 
 Pour apparaître dans Discovery, il faut remplir plusieurs conditions :
 
-<img alt="Discovery conditions" src="https://i.dfr.gg/d3l.png" width="" height="416" />
+![Conditions d'activation de la découverte](https://i.dfr.gg/2aCg.png)
+
