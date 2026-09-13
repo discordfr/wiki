@@ -49,7 +49,7 @@ Les serveurs de communauté douvent déclarer application de la [Charte d'utilis
 
 Activer la **Communauté de serveur** permet à votre serveur d'accéder à plusieurs avantages.
 
-<img alt="Avantages d'un serveur communautaire" src="https://i.dfr.gg/oRI.png" width="" height="412" />
+![Avantages d'un serveur communautaire](https://i.dfr.gg/gSA9.png)
 
 > Analyses de serveur
 
