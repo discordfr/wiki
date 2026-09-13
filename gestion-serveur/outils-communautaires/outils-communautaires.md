@@ -25,7 +25,7 @@ Dans l'onglet "**Activer la communauté**" se trouve un bouton du même nom qui 
 
 ![Activation du serveur communautaire](https://i.dfr.gg/Ra86.png)
 
-### Différentes étapes à réaliser afin d'activer le mode communautaire
+### Étapes de préparation
 
  - La première étape consiste à obliger les membres du serveur à avoir une adresse e-mail vérifiée et d'autoriser l'analyse des contenus médias de tous les membres.
  
