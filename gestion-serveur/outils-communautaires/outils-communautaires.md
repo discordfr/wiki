@@ -83,7 +83,7 @@ Pour activer/configurer ce menu, l'utilisateur doit accéder aux paramètres du 
 
 Une fois activé, plusieurs paramètres sont disponibles sur la sécurité, sur les salons visibles par défaut, sur les questions de personnalisation ainsi que le guide du serveur.
  
-<img alt="Configurer le processus d'accueil" src="https://i.dfr.gg/hRp.png" width="" height="385" />
+![Configurer le processus d'acceuil](https://i.dfr.gg/E7Cb.png)
 
 :::note Notes : 
 1. Pour utiliser des emojis personnalisés dans le processus d'accueil, le serveur doit avoir débloqué le niveau 2 des [niveau de boosts de serveur](https://dfr.gg/wiki/contenu-payant/boost-serveur#niveau-2).
