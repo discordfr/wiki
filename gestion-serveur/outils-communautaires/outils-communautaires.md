@@ -64,7 +64,7 @@ L'accès aux statistiques du serveur se fait depuis les paramètres du serveur, 
 
 Une page s'ouvrira ensuite, avec les analyses du serveur.
 
-<img alt="Analyses du serveur" src="https://i.dfr.gg/cQg.png" width="" height="454" />
+![Analyses du serveur](https://i.dfr.gg/KCxY.png)
 
 ### Processus d'accueil 
 
