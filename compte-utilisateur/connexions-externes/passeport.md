@@ -14,7 +14,7 @@ Discord propose aux utilisateurs de relier et de synchroniser leur compte à de 
 Il s'agit principalement de réseaux sociaux, de plateformes de streaming ainsi que de jeux.
 Ces connexions sont officielles, et ne sont pas à confondre avec les [applications tierces](/wiki/compte-utilisateur/connexions-externes/applications).
 
-## Les connexions disponibles
+## Connexions disponibles
 
 Voici la liste des sites avec lesquels il est possible de relier son compte :
 
