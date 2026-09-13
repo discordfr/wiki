@@ -11,7 +11,7 @@ keywords:
 - communauté
 - communautaire
 - programme
-description: Les serveurs communautaires sur discord
+description: Les fonctionnalitées associées aux serveurs ayant activés la communauté
 contributors: [luke]
 ---
 
