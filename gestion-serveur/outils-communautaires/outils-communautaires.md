@@ -41,7 +41,7 @@ Le salon qui héberge les règles aura une icône spéciale :
  
 La troisième et dernière étape consiste à définir les notifications du serveur par défaut sur `Mentions seulement` ainsi qu'à désactiver les permissions risquées pour `@everyone` (les permissions risquées sont : Administrateur, Expulser des membres, Bannir des membres, Gérer le serveur, Gérer les salons, Gérer les rôles, Gérer les messages, Gérer les emojis, Création d'emoji, Gérer les événements, Créer des événements, Modérer les membres, Mentionner @everyone et Gérer les messages officiels).
  
-Il faudra déclarer que le serveur respecte la [Charte d'Utilisation des serveurs de communauté](https://support.discord.com/hc/fr/articles/360035969312-Charte-d-utilisation-des-serveurs-communautaires).
+Les serveurs de communauté douvent déclarer application de la [Charte d'utilisation des serveurs communautaires](https://support.discord.com/hc/articles/360035969312).
  
 <img alt="Troisième étape - Activer la communauté de serveur" src="https://i.dfr.gg/m3AS.png" width="" height="412" />
  
