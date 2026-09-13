@@ -67,7 +67,7 @@ Voici la liste des sites avec lesquels il est possible de relier son compte :
 
 L'utilisateur a la possibilité de paramétrer ses connexions à travers l'onglet `Applications connectées` > `Connexions` dans ses **paramètres utilisateur**.
 
-![Onglet Connexions](https://i.dfr.gg/CzF.png)
+![Onglet applications connectées](https://i.dfr.gg/41xU.png)
 
 Chaque connexion se configure en cliquant sur l'icône de la plateforme de son choix.
 Une fois cela fait, l'utilisateur devra accepter la synchronisation entre la plateforme et Discord.
