@@ -50,7 +50,9 @@ L'utilisateur a la possibilité de paramétrer ses connexions à travers l'ongle
 
 ![Onglet Connexions](https://i.dfr.gg/CzF.png)
 
- Chaque connexion se configure en cliquant sur l'icône de la plateforme de son choix. Une fois cela fait, l'utilisateur devra accepter la synchronisation entre la plateforme et Discord. Puis, une fois synchronisée avec succès, elle s'affichera dans l'onglet `Connexions` des paramètres de l'utilisateur ainsi que sur son profil s'il souhaite l'activer.
+Chaque connexion se configure en cliquant sur l'icône de la plateforme de son choix.
+Une fois cela fait, l'utilisateur devra accepter la synchronisation entre la plateforme et Discord.
+Puis, une fois synchronisée avec succès, elle s'affichera dans l'onglet `Connexions` des paramètres de l'utilisateur ainsi que sur son profil s'il souhaite l'activer.
  
 ![Affichage de la connexion dans l'onglet des paramètres](https://i.dfr.gg/mhA.png) 
     
