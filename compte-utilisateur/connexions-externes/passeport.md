@@ -5,7 +5,13 @@ keywords:
   - connexions
   - officielles
   - compte
-  - tutoriel
+keywords:
+  - connexion
+  - officiel
+  - compte
+  - profil
+  - relier
+  - liaison
 description: Afficher ses différents comptes et autres liens externes à Discord sur son profil
 contributors: [luke, ichii, dragrame, darkooo]
 ---
