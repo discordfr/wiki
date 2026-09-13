@@ -2,11 +2,6 @@
 title: Serveur communautaire
 slug: /gestion-serveur/outils-communautaires
 keywords:
-  - discord
-  - serveur
-  - communautaires
-  - programmes
-keywords:
 - serveur
 - communauté
 - communautaire
