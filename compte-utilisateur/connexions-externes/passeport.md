@@ -39,7 +39,26 @@ Voici la liste des sites avec lesquels il est possible de relier son compte :
  - La société de développement de jeux [Epic Games](https://www.epicgames.com/). 
  - Le site d'hébergement de code source [Github](https://github.com).
  - La plateforme de diffusion en direct [Twitch](https://twitch.tv).
- - Le service de VOD communautaire [Youtube](https://youtube.com). 
+- L'éditeur de jeux vidéo [Riot Games](https://www.riotgames.com/fr) ;
+- Le réseau social décentralisé, [Bluesky](https://bsky.app/) ;
+- La plateforme d’achat et de vente en ligne, [Ebay](https://ebay.fr/) ;
+- La plateforme de jeu [PlayStation Network](https://playstation.com/) ;
+- Le service d'abonnement de musique premium, [Amazon Music](https://music.amazon.fr/) ;
+- Le site de gestion de communautés de jeux Bungie, [Bungie.net](https://www.bungie.net/7) ;
+- Le service de paiement en ligne, [PayPal](https://www.paypal.com/fr/home) ;
+- Le forum communautaire [Reddit](https://reddit.com/) ;
+- Le service d'achat de jeux dématérialisés [Steam](https://store.steampowered.com/) ;
+- La plateforme de discussion en ligne [X (anciennement Twitter)](https://x.com/) ;
+- Le service de vidéo à la demande, [Crunchyroll](https://crunchyroll.com/) ;
+- Le service de streaming musical [Spotify](https://spotify.com/), vous pouvez retrouver un [article dédié à cette connexion ici](/wiki/compte-utilisateur/connexions-externes/spotify) ;
+- Le service jeu en ligne de Microsoft, [Xbox Live](https://xbox.com/) ;
+- Un nom de domaine personnalisé ;
+- La société de développement de jeux [Epic Games](https://www.epicgames.com/) ;
+- Le réseau social [Facebook](https://facebook.com/) ;
+- Le site d'hébergement de code source [Github](https://github.com/) ;
+- La plateforme de création et de jeu, [Roblox](https://www.roblox.com/fr/home) ;
+- La plateforme de diffusion en direct [Twitch](https://twitch.tv/) ;
+- Le service de VOD communautaire [Youtube](https://youtube.com/) ;
 
 ![Toutes les possibilités de connexion](https://i.dfr.gg/JWcm.png)
 
