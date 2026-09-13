@@ -75,7 +75,7 @@ Grâce au processus d'accueil il est possible : d'aider les membres à choisir d
 
 ![Processus d'acceuil](https://i.dfr.gg/SvLw.png)
 
-Pour activer/configurer ce menu, il faut aller dans les Paramètres du serveur, onglet **Processus d'accueil**.
+Pour activer/configurer ce menu, l'utilisateur doit accéder aux paramètres du serveur, onglet **Processus d'accueil**.
 
  - Cliquer sur "Y jeter un œil".
 
