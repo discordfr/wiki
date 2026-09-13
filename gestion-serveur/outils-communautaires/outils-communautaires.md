@@ -103,7 +103,8 @@ Les messages publiés apparaîssent sur tous les salons suivant le salon d'annon
 :::note
 Si un message publié d'un salon d'annonces est modifié, il s'éditera dans les autres serveurs.
 Si le message d'origine est supprimé, l'information `[Message d'origine supprimé]` s'affichera dans les autres serveurs.
-2. Pour qu'un message d'un salon d'annonces s'affiche sur les serveurs qui le suivent, il faut le publier.
+
+Pour qu'un message d'un salon d'annonce s'affiche sur les serveurs qui le suivent, il faut le publier.
 :::
 
 ### Activation de la découverte de serveurs
