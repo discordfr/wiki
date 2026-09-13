@@ -12,7 +12,7 @@ keywords:
 - communautaire
 - programme
 description: Les fonctionnalitées associées aux serveurs ayant activés la communauté
-contributors: [luke]
+contributors: [luke, darkooo]
 ---
 
 Les **serveurs communautaires**, qui sont apparus depuis août 2020, ont accès à des fonctionnalitées supplémentaires par rapport aux serveurs "privés" (n'ayant pas activé la communauté).
