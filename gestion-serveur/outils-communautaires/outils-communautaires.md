@@ -6,7 +6,11 @@ keywords:
   - serveur
   - communautaires
   - programmes
-  - tutoriel
+keywords:
+- serveur
+- communauté
+- communautaire
+- programme
 description: Les serveurs communautaires sur discord
 contributors: [luke]
 ---
