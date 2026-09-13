@@ -51,7 +51,7 @@ Activer la **Communauté de serveur** permet à votre serveur d'accéder à plus
 
 ![Avantages d'un serveur communautaire](https://i.dfr.gg/gSA9.png)
 
-> Analyses de serveur
+### Analyses de serveur
 
 Les analyses de serveur permettent de visualiser le nombre de serveurs recevant les annonces de tel ou tel salon, mais encore, **si le serveur a plus de 500 membres**, d'accéder aux statistiques sur la croissance du nombre de membres, l'engagement mais aussi l'audience.
 
