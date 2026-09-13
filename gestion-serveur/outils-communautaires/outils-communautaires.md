@@ -98,7 +98,7 @@ Les messages publiés apparaîssent sur tous les salons suivant le salon d'annon
 
 À la création d'un salon, ou dans les paramètres de salon textuel, il est possible de définir un salon de type annonce.
 
-<img alt="Nouveau type de salon" src="https://i.dfr.gg/z9T.png" width="" height="425" />
+![Création de salon d'annonce](https://i.dfr.gg/Ll2b.png)
 
 :::note Notes :
 1. Si un message publié d'un salon d'annonces est édité, il s'éditera dans les autres serveurs. Si le message est supprimé, l'information `[Message d'origine supprimé].` s'affichera.
