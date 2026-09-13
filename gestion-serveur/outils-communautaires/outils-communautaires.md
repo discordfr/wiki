@@ -85,7 +85,7 @@ Une fois activé, plusieurs paramètres sont disponibles sur la sécurité, sur 
  
 ![Configurer le processus d'acceuil](https://i.dfr.gg/E7Cb.png)
 
-:::note Notes : 
+:::note
 Pour utiliser des emojis personnalisés dans le processus d'accueil, le serveur doit avoir débloqué le [niveau 2 des boosts de serveur](/wiki/contenu-payant/boost-serveur#niveau-2).
 :::
 
