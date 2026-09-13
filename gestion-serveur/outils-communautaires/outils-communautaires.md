@@ -23,7 +23,7 @@ Ils ont notamment l'accès à des statistiques, à des fonctionnalités de modé
 La communauté de serveur peut être activée par l'**administrateur** de serveur, via les **paramètres du serveur**.
 Dans l'onglet "**Activer la communauté**" se trouve un bouton du même nom qui permet d'accéder à toutes les fonctionnalitées liées.
 
-<img alt="Activation du serveur communautaire" src="https://i.dfr.gg/Ra86.png" width="" height="412"/>
+![Activation du serveur communautaire](https://i.dfr.gg/Ra86.png)
 
 ### Différentes étapes à réaliser afin d'activer le mode communautaire
 
