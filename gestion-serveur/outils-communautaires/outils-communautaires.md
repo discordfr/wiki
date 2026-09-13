@@ -15,7 +15,8 @@ description: Les fonctionnalitées associées aux serveurs ayant activés la com
 contributors: [luke]
 ---
 
-Discord a mis en place, en août 2020 la possibilité de définir son serveur comme un **serveur communautaire**. Ce programme permet au serveur de débloquer plusieurs avantages.
+Les **serveurs communautaires**, qui sont apparus depuis août 2020, ont accès à des fonctionnalitées supplémentaires par rapport aux serveurs "privés" (n'ayant pas activé la communauté).
+Ils ont notamment l'accès à des statistiques, à des fonctionnalités de modération supplémentaires ainsi qu'un processus d'acceuil des nouveaux membres.
 
 ## Activer le serveur communautaire.
 
