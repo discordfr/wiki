@@ -18,7 +18,7 @@ contributors: [luke]
 Les **serveurs communautaires**, qui sont apparus depuis août 2020, ont accès à des fonctionnalitées supplémentaires par rapport aux serveurs "privés" (n'ayant pas activé la communauté).
 Ils ont notamment l'accès à des statistiques, à des fonctionnalités de modération supplémentaires ainsi qu'un processus d'acceuil des nouveaux membres.
 
-## Activer le serveur communautaire.
+## Activation de la communauté
 
 Pour activer la Communauté de serveur, il faut se rendre dans les **Paramètres du serveur**, puis aller dans l'onglet **Activer la communauté**. Il suffit ensuite de cliquer sur "Activer la communauté".
 
