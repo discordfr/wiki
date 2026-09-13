@@ -96,7 +96,7 @@ Un nouveau type de salon s'affichera alors.
 
 ### Activation de la découverte de serveurs
 
-Le mode Découverte permet d'activer la Découverte de serveur, permettant de rendre un serveur visible à tous les utilisateurs Discord qui recherchent de nouvelles communautés.
+Le mode Découverte permet de rendre un serveur visible à tous les utilisateurs Discord qui recherchent de nouvelles communautés, en rendant recherchable le serveur via l'onglet "Découvrir" présent en bas de la liste des serveurs des utilisateurs.
 
 ![Discovery](https://i.dfr.gg/0SC.png)
 
