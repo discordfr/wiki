@@ -27,7 +27,8 @@ Dans l'onglet "**Activer la communauté**" se trouve un bouton du même nom qui 
 
 ### Étapes de préparation
 
- - La première étape consiste à obliger les membres du serveur à avoir une adresse e-mail vérifiée et d'autoriser l'analyse des contenus médias de tous les membres.
+La première étape permet d'optionellement obliger les membres du serveur à avoir une adresse e-mail vérifiée sur leur compte Discord.
+Elle permet aussi à Discord d'analyser les contenus médias de tous les membres.
  
  <img alt="Première étape - Activer la Communauté de serveur" src="https://i.dfr.gg/aRtm.png" width="" height="412"/>
  
