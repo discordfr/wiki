@@ -89,7 +89,7 @@ Une fois activé, plusieurs paramètres sont disponibles sur la sécurité, sur 
 1. Pour utiliser des emojis personnalisés dans le processus d'accueil, le serveur doit avoir débloqué le niveau 2 des [niveau de boosts de serveur](https://dfr.gg/wiki/contenu-payant/boost-serveur#niveau-2).
 :::
 
-> Les salons d'annonces
+### Salon d'annonce
 
 Les utilisateurs peuvent suivre un salon d'annonces sur leurs propres serveurs. Les posts qui seront publiés dans salon apparaîtront sur ces serveurs.
 
