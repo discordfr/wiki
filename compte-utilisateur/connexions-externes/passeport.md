@@ -6,7 +6,7 @@ keywords:
   - officielles
   - compte
   - tutoriel
-description: Les connexions officielles sur discord
+description: Afficher ses différents comptes et autres liens externes à Discord sur son profil
 contributors: [luke, ichii, dragrame, darkooo]
 ---
 
