@@ -115,5 +115,12 @@ Le mode Découverte permet de rendre un serveur visible à tous les utilisateurs
 
 Pour apparaître dans Discovery, il faut remplir plusieurs conditions :
 
+- Respecter la [Charte d'Utilisation de la Communauté](https://discord.com/guidelines) ainsi que de maintenir un serveur sécurisé.
+- Avoir un serveur comptant au moins 1000 membres pour être éligible.
+- Avoir un serveur ayant au minimum 8 semaines d'ancienneté.
+- Avoir un serveur remplissant certaines conditions d'activité.
+- Avoir un serveur sans contenu inapproprié.
+- Activer l'authentification à deux facteurs pour tous les membres disposant de pouvoirs de configuration.
+
 ![Conditions d'activation de la découverte](https://i.dfr.gg/2aCg.png)
 
