@@ -79,7 +79,7 @@ Pour activer/configurer ce menu, l'utilisateur doit accéder aux paramètres du 
 
  - Cliquer sur "Y jeter un œil".
 
-<img alt="Activer le processus d'accueil" src="https://i.dfr.gg/gzR.png" width="" height="445" />
+![Activer le processus d'accueil](https://i.dfr.gg/AbrU.png)
 
  - Configurer le processus d'accueil.
  
