@@ -7,6 +7,15 @@ short_slug: Wiki
 ---
 
 import {WikiCard, WikiCardGrid} from '@site/src/components/WikiCards';
+import SearchHero from '@theme/SearchHero';
+
+<div className="margin-vert--lg" data-search-ignore>
+  <SearchHero
+    context="wiki"
+    placeholder="Rechercher dans le wiki…"
+    suggestions={['Badges', 'Boost de serveur', 'Nitro', 'Permissions', 'A2F']}
+  />
+</div>
 
 Bienvenue sur le Wiki communautaire de Discord FR. Vous trouverez ici de nombreuses aides et astuces en français pour maîtriser Discord : configurer votre serveur, gérer vos paramètres de compte, découvrir les programmes communautaires et bien plus encore.
 
