@@ -493,3 +493,14 @@ Darkooo:
   socials:
     discord: "992619258964086917"
     github: DarkoooDev
+
+Cahtounet:
+  name: Cahtounet
+  discord_username: cahtounet
+  discord_badges:
+    - hypesquad_bravery
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "995388612701065288"
+    github: Cahtounet
