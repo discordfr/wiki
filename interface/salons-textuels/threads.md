@@ -26,7 +26,7 @@ Les utilisateurs ayant la permission "Envoyer des messages dans les fils" pourro
 
 ## Suppression
 
-L'utilisateur disposant de la permission "Gérer les fils et les posts" peut supprimer un fil de plusieurs façons :
+L'utilisateur disposant de la permission "Gérer les fils" peut supprimer un fil de plusieurs façons :
 
 * Cliquer sur les trois points en haut à droite du fil, puis sélectionner "Supprimer le fil" ;
 * Faire un clic droit sur le nom du fil dans la liste des salons, puis cliquer sur "Supprimer le fil" ;
@@ -37,7 +37,7 @@ L'utilisateur disposant de la permission "Gérer les fils et les posts" peut sup
 
 ## Configuration et personnalisation
 
-L'utilisateur possédant la permission "Gérer les fils et les posts" ou le créateur du fil peuvent accéder au menu de configuration de plusieurs façons :
+L'utilisateur possédant la permission "Gérer les fils" ou le créateur du fil peuvent accéder au menu de configuration de plusieurs façons :
 
 * Cliquer sur les trois points en haut à droite du fil, puis sélectionner "Modifier le fil" ;
 * Faire un clic droit sur le nom du fil dans la liste des salons, puis cliquer sur "Modifier le fil" ;
@@ -58,8 +58,11 @@ Contrairement aux noms de salons textuels, il est possible de mettre des espaces
 ### Mode lent
 
 Le mode lent fonctionne de la même manière que celui des salons textuels.
+
 Il permet de bloquer l'envoi consécutif de messages par un utilisateur sous la durée choisie.
+
 Les utilisateurs avec la permission "Ignorer le mode lent" sont exemptés de cette limitation.
+
 Ce paramètre est réservé à la permission "Gérer les fils".
 
 ![Mode lent](https://i.dfr.gg/QY3E.png)
@@ -85,20 +88,14 @@ Il est aussi rouvert automatiquement si une activité est détectée.
 
 ### Verrouillage
 
-Un thread peut être verrouiller par les utilisateurs disposant de la permission "Gérer les fils et les posts".
+Un fil peut être verrouillé par les utilisateurs disposant de la permission "Gérer les fils".
 
 Cela empêche toute interaction des autres utilisateurs avec le fil, hormis la lecture des messages.
 
-## Les permissions
-
-Voici la liste des permissions liées aux fils :
-- Créer des fils publics : permet de créer de nouveaux fils publics.
-- Créer des fils privés : permet de créer de nouveaux fils privés.
-- Envoyer des messages dans les fils : permet d'envoyer des messages dans tous les types de fils. 
-- Gérer les fils et les posts : capacité d'activer le mode lent, de supprimer et de fermer, verrouiller et déverrouiller les fils.
-
 ### Autres options
 
- - NSFW : Un fil est configuré comme NSFW (Not Safe For Work) si son salon parent l'est. Un message apparaît pour demander à l'utilisateur de confirmer qu'il a bien 18 ans car certaines images/liens/contenus dans le fil peuvent choquer un public non averti.
- - Spoiler : Si l'option est activée, un message apparaît pour demander à l'utilisateur s'il souhaite voir le contenu du fil, afin de le prévenir qu'il peut contenir des spoilers.
- - Tout le monde peut inviter : Uniquement disponible pour les fils privés, cette option permet, si désactivée, d'éviter que les utilisateurs autres que le créateur du fil ou des modérateurs puissent ajouter d'autres membres au fil en les mentionnant.
+- **NSFW** : Un fil est configuré comme NSFW (Not Safe For Work) si son salon parent l'est.
+  Un message apparaît pour demander à l'utilisateur de confirmer qu'il a bien 18 ans car certaines images/liens/contenus dans le fil peuvent choquer un public non averti.
+- **Spoiler** : Si l'option est activée, un message apparaît pour demander à l'utilisateur s'il souhaite voir le contenu du fil, afin de le prévenir qu'il peut contenir des spoilers.
+- **Tout le monde peut inviter** : Uniquement disponible pour les fils privés.
+  Cette option permet, si désactivée, d'éviter que les utilisateurs autres que le créateur du fil ou des modérateurs puissent ajouter d'autres membres au fil en les mentionnant.
