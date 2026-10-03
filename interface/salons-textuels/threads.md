@@ -44,7 +44,6 @@ L'utilisateur possédant la permission "Gérer les fils" ou le créateur du fil 
 * Cliquer sur la bobine de fil en haut à droite du salon parent, faire un clic droit sur le nom du fil, puis sélectionner "Modifier le fil" ;
 * Cliquer sur le nom du serveur, sélectionner "Fils actifs", faire un clic droit sur le nom du fil, puis sélectionner "Modifier le fil".
 
-
 ### Nom du fil
 
 Il est possible de modifier le nom du fil sélectionné.
