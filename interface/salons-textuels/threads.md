@@ -16,7 +16,11 @@ Ils permettent de parler d'un sujet précis, dans un espace réservé, au sein d
 
 ## Création de fils publics et privés
 
-Afin de créer un fil sur un serveur, il faut avoir une des permissions suivantes : "Créer des fils publics" ; "Créer des fils privés" ; "Gérer les fils et les posts". Les fils, tout comme les salons textuels, les salons vocaux ou les salons d'annonces, peuvent être publics ou privés.
+Afin de créer un fil dans un salon textuel, l'utilisateur doit posséder une des permissions :
+* "Créer des fils publics", pour pouvoir créer des fils visibles par tous ;
+* "Créer des fils privés", afin d'accéder à la création de fils accessibles par invitation uniquement et visibles par les modérateurs ;
+* "Gérer les fils", permettant de modérer des fils publics et privés.
+Les utilisateurs ayant la permission "Envoyer des messages dans les fils" pourront alors y discuter.
 
 ![Création d'un fil](https://i.dfr.gg/hgPX.png)
 ### La suppression de fil
