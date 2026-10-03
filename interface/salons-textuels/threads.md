@@ -1,12 +1,12 @@
 ---
 title: Fil de discussion
 keywords:
-  - discord
-  - serveur
-  - salons
-  - textuels
-  - tutoriel
-  - threads
+  - salon
+  - textuel
+  - fil
+  - thread
+  - discussion
+  - conversation
 description: Les fils sur Discord
 contributors: [karal, dragrame, cahtounet]
 ---
