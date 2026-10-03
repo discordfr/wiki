@@ -47,7 +47,7 @@ L'utilisateur possédant la permission "Gérer les fils et les posts" ou le cré
 
 ### Nom du fil
 
-Il est possible de modifier le nom d'un fil.
+Il est possible de modifier le nom du fil sélectionné.
 
 ![Modifier le nom](https://i.dfr.gg/G95.png)
 :::note
