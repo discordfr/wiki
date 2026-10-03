@@ -1,5 +1,5 @@
 ---
-title: Les fils/ threads
+title: Fil de discussion
 keywords:
   - discord
   - serveur
