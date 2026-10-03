@@ -7,7 +7,7 @@ keywords:
   - thread
   - discussion
   - conversation
-description: Les fils sur Discord
+description: Les fils (threads) ouvrent une "sous-discussion" sur un sujet spécifique, uniquement dans les salons textuels
 contributors: [karal, dragrame, cahtounet]
 ---
 
