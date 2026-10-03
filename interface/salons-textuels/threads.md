@@ -39,7 +39,7 @@ Il est possible de modifier le nom d'un fil.
 Contrairement aux noms de salons textuels, il est possible de mettre des espaces et des majuscules dans le nom des fils.
 :::
 
-### Le mode lent
+### Mode lent
 
 Le mode lent permet de limiter le nombre de messages qu'un utilisateur peut envoyer sur un intervalle de temps choisi, de la même manière que sur les salons classiques. Les utilisateurs avec la permission "Ignorer le mode lent" sont exemptés de cette limitation. Ce paramètre est réservé à la permission "Gérer les fils et les posts".
 
