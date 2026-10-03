@@ -64,21 +64,30 @@ Ce paramètre est réservé à la permission "Gérer les fils".
 
 ![Mode lent](https://i.dfr.gg/QY3E.png)
 
-### Le temps avant fermeture
+### Fermeture
 
-Ce paramètre permet de choisir le temps maximum sans activité avant l'archivage automatique du fil.
+Un fil est **fermé automatiquement après une durée** configurée sans nouveau ni modification de message, ni modification réaction aux messages.
+
+La durée peut être configurée par l'utilisateur ayant créé le fil, ou les utilisateurs ayant la permission "Gérer les fils".
+
+Une durée par défaut est définie dans les paramètres du salon textuel.
 
 ![Délai avant fermeture](https://i.dfr.gg/vEZg.png)
 
-## L'archivage de fils
-
-Un fil est fermé automatiquement après le temps avant archivage défini ou bien manuellement par un membre qui a la permission "Gérer les fils et les posts" ou par le créateur du fil.
-Les fils archivés peuvent être consultés ou rouverts à tout moment.
+Un fil peut aussi être **fermé manuellement** par les mêmes utilisateurs.
 
 ![Fermeture d'un fil](https://i.dfr.gg/ob8Z.png)
+
 :::note
-Un fil peut aussi être verrouillé par un utilisateur disposant de la permission "Gérer les fils et les posts", ce qui empêche toute interaction dans celui-ci pour les membres.
+Un fil fermé peut être rouvert par tous les utilisateurs ayant accès à ce dernier, y compris les utilisateurs ne l'ayant pas rejoint.
+Il est aussi rouvert automatiquement si une activité est détectée.
 :::
+
+### Verrouillage
+
+Un thread peut être verrouiller par les utilisateurs disposant de la permission "Gérer les fils et les posts".
+
+Cela empêche toute interaction des autres utilisateurs avec le fil, hormis la lecture des messages.
 
 ## Les permissions
 
