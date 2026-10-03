@@ -26,14 +26,23 @@ Les utilisateurs ayant la permission "Envoyer des messages dans les fils" pourro
 
 ## Suppression
 
-Pour supprimer un fil, il faut cliquer sur les trois points en haut à droite du fil puis sur "Supprimer le fil".
+L'utilisateur disposant de la permission "Gérer les fils et les posts" peut supprimer un fil de plusieurs façons :
+
+* Cliquer sur les trois points en haut à droite du fil, puis sélectionner "Supprimer le fil" ;
+* Faire un clic droit sur le nom du fil dans la liste des salons, puis cliquer sur "Supprimer le fil" ;
+* Cliquer sur la bobine de fil en haut à droite du salon parent, faire un clic droit sur le nom du fil, puis sélectionner "Supprimer le fil" ;
+* Cliquer sur le nom du serveur, sélectionner "Fils actifs", faire un clic droit sur le nom du fil, puis sélectionner "Supprimer le fil".
+
+![Suppression d'un fil](https://i.dfr.gg/qnTv.png)
 
 ## Configuration et personnalisation
 
-Pour configurer un fil, il faut cliquer sur les trois points en haut à droite du fil puis sur "Modifier le fil".
-:::note
-Il est nécessaire d'avoir créé le fil ou d'avoir la permission "Gérer les fils et les posts" pour pouvoir l'éditer.
-:::
+L'utilisateur possédant la permission "Gérer les fils et les posts" ou le créateur du fil peuvent accéder au menu de configuration de plusieurs façons :
+
+* Cliquer sur les trois points en haut à droite du fil, puis sélectionner "Modifier le fil" ;
+* Faire un clic droit sur le nom du fil dans la liste des salons, puis cliquer sur "Modifier le fil" ;
+* Cliquer sur la bobine de fil en haut à droite du salon parent, faire un clic droit sur le nom du fil, puis sélectionner "Modifier le fil" ;
+* Cliquer sur le nom du serveur, sélectionner "Fils actifs", faire un clic droit sur le nom du fil, puis sélectionner "Modifier le fil".
 
 
 ### Le nom du fil
