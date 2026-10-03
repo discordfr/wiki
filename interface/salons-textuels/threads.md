@@ -14,8 +14,7 @@ contributors: [karal, dragrame, cahtounet]
 Un fil (autrement appelés thread, en anglais) constitue une "sous-discussion".
 Ils permettent de parler d'un sujet précis, dans un espace réservé, au sein d'un [salon textuel](/wiki/interface/salons-textuels).
 
-## Création/Suppression de fils
-### La création de fils
+## Création de fils publics et privés
 
 Afin de créer un fil sur un serveur, il faut avoir une des permissions suivantes : "Créer des fils publics" ; "Créer des fils privés" ; "Gérer les fils et les posts". Les fils, tout comme les salons textuels, les salons vocaux ou les salons d'annonces, peuvent être publics ou privés.
 
