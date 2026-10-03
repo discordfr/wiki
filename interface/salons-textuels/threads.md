@@ -57,7 +57,6 @@ Contrairement aux noms de salons textuels, il est possible de mettre des espaces
 ### Mode lent
 
 Le mode lent fonctionne de la même manière que celui des salons textuels.
-
 Il permet de bloquer l'envoi consécutif de messages par un utilisateur sous la durée choisie.
 
 Les utilisateurs avec la permission "Ignorer le mode lent" sont exemptés de cette limitation.
