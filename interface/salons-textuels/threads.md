@@ -28,7 +28,7 @@ Les utilisateurs ayant la permission "Envoyer des messages dans les fils" pourro
 
 Pour supprimer un fil, il faut cliquer sur les trois points en haut à droite du fil puis sur "Supprimer le fil".
 
-## Configuration 
+## Configuration et personnalisation
 
 Pour configurer un fil, il faut cliquer sur les trois points en haut à droite du fil puis sur "Modifier le fil".
 :::note
