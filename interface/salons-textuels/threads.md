@@ -23,7 +23,9 @@ Afin de créer un fil dans un salon textuel, l'utilisateur doit posséder une de
 Les utilisateurs ayant la permission "Envoyer des messages dans les fils" pourront alors y discuter.
 
 ![Création d'un fil](https://i.dfr.gg/hgPX.png)
-### La suppression de fil
+
+## Suppression
+
 Pour supprimer un fil, il faut cliquer sur les trois points en haut à droite du fil puis sur "Supprimer le fil".
 
 ## Configuration 
