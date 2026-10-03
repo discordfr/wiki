@@ -11,7 +11,8 @@ description: Les fils (threads) ouvrent une "sous-discussion" sur un sujet spéc
 contributors: [karal, dragrame, cahtounet]
 ---
 
-Les fils, autrement appelés threads, sur Discord, permettent aux utilisateurs d'avoir des "sous-discussions" au sein d'un salon textuel.
+Un fil (autrement appelés thread, en anglais) constitue une "sous-discussion".
+Ils permettent de parler d'un sujet précis, dans un espace réservé, au sein d'un [salon textuel](/wiki/interface/salons-textuels).
 
 ## Création/Suppression de fils
 ### La création de fils
