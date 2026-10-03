@@ -45,7 +45,7 @@ L'utilisateur possédant la permission "Gérer les fils et les posts" ou le cré
 * Cliquer sur le nom du serveur, sélectionner "Fils actifs", faire un clic droit sur le nom du fil, puis sélectionner "Modifier le fil".
 
 
-### Le nom du fil
+### Nom du fil
 
 Il est possible de modifier le nom d'un fil.
 
