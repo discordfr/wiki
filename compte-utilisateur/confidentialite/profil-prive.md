@@ -4,7 +4,7 @@ keywords:
   - confidentialité
   - profil
   - privé
-description: Les profils privés
+description: Les profils privés permettent de cacher certaines informations aux utilisateurs qui ne sont pas ajoutés en ami
 contributors: [cha]
 short_slug: false
 ---
