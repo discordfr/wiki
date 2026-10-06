@@ -13,7 +13,7 @@ Plus d'informations sur la certification sont disponibles [sur l'article officie
 
 *********************
 
-Un serveur certifié est un serveur affilié officiellement à une marque, un créateur de contenu, ou d'intérêt public.
+Un serveur certifié est un serveur affilié officiellement à une marque, un créateur de contenu, un studio de jeux, ou d'intérêt public.
 
 Ces serveurs obtiennent un badge, attribué par Discord et visible à côté du nom du serveur, indiquant qu'il s'agit bien d'un serveur officiel.
 
@@ -44,3 +44,7 @@ Discord peut faire des exceptions dans le cas où la marque possède plusieurs s
 ## Avantages débloqués
 
 En plus du badge présent à côté du nom du serveur, les serveurs certifiés disposent d'un lien d'invitation personnalisé et d'un arrière-plan d'invitation.
+
+## Historique
+
+
