@@ -25,11 +25,11 @@ Trois choix sont disponibles :
 
 Le mode privé cache :
 
-* La biographie et pronoms
+* La biographie et les pronoms
 * Le [statut personnalisé](/wiki/compte-utilisateur/personnalisation-profil/statuts-personnalises)
 * Les [badges](/wiki/compte-utilisateur/personnalisation-profil/badges)
 * Les activités
 * Les [connextions externes](/wiki/compte-utilisateur/connexions-externes/passeport)
 
-L'avatar, la bannière, le pseudo, l'âge du compte et les serveurs en commun restent toujours visibles pour permettre à la modération d'effectuer son travail en cas de besoin.
+L'avatar, la bannière, le pseudo, l'âge du compte, les amis et serveurs en commun restent toujours visibles.
 
