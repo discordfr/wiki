@@ -504,3 +504,15 @@ Cahtounet:
   socials:
     discord: "995388612701065288"
     github: Cahtounet
+
+Cha:
+  name: Cha
+  discord_username: cha4life
+  discord_badges:
+    - hypesquad_balance
+  title: Contributeur
+  type: contributor
+  socials:
+    discord: "1147978104053182514"
+    github: chahrcd
+
