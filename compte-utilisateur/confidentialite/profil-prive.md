@@ -2,8 +2,8 @@
 title: Profil privé
 keywords:
   - confidentialité
-  - profil privé
   - profil
+  - privé
 description: Les profils privés
 contributors: [cha]
 short_slug: false
