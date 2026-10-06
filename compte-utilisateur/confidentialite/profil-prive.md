@@ -9,15 +9,16 @@ contributors: [cha]
 short_slug: false
 ---
 
-## Les Profils Privés
+# Les Profils Privés
 
 La confidentialité du profil est une option de sécurité sur Discord. Elle permet de masquer les informations d'un compte aux utilisateurs inconnus. Un cadenas s'affiche sur le profil pour indiquer que l'accès est restreint.
 
-# Options de visibilité 
+## Options de visibilité 
 
 L'option se trouve dans les paramètres, dans l'onglet **Données et confidentialité**. 
 
 Trois choix sont disponibles :
+
 • **Amis et tous les serveurs :** Le profil reste visible par tout le monde (choix par défaut).
 
 • **Amis et petits serveurs uniquement :** Le profil est visible uniquement sur les serveurs de 200 membres ou moins.(choix par défaut pour les utilisateurs mineurs)
