@@ -9,6 +9,8 @@ contributors: [cha]
 short_slug: false
 ---
 
+[Profil privé][https://i.dfr.gg/sqOe.png]
+
 La confidentialité du profil est une option de sécurité sur Discord.
 Elle permet de masquer les informations d'un compte aux utilisateurs inconnus.
 Un cadenas s'affiche sur le profil pour indiquer que l'accès est restreint.
@@ -33,3 +35,6 @@ Le mode privé cache :
 
 L'avatar, la bannière, le pseudo, l'âge du compte, les amis et serveurs en commun restent toujours visibles.
 
+
+
+[def]: https://i.dfr.gg/sqOe.png
