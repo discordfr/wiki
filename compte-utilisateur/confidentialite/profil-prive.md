@@ -23,7 +23,7 @@ Trois choix sont disponibles :
 * **Amis et petits serveurs uniquement :** Le profil est visible uniquement sur les serveurs de 200 membres ou moins (choix par défaut pour les utilisateurs mineurs) ;
 * **Ami(e)s uniquement :** Seuls les amis peuvent voir le profil complet.
 
-![Paramètres de partage de profil][https://i.dfr.gg/sqOe.png]
+![Paramètres de partage de profil](https://i.dfr.gg/sqOe.png)
 
 Le mode privé cache :
 
