@@ -39,18 +39,14 @@ Sur ordinateur et sur navigateur :
 
 1. Effectuer un clic droit sur le pseudo du membre, dans un message ou dans la liste des membres.
 2. Cliquer sur « Bannir » suivi du pseudo du membre.
-3. Indiquer, si besoin, une raison et choisir la période des messages à supprimer.
-4. Confirmer le bannissement.
-
-<!-- À VÉRIFIER : libellés exacts de l'option du menu contextuel, du champ de raison et du bouton de confirmation -->
+3. Indiquer, si besoin, une raison et choisir dans « Supprimer l'historique des messages » la période des messages à supprimer.
+4. Cliquer sur « Bannir ».
 
 Sur mobile :
 
 1. Appuyer sur l'avatar du membre pour afficher son profil.
 2. Appuyer sur « Bannir ».
 3. Indiquer, si besoin, une raison et confirmer.
-
-<!-- À VÉRIFIER : appui simple ou appui long sur l'avatar, et libellés exacts sur mobile -->
 
 <!-- TODO: capture anonyme de la fenêtre de bannissement d'un membre (raison et suppression des messages), sans pseudo ni avatar identifiable -->
 
@@ -64,15 +60,13 @@ Par l'intermédiaire de l'API, une application peut bannir jusqu'à 200 utilisat
 ### Suppression des messages récents {#suppression-messages}
 
 Au moment du bannissement, Discord permet de supprimer les messages envoyés récemment par l'utilisateur sur le serveur.
-La période couverte peut aller jusqu'à 7 jours ; par l'intermédiaire de l'API, elle s'exprime en secondes, de 0 à 604 800 (soit 7 jours).
-<!-- À VÉRIFIER : libellé exact de l'option dans la fenêtre de bannissement (« Supprimer l'historique des messages » ?) et liste des durées proposées dans l'interface -->
+L'option « Supprimer l'historique des messages » propose de ne rien supprimer, ou de supprimer les messages de la dernière heure, des 6, 12 ou 24 dernières heures, des 3 ou des 7 derniers jours. Par l'intermédiaire de l'API, la période s'exprime en secondes, de 0 à 604 800 (soit 7 jours).
 
 ## Liste des bannissements {#liste}
 
 La liste des bannissements se trouve dans « Paramètres du serveur » > « Bannissements ».
 Elle répertorie tous les utilisateurs bannis du serveur et permet de rechercher un utilisateur par son nom ou son identifiant.
 Lorsqu'un utilisateur est sélectionné, la raison de son bannissement s'affiche, si une raison a été indiquée.
-<!-- À VÉRIFIER : recherche par identifiant dans la liste des bannissements -->
 
 Par l'intermédiaire de l'API, la liste est accessible aux applications disposant de la permission « Bannir des membres » ou « Voir les logs du serveur », par pages de 1 000 utilisateurs au maximum.
 
@@ -81,19 +75,17 @@ Par l'intermédiaire de l'API, la liste est accessible aux applications disposan
 ### Débannissement {#debannissement}
 
 Le débannissement (ou révocation du bannissement) s'effectue depuis la liste des bannissements, en sélectionnant l'utilisateur puis le bouton « Révoquer le bannissement ».
-<!-- À VÉRIFIER : libellé exact du bouton -->
 L'utilisateur n'est pas réintégré au serveur : il peut seulement le rejoindre à nouveau avec une invitation.
 
 ## Conséquences pour l'utilisateur banni {#consequences}
 
 ### Ce que voit l'utilisateur {#affichage}
 
-Le serveur disparaît de la liste des serveurs de l'utilisateur banni, sans notification.
+Le serveur disparaît de la liste des serveurs de l'utilisateur banni. Discord lui envoie un message privé depuis son compte système : « Un modérateur du serveur t'a retiré(e) de [nom du serveur]. Discord n'a pas pris cette décision de modération. » Ce message est identique pour une [expulsion](/wiki/gestion-serveur/moderation/expulsion).
 Discord ne lui communique pas la raison du bannissement.
 Certaines applications envoient un message privé à l'utilisateur pour l'informer de la sanction ; ce fonctionnement n'est pas natif.
 
-Lorsque l'utilisateur banni tente d'utiliser une invitation vers le serveur, Discord lui indique qu'il a peut-être été banni et qu'il ne peut pas rejoindre ce serveur.
-<!-- À VÉRIFIER : message exact affiché dans l'application -->
+Lorsque l'utilisateur banni tente d'utiliser une invitation vers le serveur, Discord affiche « Invitation invalide », suivi de « L'utilisateur est banni de ce serveur ».
 
 ### Boosts {#boosts}
 

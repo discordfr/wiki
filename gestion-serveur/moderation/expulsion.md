@@ -22,9 +22,8 @@ Dans l'interface française de Discord, l'expulsion correspond à l'action « E
 
 ## Fonctionnement {#fonctionnement}
 
-Lorsqu'un membre est expulsé, le serveur disparaît de sa liste de serveurs.
+Lorsqu'un membre est expulsé, le serveur disparaît de sa liste de serveurs. Discord lui envoie un message privé depuis son compte système : « Un modérateur du serveur t'a retiré(e) de [nom du serveur]. Discord n'a pas pris cette décision de modération. » Ce message est identique pour un [bannissement](/wiki/gestion-serveur/moderation/bans), et la raison n'y figure pas.
 Rien ne l'empêche ensuite de revenir : il peut rejoindre le serveur dès qu'il dispose d'une invitation valide, y compris immédiatement après son expulsion.
-<!-- À VÉRIFIER : absence de notification au membre expulsé (aucun message de Discord, raison non affichée) -->
 
 Les messages envoyés par le membre avant son expulsion restent sur le serveur : l'expulsion ne comporte aucune option de suppression des messages.
 
@@ -32,8 +31,7 @@ L'expulsion est enregistrée dans les [logs du serveur](/wiki/gestion-serveur/mo
 
 ## Permission requise {#permission}
 
-L'expulsion nécessite la permission « [Expulser, accepter ou refuser des membres](/wiki/gestion-serveur/permissions/membres) » (`KICK_MEMBERS` dans l'API).
-<!-- À VÉRIFIER : libellé exact de la permission dans l'interface française (libellé anglais : « Kick, Approve, and Reject Members ») -->
+L'expulsion nécessite la permission « [Expulser, accepter et refuser des membres](/wiki/gestion-serveur/permissions/membres) » (`KICK_MEMBERS` dans l'API).
 Cette même permission permet d'accepter ou de refuser les demandes d'adhésion sur les serveurs qui imposent une candidature pour les rejoindre.
 Lorsque le serveur exige l'[authentification à deux facteurs](/wiki/compte-utilisateur/authentification/a2f) (A2F) pour les actions de modération, cette permission n'est utilisable que par les membres ayant activé l'A2F.
 
@@ -46,13 +44,13 @@ Sur ordinateur, l'expulsion se fait depuis le menu contextuel du membre :
 
 1. Effectuer un clic droit sur le pseudo du membre, dans un message ou dans la liste des membres.
 2. Cliquer sur « Expulser » suivi du pseudo du membre.
-3. Dans la fenêtre de confirmation, le modérateur peut indiquer une raison. <!-- À VÉRIFIER : libellé exact du champ de raison et du bouton de confirmation -->
-4. Confirmer l'expulsion.
+3. Dans la fenêtre de confirmation, le modérateur peut indiquer une raison.
+4. Cliquer sur « Expulser ».
 
 Sur mobile, l'expulsion se fait depuis le profil du membre :
 
-1. Appuyer sur le pseudo ou l'avatar du membre, dans un message ou dans la liste des membres. <!-- À VÉRIFIER : appui simple ou appui long -->
-2. Ouvrir le menu des actions du profil, puis appuyer sur « Expulser ». <!-- À VÉRIFIER : libellés et emplacement exacts sur mobile -->
+1. Appuyer sur le pseudo ou l'avatar du membre, dans un message ou dans la liste des membres.
+2. Appuyer sur « Expulser », directement dans le profil.
 3. Indiquer éventuellement une raison, puis confirmer l'expulsion.
 
 <!-- TODO: capture anonyme du menu contextuel d'un membre sur ordinateur, avec l'option « Expulser » mise en évidence (aucun pseudo ni avatar réel visible) -->
@@ -62,8 +60,8 @@ Les applications disposant de la permission peuvent également expulser des memb
 
 ## Suppression des membres inactifs {#prune}
 
-La suppression des membres inactifs (*prune*), appelée « Congédier » dans l'interface française, est une expulsion groupée des membres qui ne se sont pas connectés depuis une durée donnée. <!-- À VÉRIFIER : libellé exact « Congédier » / « congédiement » -->
-Elle ne concerne que les membres qui n'ont aucun rôle, et la durée d'inactivité peut être fixée à 1, 7 ou 30 jours. <!-- À VÉRIFIER : article du centre d'aide ancien (213507137), seuils et restriction aux membres sans rôle à confirmer -->
+La suppression des membres inactifs (*prune*), appelée « Congédier » dans l'interface française, est une expulsion groupée des membres qui ne se sont pas connectés depuis une durée donnée.
+La durée d'inactivité peut être fixée à 7 ou 30 jours. Par défaut, seuls les membres sans rôle sont concernés ; une option permet d'inclure les membres de certains rôles.
 Elle nécessite, en plus de la permission d'expulsion, la permission « Gérer le serveur » (`MANAGE_GUILD`).
 
 ## Conséquences pour le membre {#consequences}

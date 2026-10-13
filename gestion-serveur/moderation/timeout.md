@@ -26,7 +26,7 @@ Les deux mots étant proches, le terme anglais *timeout* est couramment employé
 
 ## Fonctionnement {#fonctionnement}
 
-Pendant une exclusion temporaire, le membre perd toutes ses permissions sur le serveur, à l'exception de « Voir les salons » et « Voir les anciens messages ». <!-- À VÉRIFIER : libellé exact de la permission « Voir les salons » dans le client français -->
+Pendant une exclusion temporaire, le membre perd toutes ses permissions sur le serveur, à l'exception de « Voir les salons » et « Voir les anciens messages ».
 Cette restriction s'applique à l'ensemble des salons du serveur : il n'est pas possible d'exclure temporairement un membre d'un seul salon.
 
 Le propriétaire du serveur et les membres disposant de la permission « Administrateur » ne peuvent pas être exclus temporairement.
@@ -58,14 +58,12 @@ Sur ordinateur et sur navigateur :
 1. Effectuer un clic droit sur le pseudo du membre, dans un message ou dans la liste des membres.
 2. Cliquer sur « Exclure ».
 3. Choisir la durée et, le cas échéant, indiquer la raison.
-4. Valider.
-
-<!-- À VÉRIFIER : libellé exact du bouton de validation de la fenêtre d'exclusion temporaire -->
+4. Cliquer sur « Exclure temporairement ».
 
 Sur mobile :
 
-1. Appuyer longuement sur l'avatar du membre pour afficher son profil. <!-- À VÉRIFIER : appui simple ou appui long dans la version actuelle de l'application mobile -->
-2. Appuyer sur « Exclusion temporaire ». <!-- À VÉRIFIER : libellé exact sur mobile (« Exclusion temporaire » selon le centre d'aide, « Exclure » sur ordinateur) -->
+1. Appuyer sur l'avatar du membre pour afficher son profil.
+2. Appuyer sur « Exclure temporairement ».
 3. Choisir la durée et confirmer.
 
 <!-- TODO: capture du menu contextuel avec l'option « Exclure » et de la fenêtre de choix des durées, sur un serveur et un membre anonymes -->
@@ -89,10 +87,10 @@ La raison saisie par le modérateur n'est pas affichée au membre exclu.
 
 ## Visibilité pour la modération {#visibilite}
 
-Les membres disposant de la permission « Exclure temporairement des membres » voient une icône à côté de l'horodatage des messages d'un membre exclu. <!-- À VÉRIFIER : comportement décrit par un article du centre d'aide datant de 2021 -->
+Les membres disposant de la permission « Exclure temporairement des membres » voient une icône à côté de l'horodatage des messages d'un membre exclu.
 Les autres membres du serveur voient ces messages sans changement.
 
-La page « Membres » du serveur, disponible sur navigateur et sur ordinateur, propose un filtre « Exclu temporairement » qui affiche les membres actuellement exclus. <!-- À VÉRIFIER : libellé français du filtre (« Timed Out » dans le centre d'aide) -->
+La page « Membres » du serveur, disponible sur navigateur et sur ordinateur, propose un filtre « Exclu temporairement » qui affiche les membres actuellement exclus.
 Sur un serveur Communauté, cette page est accessible depuis la liste des salons ; sur les autres serveurs, elle se trouve dans « Paramètres du serveur » > « Membres ».
 
 Chaque exclusion temporaire, avec sa durée et sa raison, est consignée dans les [logs du serveur](/wiki/gestion-serveur/moderation/logs).
@@ -104,13 +102,13 @@ Une exclusion temporaire peut être levée avant la fin de la durée prévue par
 Sur ordinateur et sur navigateur :
 
 1. Effectuer un clic droit sur le pseudo du membre, dans un message ou dans la liste des membres.
-2. Cliquer sur « Supprimer l'exclusion temporaire ». <!-- À VÉRIFIER : libellé exact sur ordinateur -->
+2. Cliquer sur « Arrêter d'exclure » suivi du pseudo du membre.
 3. Confirmer la suppression.
 
 Sur mobile :
 
-1. Appuyer longuement sur l'avatar du membre pour afficher son profil. <!-- À VÉRIFIER : appui simple ou appui long dans la version actuelle de l'application mobile -->
-2. Appuyer sur « Supprimer l'exclusion temporaire ».
+1. Appuyer sur l'avatar du membre pour afficher son profil.
+2. Appuyer sur « Arrêter d'exclure ».
 3. Confirmer la suppression.
 
 ## AutoMod et applications {#applications}
