@@ -30,7 +30,7 @@ Pendant une exclusion temporaire, le membre perd toutes ses permissions sur le s
 Cette restriction s'applique à l'ensemble des salons du serveur : il n'est pas possible d'exclure temporairement un membre d'un seul salon.
 
 Le propriétaire du serveur et les membres disposant de la permission « Administrateur » ne peuvent pas être exclus temporairement.
-Un modérateur ne peut exclure temporairement qu'un membre dont le rôle le plus haut se situe en dessous du sien. <!-- À VÉRIFIER : application de la hiérarchie des rôles à l'exclusion temporaire, non documentée par le centre d'aide -->
+Un modérateur ne peut exclure temporairement qu'un membre dont le rôle le plus haut se situe strictement en dessous du sien : un membre de rang égal ou supérieur ne peut pas être exclu.
 
 L'exclusion temporaire ne modifie pas les rôles du membre.
 Comme elle ne retire pas le membre du serveur, les [boosts](/wiki/contenu-payant/boost-serveur) qu'il a attribués au serveur sont conservés.
