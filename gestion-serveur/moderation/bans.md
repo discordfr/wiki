@@ -30,7 +30,6 @@ Celle-ci est visible par les membres qui ont accès à la liste des bannissement
 Bannir un utilisateur nécessite la permission « [Bannir des membres](/wiki/gestion-serveur/permissions/membres) ».
 Un membre ne peut pas bannir un utilisateur dont le rôle le plus haut est égal ou supérieur au sien, même s'il dispose de cette permission.
 Le propriétaire du serveur ne peut pas être banni.
-<!-- À VÉRIFIER : impossibilité de bannir le propriétaire du serveur (pas de source officielle trouvée) -->
 Si le serveur exige l'[authentification à deux facteurs](/wiki/compte-utilisateur/authentification/a2f) (A2F) pour les actions de modération, cette permission ne peut être utilisée que par un membre dont le compte a activé l'A2F.
 
 ### Bannissement d'un membre {#bannir}

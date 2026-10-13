@@ -36,7 +36,7 @@ Cette même permission permet d'accepter ou de refuser les demandes d'adhésion 
 Lorsque le serveur exige l'[authentification à deux facteurs](/wiki/compte-utilisateur/authentification/a2f) (A2F) pour les actions de modération, cette permission n'est utilisable que par les membres ayant activé l'A2F.
 
 L'expulsion respecte la hiérarchie des rôles : un membre ou une application (bot) ne peut expulser que les membres dont le rôle le plus haut se situe en dessous de son propre rôle le plus haut.
-Le propriétaire du serveur n'est pas soumis à cette limite et ne peut pas être expulsé. <!-- À VÉRIFIER : aucune source officielle trouvée pour le cas du propriétaire -->
+Le propriétaire du serveur n'est pas soumis à cette limite et ne peut pas être expulsé.
 
 ## Expulsion d'un membre {#expulser}
 
