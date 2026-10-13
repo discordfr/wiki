@@ -104,12 +104,11 @@ D'après le centre d'aide de Discord, « Les bannissements de serveur sont bas�
 Une adresse IP est l'identifiant attribué à une connexion à internet.
 Discord ne documente pas davantage ce fonctionnement.
 
-Des tests rapportés par [Discord FR](/blog/2026/10/15/ban-discord-solution-obsolete) suggèrent que l'adresse IP ne serait pas bannie de façon permanente.
-Un autre compte utilisant la même adresse IP pourrait rejoindre le serveur, sauf s'il est connecté à Discord en même temps que le compte banni.
-Dans ce cas, il ne pourrait pas rejoindre le serveur, alors qu'il n'apparaît pas dans la liste des bannissements.
-<!-- À VÉRIFIER : test à refaire par l'auteur avant publication (deux comptes, même adresse IP, connectés ou non en même temps, présence dans la liste des bannissements) -->
+Des tests rapportés par [Discord FR](/blog/2026/10/15/ban-discord-solution-obsolete) confirment ce fonctionnement : après un bannissement, un autre compte utilisant la même adresse IP ne peut pas rejoindre le serveur.
+Discord pourrait également tenir compte de l'appareil utilisé. <!-- À VÉRIFIER : rôle de l'appareil dans le bannissement -->
+Les autres comptes de l'utilisateur déjà présents sur le serveur au moment du bannissement ne sont pas affectés.
 
 :::note Adresses IPv4 partagées
 En raison de la pénurie d'adresses IPv4, le format d'adresse IP le plus répandu, certains opérateurs attribuent une même adresse à de nombreux abonnés, y compris sur les réseaux mobiles (4G et 5G).
-Ce partage serait très probablement à l'origine de faux positifs : des utilisateurs sans lien avec le compte banni ne pourraient pas rejoindre le serveur.
+Ce partage entraîne des faux positifs : des utilisateurs sans lien avec le compte banni ne peuvent pas rejoindre le serveur.
 :::
