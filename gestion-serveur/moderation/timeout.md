@@ -46,7 +46,7 @@ L'interface de Discord propose six durées :
 - 1 jour ;
 - 1 semaine.
 
-Des durées plus longues, jusqu'à 28 jours, peuvent être appliquées par l'AutoMod et par les applications (voir [AutoMod et applications](#applications)).
+Les applications (bots) peuvent appliquer une durée personnalisée, jusqu'à 28 jours (voir [AutoMod et applications](#applications)).
 
 ## Application d'une exclusion temporaire {#application}
 
@@ -114,7 +114,7 @@ Sur mobile :
 ## AutoMod et applications {#applications}
 
 L'AutoMod, l'outil de modération automatique intégré à Discord, peut appliquer une exclusion temporaire au membre dont un message déclenche l'une de ses règles.
-Cette action n'est disponible que pour les règles de mots-clés et de spam de mentions, et sa durée ne peut pas dépasser 28 jours.
+Cette action n'est disponible que pour les règles de mots-clés et de spam de mentions. Elle propose les mêmes durées que l'interface, sans durée personnalisée.
 
 Les applications (bots) peuvent appliquer, modifier ou lever une exclusion temporaire par l'intermédiaire de l'API de Discord, pour une durée de 28 jours au maximum.
 Elles doivent pour cela disposer de la permission « Exclure temporairement des membres », désignée par la constante `MODERATE_MEMBERS` dans l'API.
