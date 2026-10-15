@@ -17,9 +17,7 @@ L'intérêt principal de l'activer est de pouvoir récupérer l'identifiant (ID)
 
 ## Activation
 
-Le mode développeur est activable pour tous les utilisateurs Discord dans les **paramètres d'utilisateur**, section **Développeur**.
-
-Une fois activé, les fonctionnalités sont instantanément disponibles.
+Le mode développeur est activable pour tous les utilisateurs Discord dans les **paramètres d'utilisateur**, section **Développeur** sur ordinateur et **Avancés** sur mobile.
 
 ![Bouton d'activation du mode développeur](https://i.dfr.gg/KOto.png)
 
