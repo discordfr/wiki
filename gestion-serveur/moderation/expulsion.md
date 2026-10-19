@@ -96,7 +96,7 @@ Ses boosts sont soumis à un délai de recharge de 7 jours avant de pouvoir êtr
 
 Sur les serveurs, l'expulsion est notamment employée dans les situations suivantes :
 
-- **Compte piraté** : un compte compromis qui envoie du spam ;
-- **Profil inapproprié** : un compte dont le profil (avatar, bannière, biographie, pseudo) ne correspond pas aux règles du serveur.
+* **Compte piraté** : un compte compromis qui envoie du spam ;
+* **Profil inapproprié** : un compte dont le profil (avatar, bannière, biographie, pseudo) ne correspond pas aux règles du serveur.
 
 D'autres serveurs utilisent à la place un rôle d'isolement, attribué par une application, qui retire au membre l'accès aux salons sans lui faire quitter le serveur.
