@@ -117,7 +117,7 @@ L'AutoMod, l'outil de modération automatique intégré à Discord, peut appliqu
 Cette action n'est disponible que pour les règles de mots-clés et de spam de mentions. Elle propose les mêmes durées que l'interface, sans durée personnalisée.
 
 Les applications peuvent appliquer, modifier ou lever une exclusion temporaire par l'intermédiaire de l'API de Discord, pour une durée de 28 jours au maximum.
-Elles doivent pour cela disposer de la permission « Exclure temporairement des membres », désignée par la constante `MODERATE_MEMBERS` dans l'API.
+Elles doivent pour cela disposer de la permission « Exclure temporairement des membres ».
 
 ## Comparaison avec les autres sanctions {#comparaison}
 
