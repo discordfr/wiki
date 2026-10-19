@@ -16,7 +16,7 @@ L'**expulsion**, appelée *kick* en anglais, est une sanction qui retire un memb
 Le membre expulsé quitte immédiatement le serveur, mais peut le rejoindre à nouveau à l'aide d'une invitation.
 Elle se distingue ainsi du [bannissement](/wiki/gestion-serveur/moderation/bans), qui empêche tout retour, et de l'[exclusion temporaire](/wiki/gestion-serveur/moderation/timeout), qui laisse le membre sur le serveur en limitant ses interactions.
 
-:::note Vocabulaire
+:::note
 Dans l'interface française de Discord, l'expulsion correspond à l'action « Expulser ». L'action « Exclure » désigne l'[exclusion temporaire](/wiki/gestion-serveur/moderation/timeout), souvent appelée *timeout* pour éviter la confusion.
 :::
 
