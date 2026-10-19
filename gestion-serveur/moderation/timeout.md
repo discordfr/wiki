@@ -83,7 +83,7 @@ La raison saisie par le modérateur n'est pas affichée au membre exclu.
 
 L'exclusion temporaire ne bloque pas les messages privés (MP) : le membre exclu peut toujours écrire aux autres membres du serveur, dans les conditions habituelles.
 
-<!-- TODO: capture d'un salon vu par un membre exclu temporairement (lecture seule et compte à rebours), sur un serveur et un compte anonymes -->
+![Salon vu par un membre exclu temporairement](https://i.dfr.gg/c1qo.png)
 
 ## Visibilité pour la modération {#visibilite}
 
