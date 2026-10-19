@@ -107,7 +107,7 @@ D'après le centre d'aide de Discord, « Les bannissements de serveur sont bas�
 Une adresse IP est l'identifiant attribué à une connexion à internet.
 Discord ne documente pas davantage ce fonctionnement.
 
-Discord pourrait également tenir compte de l'appareil utilisé. <!-- À VÉRIFIER : rôle de l'appareil dans le bannissement -->
+Discord pourrait également tenir compte de l'appareil utilisé.
 Les autres comptes de l'utilisateur déjà présents sur le serveur au moment du bannissement ne sont pas affectés.
 
 :::note Adresses IPv4 partagées
