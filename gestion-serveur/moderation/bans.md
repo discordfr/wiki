@@ -127,9 +127,9 @@ Ce partage entraîne des faux positifs : des utilisateurs sans lien avec le com
 
 Sur les serveurs, le bannissement est notamment employé dans les situations suivantes :
 
-- **Compte malveillant** : un compte venu pour nuire, par exemple lors d'un raid ou d'une tentative d'arnaque ;
-- **Récidive** : un membre qui a déjà reçu des avertissements ou d'autres sanctions, restés sans effet ;
-- **Softban** : un bannissement suivi d'un débannissement immédiat, qui supprime les messages récents du compte sans l'empêcher de revenir avec une invitation.
+* **Compte malveillant** : un compte venu pour nuire, par exemple lors d'un raid ou d'une tentative d'arnaque ;
+* **Récidive** : un membre qui a déjà reçu des avertissements ou d'autres sanctions, restés sans effet ;
+* **Softban** : un bannissement suivi d'un débannissement immédiat, qui supprime les messages récents du compte sans l'empêcher de revenir avec une invitation.
 
 D'autres serveurs utilisent à la place un rôle d'isolement, attribué par une application, qui retire au membre l'accès aux salons sans lui faire quitter le serveur.
 Discord FR déconseille le bannissement dans la plupart des cas et recommande cet isolement, pour les raisons détaillées dans l'article « [Bannir les membres de son serveur : une solution obsolète ?](/blog/2026/10/19/ban-discord-solution-obsolete) ».
