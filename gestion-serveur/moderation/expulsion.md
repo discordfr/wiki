@@ -53,8 +53,7 @@ Sur mobile, l'expulsion se fait depuis le profil du membre :
 2. Appuyer sur « Expulser », directement dans le profil.
 3. Indiquer éventuellement une raison, puis confirmer l'expulsion.
 
-<!-- TODO: capture anonyme du menu contextuel d'un membre sur ordinateur, avec l'option « Expulser » mise en évidence (aucun pseudo ni avatar réel visible) -->
-<!-- TODO: capture anonyme de la fenêtre de confirmation de l'expulsion, avec le champ de raison -->
+![Fenêtre d'expulsion d'un membre](https://i.dfr.gg/TiSf.png)
 
 Les applications disposant de la permission peuvent également expulser des membres par l'intermédiaire de l'API, généralement à l'aide d'une commande ou d'une règle de modération automatique.
 
