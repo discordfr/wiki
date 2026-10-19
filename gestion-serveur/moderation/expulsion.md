@@ -33,7 +33,7 @@ L'expulsion est enregistrée dans les [logs du serveur](/wiki/gestion-serveur/mo
 
 ## Permission requise {#permission}
 
-L'expulsion nécessite la permission « [Expulser, accepter et refuser des membres](/wiki/gestion-serveur/permissions/membres) » (`KICK_MEMBERS` dans l'API).
+L'expulsion nécessite la permission « [Expulser, accepter et refuser des membres](/wiki/gestion-serveur/permissions/membres) ».
 Cette même permission permet d'accepter ou de refuser les demandes d'adhésion sur les serveurs qui imposent une candidature pour les rejoindre.
 Lorsque le serveur exige l'[authentification à deux facteurs](/wiki/compte-utilisateur/authentification/a2f) (A2F) pour les actions de modération, cette permission n'est utilisable que par les membres ayant activé l'A2F.
 
