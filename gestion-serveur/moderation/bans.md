@@ -104,7 +104,6 @@ D'après le centre d'aide de Discord, « Les bannissements de serveur sont bas�
 Une adresse IP est l'identifiant attribué à une connexion à internet.
 Discord ne documente pas davantage ce fonctionnement.
 
-Des tests rapportés par [Discord FR](/blog/2026/10/15/ban-discord-solution-obsolete) confirment ce fonctionnement : après un bannissement, un autre compte utilisant la même adresse IP ne peut pas rejoindre le serveur.
 Discord pourrait également tenir compte de l'appareil utilisé. <!-- À VÉRIFIER : rôle de l'appareil dans le bannissement -->
 Les autres comptes de l'utilisateur déjà présents sur le serveur au moment du bannissement ne sont pas affectés.
 
@@ -112,3 +111,22 @@ Les autres comptes de l'utilisateur déjà présents sur le serveur au moment du
 En raison de la pénurie d'adresses IPv4, le format d'adresse IP le plus répandu, certains opérateurs attribuent une même adresse à de nombreux abonnés, y compris sur les réseaux mobiles (4G et 5G).
 Ce partage entraîne des faux positifs : des utilisateurs sans lien avec le compte banni ne peuvent pas rejoindre le serveur.
 :::
+
+## Comparaison avec les autres sanctions {#comparaison}
+
+| Sanction | Libellé dans l'interface | Le membre reste sur le serveur | Retour possible |
+| --- | --- | --- | --- |
+| [Exclusion temporaire](/wiki/gestion-serveur/moderation/timeout) (*timeout*) | « Exclure » | Oui, en lecture seule | Sans objet |
+| [Expulsion](/wiki/gestion-serveur/moderation/expulsion) (*kick*) | « Expulser » | Non | Oui, avec une invitation |
+| Bannissement (*ban*) | « Bannir » | Non | Non, sauf débannissement |
+
+## Usages courants {#usages}
+
+Sur les serveurs, le bannissement est notamment employé dans les situations suivantes :
+
+- **Compte malveillant** : un compte venu pour nuire, par exemple lors d'un raid ou d'une tentative d'arnaque ;
+- **Récidive** : un membre qui a déjà reçu des avertissements ou d'autres sanctions, restés sans effet ;
+- **Softban** : un bannissement suivi d'un débannissement immédiat, qui supprime les messages récents du compte sans l'empêcher de revenir avec une invitation.
+
+D'autres serveurs utilisent à la place un rôle d'isolement, attribué par une application, qui retire au membre l'accès aux salons sans lui faire quitter le serveur.
+Discord FR déconseille le bannissement dans la plupart des cas et recommande cet isolement, pour les raisons détaillées dans l'article « [Bannir les membres de son serveur : une solution obsolète ?](/blog/2026/10/19/ban-discord-solution-obsolete) ».

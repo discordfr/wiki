@@ -79,22 +79,22 @@ Les rôles rendus par un tel système sont ceux que le membre possédait au mome
 
 ### Boosts {#boosts}
 
-Un membre qui [boostait](/wiki/contenu-payant/boost-serveur) le serveur perd ses boosts sur celui-ci lorsqu'il en est retiré. Ses boosts sont soumis à un délai de recharge de 7 jours avant de pouvoir être réutilisés, et sa série de boost peut être perdue s'ils ne sont pas réappliqués à un autre serveur dans les 72 heures.
+Un membre qui [boostait](/wiki/contenu-payant/boost-serveur) le serveur perd ses boosts sur celui-ci lorsqu'il en est retiré.
+Ses boosts sont soumis à un délai de recharge de 7 jours avant de pouvoir être réutilisés, et sa série de boost peut être perdue s'ils ne sont pas réappliqués à un autre serveur dans les 72 heures.
 
 ## Comparaison avec les autres sanctions {#comparaison}
 
 | Sanction | Libellé dans l'interface | Le membre reste sur le serveur | Retour possible |
 | --- | --- | --- | --- |
-| Expulsion (*kick*) | « Expulser » | Non | Oui, avec une invitation |
-| [Exclusion temporaire](/wiki/gestion-serveur/moderation/timeout) (*timeout*) | « Exclure » | Oui, en lecture seule | Sans objet |
-| [Bannissement](/wiki/gestion-serveur/moderation/bans) (*ban*) | « Bannir » | Non | Non, sauf débannissement |
+| [Exclusion temporaire](/wiki/gestion-serveur/moderation/timeout) (*timeout*) | « Exclure » | Oui, en lecture seule | Sans objet |
+| Expulsion (*kick*) | « Expulser » | Non | Oui, avec une invitation |
+| [Bannissement](/wiki/gestion-serveur/moderation/bans) (*ban*) | « Bannir » | Non | Non, sauf débannissement |
 
 ## Usages courants {#usages}
 
-Sur les serveurs, l'expulsion est notamment employée dans les situations suivantes :
+Sur les serveurs, l'expulsion est notamment employée dans les situations suivantes :
 
-- **Compte piraté** : un compte compromis qui envoie du spam est retiré du serveur, et son propriétaire légitime peut revenir une fois le compte récupéré ;
-- **Profil inapproprié** : un compte dont le profil (avatar, bannière, biographie, pseudo) ne correspond pas aux règles du serveur, par exemple un profil à caractère sexuel, est retiré, avec la possibilité de revenir après modification de ce profil.
+- **Compte piraté** : un compte compromis qui envoie du spam ;
+- **Profil inapproprié** : un compte dont le profil (avatar, bannière, biographie, pseudo) ne correspond pas aux règles du serveur.
 
-Dans ces cas, l'expulsion retire le membre du serveur sans le bannir : il peut revenir une fois la situation corrigée.
 D'autres serveurs utilisent à la place un rôle d'isolement, attribué par une application, qui retire au membre l'accès aux salons sans lui faire quitter le serveur.

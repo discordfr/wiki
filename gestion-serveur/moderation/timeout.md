@@ -118,3 +118,20 @@ Cette action n'est disponible que pour les règles de mots-clés et de spam de m
 
 Les applications peuvent appliquer, modifier ou lever une exclusion temporaire par l'intermédiaire de l'API de Discord, pour une durée de 28 jours au maximum.
 Elles doivent pour cela disposer de la permission « Exclure temporairement des membres », désignée par la constante `MODERATE_MEMBERS` dans l'API.
+
+## Comparaison avec les autres sanctions {#comparaison}
+
+| Sanction | Libellé dans l'interface | Le membre reste sur le serveur | Retour possible |
+| --- | --- | --- | --- |
+| Exclusion temporaire (*timeout*) | « Exclure » | Oui, en lecture seule | Sans objet |
+| [Expulsion](/wiki/gestion-serveur/moderation/expulsion) (*kick*) | « Expulser » | Non | Oui, avec une invitation |
+| [Bannissement](/wiki/gestion-serveur/moderation/bans) (*ban*) | « Bannir » | Non | Non, sauf débannissement |
+
+## Usages courants {#usages}
+
+Sur les serveurs, l'exclusion temporaire est notamment employée dans les situations suivantes :
+
+- **Échange qui s'envenime** : une dispute ou un débat houleux, le temps que la tension retombe ;
+- **Spam** : un membre qui envoie des messages en rafale ou mentionne en masse d'autres membres, souvent sanctionné automatiquement par l'AutoMod ;
+- **Sanction graduée** : une étape intermédiaire avant l'expulsion ou le bannissement, en cas de récidive ;
+- **Compte suspect** : un compte qui semble piraté, le temps de vérifier la situation sans le retirer du serveur.
