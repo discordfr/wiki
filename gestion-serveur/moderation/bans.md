@@ -69,7 +69,7 @@ Lorsqu'un utilisateur est sélectionné, la raison de son bannissement s'affiche
 
 Par l'intermédiaire de l'API, la liste est accessible aux applications disposant de la permission « Bannir des membres » ou « Voir les logs du serveur », par pages de 1 000 utilisateurs au maximum.
 
-<!-- TODO: capture anonyme de la liste des bannissements d'un serveur de test, sans pseudo ni avatar identifiable -->
+![Liste des bannissements d'un serveur](https://i.dfr.gg/za8R.png)
 
 ### Débannissement {#debannissement}
 
