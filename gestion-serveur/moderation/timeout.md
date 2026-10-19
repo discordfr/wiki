@@ -66,7 +66,7 @@ Sur mobile :
 2. Appuyer sur « Exclure temporairement ».
 3. Choisir la durée et confirmer.
 
-<!-- TODO: capture du menu contextuel avec l'option « Exclure » et de la fenêtre de choix des durées, sur un serveur et un membre anonymes -->
+![Fenêtre d'exclusion d'un membre](https://i.dfr.gg/8EVm.png)
 
 ## Effets pour le membre exclu {#effets}
 
