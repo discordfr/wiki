@@ -72,12 +72,12 @@ Sur mobile :
 
 Pendant toute la durée de l'exclusion temporaire, le membre :
 
-- peut lire les salons et consulter leurs anciens messages ;
-- voit un compte à rebours indiquant le temps restant avant la fin de la sanction ;
-- ne peut pas envoyer de messages ;
-- ne peut pas ajouter de nouvelle réaction, mais peut ajouter la sienne à une réaction déjà présente sur un message ;
-- ne peut pas rejoindre de salon vocal ;
-- ne peut pas utiliser les boutons et les autres composants des messages, comme ceux qui servent à ouvrir un ticket, ni les commandes des applications.
+* peut lire les salons et consulter leurs anciens messages ;
+* voit un compte à rebours indiquant le temps restant avant la fin de la sanction ;
+* ne peut pas envoyer de messages ;
+* ne peut pas ajouter de nouvelle réaction, mais peut ajouter la sienne à une réaction déjà présente sur un message ;
+* ne peut pas rejoindre de salon vocal ;
+* ne peut pas utiliser les boutons et les autres composants des messages, comme ceux qui servent à ouvrir un ticket, ni les commandes des applications.
 
 La raison saisie par le modérateur n'est pas affichée au membre exclu.
 
