@@ -22,7 +22,9 @@ Dans l'interface française de Discord, l'expulsion correspond à l'action « E
 
 ## Fonctionnement {#fonctionnement}
 
-Lorsqu'un membre est expulsé, le serveur disparaît de sa liste de serveurs. Discord lui envoie un message privé depuis son compte système : « Un modérateur du serveur t'a retiré(e) de [nom du serveur]. Discord n'a pas pris cette décision de modération. » Ce message est identique pour un [bannissement](/wiki/gestion-serveur/moderation/bans), et la raison n'y figure pas.
+Lorsqu'un membre est expulsé, le serveur disparaît de sa liste de serveurs.
+Discord lui envoie un message privé depuis son compte système : « Un modérateur du serveur t'a retiré(e) de [nom du serveur]. Discord n'a pas pris cette décision de modération. »
+Ce message est identique pour un [bannissement](/wiki/gestion-serveur/moderation/bans), et la raison n'y figure pas.
 Rien ne l'empêche ensuite de revenir : il peut rejoindre le serveur dès qu'il dispose d'une invitation valide, y compris immédiatement après son expulsion.
 
 Les messages envoyés par le membre avant son expulsion restent sur le serveur : l'expulsion ne comporte aucune option de suppression des messages.
