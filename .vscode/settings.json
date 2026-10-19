@@ -1,0 +1,44 @@
+{
+	"markdown.validate.fileLinks.enabled": "ignore",
+	"markdown.validate.referenceLinks.enabled": "ignore",
+	"markdownlint.configFile": ".vscode/.markdownlint.json",
+	"markdownlint.lintWorkspaceGlobs": [
+		"**/*.md",
+		"!**/.git",
+		"!**/.github",
+		"!**/.vscode",
+		"!README.md"
+	],
+	"cSpell.words": [
+		"Authy",
+		"Bitwarden",
+		"boosteur",
+		"Bungie",
+		"Crunchyroll",
+		"Dashlane",
+		"débannir",
+		"débannissement",
+		"Ebay",
+		"échap",
+		"Gamescom",
+		"Gmail",
+		"hypesquad",
+		"kbps",
+		"Krisp",
+		"mentionnable",
+		"monoligne",
+		"multiligne",
+		"Townhall",
+		"Wumpus"
+	],
+	"cSpell.enabledFileTypes": {
+		"*": false,
+		"markdown": true,
+		"mdx": true
+	},
+	"cSpell.ignoreRegExpList": [
+		"/^keywords:[ \\t]*\\r?\\n(?:[ \\t]+-[^\\r\\n]*(?:\\r?\\n|$))*/gm",
+		"/^contributors:\\s*\\[[^\\]]*\\]/gm",
+		"/\\/[\\/\\w\\d-]+/"
+	]
+}
