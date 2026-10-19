@@ -131,7 +131,7 @@ Elles doivent pour cela disposer de la permission « Exclure temporairement des
 
 Sur les serveurs, l'exclusion temporaire est notamment employée dans les situations suivantes :
 
-- **Échange qui s'envenime** : une dispute ou un débat houleux, le temps que la tension retombe ;
-- **Spam** : un membre qui envoie des messages en rafale ou mentionne en masse d'autres membres, souvent sanctionné automatiquement par l'AutoMod ;
-- **Sanction graduée** : une étape intermédiaire avant l'expulsion ou le bannissement, en cas de récidive ;
-- **Compte suspect** : un compte qui semble piraté, le temps de vérifier la situation sans le retirer du serveur.
+* **Échange qui s'envenime** : une dispute ou un débat houleux, le temps que la tension retombe ;
+* **Spam** : un membre qui envoie des messages en rafale ou mentionne en masse d'autres membres, souvent sanctionné automatiquement par l'AutoMod ;
+* **Sanction graduée** : une étape intermédiaire avant l'expulsion ou le bannissement, en cas de récidive ;
+* **Compte suspect** : un compte qui semble piraté, le temps de vérifier la situation sans le retirer du serveur.
