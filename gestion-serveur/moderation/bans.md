@@ -14,7 +14,7 @@ short_slug: Bannissement
 
 Le **bannissement**, appelé *ban* en anglais, est une sanction qui retire un utilisateur d'un serveur et l'empêche de le rejoindre à nouveau.
 Il se distingue de l'[expulsion](/wiki/gestion-serveur/moderation/expulsion), après laquelle l'utilisateur peut revenir avec une invitation, et de l'[exclusion temporaire](/wiki/gestion-serveur/moderation/timeout), qui le laisse sur le serveur.
-Les utilisateurs bannis sont répertoriés dans la **liste des bannissements**, depuis laquelle un bannissement peut être révoqué.
+Les utilisateurs bannis sont répertoriés dans la **[liste des bannissements](#liste)**, depuis laquelle un bannissement peut être révoqué.
 
 ## Fonctionnement {#fonctionnement}
 
