@@ -39,12 +39,12 @@ Comme elle ne retire pas le membre du serveur, les [boosts](/wiki/contenu-payant
 
 L'interface de Discord propose six durées :
 
-- 60 secondes ;
-- 5 minutes ;
-- 10 minutes ;
-- 1 heure ;
-- 1 jour ;
-- 1 semaine.
+* 60 secondes ;
+* 5 minutes ;
+* 10 minutes ;
+* 1 heure ;
+* 1 jour ;
+* 1 semaine.
 
 Les applications (bots) peuvent appliquer une durée personnalisée, jusqu'à 28 jours (voir [AutoMod et applications](#applications)).
 
