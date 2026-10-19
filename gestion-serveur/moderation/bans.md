@@ -81,7 +81,9 @@ L'utilisateur n'est pas réintégré au serveur : il peut seulement le rejoindr
 
 ### Ce que voit l'utilisateur {#affichage}
 
-Le serveur disparaît de la liste des serveurs de l'utilisateur banni. Discord lui envoie un message privé depuis son compte système : « Un modérateur du serveur t'a retiré(e) de [nom du serveur]. Discord n'a pas pris cette décision de modération. » Ce message est identique pour une [expulsion](/wiki/gestion-serveur/moderation/expulsion).
+Le serveur disparaît de la liste des serveurs de l'utilisateur banni.
+Discord lui envoie un message privé depuis son compte système : « Un modérateur du serveur t'a retiré(e) de [nom du serveur]. Discord n'a pas pris cette décision de modération. »
+Ce message est identique pour une [expulsion](/wiki/gestion-serveur/moderation/expulsion).
 Discord ne lui communique pas la raison du bannissement.
 Certaines applications envoient un message privé à l'utilisateur pour l'informer de la sanction ; ce fonctionnement n'est pas natif.
 
