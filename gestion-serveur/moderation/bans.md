@@ -98,7 +98,7 @@ Un utilisateur ne peut toutefois écrire à un autre que s'ils sont amis ou s'il
 Sans autre serveur en commun, l'utilisateur banni ne peut donc plus écrire qu'à ses amis, y compris dans une conversation déjà ouverte.
 S'il partage encore un autre serveur avec un membre, il peut continuer à lui écrire.
 
-## Bannissement et adresse IP {#adresse-ip}
+## Bannissement d'une adresse IP {#adresse-ip}
 
 D'après le centre d'aide de Discord, « Les bannissements de serveur sont basés sur les adresses IP ».
 Une adresse IP est l'identifiant attribué à une connexion à internet.
