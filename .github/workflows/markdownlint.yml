@@ -14,8 +14,6 @@ permissions:
 jobs:
   lint:
     runs-on: ubuntu-latest
-    permissions:
-      statuses: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v7
