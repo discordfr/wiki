@@ -59,7 +59,8 @@ Par l'intermédiaire de l'API, une application peut bannir jusqu'à 200 utilisat
 ### Suppression des messages récents {#suppression-messages}
 
 Au moment du bannissement, Discord permet de supprimer les messages envoyés récemment par l'utilisateur sur le serveur.
-L'option « Supprimer l'historique des messages » propose de ne rien supprimer, ou de supprimer les messages de la dernière heure, des 6, 12 ou 24 dernières heures, des 3 ou des 7 derniers jours. Par l'intermédiaire de l'API, la période s'exprime en secondes, de 0 à 604 800 (soit 7 jours).
+L'option « Supprimer l'historique des messages » propose de ne rien supprimer, ou de supprimer les messages de la dernière heure, des 6, 12 ou 24 dernières heures, des 3 ou des 7 derniers jours.
+Par l'intermédiaire de l'API, la période s'exprime en secondes, de 0 à 604 800 (soit 7 jours).
 
 ## Liste des bannissements {#liste}
 
