@@ -47,7 +47,7 @@ Sur mobile :
 2. Appuyer sur « Bannir ».
 3. Indiquer, si besoin, une raison et confirmer.
 
-<!-- TODO: capture anonyme de la fenêtre de bannissement d'un membre (raison et suppression des messages), sans pseudo ni avatar identifiable -->
+![Fenêtre de banissement d'un membre](https://i.dfr.gg/FpAt.png)
 
 ### Bannissement multiple {#bannissement-multiple}
 
