@@ -4,7 +4,7 @@ keywords:
   - markdown
   - texte
   - écriture
-  - formattage
+  - formatage
   - mise en forme
 description: Discord utilise le langage markdown afin de permettre aux utilisateurs de mettre en forme leurs messages.
 contributors: [volcanofr, xox, dragrame]
@@ -17,7 +17,7 @@ import TOCInline from '@theme/TOCInline';
 import Spoiler from '@site/src/components/Spoiler';
 export const deltaUnixYear = new Date().getFullYear() - 1970;
 
-La syntaxe **Markdown** se caractérise par le positionnement de caractères simples, tel que l'astérisque (<code>*</code>) et le hashtag (<code>#</code>), qui permettent la **mise en forme** d'un texte.
+La syntaxe **Markdown** se caractérise par le positionnement de caractères simples, tels que l'astérisque (<code>*</code>) et le hashtag (<code>#</code>), qui permettent la **mise en forme** d'un texte.
 
 Par exemple, la syntaxe suivante :
 
@@ -132,7 +132,7 @@ A comme rendu :
 ![Citation sur Discord](https://i.dfr.gg/vNMi.webp)
 
 :::note
-Placer 3 signes plus grand que (`>>>`), au début de la ligne, rendera automatiquement tout le reste du message sous citation.
+Placer 3 signes plus grand que (`>>>`), au début de la ligne, rendra automatiquement tout le reste du message sous citation.
 :::
 </TabItem>
 <TabItem value="titres" label="Titres">
@@ -263,8 +263,8 @@ A comme rendu :
 ![Mention d'un salon vocal](https://i.dfr.gg/ocqf.webp)
 
 :::note
-La mention de tout types de salons, posts, fils de discussion et messages privés est possible.
-Les catégories sont aussi mentionables, mais ne seront pas cliquable.
+La mention de tous types de salons, posts, fils de discussion et messages privés est possible.
+Les catégories sont aussi mentionables, mais ne sont pas cliquable.
 
 Il est aussi possible d'utiliser le lien du salon afin de le mentionner.
 :::
@@ -283,7 +283,7 @@ A comme rendu :
 ![Mention d'un rôle](https://i.dfr.gg/WOgL.webp)
 </TabItem>
 <TabItem value="commande" label="Commande slash">
-La mention des commandes d'application se fait sous le format <code>&lt;nom_commande (nom_groupe-sous-commande) (nom_sous-commande):identifiant&gt;</code>.
+La mention des commandes d'application se fait sous le format <code>&lt;/nom_commande (nom_groupe-sous-commande) (nom_sous-commande):identifiant&gt;</code>.
 
 Par exemple, le texte suivant :
 
@@ -336,7 +336,7 @@ Certains emplacements ont des mentions spéciales.
 - <code>&lt;id:guide&gt;</code> mentionne le guide du serveur ;
 - <code>&lt;id:browse&gt;</code> mentionne la recherche des salons ;
 - <code>&lt;id:customize&gt;</code> mentionne les questions de personnalisation et l'affichage des salons ;
-- <code>&lt;id:linked-roles&gt;</code> mentionne le menu des rôles liés, et <code>&lt;id:linked-roles:role_id&gt;</code> mentionne le menu sur un rôle lié spécifique ;
+- <code>&lt;id:linked-roles&gt;</code> mentionne le menu des rôles liés, et <code>&lt;id:linked-roles:role_id&gt;</code> mentionne le menu d'un rôle lié spécifique ;
 
 Par exemple, le texte suivant :
 
@@ -358,7 +358,7 @@ Afin de trouver les différents identifiants, il suffit d'activer le [`Mode dév
 
 ### Unix Timestamp {#timestamp}
 
-Sur Discord, il est possible d'afficher une date et l'heure suivant la plage horaire et la langue locale de l'utilisateur.
+Sur Discord, il est possible d'afficher une date et l'heure suivant le fuseau horaire et la langue locale de l'utilisateur.
 Cette fonctionnalité est notamment très pratique pour afficher l'heure de réunions et d'évènements.
 
 Pour mentionner un [timestamp](https://unixtime.org), il suffit de commencer par "<code>&lt;t:timestamp:</code>", puis de choisir l'une de ces lettres :
@@ -396,7 +396,7 @@ Affiche en français, avec comme zone locale la France :
 :::note
 Il est aussi possible de ne pas ajouter de lettre de style.
 Il faut alors enlever le dernier `:` tel que : <code>&lt;t:0&gt;</code>.
-Cela affiche sous le format par défaut : date longue et l'heure courte (`f`).
+Cela affiche sous le format par défaut : date longue et heure courte (`f`).
 :::
 
 ---
@@ -430,7 +430,8 @@ Cela n'affiche pas l'embed :
 <TabItem value="lien-hypertexte" label="Lien hypertexte">
 Afin de rendre un texte cliquable, tel un lien, il suffit de prendre le format : <code>[texte à afficher](https://example.com)</code>.
 
-Il est aussi possible d'y rajouter un texte dans l'info-bulle, en rajoutant <code>'texte au survol'</code> à l'intérieur des crochets.
+Il est aussi possible d'y rajouter un texte dans l'info-bulle, en rajoutant <code>'texte au survol'</code> à la fin de la parenthèse.
+Le survol du lien est uniquement possible sur ordinateur.
 
 ![Info-bulle au survol](https://i.dfr.gg/eoWV.webp)
 
@@ -453,8 +454,8 @@ Une adresse email peut être rendue cliquable avec le format, dans l'ordre :
 
 1. Le signe plus petit que : <code>&lt;</code>
 2. Optionellement suivi de <code>mailto:</code>
-3. <code>nom@addresse</code>
-4. Optionellement des paramètres tel que l'URI html correspondante au `mailto`
+3. <code>nom@adresse</code>
+4. Optionnellement des paramètres tels que l'URI html correspondante au `mailto`
   * Exemple : <code>?subject=Sujet&body=Contenu%20du%20mail</code>
 5. Et finissant par le signe plus grand que : <code>&gt;</code>
 
@@ -470,14 +471,14 @@ Apparaît tel que :
 ![Liens des addresses mail](https://i.dfr.gg/dQtA.png)
 
 :::note
-Il est uniquement possible de modifier le texte d'une addresse mail quand `mailto:` est utilisé avec le format classique des liens hypertexte.
+Il est uniquement possible de modifier le texte d'une adresse mail quand `mailto:` est utilisé avec le format classique des liens hypertexte.
 :::
 </TabItem>
 <TabItem value="tel-sms" label="Numéro de téléphone">
 Il est possible de rendre cliquable un numéro de téléphone en utilisant le format :
 
 1. Le signe plus petit que : <code>&lt;</code>
-2. Optionellement <code>tel:</code> ou <code>sms:</code>
+2. Optionnellement <code>tel:</code> ou <code>sms:</code>
 3. Le signe plus : <code>+</code>, optionnel si le paramètre précédent est utilisé
 4. Le numéro de téléphone
 5. Puis fermer avec le signe plus grand que : <code>&gt;</code>
@@ -502,7 +503,7 @@ Contrairement à l'addresse mail, il n'est pas possible d'utiliser des liens hyp
 ## La mise en forme rapide {#forme-rapide}
 
 Pour faciliter l'utilisation de la mise en forme, Discord a également ajouté une fonctionnalité de mise en forme rapide.
-Elle n'est disponible que sur l'application Windows, Linux, MacOS ainsi que l'application Web.
+Elle n'est pas disponible sur l'application mobile.
 
 Pour l'utiliser, il suffit de sélectionner avec la souris ou le clavier la zone à modifier.
 Plusieurs boutons apparaissent alors afin de mettre en forme le texte, afin de mettre en gras, italique, souligné, barré, en citation, en code ou en spoiler :
