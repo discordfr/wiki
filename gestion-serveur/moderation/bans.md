@@ -132,4 +132,4 @@ Sur les serveurs, le bannissement est notamment employé dans les situations sui
 * **Softban** : un bannissement suivi d'un débannissement immédiat, qui supprime les messages récents du compte sans l'empêcher de revenir avec une invitation.
 
 D'autres serveurs utilisent à la place un rôle d'isolement, attribué par une application, qui retire au membre l'accès aux salons sans lui faire quitter le serveur.
-Discord FR déconseille le bannissement dans la plupart des cas et recommande cet isolement, pour les raisons détaillées dans l'article « [Bannir les membres de son serveur : une solution obsolète ?](/blog/2026/10/19/ban-discord-solution-obsolete) ».
+Discord FR déconseille le bannissement dans la plupart des cas et recommande cet isolement, pour les raisons détaillées dans l'article « [Bannir les membres de son serveur : une solution obsolète ?](/blog/2026/10/20/ban-discord-solution-obsolete) ».
