@@ -62,3 +62,4 @@ Elle est aussi accessible depuis l'étagère des activités des développeurs da
 ### Dérogation d'URL d'activité
 
 Disponible depuis l'étagère des activités des développeurs des salons vocaux, il est possible de forcer l'[URL de base](https://developer.mozilla.org/docs/Web/API/Node/baseURI) de toutes les requêtes `HTTP` faites par l'**activité** lancée par l'utilisateur.
+Toutes les informations, qui communiquent habituellement entre le serveur de l'activité et l'application, passent alors sur l'addresse renseignée.
