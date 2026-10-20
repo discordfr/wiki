@@ -90,7 +90,7 @@ Un [badge](/wiki/compte-utilisateur/personnalisation-profil/badges) sera égalem
 Le propriétaire du serveur reçoit un [badge partenaire](/wiki/compte-utilisateur/personnalisation-profil/badges#partner) ainsi que [Nitro](/wiki/contenu-payant/abonnements-nitro) sur toute la durée de sa propriété.
 Si le compte est compromis, le serveur peut perdre son statut de partenaire avec tous ses avantages tant serveur qu'utilisateur.
 
-:::
+:::warning
 Discord a annoncé, sur [Discord Admins](https://support.discord.com/hc/articles/5309276245271), l'arrêt de la possibilité de transfert de serveur partenaire.
 Le transfert du serveur mènera à la perte du badge dans la plupart des cas.
 :::
