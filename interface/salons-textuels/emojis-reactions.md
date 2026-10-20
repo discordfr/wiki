@@ -40,7 +40,7 @@ Un sélecteur d'émojis dans la barre d'envoie de message est disponible.
 
 ![Sélecteur d'émojis, section émojis par défaut](https://i.dfr.gg/a8eP.png)
 
-Il est aussi possible d'utiliser le [format Markdown de Discord](/wiki/interface/salon-textuels/markdown) en récupérant l'ID de l'émoji, ce qui est pratique dans les embeds.
+Il est aussi possible d'utiliser le [format Markdown de Discord](/wiki/interface/salons-textuels/markdown) en récupérant l'ID de l'émoji, ce qui est pratique dans les embeds.
 
 ```md
 <:NAME:ID>
@@ -61,6 +61,6 @@ Pour l'utiliser en tant que réaction, il faut cliquer sur "Ajouter une réactio
  
 ![Bouton pour une réaction sous un message](https://i.dfr.gg/icm.png)
 
-Pour les utilisateurs de [Nitro](/wiki/) est aussi possible de faire une "super réaction", qui ajoutera une animation à chaque réaction mise sur un message, et mettra la réaction en surbrillance. Ce mode est activable dans le panel de sélection des émojis.
+Pour les utilisateurs de [Nitro](/wiki/contenu-payant/abonnements-nitro) est aussi possible de faire une "super réaction", qui ajoutera une animation à chaque réaction mise sur un message, et mettra la réaction en surbrillance. Ce mode est activable dans le panel de sélection des émojis.
 
 ![Activation des super réactions](https://i.dfr.gg/MvQW.png)

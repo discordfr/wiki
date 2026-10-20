@@ -1,0 +1,39 @@
+name: Problème avec un article
+description: Le contenu d'un article du Wiki Discord FR est illisible, ou quelque chose ne fonctionne pas comme prévu
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Problématique
+      description: Qu'est-ce qui ne fonctionne pas comme prévu ?
+      placeholder: |
+        ex. Certaines images ne s'affichent pas.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Étapes pour reproduire le problème
+      description: Quelles sont les étapes pour reproduire le problème ?
+      placeholder: |
+        ex. 1. Aller sur la page https://dfr.gg/wiki/contenu-payant/abonnements-nitro
+        2. Voir que certaines images ne s'affichent pas et affichent leur texte alternatif à la place
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: Informations supplémentaires
+      description: Il y a-t-il des information additionnelles que vous souhaitez ajouter à l'Issue ? (ex. script, captures d'écran, etc.)
+      placeholder: "ex. - User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0"
+    validations:
+      required: false
+  - type: checkboxes
+    id: validation
+    attributes:
+      label: Avant de valider
+      options:
+        - label: J'ai bien vérifié que le problème n'a pas déjà été signalé
+          required: true

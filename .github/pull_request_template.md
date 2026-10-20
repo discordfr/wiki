@@ -2,16 +2,21 @@
     Informations:
     En ouvrant cette pull request, je m'engage à lire et à respecter les règles suivantes:
 
-    - Toute Pull Request ne suivant pas la template proposée sera fermée sans préavis
-    - Les sources abordées dans les articles doivent être vérifiées et pertinentes
-    - Le style de rédaction de Discord.FR et les règles orthographiques françaises doivent être respectés.
+    - Le template de PR par défaut est utilisé
+    - Les informations dans les articles peuvent être vérifiables (lien ou capture d'écran fournissable)
+    - Le style de rédaction de Discord FR est utilisé : https://fr.wikipedia.org/wiki/Wikipédia:Style_encyclopédique
+    - Les règles orthographiques françaises sont respectées
   
     MERCI DE NE PAS ENLEVER CE COMMENTAIRE
-    -->
+-->
 
-**Quel est votre identifiant Discord ?**<br/> 
+**Mon identifiant Discord :**<br/>
 Entrez votre ID ici
-<!-- Pour trouver votre identifiant, vous pouvez suivre ce tutoriel: https://dfr.gd/id -->
+<!-- Pour trouver votre identifiant, vous pouvez suivre ce tutoriel : https://dfr.gd/id -->
 
-**Décrivez rapidement vos ajouts ou changements**<br/>
+**Description des changements :**<br/>
 Entrez votre description ici
+
+**Issue liée :**<br/>
+Aucune <!-- ou #Numéro -->
+<!-- Toutes les Issues sont listées ici : https://github.com/discordfr/wiki/issues?q=is%3Aissue%20state%3Aopen -->

@@ -41,6 +41,6 @@ Il est possible de modifier le nom du fichier avant de l'envoyer ou de le mettre
 
 ## Limites de taille
 
-Discord n'autorise qu'une taille limite de fichier par message. Par défaut, cette taille est de **10 Mo** pour les utilisateurs sans [abonnement Nitro](/wiki/contenu-payant/abonnement-nitro), de 50 Mo pour les utilisateurs de Nitro Basic et jusqu'à 500 Mo pour les utilisateurs possédant un abonnement Nitro Boost.
+Discord n'autorise qu'une taille limite de fichier par message. Par défaut, cette taille est de **10 Mo** pour les utilisateurs sans [abonnement Nitro](/wiki/contenu-payant/abonnements-nitro), de 50 Mo pour les utilisateurs de Nitro Basic et jusqu'à 500 Mo pour les utilisateurs possédant un abonnement Nitro Boost.
 
 En plus de cette limite pour les utilisateurs, Discord donne la possibilité d'avoir une limite de taille plus grande via les [boosts de serveurs](/wiki/contenu-payant/boost-serveur), avec une limite de 50 Mo pour le niveau 2 et de 100 Mo pour le niveau 3.
