@@ -17,7 +17,7 @@ import TOCInline from '@theme/TOCInline';
 import Spoiler from '@site/src/components/Spoiler';
 export const deltaUnixYear = new Date().getFullYear() - 1970;
 
-La syntaxe **Markdown** se caractérise par le positionnement de caractères simples, tels que l'astérisque (<code>*</code>) et le hashtag (<code>#</code>), qui permettent la **mise en forme** d'un texte.
+La syntaxe **Markdown** se caractérise par le positionnement de caractères simples, tels que l'astérisque (<code>&#42;</code>) et le hashtag (<code>#</code>), qui permettent la **mise en forme** d'un texte.
 
 Par exemple, la syntaxe suivante :
 
@@ -27,26 +27,21 @@ Le *pré* est rempli d'**animaux joyeux** chantant __gaiement__ ~~tant que le lo
 
 Apparaît tel que :
 
-![Exemple de texte formatté avec Markdown](https://i.dfr.gg/c4Lm.webp)
+![Exemple de texte formaté avec Markdown](https://i.dfr.gg/c4Lm.webp)
 
 :::info
-<details style={{
-	border: 'none',
-	backgroundColor: 'unset',
-}}>
-	<summary>Pour naviguer sur cette page, il est conseillé d'utiliser le sommaire :</summary>
+Pour naviguer sur cette page, il est conseillé d'utiliser le sommaire :
 
-	<TOCInline toc={toc} />
-</details>
+<TOCInline toc={toc} />
 :::
 
 ## Syntaxe {#syntaxe}
 
-### Formatage de texte {#fomat-texte}
+### Formatage de texte {#format-texte}
 
 <Tabs defaultValue="gras" queryString="format-texte">
 <TabItem value="italique" label="Italique">
-1 astérisque (<code>*</code>) ou 1 underscore (<code>_</code>) de part et d'autre d'une chaîne de caractères affiche un texte en <i>italique</i>.
+1 astérisque (<code>&#42;</code>) ou 1 underscore (<code>&#95;</code>) de part et d'autre d'une chaîne de caractères affiche un texte en <i>italique</i>.
 
 Par exemple, le message suivant :
 
@@ -54,12 +49,12 @@ Par exemple, le message suivant :
 Bienvenue sur *dfr.*_gg_ !
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Texte en italique sur Discord](https://i.dfr.gg/NHBY.webp)
 </TabItem>
 <TabItem value="gras" label="Gras">
-2 astérisques (<code>**</code>) de chaque côté d'un texte affiche un message en <strong>gras</strong>.
+2 astérisques (<code>&#42;&#42;</code>) de chaque côté d'un texte affiche un message en <strong>gras</strong>.
 
 Par exemple, le message suivant :
 
@@ -67,12 +62,12 @@ Par exemple, le message suivant :
 Bienvenue sur **dfr.gg** !
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Texte en gras sur Discord](https://i.dfr.gg/Jiuv.webp)
 </TabItem>
 <TabItem value="souligne" label="Souligné">
-2 underscores (<code>__</code>) de chaque côté d'une chaîne de caractères affiche un texte <u>souligné</u>.
+2 underscores (<code>&#95;&#95;</code>) de chaque côté d'une chaîne de caractères affiche un texte <u>souligné</u>.
 
 Par exemple, le message suivant :
 
@@ -80,12 +75,12 @@ Par exemple, le message suivant :
 Bienvenue sur __dfr.gg__ !
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Texte souligné sur Discord](https://i.dfr.gg/aC0n.webp)
 </TabItem>
 <TabItem value="barre" label="Barré">
-2 tildes (<code>~~</code>) de part et d'autre d'un texte affiche un message <s>barré</s>.
+2 tildes (<code>&tilde;&tilde;</code>) de part et d'autre d'un texte affiche un message <s>barré</s>.
 
 Par exemple, le message suivant :
 
@@ -93,7 +88,7 @@ Par exemple, le message suivant :
 Bienvenue sur ~~dfr.gg~~ !
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Texte barré sur Discord](https://i.dfr.gg/LA24.webp)
 </TabItem>
@@ -106,7 +101,7 @@ Par exemple, le message suivant :
 Bienvenue sur ||dfr.gg|| !
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Texte caché sur Discord](https://i.dfr.gg/arCL.webp)
 
@@ -127,12 +122,12 @@ Par exemple, le message suivant :
 > Bienvenue sur dfr.gg !
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Citation sur Discord](https://i.dfr.gg/vNMi.webp)
 
 :::note
-Placer 3 signes plus grand que (`>>>`), au début de la ligne, rendra automatiquement tout le reste du message sous citation.
+Placer 3 chevrons fermants (`>>>`), au début de la ligne, rendra automatiquement tout le reste du message sous citation.
 :::
 </TabItem>
 <TabItem value="titres" label="Titres">
@@ -150,7 +145,7 @@ Par exemple, le message suivant :
 ### Bonne visite !
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Titres sur Discord](https://i.dfr.gg/IwhK.webp)
 </TabItem>
@@ -166,7 +161,7 @@ Par exemple, le message suivant :
 dfr.gg !
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Sous-texte sur Discord](https://i.dfr.gg/7D4S.webp)
 </TabItem>
@@ -177,7 +172,7 @@ A comme rendu :
 ### Bloc de code {#bloc-code}
 
 <Tabs defaultValue="multiligne" queryString="bloc-code">
-<TabItem value="uniligne" label="Bloc uniligne">
+<TabItem value="monoligne" label="Code en ligne">
 1 accent grave (<code>&#96;</code>) de chaque côté d'un texte affiche un message sous la forme de `bloc`.
 
 Par exemple, le message suivant :
@@ -186,14 +181,14 @@ Par exemple, le message suivant :
 Bienvenue sur `dfr.gg` !
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
-![Bloc de code uniligne sur Discord](https://i.dfr.gg/hg5r.webp)
+![Bloc de code monoligne sur Discord](https://i.dfr.gg/hg5r.webp)
 </TabItem>
 <TabItem value="multiligne" label="Bloc multiligne">
-3 accents grave (<code>```</code>) de chaque côté d'un texte affiche un message sous la forme de
+3 accents grave (<code>&#96;&#96;&#96;</code>) de chaque côté d'un texte affiche un message sous la forme de
 
-```
+```md
 bloc
 ```
 
@@ -202,15 +197,15 @@ après les caractères d'ouverture du bloc.
 
 Tel que :
 
-```
+````md
 ```diff
 - discord.fr
 + dfr.gg
   slash.fr.community
-``` 
 ```
+````
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Bloc de code multiligne sur Discord (langage diff)](https://i.dfr.gg/Nbpo.webp)
 
@@ -235,7 +230,7 @@ Par exemple, le texte suivant :
 <@1231631025914904576>
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Mention de Wumpus](https://i.dfr.gg/dz44.webp)
 
@@ -258,7 +253,7 @@ Par exemple, le texte suivant :
 <#264363166316756992>
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Mention d'un salon vocal](https://i.dfr.gg/ocqf.webp)
 
@@ -270,7 +265,7 @@ Il est aussi possible d'utiliser le lien du salon afin de le mentionner.
 :::
 </TabItem>
 <TabItem value="role" label="Rôle">
-La mention des rôles se forme sous le format <code>&lt;@&amp;identifiant&gt;</code>.
+La mention des rôles utilise le format <code>&lt;@&amp;identifiant&gt;</code>.
 
 Par exemple, le texte suivant :
 
@@ -278,7 +273,7 @@ Par exemple, le texte suivant :
 <@&1120672019135090729>
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Mention d'un rôle](https://i.dfr.gg/WOgL.webp)
 </TabItem>
@@ -291,7 +286,7 @@ Par exemple, le texte suivant :
 </serveur:942123323482054797> </event help:1090669974470803656>
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Mention des slash commandes](https://i.dfr.gg/7Ly6.webp)
 
@@ -304,11 +299,11 @@ La mention des messages se fait uniquement via leur lien de partage.
 
 Par exemple, le texte suivant :
 
-```
+```md
 https://discord.com/channels/812028116552777738/909858896431161375/909905242466951168
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Mention d'un message](https://i.dfr.gg/PjfU.webp)
 
@@ -326,7 +321,7 @@ Par exemple, le texte suivant :
 <@$1410791091501928458>
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Mention d'un jeu](https://i.dfr.gg/cSnR.png)
 </TabItem>
@@ -340,11 +335,11 @@ Certains emplacements ont des mentions spéciales.
 
 Par exemple, le texte suivant :
 
-```
+```md
 <id:guide> <id:browse> <id:customize> <id:linked-roles> <id:linked-roles:1053078378925789324>
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Mentions spéciales](https://i.dfr.gg/zPye.png)
 </TabItem>
@@ -361,7 +356,7 @@ Afin de trouver les différents identifiants, il suffit d'activer le [`Mode dév
 Sur Discord, il est possible d'afficher une date et l'heure suivant le fuseau horaire et la langue locale de l'utilisateur.
 Cette fonctionnalité est notamment très pratique pour afficher l'heure de réunions et d'évènements.
 
-Pour mentionner un [timestamp](https://unixtime.org), il suffit de commencer par "<code>&lt;t:timestamp:</code>", puis de choisir l'une de ces lettres :
+Pour mentionner un [horodatage](https://unixtime.org), il suffit de commencer par "<code>&lt;t:timestamp:</code>", puis de choisir l'une de ces lettres :
 
 - `t` (heure courte) - <code>&lt;t:0:t&gt;</code> affiche "01:00" ;
 - `T` (heure longue) - <code>&lt;t:0:T&gt;</code> affiche "01:00:00" ;
@@ -377,7 +372,7 @@ Puis de refermer la syntaxe par le signe plus grand que (<code>&gt;</code>).
 
 Par exemple, le texte suivant :
 
-```
+```md
 <t:1431476999:t>
 <t:1431476999:T>
 <t:1431476999:d>
@@ -409,17 +404,17 @@ Afin de supprimer l'embed généré par un lien, il suffit de mettre les signes 
 
 Par exemple, le texte suivant :
 
-```
+```md
 https://dfr.gg
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Embed de lien visible](https://i.dfr.gg/bgQk.webp)
 
 Alors qu'avec les signes :
 
-```
+```md
 <https://dfr.gg>
 ```
 
@@ -428,7 +423,7 @@ Cela n'affiche pas l'embed :
 ![Pas d'embed du lien](https://i.dfr.gg/MtYW.webp)
 </TabItem>
 <TabItem value="lien-hypertexte" label="Lien hypertexte">
-Afin de rendre un texte cliquable, tel un lien, il suffit de prendre le format : <code>[texte à afficher](https://example.com)</code>.
+Afin de rendre un texte cliquable, tel un lien, il suffit de prendre le format : <code>&lbrack;texte à afficher&rbrack;&lpar;https://example.com&rpar;</code>.
 
 Il est aussi possible d'y rajouter un texte dans l'info-bulle, en rajoutant <code>'texte au survol'</code> à la fin de la parenthèse.
 Le survol du lien est uniquement possible sur ordinateur.
@@ -437,11 +432,11 @@ Le survol du lien est uniquement possible sur ordinateur.
 
 Par exemple, le texte suivant [:](https://printer.discord.com)
 
-```
+```md
 [Anciennement discord.fr](<https://dfr.gg> 'DFR') : un site à propos de Discord.
 ```
 
-A comme rendu :
+S'affiche ainsi :
 
 ![Lien hypertexte](https://i.dfr.gg/fKoA.webp)
 
@@ -453,7 +448,7 @@ Il est aussi possible de [supprimer l'embed du lien](?lien=suppression-embed#lie
 Une adresse email peut être rendue cliquable avec le format, dans l'ordre :
 
 1. Le signe plus petit que : <code>&lt;</code>
-2. Optionellement suivi de <code>mailto:</code>
+2. Optionnellement suivi de <code>mailto:</code>
 3. <code>nom@adresse</code>
 4. Optionnellement des paramètres tels que l'URI html correspondante au `mailto`
   * Exemple : <code>?subject=Sujet&body=Contenu%20du%20mail</code>
@@ -461,14 +456,14 @@ Une adresse email peut être rendue cliquable avec le format, dans l'ordre :
 
 Par exemple, le texte suivant :
 
-```
+```md
 Lien simple : <hello@dfr.gg>
 Lien avec toutes les options : [lien hypertexte utilisant l'URL mailto](<mailto:hello@dfr.gg?subject=Exemple%20Markdown>)
 ```
 
 Apparaît tel que :
 
-![Liens des addresses mail](https://i.dfr.gg/dQtA.png)
+![Liens des adresses mail](https://i.dfr.gg/dQtA.png)
 
 :::note
 Il est uniquement possible de modifier le texte d'une adresse mail quand `mailto:` est utilisé avec le format classique des liens hypertexte.
@@ -485,7 +480,7 @@ Il est possible de rendre cliquable un numéro de téléphone en utilisant le fo
 
 Le texte suivant :
 
-```
+```md
 Lien simple : <+33 (0)1 23 45 67 89>
 Lien utilisant l'URI : <tel:01 23 45 67 89>/<sms:+33(0)123456789>
 ```
@@ -495,7 +490,7 @@ Est affiché comme cela :
 ![Liens des numéros de téléphone](https://i.dfr.gg/sJgb.png)
 
 :::note
-Contrairement à l'addresse mail, il n'est pas possible d'utiliser des liens hypertextes avec des numéros de téléphone.
+Contrairement à l'adresse mail, il n'est pas possible d'utiliser des liens hypertextes avec des numéros de téléphone.
 :::
 </TabItem>
 </Tabs>
