@@ -1,0 +1,21 @@
+name: Correcteur orthographique
+on:
+  pull_request:
+    paths:
+      - "**/*.md"
+      - "**/*.mdx"
+permissions:
+  contents: read
+jobs:
+  languagetool:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7
+      - name: Vérification orthographique avec LanguageTool
+        uses: reviewdog/action-languagetool@v1
+        with:
+          language: fr
+          patterns: "**/*.md **/*.mdx"
+          level: info
+          reporter: github-pr-check
