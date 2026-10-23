@@ -8,7 +8,7 @@ keywords:
   - paramètres
   - utilisateur
 description: Les paramètres d'entrée audio, les traitements que Discord réalise sur le son de votre micro
-contributors: [antoww, volcanofr]
+contributors: [antow, volcanofr]
 ---
 
 Discord possède une fonctionnalité de **filtrage du bruit**.
