@@ -1,10 +1,11 @@
 ---
 title: Magasin de jeux
 keywords:
-  - discord
-  - store games
-  - magasin de jeux
-description: Magasin de jeux
+  - magasin
+  - jeu
+  - store
+  - game
+description: Le magasin de jeux.
 contributors: []
 short_slug: false
 ---
