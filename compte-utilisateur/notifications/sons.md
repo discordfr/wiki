@@ -1,11 +1,10 @@
 ---
-title: Les Sons de notification
+title: Sons de notification
 keywords:
-  - discord
   - notification
-  - sons
+  - son
   - paramètres
-description: Les Sons de notification
+description: Discord peut émettre un son lorsqu'une notification est reçue.
 contributors: []
 short_slug: false
 ---
