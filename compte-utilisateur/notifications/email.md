@@ -1,11 +1,14 @@
 ---
-title: Notifications d’email
+title: Notifications par email
 keywords:
-  - discord
   - notification
   - email
-  - paramètres
-description: Notifications d’email
+  - adresse
+  - mail
+  - compte
+  - paramètre
+  - parametre
+description: Paramétrer les notifications par adresse mail sur Discord.
 contributors: []
 short_slug: false
 ---
