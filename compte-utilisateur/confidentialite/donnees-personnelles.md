@@ -1,10 +1,11 @@
 ---
-title: Les Données personnelles
+title: Données personnelles
 keywords:
-  - discord
+  - données
+  - personnel
   - confidentialité
-  - données personnelles
-description: Les Données personnelles
+  - confidentialite
+description: L'obtention et la liste des données collectées par Discord.
 contributors: []
 short_slug: false
 ---
