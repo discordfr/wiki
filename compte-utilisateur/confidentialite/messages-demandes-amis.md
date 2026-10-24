@@ -1,11 +1,14 @@
 ---
-title: Les Messages et demandes d’amis
+title: Messages et demandes d'amis
 keywords:
-  - discord
+  - message
+  - privé
+  - prive
+  - demande
+  - ami
   - confidentialité
-  - messages
-  - demandes amis
-description: Les Messages et demandes d’amis
+  - confidentialite
+description: Les messages privés et demandes d'amis sur Discord.
 contributors: []
 short_slug: false
 ---
