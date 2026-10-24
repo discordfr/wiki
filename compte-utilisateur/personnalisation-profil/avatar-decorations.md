@@ -1,10 +1,13 @@
 ---
-title: Les Décorations d’avatar
+title: Décorations d'avatar
 keywords:
-  - discord
-  - avatar decorations
-  - décorations avatar
-description: Les Décorations d’avatar
+  - décoration
+  - decoration
+  - avatar
+  - personnalisation
+  - customisation
+  - profil
+description: Personnaliser son profil Discord avec une décoration autour de sa photo de profil.
 contributors: []
 short_slug: false
 ---
