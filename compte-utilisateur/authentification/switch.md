@@ -1,9 +1,14 @@
 ---
 title: Changer de compte
 keywords:
-  - discord
-  - switch accounts
-description: Changer de compte
+  - changer
+  - changement
+  - compte
+  - switch
+  - account
+  - multiple
+  - plusieurs
+description: Discord permet de changer facilement entre ses différents comptes, sans se déconnecter.
 contributors: []
 short_slug: false
 ---
