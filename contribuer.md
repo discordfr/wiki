@@ -1,199 +1,189 @@
 ---
-title: Contribuer au Wiki de Discord FR
-description: Contribuer est une chose importante pour le Wiki de Discord FR, apprenez comment nous aider sur cette page. :)
-image: https://i.dfr.gg/9yU.png
+title: Contribuer au wiki de Discord FR
+description: Contribuer est une chose importante pour le wiki de Discord FR, apprenez comment nous aider sur cette page. :)
 sidebar_label: Contribuer
 short_slug: Contribuer
 ---
-Dans cet article, vous apprendrez pas à pas à créer une page et à la modifier pour devenir un vrai contributeur de ce Wiki. Elle vous expliquera les bases et quelques conseils utiles pour bien débuter.
 
-### Comment modifier une page du Wiki #
+Sur cette page, vous apprendrez pas à pas à **créer une page** et **en modifier** pour devenir un vrai contributeur de ce wiki.
+Elle vous expliquera les **bases et quelques conseils** utiles pour bien débuter.
 
-#### Sélection du Fichier
-Rendez-vous sur la page [GitHub du Wiki](https://github.com/discordfr/wiki) puis choisissez le fichier que vous souhaitez éditer dans la liste.
+## Initialisation
 
-![Choisir un Fichier](https://i.dfr.gg/X6T.png)
-:::note Note
-Les fichiers portent le nom du lien, par exemple contribuer.md est le fichier correspondant au lien https://dfr.gg/wiki/contribuer.
+Dans tous les cas, il faut [se munir d'un compte Github](https://github.com/login).
+
+Sur le [_repository_ du projet](https://github.com/discordfr/wiki) (dépôt), il faut [créer un _fork_](https://github.com/discordfr/wiki/fork) (copie).
+C'est sur le fork que toutes les modifications et ajouts se font.
+
+## Sélectionner le fichier
+
+Les dossiers et fichiers portent les mêmes noms que le chemin dans l'URL.
+Par exemple, [`https://dfr.gg/wiki/contenu-payant/abonnements-nitro`](/wiki/contenu-payant/abonnements-nitro) est présent dans le [dossier `contenu-payant`](https://github.com/discordfr/wiki/tree/master/contenu-payant), sous le nom [`abonnements-nitro.md`](https://github.com/discordfr/wiki/blob/master/contenu-payant/abonnements-nitro.md).
+
+## Le modifier
+
+:::tip
+Voir la section correspondante pour [en créer un nouveau](#le-créer).
 :::
 
-#### Débuter la modification
-Cliquez sur le petit logo de crayon (Modifier), GitHub alors créera automatiquement une "Fork" dans votre profil, ce qui vous permettra de modifier le document.
+Sur la vue du contenu du fichier, en haut à droite, apparaît une icône stylo « 🖊️ ».
+Le cliquer permet de débuter la modification du document.
 
-![Modifier](https://i.dfr.gg/TPF.png)
+![Bouton de modification](https://i.dfr.gg/CQgk.png)
 
-#### Valider la modification et la commenter
-Après avoir fait vos modifications, veillez à la mettre en page avec du Markdown, vous trouverez une boîte d'aide plus bas ; ajoutez ensuite un commentaire qui explique précisément vos modifications ; vous devez ___indiquer vos sources___ si vous en avez. (Numéro 1)
+## Le créer
 
-Enfin, validez en appuyant sur le bouton "Propose changes" qui confirmera l'action. (Numéro 2)
-
-![Commenter](https://i.dfr.gg/KYW.png)
-:::caution Attention !
-Même si un membre de l'équipe passe derrière, relisez-vous. Les modifications ayant un nombre trop important de fautes d'orthographes seront écartées.
+:::tip
+Voir la section correspondante pour [en modifier un existant](#le-modifier).
 :::
 
-#### Vérification et mise en ligne
-C'est la dernière fois que vous verrez votre texte ! Relisez-le une dernière fois. (Numéro 1)
+Dans la vue du dossier parent, en haut à droite, apparaît un bouton « `Add file` ».
+Le cliquer permet de débuter la création du document.
 
-Une fois que vous êtes certain du contenu, cliquez sur "Create pull request". (Numéro 2)
+![Bouton de création de fichier](https://i.dfr.gg/41rD.png)
 
-![Pull Request Creation](https://i.dfr.gg/5TM.png)
+## Finaliser les changements
 
-#### Création de la Pull Request
-Ici vous pouvez pour la dernière fois modifier le titre et le commentaire d'ajout. Vérifiez s'il est complet et si possible sourcé (un article du support Discord anglophone par exemple). (Numéro 1)
+Une fois le changement fait, il faut cliquer sur le bouton « `Commit changes…` ».
+Sur le menu apparaissant alors, remplissez les différents encadrés puis cliquez sur « `Propose changes` ».
 
-Ensuite pour terminer votre travail, cliquez sur "Create pull request". (Numéro 2)
-
-:::caution Attention !
-Vous devez laisser coché la case "Allow edits by maintainers" pour nous autoriser la correction de fautes ou tout simplement nous permettre d'ajouter les tags nécessaires pour que les hamsters quantiques de notre site web puissent travailler !
+:::note
+Nous avons des [règles et habitudes de rédaction](#conventions-de-rédaction) qui sont à suivre.
 :::
 
-![Pull Request Creation 2](https://i.dfr.gg/Xf5.png)
+![Commentaires de modification](https://i.dfr.gg/3mzt.png)
 
-#### Vérification par l'équipe
-Si vous tombez sur la page suivante, vous n'avez plus rien à faire, le staff de Discord FR et les contributeurs chevronnés examinerons votre modification.
+## Proposer les changements
 
-![Finish](https://i.dfr.gg/bib.png)
-:::info Information
-Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cependant, si vous constatez que cela prend plus de temps, vous pouvez directement nous contacter sur [Notre Discord](https://discord.gg/fr) en envoyant un Message Privé au bot `@Slash FR#9922`.
+Une fois le _commit_ réalisé, la [création d'une _Pull Request_]() (demande de changement) vous ai suggéré.
+
+Tout en bas de la page correspondante, toutes vos suppressions et ajouts sont listés.
+C'est la dernière fois avant proposition que vous verrez votre texte ! Relisez-le une dernière fois.
+
+![Liste des changements](https://i.dfr.gg/IXtf.png)
+
+Si les changements ne vont pas, un lien vers votre _branch_ (branche) est disponible.
+Vous pouvez y continuer vos changements.
+
+![Lien vers la branche contenant les changements](https://i.dfr.gg/TKWE.png)
+
+Sinon, renseignez les différents éléments demandés puis cliquez sur le bouton « `Create pull request` ».
+
+:::note
+Vous devez laisser la case « `Allow edits by maintainers` » cochée.
+Cela permet à l'équipe de vous corriger, et continuer le suivi de la proposition quand vous n'êtes pas du tout disponible ou que vous ne souhaitez pas continuer.
 :::
 
-*********************
+![Création d'une Pull Request](https://i.dfr.gg/gsYF.png)
 
-### Comment ajouter une page au Wiki #
+## Vérification par l'équipe
 
-#### Créer une page vide prête à être remplie
-Rendez-vous sur la page [GitHub du Wiki](https://github.com/discordfr/wiki), ensuite choisissez "Add File" puis "Create new file".
+L'équipes de _review_ de DFR ainsi que des contributeurs chevronnés examinerons vos changements.
 
-![Add file button](https://i.dfr.gg/wtU.png)
+Si vous ne souhaitez pas vous occuper de l'application des demandes de modification, faites-le nous avoir !
+De même si vous n'êtes que peu disponible ou si vous ne regardez que Discord et pas Github.
+Nous vous remercions déjà grandement d'initier une amélioration du wiki.
 
-#### Ajouter le contenu de base
-Comme pour la modification, entrez le contenu initial de la page. Veillez à la mettre en page grâce au Markdown ; vous trouverez une boîte d'aide plus bas dans cet article. (Numéro 1)
+L'écrasante majorité des changements ne sont pas parfaits dès la première fois – c'est normal.
+Il faut alors appliquer les demandes de modification de l'équipe.
 
-Une fois le contenu rempli, indiquez ce que cette page initiale contient, et si possible, ajoutez des sources. (Numéro 2)
+## Conventions de rédaction
 
-:::danger Attention !!!
-Pensez à nommer votre fichier en haut (wiki/nom). **Mettez impérativement `.md` à la fin du fichier ; sans cela, votre page ne fonctionnera pas et sera rejetée**.
-:::
+Les fichiers utilisent le [format Markdown](https://markdownguide.org/cheat-sheet/) (fichiers `.md`).
+Si des éléments supplémentaires sont utiles, des fichiers MarkdownX peuvent exister (`.mdx`), mais nous n'allons pas parler plus en détail de ceux-là – une connaissance légère en JavaScript étant requise.
 
-Une fois la page correctement remplie, relisez-vous attentivement, puis ensuite cliquez simplement sur "Propose new file". (Numéro 3)
+### Front matter
 
-:::caution Attention !
-Même si un membre de l'équipe passe derrière, relisez-vous. Les modifications ayant un nombre trop important de fautes d'orthographes ou d'erreurs de formulations seront écartés ou demanderont des modifications de votre part.
-:::
-
-![Initial Content](https://i.dfr.gg/o3A.png)
-
-#### Vérification et mise en ligne
-Encore une fois, c'est la dernière fois que vous verrez votre texte ! Relisez-le une dernière fois. (Numéro 1)
-
-Une fois que vous êtes certain du contenu, cliquez sur "Create pull request". (Numéro 2)
-
-![Pull Request Creation addpage](https://i.dfr.gg/Pwy.png)
-
-#### Création de la Pull Request
-Ici, vous pouvez pour la dernière fois modifier le titre et le commentaire d'ajout. Vérifiez s'il est complet et si possible sourcé (un article du support Discord anglophone par exemple). **Attention ! N'oubliez pas de préciser votre ID d'utilisateur Discord pour que nous puissions garder votre compte de contribution à jour !** (Numéro 1)
-
-Enfin, pour terminer votre travail, cliquez sur "Create pull request". (Numéro 2)
-
-:::caution Attention !
-Vous devez laisser coché la case "Allow edits by maintainers" pour nous autoriser la correction de fautes ou tout simplement nous permettre d'ajouter les tags nécessaires pour que les hamsters quantiques de notre site web puissent travailler !
-:::
-
-![Pull Request Creation addpage 2](https://i.dfr.gg/3n6.png)
-
-#### Vérification par l'équipe
-Si vous tombez sur la page suivante, vous n'avez plus rien à faire, le staff de Discord FR et les contributeurs chevronnées examinerons votre nouvelle page.
-
-![Finish addpage](https://i.dfr.gg/bib.png)
-:::info Information
-Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cependant, si vous constatez que cela prend plus de temps, vous pouvez directement nous contacter sur [Notre Discord](https://discord.gg/fr) en envoyant un Message Privé au bot `@Slash FR#9922`.
-:::
-
-*********************
-
-### Bonus d'Aide au Markdown #
-
-Vous trouverez ci-dessous un petit tableau d'aide au Markdown, vous pouvez aussi aller voir [cette Cheat Sheet](https://markdownguide.org/cheat-sheet/) pour plus de contenu.
-
-| Syntaxe     |  Résultat   |
-| ----------- | ----------- |
-| # Titre 1  | ![Titre1](https://i.dfr.gg/7hM.png) |
-| ## Titre 2   | ![Titre2](https://i.dfr.gg/vBy.png) |
-| ### Titre 3 | ![Titre3](https://i.dfr.gg/Bif.png) |
-| #### Titre 4 | ![Titre4](https://i.dfr.gg/Mfh.png) |
-| ##### Titre 5 | ![Titre5](https://i.dfr.gg/QMk.png) |
-| ###### Titre 6 | ![Titre6](https://i.dfr.gg/I7B.png) |
-| \*\*Gras\*\* | **Gras** |
-| \*Italique\* | *Italique* |
-| \*\*\*Les deux cap'tain\*\*\* | ***Les deux cap'tain*** |
-| > Citation | ![Citation](https://i.dfr.gg/8uf.png) |
-| - Liste à point | ![listapoint](https://i.dfr.gg/d9Y.png) |
-| \`code\` | `code` |
-| \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* | ![séparateur](https://i.dfr.gg/peU.png) |
-| \[Site de Discord FR\]\(https://dfr.gg/) | [Site de Discord FR](https://dfr.gg/) |
-| \!\[Logo de Discord FR\]\(https://i.dfr.gg/JTH.png) | ![Logo de Discord FR](https://i.dfr.gg/JTH.png) |
-
-*********************
-
-### Bonus pour les nerds #
-
-#### Ajouter les balises Docusaurus dans la création de la page
-
-Vous pouvez faciliter le travail de l'équipe en rajoutant les [Balises Docusaurus](https://v2.docusaurus.io/docs/markdown-features/#markdown-headers)
-
-Vous pouvez ajouter les balises suivantes :
-- title
-- keywords
-- description
-
-Par exemple, un début de document :
+C'est le bloc à mettre avant tout le contenu de la page (tirets autour compris) :
 
 ```yaml
 ---
-title: Contribuer
+title: Titre de l'article
 keywords:
-  - contribuer
-  - discord
-  - wiki
-  - tutoriel
-description: Contribuer est une chose importante pour le Wiki de Discord FR, apprenez comment nous aider sur cette page. :)
+  - des
+  - mots
+  - clés
+description: Une courte description du contenu de l'article.
+contributors: [identifiants, venant, de, team.yml]
+short_slug: false
 ---
+```
+
+Le contributeur qui se renseigne dans `contributors` doit aussi être ajouté dans [`team.yml`](https://github.com/discordfr/wiki/blob/master/team.yml).
+
+### Format Markdown
+
+| Syntaxe | Résultat |
+| ------- | -------- |
+| ## Titre 2 | <h2>Titre 2</h2> |
+| ### Titre 3 | <h3>Titre 3</h3> |
+| #### Titre 4 | <h4>Titre 4</h4> |
+| ##### Titre 5 | <h5>Titre 5</h5> |
+| ###### Titre 6 | <h6>Titre 6</h6> |
+| \*\*Gras\*\* | **Gras** |
+| \_Italique\_ | _Italique_ |
+| \*\*\_Les deux cap'tain\_\*\* | **_Les deux cap'tain_** |
+| > Citation | <blockquote><p><em>Citation</em></p></blockquote> |
+| \* Liste à point | <ul><li>Liste à point</li></ul> |
+| 1. Liste ordonnée | <ol><li>Liste ordonnée</li></ol> |
+| \`code\` | `code` |
+| --- | <hr /> |
+| \[Lien externe\]\(https://dfr.gg/) | [Lien externe](https://dfr.gg/) |
+| \[Lien interne\]\(/wiki/contribuer) | [Lien interne](/wiki/contribuer) |
+| \!\[Image\]\(https://i.dfr.gg/JTH.png) | ![Image](https://i.dfr.gg/JTH.png) |
+
+Chaque différent type d'éléments markdown doivent être séparés d'une ligne vide les uns des autres.
+
+Un retour à la ligne doit être présent à la fin d'une phrase.
+Tant qu'aucune ligne vide est écrite, le retour à la ligne continue le paragraphe avec un espace.
+
+> Par exemple :
+
+```md
+La **roue** mon _hamster quantique_ est sur ma table.
+Mais, en fait, je n'ai ni hamster ni roue !
+
+Par contre j'ai un géranium : juste [ici](https://i.dfr.gg/geranium.webm).
+```
+
+> Donne :
+
+La **roue** mon _hamster quantique_ est sur ma table.
+Mais, en fait, je n'ai ni hamster ni roue !
+
+Par contre j'ai un géranium : juste [ici](https://i.dfr.gg/geranium.webm).
+
+### Spécificités de Docusaurus
+
+Le wiki fonctionne sur la base de [Docusaurus](https://docusaurus.io/docs/markdown-features).
+
+#### Admonitions
+
+Il en existe différents types :
+
+* `note`, pour les remarques ;
+* `tip`, pour les astuces (devrait être rare, un wiki n'est pas un guide) ;
+* `info`, pour des informations annexes ;
+* `warning`, pour mettre en avant une information importante ;
+* `danger`, pour avertir le lecteur.
+
+> Par exemple :
 
 ```
-:::tip Astuce
-N'hésitez pas à regarder des articles déjà en ligne, pour copier des éléments, comme ces boîtes d'informations ; ou consulter le site de Docusaurus, dont les boîtes sont expliquées [dans cet extrait](https://v2.docusaurus.io/docs/markdown-features/#calloutsadmonitions)
+:::tip
+Vous pouvez utiliser les admonitions :]
+:::
+```
+
+> Donne :
+
+:::tip
+Vous pouvez utiliser les admonitions :]
 :::
 
-#### Liens pour les nerds
+## Avantages et récompenses
 
-[Docusaurus V2 Markdown](https://docusaurus.io/fr/docs/markdown-features)
+Après contribution, vous pourrez [obtenir des rôles](https://dfr.gd/avantages) sur [notre serveur Discord communautaire](https://discord.com/invite/fr).
+Les **points méta** sont attribués à l'appréciation de l'équipe, selon la qualité de vos contributions.
 
-*********************
-
-## Les avantages contributeurs
-
-Après contribution, vous pourrez obtenir des rôles sur [notre serveur Discord](https://discord.gg/fr).
-
-### Contributeur 1
-Vous avez écrit un article sur le wiki validé par le staff.
-- Salon des contributeurs
-
-### Contributeur 2
-Vous avez écrit un minimum de 5 articles validés sur le wiki.
-- Salon des contributeurs
-- Salons d'informations en direct
-- Création de guides
-
-### Contributeur 3
-Vous avez écrit un minimum de 20 articles validés sur le wiki et le guide.
-- Salon des contributeurs
-- Salons d'informations en direct
-- Création de guides
-- Création d'articles sur le blog
-
-*Retrouvez la liste de tous les avantages sur [notre page prévue à cet effet](https://dfr.gg/serveur)*
-
-:::caution Attention !
-Les rôles de contribution sont distribués au bon vouloir de l'équipe de gestion du wiki, selon la qualité de vos articles.
-:::
+Des accès supplémentaires sur [le serveur Discord des contributions](https://discord.com/invite/fkkCXsBrmE), tel que l'accès de salon des contributeurs, sont aussi donnés.
