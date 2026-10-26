@@ -76,17 +76,17 @@ arthur:
     linkedin: arthurbattais
     email: arthur@fca.gg
 
-# axel:
-#   name: Axel
-#   discord_username: axel.db
-#   discord_badges:
-#     - partner
-#     - hypesquad_brilliance
-#   title: Graphiste
-#   type: team
-#   socials:
-#     discord: "535175755395760149"
-#     linkedin: axel-debonn
+axel:
+  name: Axel
+  discord_username: axel.db
+  discord_badges:
+    - partner
+    - hypesquad_brilliance
+  title: Graphiste
+  type: team
+  socials:
+    discord: "535175755395760149"
+    linkedin: axel-debonn
 
 chancesphere:
   name: ChanceSphere574
