@@ -104,14 +104,14 @@ chancesphere:
 chaussette:
   name: Chaussette
   # discord_username: chaussette.
-  discord_badges:
-    - hypesquad_balance
-    # - bug_hunter_1
-    # - early_supporter
+  # discord_badges:
+  #   - hypesquad_balance
+  #   - bug_hunter_1
+  #   - early_supporter
   title: Dataminer
   type: team
   socials:
-    discord: "487965480724987904"
+    # discord: "487965480724987904"
     github: justsomebigsock
 
 crousti67:
