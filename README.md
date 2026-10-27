@@ -25,7 +25,7 @@ Vous pouvez retrouver sur notre wiki de nombreux articles sur des sujets divers,
 ## Contribuer au Wiki
 
 Nous ouvrons la modification de notre banque de données à tous ceux qui souhaitent y contribuer, et ce simplement grâce au fonctionnement de Github.
-Besoin de modifier un article ou suggérer la création d'une page ? On vous explique comment faire plus bas ! 😄
+Besoin de modifier un article ou de suggérer la création d'une page ? On vous explique comment faire plus bas ! 😄
 
 ### Règles de contribution
 
@@ -37,12 +37,12 @@ Afin que la gestion du wiki soit la plus efficace possible, plusieurs règles so
   Si vous ne souhaitez pas que quelqu'un prenne l'article que vous comptez modifier, n'hésitez pas à créer un brouillon (draft) de Pull Request.
 * **Restez actif sur les Pull Requests.**
   Précisez explicitement votre manque de disponibilité si vous en avez.
-  Autrement, il est requis de pouvoir répondre présent sous 14 jours au message d'un reviewer.
+  En cas d'inactivité, votre demande de changements sera gérée par les reviewers et d'autres contributeurs.
 * **Restez courtois dans vos échanges.**
   Lorsque vous commentez des Pull Requests ou des Issues, merci de respecter autrui et de ne pas chercher à imposer votre vision.
   Si vous avez un doute, les membres de l'équipe auront le dernier mot.
   Les contributeurs commentant les Pull Requests ne sont là que pour suggérer des changements, seuls les reviewers vous demanderont de les effectuer.
-* **Ne créez pas de fichier par vous-même.**
+* **N'initiez pas la création d'un fichier sans en parler.**
   Si jamais l'article que vous souhaitez rédiger n'est pas présent, [ouvrez une Issue](https://github.com/discordfr/wiki/issues/new?template=ajout-page.yml) et suggérez l'ajout du fichier pour qu'un membre de l'équipe approuve la demande.
 * **Un problème avec le wiki ? Ouvrez une issue.**
   Si vous voyez une faute, une approximation, un changement à faire en général mais que vous ne souhaitez pas ouvrir de Pull Request, [ouvrez plutôt une Issue](https://github.com/discordfr/wiki/issues/new?template=modification-page.yml) pour informer les contributeurs volontaires de ce qu'il faut changer.

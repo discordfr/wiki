@@ -1,6 +1,6 @@
 ---
 title: Contribuer au wiki de Discord FR
-description: Contribuer est une chose importante pour le wiki de Discord FR, apprenez comment nous aider sur cette page. :)
+description: Contribuer est la meilleure des actions à faire pour le wiki de Discord FR, apprenez comment nous aider sur cette page. :)
 sidebar_label: Contribuer
 short_slug: Contribuer
 ---
@@ -31,6 +31,10 @@ Le cliquer permet de débuter la modification du document.
 
 ![Bouton de modification](https://i.dfr.gg/CQgk.png)
 
+:::note
+Nous avons des [règles et habitudes de rédaction](#conventions-de-rédaction) qui sont à suivre.
+:::
+
 ## Le créer
 
 :::tip
@@ -42,20 +46,21 @@ Le cliquer permet de débuter la création du document.
 
 ![Bouton de création de fichier](https://i.dfr.gg/41rD.png)
 
+:::note
+Nous avons des [règles et habitudes de rédaction](#conventions-de-rédaction) qui sont à suivre.
+:::
+
 ## Finaliser les changements
 
 Une fois le changement fait, il faut cliquer sur le bouton « `Commit changes…` ».
 Sur le menu apparaissant alors, remplissez les différents encadrés puis cliquez sur « `Propose changes` ».
 
-:::note
-Nous avons des [règles et habitudes de rédaction](#conventions-de-rédaction) qui sont à suivre.
-:::
 
 ![Commentaires de modification](https://i.dfr.gg/3mzt.png)
 
 ## Proposer les changements
 
-Une fois le _commit_ réalisé, la [création d'une _Pull Request_]() (demande de changement) vous ai suggéré.
+Une fois le _commit_ réalisé, la [création d'une _Pull Request_](https://github.com/discordfr/wiki/compare) (demande de changement) vous est suggéré.
 
 Tout en bas de la page correspondante, toutes vos suppressions et ajouts sont listés.
 C'est la dernière fois avant proposition que vous verrez votre texte ! Relisez-le une dernière fois.
@@ -78,7 +83,7 @@ Cela permet à l'équipe de vous corriger, et continuer le suivi de la propositi
 
 ## Vérification par l'équipe
 
-L'équipes de _review_ de DFR ainsi que des contributeurs chevronnés examinerons vos changements.
+L'équipe de _review_ de DFR ainsi que des contributeurs chevronnés examineront vos changements.
 
 Si vous ne souhaitez pas vous occuper de l'application des demandes de modification, faites-le nous avoir !
 De même si vous n'êtes que peu disponible ou si vous ne regardez que Discord et pas Github.
@@ -90,7 +95,7 @@ Il faut alors appliquer les demandes de modification de l'équipe.
 ## Conventions de rédaction
 
 Les fichiers utilisent le [format Markdown](https://markdownguide.org/cheat-sheet/) (fichiers `.md`).
-Si des éléments supplémentaires sont utiles, des fichiers MarkdownX peuvent exister (`.mdx`), mais nous n'allons pas parler plus en détail de ceux-là – une connaissance légère en JavaScript étant requise.
+Si des éléments supplémentaires sont utiles, des fichiers enrichis peuvent exister (`.mdx`), mais nous n'allons pas parler plus en détail de ceux-là – une connaissance légère en JavaScript étant requise.
 
 ### Front matter
 
@@ -132,15 +137,15 @@ Le contributeur qui se renseigne dans `contributors` doit aussi être ajouté da
 | \[Lien interne\]\(/wiki/contribuer) | [Lien interne](/wiki/contribuer) |
 | \!\[Image\]\(https://i.dfr.gg/JTH.png) | ![Image](https://i.dfr.gg/JTH.png) |
 
-Chaque différent type d'éléments markdown doivent être séparés d'une ligne vide les uns des autres.
+Chaque type d'élément markdown doit être séparés d'une ligne vide les uns des autres.
 
 Un retour à la ligne doit être présent à la fin d'une phrase.
-Tant qu'aucune ligne vide est écrite, le retour à la ligne continue le paragraphe avec un espace.
+Tant qu'aucune ligne vide n'est écrite, le retour à la ligne continue le paragraphe avec un espace.
 
 > Par exemple :
 
 ```md
-La **roue** mon _hamster quantique_ est sur ma table.
+La **roue** de mon _hamster quantique_ est sur ma table.
 Mais, en fait, je n'ai ni hamster ni roue !
 
 Par contre j'ai un géranium : juste [ici](https://i.dfr.gg/geranium.webm).
@@ -186,4 +191,4 @@ Vous pouvez utiliser les admonitions :]
 Après contribution, vous pourrez [obtenir des rôles](https://dfr.gd/avantages) sur [notre serveur Discord communautaire](https://discord.com/invite/fr).
 Les **points méta** sont attribués à l'appréciation de l'équipe, selon la qualité de vos contributions.
 
-Des accès supplémentaires sur [le serveur Discord des contributions](https://discord.com/invite/fkkCXsBrmE), tel que l'accès de salon des contributeurs, sont aussi donnés.
+Des accès supplémentaires sur [le serveur Discord des contributions](https://discord.com/invite/fkkCXsBrmE), tel que l'accès de salons réservé aux contributeurs, sont aussi donnés.
