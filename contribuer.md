@@ -8,9 +8,21 @@ short_slug: Contribuer
 Sur cette page, vous apprendrez pas à pas à **créer une page** et **en modifier** pour devenir un vrai contributeur de ce wiki.
 Elle vous expliquera les **bases et quelques conseils** utiles pour bien débuter.
 
+## Différents moyens de nous aider
+
+Pour contribuer à la rédaction d'un article du wiki, deux solutions s'offrent à vous :
+
+* Envoyer le texte et images dans le salon `articles-wiki` de notre [serveur Discord des contributions](https://discord.com/invite/fkkCXsBrmE) ;
+* Proposer vos changements directement depuis Github.
+
+:::note
+Le reste de la page correspond à la méthode avec Github.
+Les [avantages et récompenses](#avantages-et-récompenses) sont communs à toutes les méthodes.
+:::
+
 ## Initialisation
 
-Dans tous les cas, il faut [se munir d'un compte Github](https://github.com/login).
+Si vous choisissez d'utiliser Github, il faut [se munir d'un compte](https://github.com/login).
 
 Sur le [_repository_ du projet](https://github.com/discordfr/wiki) (dépôt), il faut [créer un _fork_](https://github.com/discordfr/wiki/fork) (copie).
 C'est sur le fork que toutes les modifications et ajouts se font.
