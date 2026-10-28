@@ -21,7 +21,7 @@ Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page
 :::
 
 Les applications sont créées sur le [portail développeurs](https://discord.com/developers/applications) de Discord.
-Elles permettent de « se connecter avec Discord », comme le font plusieurs tableaux de bord de bots Discord.
+Elles permettent d'intéragir avec Discord avec un programme informatique.
 
 ## Autoriser une application
 
