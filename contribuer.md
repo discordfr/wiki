@@ -32,7 +32,7 @@ C'est sur le fork que toutes les modifications et ajouts se font.
 Les dossiers et fichiers portent les mêmes noms que le chemin dans l'URL.
 Par exemple, [`https://dfr.gg/wiki/contenu-payant/abonnements-nitro`](/wiki/contenu-payant/abonnements-nitro) est présent dans le [dossier `contenu-payant`](https://github.com/discordfr/wiki/tree/master/contenu-payant), sous le nom [`abonnements-nitro.md`](https://github.com/discordfr/wiki/blob/master/contenu-payant/abonnements-nitro.md).
 
-## Le modifier
+## Modifier un article
 
 :::tip
 Voir la section correspondante pour [en créer un nouveau](#le-créer).
@@ -47,7 +47,7 @@ Le cliquer permet de débuter la modification du document.
 Nous avons des [règles et habitudes de rédaction](#conventions-de-rédaction) qui sont à suivre.
 :::
 
-## Le créer
+## Créer un article
 
 :::tip
 Voir la section correspondante pour [en modifier un existant](#le-modifier).
@@ -60,6 +60,7 @@ Le cliquer permet de débuter la création du document.
 
 :::note
 Nous avons des [règles et habitudes de rédaction](#conventions-de-rédaction) qui sont à suivre.
+La création d'article doit être validée en amont avec les autres contributeurs sur [le serveur Discord des contributions](https://discord.com/invite/fkkCXsBrmE).
 :::
 
 ## Finaliser les changements
@@ -186,7 +187,7 @@ Il en existe différents types :
 
 > Par exemple :
 
-```
+```md
 :::tip
 Vous pouvez utiliser les admonitions :]
 :::
