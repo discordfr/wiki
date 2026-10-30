@@ -14,13 +14,6 @@ contributors: [ichii]
 short_slug: Spotify
 ---
 
-:::info L'article nécessite des modifications
-* Rattacher l'article à Discord plutôt que faire une généralisation.
-
-Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
-Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
-:::
-
 Il existe un abonnement sur _Spotify_ permettant d'avoir un accès sans publicité et illimité à toutes les musiques.
 
 Il est possible depuis février 2018 de **relier un compte Spotify avec Discord** pour montrer ce que l'utilisateur écoute mais pas seulement.
@@ -49,3 +42,12 @@ L'accès à une session d'écoute se fait par deux manières:
 Discord affiche à l'utilisateur qui est dans leur session d'écoute et qui l'a rejointe via Discord.
 
 ![Session d'écoute à plusieurs](https://i.dfr.gg/mNf.png)
+
+---
+
+:::info L'article nécessite des modifications
+* Rattacher l'article à Discord plutôt que faire une généralisation.
+
+Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
+Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
+:::

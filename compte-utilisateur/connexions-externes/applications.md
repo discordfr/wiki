@@ -13,13 +13,6 @@ contributors: [moonrise, ben, dragrame]
 short_slug: OAuth2
 ---
 
-:::info L'article nécessite des modifications
-* Compléter l'article : lister tous les [champs d'OAuth2](https://docs.discord.com/developers/topics/oauth2#shared-resources-oauth2-scopes).
-
-Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
-Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
-:::
-
 Les applications sont créées sur le [portail développeurs](https://discord.com/developers/applications) de Discord.
 Elles permettent d'intéragir avec Discord avec un programme informatique.
 
@@ -53,3 +46,12 @@ Dans ce cas, il est possible de **révoquer une application** dans les **paramè
 Il faut alors **survoler l'application** concernée avec la souris et cliquer sur le bouton rouge « `Retirer l'autorisation` » qui apparaît.
 
 ![Révoquer une application](https://i.dfr.gg/soip.png)
+
+---
+
+:::info L'article nécessite des modifications
+* Compléter l'article : lister tous les [champs d'OAuth2](https://docs.discord.com/developers/topics/oauth2#shared-resources-oauth2-scopes).
+
+Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
+Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
+:::

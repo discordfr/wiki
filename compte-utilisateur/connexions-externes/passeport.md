@@ -12,13 +12,6 @@ contributors: [luke, ichii, dragrame, darkooo]
 short_slug: ConnexionsOfficielles
 ---
 
-:::info L'article nécessite des modifications
-* Compléter l'article : des applications ont une intégration plus importante qu'uniquement un bouton sur le profil.
-
-Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
-Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
-:::
-
 Discord propose aux utilisateurs de relier et de synchroniser leur compte à de multiples sites.
 Il s'agit principalement de réseaux sociaux, de plateformes de streaming ainsi que de jeux.
 Ces connexions sont officielles, et ne sont pas à confondre avec les [applications tierces](/wiki/compte-utilisateur/connexions-externes/applications).
@@ -69,3 +62,12 @@ Les utilisateurs disposent de la possibilité de **désactiver l'affichage** de 
 Il est aussi possible de **supprimer** la connexion au compte en cliquant sur la crois « ❌ ».
 
 ![Paramètre d'une connexion](https://i.dfr.gg/YORI.png)
+
+---
+
+:::info L'article nécessite des modifications
+* Compléter l'article : des applications ont une intégration plus importante qu'uniquement un bouton sur le profil.
+
+Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
+Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
+:::
