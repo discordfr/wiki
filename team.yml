@@ -24,10 +24,6 @@
 #     discord: <ID Discord> # optionnel
 #     github: <Nom d'utilisateur GitHub> # optionnel
 #     linkedin: <Nom d'utilisateur LinkedIn> # optionnel
-#     x: <Nom d'utilisateur Twitter> # optionnel
-#     youtube: "@<Nom d'utilisateur YouTube>" # optionnel
-#     twitch: <Nom d'utilisateur Twitch> # optionnel
-#     website: <URL du site web> # optionnel
 #     email: <Adresse e-mail> # optionnel
 
 # === ÉQUIPE ===
@@ -204,7 +200,6 @@ volcanofr:
   socials:
     discord: "589383722759880705"
     github: volcanofr
-    website: https://www.volcaneau.fr/
     email: volcano@dfr.gg
 
 wolfyzdbois:
