@@ -12,7 +12,7 @@ contributors: [xox, volcanofr]
 Les **groupes privés** permettent de rassembler les amis de ses participants dans une seule conversation, accessible dans les **messages privés**.
 
 :::note
-Le nombre d'utilisateurs maximum au sein d'un groupe est de 10, ou 25 avec [Nitro](/wiki/contenu-payant/abonnements-nitro).
+Le nombre d'utilisateurs maximum au sein d'un groupe est de 10.
 :::
 
 ## Création d'un groupe privé
