@@ -12,14 +12,6 @@ contributors: [freiik]
 short_slug: false
 ---
 
-:::info L'article nécessite des modifications
-* Compléter l'article : où voir le statut ? ;
-* Transformer l'article de guide à référence informative.
-
-Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
-Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
-:::
-
 Un statut personnalisé se présente avec un texte qui s'affichera sur votre profil lorsque vous êtes en ligne.
 Ce dernier peut également être accompagné d'un emoji (personnalisé si l'utilisateur possède [Discord Nitro](/wiki/contenu-payant/abonnements-nitro)).
 
@@ -31,3 +23,13 @@ Ce dernier peut également être accompagné d'un emoji (personnalisé si l'util
 * L'enregistrement permettra de l'appliquer sur le profil correspondant
 
 ![Mise en place d'un statut personnalisé](https://i.dfr.gg/Oho.gif)
+
+---
+
+:::info L'article nécessite des modifications
+* Compléter l'article : où voir le statut ? ;
+* Transformer l'article de guide à référence informative.
+
+Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
+Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
+:::
