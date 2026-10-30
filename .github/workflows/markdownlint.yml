@@ -1,0 +1,28 @@
+# .NET: https://github.com/dotnet/docs/blob/main/.github/workflows/markdownlint.yml
+name: Vérificateur de Markdown
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - "**/*.md"
+      - ".vscode/.markdownlint.json"
+      - ".github/workflows/markdownlint.yml"
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7
+      - name: Vérification de la syntaxe Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v24
+        with:
+          config: ".vscode/.markdownlint.json"
+          globs: |
+            **/*.md
+            !**/.github
+            !**/.vscode
+            !README.md
