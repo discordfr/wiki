@@ -6,7 +6,7 @@ on:
       - master
     paths:
       - "**/*.md"
-      - ".vscode/.markdownlint.json"
+      - ".github/.markdownlint.json"
       - ".github/workflows/markdownlint.yml"
   pull_request:
 permissions:
@@ -20,7 +20,7 @@ jobs:
       - name: Vérification de la syntaxe Markdown
         uses: DavidAnson/markdownlint-cli2-action@v24
         with:
-          config: ".vscode/.markdownlint.json"
+          config: ".github/.markdownlint.json"
           globs: |
             **/*.md
             !**/.github
