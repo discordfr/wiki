@@ -1,15 +1,15 @@
 {
-	"MD001": { "enabled": true, "severity": "error" },
+	"MD001": { "enabled": false, "severity": "error" },
 	"MD003": { "enabled": true, "severity": "error",
 		"style": "atx"
 	},
-	"MD004": { "enabled": true, "severity": "error", "style": "asterisk" },
+	"MD004": { "enabled": false, "severity": "error", "style": "asterisk" },
 	"MD005": { "enabled": true, "severity": "error" },
-	"MD007": { "enabled": true, "severity": "error",
+	"MD007": { "enabled": false, "severity": "error",
 		"indent": 2,
 		"start_indented": false
 	},
-	"MD009": { "enabled": true, "severity": "error",
+	"MD009": { "enabled": false, "severity": "error",
 		"br_spaces": 0,
 		"code_blocks": false,
 		"list_item_empty_lines": true,
@@ -20,7 +20,7 @@
 		"spaces_per_tab": 2
 	},
 	"MD011": { "enabled": true, "severity": "error" },
-	"MD012": { "enabled": true, "severity": "error",
+	"MD012": { "enabled": false, "severity": "error",
 		"maximum": 1
 	},
 	"MD013": { "enabled": false },
@@ -29,26 +29,26 @@
 	"MD019": { "enabled": true, "severity": "error" },
 	"MD020": { "enabled": false },
 	"MD021": { "enabled": false },
-	"MD022": { "enabled": true, "severity": "error",
+	"MD022": { "enabled": false, "severity": "error",
 		"include_front_matter": true,
 		"lines_above": 1,
 		"lines_below": 1
 	},
 	"MD023": { "enabled": true, "severity": "error" },
-	"MD024": { "enabled": true, "severity": "error",
+	"MD024": { "enabled": false, "severity": "error",
 		"siblings_only": false
 	},
 	"MD025": { "enabled": true, "severity": "error",
 		"level": 1
 	},
-	"MD026": { "enabled": true, "severity": "error",
+	"MD026": { "enabled": false, "severity": "error",
 		"punctuation": ".,;:!?。，；：！？·…‥⋯‐‒–—―⸺⸻"
 	},
 	"MD027": { "enabled": true, "severity": "error",
 		"list_items": true
 	},
 	"MD028": { "enabled": true, "severity": "error" },
-	"MD029": { "enabled": true, "severity": "error",
+	"MD029": { "enabled": false, "severity": "error",
 		"style": "ordered"
 	},
 	"MD030": { "enabled": true, "severity": "error",
@@ -60,16 +60,16 @@
 	"MD031": { "enabled": true, "severity": "error",
 		"list_items": true
 	},
-	"MD032": { "enabled": true, "severity": "error" },
-	"MD033": { "enabled": true, "severity": "error",
+	"MD032": { "enabled": false, "severity": "error" },
+	"MD033": { "enabled": false, "severity": "error",
 		"allowed_elements": ["details", "summary"],
 		"table_allowed_elements": []
 	},
-	"MD034": { "enabled": true, "severity": "error" },
-	"MD035": { "enabled": true, "severity": "error",
+	"MD034": { "enabled": false, "severity": "error" },
+	"MD035": { "enabled": false, "severity": "error",
 		"style": "---"
 	},
-	"MD036": { "enabled": true, "severity": "warning",
+	"MD036": { "enabled": false, "severity": "warning",
 		"punctuation": ".,;:!?。，；：！？·…‥⋯‐‒–—―⸺⸻"
 	},
 	"MD037": { "enabled": true, "severity": "error" },
@@ -383,26 +383,26 @@
 	},
 	"MD042": { "enabled": true, "severity": "error" },
 	"MD043": { "enabled": false },
-	"MD044": { "enabled": true, "severity": "error",
+	"MD044": { "enabled": false, "severity": "error",
 		"code_blocks": true,
 		"html_elements": true,
 		"names": ["Discord"]
 	},
-	"MD045": { "enabled": true, "severity": "error" },
+	"MD045": { "enabled": false, "severity": "error" },
 	"MD046": { "enabled": true, "severity": "error",
 		"style": "fenced"
 	},
-	"MD047": { "enabled": true, "severity": "error" },
+	"MD047": { "enabled": false, "severity": "error" },
 	"MD048": { "enabled": true, "severity": "error",
 		"style": "backtick"
 	},
-	"MD049": { "enabled": true, "severity": "error",
+	"MD049": { "enabled": false, "severity": "error",
 		"style": "underscore"
 	},
 	"MD050": { "enabled": true, "severity": "error",
 		"style": "asterisk"
 	},
-	"MD051": { "enabled": true, "severity": "warning",
+	"MD051": { "enabled": false, "severity": "warning",
 		"ignore_case": false,
 		"ignored_pattern": ""
 	},
@@ -421,12 +421,12 @@
 		"shortcut": false,
 		"url_inline": true
 	},
-	"MD055": { "enabled": true, "severity": "error",
+	"MD055": { "enabled": false, "severity": "error",
 		"style": "leading_and_trailing"
 	},
-	"MD056": { "enabled": true, "severity": "error" },
-	"MD058": { "enabled": true, "severity": "error" },
-	"MD059": { "enabled": true, "severity": "warning",
+	"MD056": { "enabled": false, "severity": "error" },
+	"MD058": { "enabled": false, "severity": "error" },
+	"MD059": { "enabled": false, "severity": "warning",
 		"prohibited_texts": [
 			"click here", "cliquez ici",
 			"here", "ici",
@@ -434,7 +434,7 @@
 			"more", "plus"
 		]
 	},
-	"MD060": { "enabled": true, "severity": "warning",
+	"MD060": { "enabled": false, "severity": "warning",
 		"aligned_delimiter": true,
 		"style": "aligned"
 	}
