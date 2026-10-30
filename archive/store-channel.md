@@ -1,9 +1,11 @@
 ---
-title: Salon Store
+title: Salon de boutique
 keywords:
-  - discord
-  - store channel
-description: Salon Store
+  - salon
+  - boutique
+  - store
+  - channel
+description: Le salon de boutique, ou store channel en anglais, était un salon d'achat d'application.
 contributors: []
 short_slug: false
 ---
