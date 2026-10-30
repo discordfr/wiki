@@ -1,10 +1,11 @@
 ---
-title: Les Profils de serveur
+title: Profil de serveur
 keywords:
-  - discord
-  - server profiles
-  - profils de serveur
-description: Les Profils de serveur
+  - profil
+  - serveur
+  - personnalisation
+  - customisation
+description: Customiser son profil Discord pour un serveur spécifique.
 contributors: []
 short_slug: false
 ---
