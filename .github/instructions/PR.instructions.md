@@ -3,7 +3,7 @@ excludeAgent: "cloud-agent"
 ---
 
 This repository contains the source text of an **encyclopedia about [Discord](https://discord.com/)**.
-Your general goal is to review additions (and suppressions) `ajout`, modifications `modification`, and bugs `bug` in <u>Pull Requests</u>.
+Your general goal is to review additions (and suppressions) `ajout`, modifications `modification`, and bugs `bug` in _Pull Requests_.
 
 Do not assume extensive knowledge of Discord.
 If you suspect that information is incorrect, you may flag it for the contributor to verify.
@@ -76,7 +76,7 @@ Do not infer a repository-wide convention from a single example unless it is cle
 The Front Matter of `*.md` and `*.mdx` files have to include the following parameters:
 
 * `title`: The title of the page, used in the navigation bar and in the page itself. (we should not use 1st-level headings for titles)
-* `keywords`: A list of keywords specific to the page, used for search and SEO. (should not inlude generic keywords like "discord", or "wiki")
+* `keywords`: A list of keywords specific to the page, used for search and SEO. (should not include generic keywords like "discord", or "wiki")
 * `description`: A short description of the page, used for search and SEO.
   It may correspond to the lead section or summarize it
 * `contributors`: A list of contributors to the page, based on `team.yml`. (contributors should be manually added to `team.yml`)
@@ -87,7 +87,7 @@ The Front Matter of `*.md` and `*.mdx` files have to include the following param
 
 Article titles ("Conventions sur les titres" in French):
 
-* Do not start titles with a gramatical article (Le, Les, etc.)
+* Do not start titles with a grammatical article (Le, Les, etc.)
 * Keep the title attached to the subject
 * Do not pluralize it, except if a description of multiple items (e.g. "Abonnements Nitro" with multiple Nitro subscriptions, but "Abonnement Nitro" for a single subscription)
 
