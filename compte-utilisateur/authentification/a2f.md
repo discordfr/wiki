@@ -13,14 +13,6 @@ contributors: [mapidae, freiik, ichii, volcanofr, xox]
 short_slug: A2F
 ---
 
-:::info L'article nécessite des modifications
-* Séparer la page en plusieurs articles : _Application d'authentification_ et _Authentification multi-facteurs_ ;
-* Rattacher l'article à Discord plutôt que faire une généralisation.
-
-Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
-Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
-:::
-
 L'**authentification à deux facteurs** (A2F), également connue sous le nom de 2FA en anglais, est un mécanisme de sécurité renforcée qui vise à protéger l'accès aux comptes, comme Discord et d'autres services.
 En activant l'A2F, les utilisateurs ajoutent une couche de protection supplémentaire, nécessitant deux formes d'identification différentes pour accéder à leur compte.
 En plus du mot de passe habituel, l'utilisateur doit fournir une deuxième forme d'authentification, souvent quelque chose qu'il possède physiquement, comme un téléphone.
@@ -89,4 +81,14 @@ Cette restriction s'applique instantanément aux membres du serveur qui ont des 
 
 :::danger
 L'A2F n'est pas infaillible en cas de fuite du token d'authentification ou d'interaction avec un [QR code malveillant](/blog/2021/01/27/nitro-qr-code).
+:::
+
+---
+
+:::info L'article nécessite des modifications
+* Séparer la page en plusieurs articles : _Application d'authentification_ et _Authentification multi-facteurs_ ;
+* Rattacher l'article à Discord plutôt que faire une généralisation.
+
+Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
+Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
 :::

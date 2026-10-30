@@ -10,13 +10,6 @@ contributors: [karal, ichii, armand]
 short_slug: QRcode
 ---
 
-:::info L'article nécessite des modifications
-* Transformer l'article de guide à référence informative.
-
-Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
-Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
-:::
-
 La connexion par QR code est faite pour pouvoir **se connecter rapidement** à Discord sur un ordinateur, il suffit de scanner un code QR via Discord sur téléphone.
 
 ## Se connecter via code QR
@@ -33,4 +26,13 @@ La connexion par QR code est faite pour pouvoir **se connecter rapidement** à D
 
 :::warning
 Il est vivement conseillé de ne scanner que les QR-Codes provenant de son ordinateur, de nombreuses fraudes sont présentes et scanner un QR-Code inconnu peut mener à ouvrir une porte directe à son compte Discord.
+:::
+
+---
+
+:::info L'article nécessite des modifications
+* Transformer l'article de guide à référence informative.
+
+Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
+Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
 :::

@@ -12,14 +12,6 @@ contributors: [mapidae]
 short_slug: MotsDePasse
 ---
 
-:::info L'article nécessite des modifications
-* Rattacher l'article à Discord plutôt que faire une généralisation ;
-* Transformer l'article de guide à référence informative.
-
-Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
-Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
-:::
-
 Les **mots de passe** sont des éléments essentiels de la sécurité en ligne, utilisés pour protéger l'accès à différents comptes et services.
 Un mot de passe fort est une première ligne de défense contre les attaques et les actions malveillantes.
 Sur Discord il est essentiel de garantir une sécurité très importante sur son compte, d'autant plus pour les utilisateurs qui communiquent sur des serveurs publics ou qui ont des permissions sur des serveurs.
@@ -75,3 +67,13 @@ De plus, l'adresse de récupération doit être distincte et sécurisée, ce qui
 * Utiliser un gestionnaire de mot de passe
 * Ne jamais saisir un mot de passe sur un site web non officiel ou des mails non sécurisés.
   Il est important de [systématiquement vérifier les URLs, il pourrait s'agir d'une copie qui viserait à vous hameçonner](/blog/2023/11/26/arnaque-page-connexion).
+
+---
+
+:::info L'article nécessite des modifications
+* Rattacher l'article à Discord plutôt que faire une généralisation ;
+* Transformer l'article de guide à référence informative.
+
+Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
+Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
+:::

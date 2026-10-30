@@ -11,14 +11,6 @@ contributors: [mapidae]
 short_slug: false
 ---
 
-:::info L'article nécessite des modifications
-* Rattacher l'article à Discord plutôt que faire une généralisation ;
-* Mettre à jour l'article : l'[A2F](/wiki/compte-utilisateur/authentification/a2f) est requis pour configurer le téléphone.
-
-Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
-Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
-:::
-
 L'**authentification par SMS** est une méthode courante utilisée pour renforcer la sécurité des comptes.
 Elle consiste à recevoir un code de vérification envoyé via un message texte sur un numéro de téléphone associé au compte utilisateur.
 
@@ -46,4 +38,14 @@ Des services tels que OnOff peuvent constituer une option plus fiable pour ceux 
 :::note
 En France, où la protection des données est un enjeu majeur, les opérateurs mobiles peuvent être vulnérables aux techniques d'ingénierie sociale, permettant ainsi l'utilisation frauduleuse de numéros.
 Cependant, les opérateurs mobiles ne sont pas les seules victimes de telles pratiques.
+:::
+
+---
+
+:::info L'article nécessite des modifications
+* Rattacher l'article à Discord plutôt que faire une généralisation ;
+* Mettre à jour l'article : l'[A2F](/wiki/compte-utilisateur/authentification/a2f) est requis pour configurer le téléphone.
+
+Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
+Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
 :::

@@ -13,14 +13,6 @@ contributors: [mapidae]
 short_slug: Passkeys
 ---
 
-:::info L'article nécessite des modifications
-* Rattacher l'article à Discord plutôt que faire une généralisation ;
-* Transformer l'article de guide à référence informative : section [Recommandations](#recommandations).
-
-Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
-Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
-:::
-
 Les clés de sécurité sont LA SOLUTION pour rester en sécurité.
 Également connues sous le nom de **clés d'authentification**, elles sont des dispositifs physiques ou numériques utilisés pour renforcer la sécurité des comptes en offrant LA MEILLEURE solution d'authentification forte et à deux facteurs.
 
@@ -61,3 +53,13 @@ L'utilisation des Passkeys avec des logiciels comme Dashlane ou autre peut perme
 :::
 
 ![Clés physiques VS Clés numériques](https://i.dfr.gg/3mgT.png)
+
+---
+
+:::info L'article nécessite des modifications
+* Rattacher l'article à Discord plutôt que faire une généralisation ;
+* Transformer l'article de guide à référence informative : section [Recommandations](#recommandations).
+
+Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
+Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
+:::
