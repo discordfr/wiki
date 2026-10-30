@@ -13,14 +13,6 @@ contributors: [xox]
 short_slug: false
 ---
 
-:::info L'article nécessite des modifications
-* Transformer l'article de guide à référence informative ;
-* Compléter l'article : parler plus en détail des dérogations.
-
-Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
-Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
-:::
-
 Les **notifications par serveur** permettent aux utilisateurs de personnaliser les notifications qu'ils souhaitent recevoir sur chacun de leurs serveurs.
 Très pratique pour ne pas être saturé de notifications.
 
@@ -39,3 +31,13 @@ Si les utilisateurs n'ont pas défini leurs propres paramètres, ils seront noti
 Notez que ce paramètre est à l'origine réglé sur tous les messages.
 
 ![Paramètres du serveur](https://i.dfr.gg/MUR.png)
+
+---
+
+:::info L'article nécessite des modifications
+* Transformer l'article de guide à référence informative ;
+* Compléter l'article : parler plus en détail des dérogations.
+
+Ce projet communautaire vise à offrir un contenu librement réutilisable, que chacun peut modifier et améliorer.
+Pour contribuer, munissez-vous d'un compte GitHub et rendez-vous sur notre [page de contribution](/wiki/contribuer).
+:::
