@@ -10,7 +10,7 @@ keywords:
   - utilsateur
   - serveur
 description: Le signalement de contenu ou comportement inapproprié sur Discord
-contributors: [wolfyzdbois, antoww, volcanofr]
+contributors: [wolfyzdbois, antow, volcanofr]
 short_slug: report
 ---
 
