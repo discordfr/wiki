@@ -45,7 +45,7 @@ Il n'est pas possible de configurer le nom, l'icône et la couleur de celui-ci, 
 Il existe deux possibilités pour créer un rôle : via le « + » ou le bouton bleu « Création de rôle ».
 Après cela, l'utilsateur créant le rôle est redirigé vers l'interface de personalisation du rôle.
 
-![Créer un rôle via le "+"](https://i.dfr.gg/Oc7f.png) 
+![Créer un rôle via le "+"](https://i.dfr.gg/Oc7f.png)
 
 ![Créer un rôle via le bouton](https://i.dfr.gg/QqbC.png)
 
@@ -95,7 +95,7 @@ Si cette option est activée, tout les utilisateurs du serveur pourront mentionn
 
 ![Mentionner un rôle](https://i.dfr.gg/iRI.png)
 
-## Badge de rôle personnalisé 
+## Badge de rôle personnalisé
 
 :::note
 Cette fonctionnalité est disponible à partir du niveau 2 de [boost de serveur](/wiki/contenu-payant/boost-serveur).
@@ -133,10 +133,10 @@ La [documentation officielle de Discord Developper Portal](https://discord.com/d
 Une couronne est affichée à côté du nom du propriétaire.
 Si un rôle ayant la permission administrateur affiche séparément le propriétaire, sa couronne disparaît.
 
-- Avec la couronne
-  
+* Avec la couronne
+
   ![Couronne du propriétaire](https://i.dfr.gg/75f7.png)
 
-- Sans la couronne
-  
+* Sans la couronne
+
   ![Couronne du propriétaire absente](https://i.dfr.gg/xiTu.png)

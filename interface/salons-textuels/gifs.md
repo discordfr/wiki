@@ -20,7 +20,5 @@ Discord met à disposition un panneau pour rechercher un GIF ou en sélectionner
 Il est également possible d'enregistrer un GIF en favori, en cliquant sur l'étoile présente en haut à gauche lors du survol de la souris, ou en appuyant dessus et en utilisant l'étoile en haut à droite sur ordinateur.
 
 :::note
-
 Il est nécessaire d'avoir la permission "Intégrer des liens" pour qu'un GIF soit visible lorsqu'on l'envoie sur un serveur.
-
 :::

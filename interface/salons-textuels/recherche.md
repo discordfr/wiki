@@ -13,24 +13,25 @@ contributors: [moonrise, karal]
 
 Sur Discord, il est possible de rechercher un ou plusieurs messages parmi tous ceux envoyés sur un serveur. En haut à droite de l'écran, se trouve une barre de recherche (cadre rouge).
 
-<img alt="La barre de recherche" src="https://i.dfr.gg/CBsW.png"/>
+![La barre de recherche](https://i.dfr.gg/CBsW.png)
 
 ## Trier les résultats
 
 En tapant une phrase ou un mot, puis en appuyant sur la touche <kbd>Entrée</kbd>, l'application affiche les résultats de la recherche. Il est également possible de choisir la méthode de tri parmi: `Nouveau` / `Ancien` / `Pertinent`.
 
-<img alt="Taper une phrase et chercher" src="https://i.dfr.gg/0abE.gif" />
+![Taper une phrase et chercher](https://i.dfr.gg/0abE.gif)
 
 ## Filtrer les résultats
 
 Il est possible d'affiner une recherche à l'aide de différents préfixes.
 Ces préfixes permettent de faire une recherche par :
-- auteur
-- mentions
-- texte contenu
-- contenu (pièces jointes, stickers, intégrations et liens)
-- date (avant, pendant et après telle date)
-- salon
+
+* auteur
+* mentions
+* texte contenu
+* contenu (pièces jointes, stickers, intégrations et liens)
+* date (avant, pendant et après telle date)
+* salon
 
 <table>
   <tr><td>Type de recherche</td><td>Utilisation du préfixe</td></tr>
@@ -43,10 +44,10 @@ Ces préfixes permettent de faire une recherche par :
   <tr><td>Salon</td><td>`dans:` + nom du salon</td></tr>
 </table>
 
-:::note Note
+:::note
 Il est possible d'utiliser plusieurs préfixes en même temps pour améliorer la précision de la recherche.
 :::
-:::tip Astuce
+:::tip
 Le raccourci `CTRL + F` permet de rechercher parmi les messages du salon actuel.
 :::
 

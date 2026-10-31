@@ -3,7 +3,7 @@ title: Discord Games Lab
 keywords:
   - discord
   - activities
-  - serveur 
+  - serveur
   - officiel
 description: Le serveur officiel Discord Games Lab
 contributors: []

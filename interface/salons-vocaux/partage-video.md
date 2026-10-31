@@ -20,39 +20,39 @@ Seuls les utilisateurs disposant de la permission de partager leur caméra (cf l
 
 ### Modes d'affichage
 
- - Vue sous forme de grille.
+Vue sous forme de grille.
 
 Les appels vidéos ou les streams dans les serveurs commencent par défaut sous cette vue. Tous les streams et vidéos du salon peuvent ainsi être visionnés de façon conjointe.
 
-<img alt="Vue sous forme de grille" src="https://i.dfr.gg/NoE.png" width="150px" />
+![Vue sous forme de grille](https://i.dfr.gg/NoE.png)
 
- - Vue sous forme focalisée.
+Vue sous forme focalisée.
 
 Pour se focaliser sur une personne, il est possible de sélectionner un utilisateur, qui s'affichera unilatéralement à gauche. Les autres utilisateurs apparaîtront à droite. Cliquer sur un autre utilisateur l'affichera à la place de l'utilisateur visionné à droite. Afin de revenir à la vue par défaut, il faut cliquer sur l'icône en forme de grille.
 
-<img alt="Vue sous forme focalisée" src="https://i.dfr.gg/WzO.png" width="150px" />
+![Vue sous forme focalisée](https://i.dfr.gg/WzO.png)
 
 ### Modes de fenêtre
 
- - Affichage sous forme de fenêtre.
+* Affichage sous forme de fenêtre.
 
 L'écran ou la vidéo de l'utilisateur apparaîtra dans une fenêtre séparée.
 
-<img alt="Affichage sous forme de fenêtre" src="https://i.dfr.gg/gjP.png" width="" height="400px"/>
+![Affichage sous forme de fenêtre](https://i.dfr.gg/gjP.png")
 
- - Affichage en plein écran
+* Affichage en plein écran
 
 L'écran partagé ou la vidéo de l'utilisateur s'affichera en plein écran. Pour sortir du mode "Plein écran", il suffit d'appuyer sur la touche "Échap".
 
-<img alt="Affichage en mode plein écran" src="https://i.dfr.gg/C95.png" width="" height="400px"/>
+![Affichage en mode plein écran](https://i.dfr.gg/C95.png")
 
 ## Partager sa vidéo
 
 Les conditions suivantes doivent être vérifiées pour partager sa vidéo :
 
- - Disposer de la permission vocale "Vidéo".
- - Être connecté à un salon vocal.
- Deux icônes s'affichent alors, permettant le partage de la caméra ou de l'écran.
+* Disposer de la permission vocale "Vidéo".
+* Être connecté à un salon vocal.
+  Deux icônes s'affichent alors, permettant le partage de la caméra ou de l'écran.
 
 ![Image des icônes](https://i.dfr.gg/TnO.png)
 
@@ -64,7 +64,7 @@ Pour partager sa webcam avec les autres utilisateurs présents dans le salon voc
 
 ### Partage de l'écran
 
-Discord offre aussi la possibilité de partager son écran (de "streamer"). Pour ce faire, il faut cliquer sur l'icône <img src="" width="14" height="14" />.
+Discord offre aussi la possibilité de partager son écran (de "streamer"). Pour ce faire, il faut cliquer sur l'icône correspondante.
 Une nouvelle fenêtre s'ouvrira alors, permettant de sélectionner l'onglet, l'application ou bien l'écran entier à partager. Une fois le partage d'écran activé, les mots "Stream en cours" s'afficheront à droite du nom de l'utilisateur.
 
 ![Image de la fenêtre](https://i.dfr.gg/lmk.png)

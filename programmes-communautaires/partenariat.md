@@ -14,7 +14,7 @@ Actuellement, le programme partenaire n'accepte plus de nouvelles candidatures. 
 :::
 
 Le partenariat Discord est, pour nombre d'utilisateurs de l'application, un _eldorado_, de par les avantages obtenus par le programme, mais aussi par une reconnaissance officielle de Discord pour une communauté.
-Dans cet article, nous découvrirons le partenariat discord pour le serveur.
+Dans cet article, nous découvrirons le partenariat Discord pour le serveur.
 
 ## Devenir un serveur partenaire
 
@@ -22,15 +22,15 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
 
 ![Activer la communauté du serveur](https://i.dfr.gg/y2u.png)
 
-Il faut tout d'abord configurer la communauté, Discord guide les utilisateurs tout au long de l'opération. 
+Il faut tout d'abord configurer la communauté, Discord guide les utilisateurs tout au long de l'opération.
 Pour cela, il faut:
 
-- Activer dans les paramètres de sécurité le niveau "Faible" : une adresse e-mail
-- Activer l'analyse des contenus médias des membres.
-- Paramétrer les notifications par défaut sur @mentions uniquement.
-- Retirer la permission à tout le monde de mentionner @everyone.
-- Accepter la [charte d'utilisation des serveurs communautaires](https://support.discord.com/hc/fr/articles/360035969312-Lignes-de-conduite-des-serveurs-communautaires) de discord.
-- Définir un salon des règles/conditions d'utilisation et un salon pour les annonces discord.
+* Activer dans les paramètres de sécurité le niveau "Faible" : une adresse e-mail
+* Activer l'analyse des contenus médias des membres.
+* Paramétrer les notifications par défaut sur @mentions uniquement.
+* Retirer la permission à tout le monde de mentionner @everyone.
+* Accepter la [charte d'utilisation des serveurs communautaires](https://support.discord.com/hc/fr/articles/360035969312-Lignes-de-conduite-des-serveurs-communautaires) de Discord.
+* Définir un salon des règles/conditions d'utilisation et un salon pour les annonces Discord.
 
 :::tip
 Plus d'informations sur les [serveurs communautaires](/wiki/gestion-serveur/outils-communautaires).
@@ -44,18 +44,18 @@ Une fois le serveur communautaire activé, il faut se rendre dans l'onglet "Part
 
 Les conditions suivantes sont nécessaires pour postuler :
 
-- Avoir au moins 500 membres.
-- Avoir au moins 50 personnes actives (communiquant) sur le serveur par semaine.
-- Avoir au moins 100 visiteurs, qui ne participent pas forcément, mais qui "visitent le serveur".
-- Sur les utilisateurs "visitant" le serveur, il est nécessaire qu'au minimum 20% d'entre-eux ne quittent pas le serveur, et ce chaque semaine sur une durée totale de 8 semaines ; c'est ce qui est appelé la "rétention".
+* Avoir au moins 500 membres.
+* Avoir au moins 50 personnes actives (communiquant) sur le serveur par semaine.
+* Avoir au moins 100 visiteurs, qui ne participent pas forcément, mais qui "visitent le serveur".
+* Sur les utilisateurs "visitant" le serveur, il est nécessaire qu'au minimum 20% d'entre-eux ne quittent pas le serveur, et ce chaque semaine sur une durée totale de 8 semaines ; c'est ce qui est appelé la "rétention".
 
-Les statistiques de serveurs sont disponibles ici : https://discord.com/developers/servers/
+Les statistiques de serveurs sont disponibles sur le [portail des développeurs](https://discord.com/developers/servers).
 
-Une fois le formulaire de candidature complété et envoyé, l'équipe discord va traiter cette candidature et donner une réponse, favorable ou défavorable, à cette dernière.
+Une fois le formulaire de candidature complété et envoyé, l'équipe Discord va traiter cette candidature et donner une réponse, favorable ou défavorable, à cette dernière.
 
 ## Fonctionnalités des serveurs partenaires
 
-### Bannière d'invitation de serveur personnalisée 
+### Bannière d'invitation de serveur personnalisée
 
 La bannière personnalisée se trouve à l'arrière plan d'une invitation, elle s'obtient également au niveau 1 des [boosts de serveur](/wiki/contenu-payant/boost-serveur).
 

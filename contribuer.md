@@ -35,7 +35,7 @@ Par exemple, [`https://dfr.gg/wiki/contenu-payant/abonnements-nitro`](/wiki/cont
 ## Modifier un article
 
 :::tip
-Voir la section correspondante pour [en créer un nouveau](#le-créer).
+Voir la section correspondante pour [en créer un nouveau](#créer-un-article).
 :::
 
 Sur la vue du contenu du fichier, en haut à droite, apparaît une icône stylo « 🖊️ ».
@@ -50,7 +50,7 @@ Nous avons des [règles et habitudes de rédaction](#conventions-de-rédaction) 
 ## Créer un article
 
 :::tip
-Voir la section correspondante pour [en modifier un existant](#le-modifier).
+Voir la section correspondante pour [en modifier un existant](#modifier-un-article).
 :::
 
 Dans la vue du dossier parent, en haut à droite, apparaît un bouton « `Add file` ».
@@ -67,7 +67,6 @@ La création d'article doit être validée en amont avec les autres contributeur
 
 Une fois le changement fait, il faut cliquer sur le bouton « `Commit changes…` ».
 Sur le menu apparaissant alors, remplissez les différents encadrés puis cliquez sur « `Propose changes` ».
-
 
 ![Commentaires de modification](https://i.dfr.gg/3mzt.png)
 

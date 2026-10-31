@@ -12,6 +12,7 @@ keywords:
 description: Gestion des émojis et des stickers
 contributors: [luke]
 ---
+
 Chaque serveur Discord a la possibilité d'ajouter un certain nombre d'émojis et de stickers personnalisés, ceux-ci peuvent être fixes ou animés. La gestion des émojis et des stickers personnalisés nécessite la permission `Gérer les émojis et les stickers` ou `Administrateur`.
 
 :::info Information
@@ -19,12 +20,11 @@ Le nombre d'emplacements dépend du [niveau de boost du serveur](/wiki/contenu-p
 :::
 
 | Niveaux de boosts | Emplacements d'emojis | Emplacement de stickers |
-| ----------- | ----------- | ----------- |
-| Niveau 0  | 50 emplacements d'émojis animés et 50 emplacements d'émojis fixes. | 0 stickers. |
-| Niveau 1  | +50 emplacements, pour un total de 100. | 15 emplacements de stickers (animés ou non). |
-| Niveau 2  | +50 emplacements, pour un total de 150. |  +15 emplacements, pour un total de 30. |
-| Niveau 3  | +100 emplacements, pour un total de 250. | +30 emplacements, pour un total de 60. |
-
+| --- | --- | --- |
+| Niveau 0 | 50 emplacements d'émojis animés et 50 emplacements d'émojis fixes. | 0 stickers. |
+| Niveau 1 | +50 emplacements, pour un total de 100. | 15 emplacements de stickers (animés ou non). |
+| Niveau 2 | +50 emplacements, pour un total de 150. | +15 emplacements, pour un total de 30. |
+| Niveau 3 | +100 emplacements, pour un total de 250. | +30 emplacements, pour un total de 60. |
 
 ## Gestion des emojis
 
@@ -53,9 +53,10 @@ La gestion des stickers personnalisés s'effectue dans la catégorie `Autocollan
 ### Ajouter un sticker
 
 Pour ajouter un sticker, il faut que celui-ci respecte les critères d'upload :
- - Type de fichier : PNG, APNG ou [Lottie](https://lottiefiles.com/).
- - Taille maximum du fichier : 500 Ko.
- - Dimensions recommandées : 320 x 320.
+
+* Type de fichier : PNG, APNG ou [Lottie](https://lottiefiles.com/).
+* Taille maximum du fichier : 500 Ko.
+* Dimensions recommandées : 320 x 320.
 
 ![Ajout d'un emoji](https://i.dfr.gg/Me9.png)
 

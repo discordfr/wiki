@@ -26,10 +26,10 @@ Il est possible d'ajouter une icône (de taille minimale de 128 par 128 pixels) 
 
 Il est également possible de supprimer l'icône d'un serveur et retrouver celle par défaut. Pour ce faire, il faut, toujours dans les paramètres du serveur, cliquer sur le lien hypertexte `Supprimer` situé sous l'icône du serveur, à gauche du nom du serveur.
 
-:::tip Dimensions des icônes de serveurs 
+:::tip Dimensions des icônes de serveurs
 | Dimensions minimales | Dimensions conseillées |
-| ----------- | ----------- |
-| Carré de 128 par 128 pixels  | Carré de 512 par 512 pixels |
+| --- | --- |
+| Carré de 128 par 128 pixels | Carré de 512 par 512 pixels |
 :::
 
 ## Gestion de la couleur / bannière d'un serveur
@@ -40,11 +40,11 @@ Il est possible d'ajouter une couleur (ou une bannière pour les serveurs ayant 
 
 ## Gestion des "particularités" d'un serveur
 
-En effet, il est possible d'ajouter jusqu'à cinq "particularités" sur un serveur. Ces dernières sont visibles lorsque l'on consulte le profil d'un serveur. 
+En effet, il est possible d'ajouter jusqu'à cinq "particularités" sur un serveur. Ces dernières sont visibles lorsque l'on consulte le profil d'un serveur.
 
 ![Ajout de la description](https://i.dfr.gg/j0Y1.png)
 
-:::note Note 
+:::note Note
 Une particularité peut être composée de 24 caractères au maximum ainsi que d'un émoji.
 :::
 

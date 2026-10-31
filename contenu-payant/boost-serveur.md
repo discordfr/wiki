@@ -10,7 +10,6 @@ contributors: [ben, zallom, dreas, luke, patatejalo, freiik, xox, b2856203, anto
 short_slug: Boosting
 ---
 
-## Le fonctionnement du boost
 Un boost est un abonnement qui peut être inclus avec un abonnement Nitro sur Discord ou acheté individuellement pour soutenir un serveur spécifique. Le boost permet à un serveur de débloquer des fonctionnalités en fonction du nombre de boosts reçus, lui permettant ainsi de passer à des niveaux supérieurs. Chaque niveau confère des avantages collectifs à l'ensemble du serveur. L'utilisateur qui booste un serveur reçoit un badge sur son profil Discord, un rôle exclusif, ainsi qu'une icône de boost à côté de son pseudo dans la liste des membres du serveur. La durée pendant laquelle un utilisateur maintient son boost sur un serveur affecte l'évolution de son badge au fil du temps.
 
 ![Badge boosteur](https://i.dfr.gg/jZ6.png)
@@ -20,9 +19,11 @@ Les utilisateurs abonnés à Discord Nitro possèdent 2 boosts qu'ils peuvent ut
 :::
 
 ## Prix d'un boost
+
 Un boost coûte 4.99 $. Cependant, les utilisateurs abonnés à Nitro bénéficient d'une réduction de 30% sur l'achat d'un boost.
 
 ## Niveaux de serveur
+
 Un niveau de serveur est un palier qui permet de débloquer des avantages au sein d'un serveur, et il est atteint lorsque le serveur a accumulé un certain nombre de boosts.
 
 ![Exemple boost](https://i.dfr.gg/pL8n.png)
@@ -83,15 +84,17 @@ Les avantages supplémentaires regroupent des fonctionnalités activables de man
 ![Activation d'un avantage supplémentaire](https://i.dfr.gg/VooH.png)
 
 Discord propose pour le moment deux avantages supplémentaires :
-- Tags de serveurs
+
+* Tags de serveurs
 
 ![Tags de serveurs](https://i.dfr.gg/81xc.png)
 
-- Styles de rôles améliorés (dégradés et holographiques)
+* Styles de rôles améliorés (dégradés et holographiques)
 
 ![Styles de rôles améliorés](https://i.dfr.gg/pDXe.png)
 
-## Comment acheter un boost ?
+## Acheter un boost
+
 Pour acheter un boost, il faut se rendre sur le serveur en question et cliquer sur "Boost de serveur". Les utilisateurs abonnés à Nitro peuvent également attribuer leurs boosts au serveur avec le même bouton.
 
 ![Achat boost](https://i.dfr.gg/Qel.gif)

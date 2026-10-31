@@ -39,9 +39,9 @@ Comme dans tous les salons vocaux, la [suppression des bruits de fond](/wiki/int
 Les utilisateurs ayant la permission de déplacer, de rendre muet des membres et de gérer le salon ont la possibilité de modérer la présentation à leur guise.
 Ces derniers ont la possibilité d'effectuer les actions suivantes :
 
-- Changer leur place de l'audience aux présentateurs directement.
-- Déplacer les membres des présentateurs à l'audience et inviter des membres de l'audience à parler.
-- Voir les demandes de prise de parole.
+* Changer leur place de l'audience aux présentateurs directement.
+* Déplacer les membres des présentateurs à l'audience et inviter des membres de l'audience à parler.
+* Voir les demandes de prise de parole.
 
 ![Les demandes de parole](https://i.dfr.gg/DemandesParole.webp)
 
@@ -59,16 +59,17 @@ Une icône à côté du bouton fait pour quitter le salon permet de demander la 
 Sans utilisation de la caméra ni du partage d'écran, jusqu'à 10 000 membres peuvent être présents dans l'audience.
 
 Si un intervenant utilise sa caméra ou fait un partage d'écran, la limite dépend du niveau de boosts du serveur :
-- 50 utilisateurs présents par défaut dans le salon.
-- 150 utilisateurs si le serveur est niveau 2.
-- 300 utilisateurs si le serveur est niveau 3.
-- Puis la limite augmente de 30 utilisateurs par boost jusqu'à une limite de 10 000 utilisateurs, présentateurs et audience compris.
+
+* 50 utilisateurs présents par défaut dans le salon.
+* 150 utilisateurs si le serveur est niveau 2.
+* 300 utilisateurs si le serveur est niveau 3.
+* Puis la limite augmente de 30 utilisateurs par boost jusqu'à une limite de 10 000 utilisateurs, présentateurs et audience compris.
 
 ## Informations complémentaires
 
-- Lors de l'activation d'un Stage Channel, il devient vert et une notification apparaît en haut du serveur pour notifier de la présence d'une présentation.
-- Un sujet doit être ajoutée au salon et sera affichée directement en dessous de son nom pour donner une courte description de la discussion.
-- Jusqu'à 5 personnes en conférence peuvent activer leurs caméras et faire un partage d'écran en simultané.
-- Les membres présents dans une conférence en cours reçoivent un statut l'indiquant.
+* Lors de l'activation d'un Stage Channel, il devient vert et une notification apparaît en haut du serveur pour notifier de la présence d'une présentation.
+* Un sujet doit être ajoutée au salon et sera affichée directement en dessous de son nom pour donner une courte description de la discussion.
+* Jusqu'à 5 personnes en conférence peuvent activer leurs caméras et faire un partage d'écran en simultané.
+* Les membres présents dans une conférence en cours reçoivent un statut l'indiquant.
 
 ![Pop-up Stage](https://i.dfr.gg/Pop-upStage.webp)

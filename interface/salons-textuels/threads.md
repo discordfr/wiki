@@ -94,8 +94,8 @@ Cela empêche toute interaction des autres utilisateurs avec le fil, hormis la l
 
 ### Autres options
 
-- **NSFW** : Un fil est configuré comme NSFW (Not Safe For Work) si son salon parent l'est.
+* **NSFW** : Un fil est configuré comme NSFW (Not Safe For Work) si son salon parent l'est.
   Un message apparaît pour demander à l'utilisateur de confirmer qu'il a bien 18 ans car certaines images/liens/contenus dans le fil peuvent choquer un public non averti.
-- **Spoiler** : Si l'option est activée, un message apparaît pour demander à l'utilisateur s'il souhaite voir le contenu du fil, afin de le prévenir qu'il peut contenir des spoilers.
-- **Tout le monde peut inviter** : Uniquement disponible pour les fils privés.
+* **Spoiler** : Si l'option est activée, un message apparaît pour demander à l'utilisateur s'il souhaite voir le contenu du fil, afin de le prévenir qu'il peut contenir des spoilers.
+* **Tout le monde peut inviter** : Uniquement disponible pour les fils privés.
   Cette option permet, si désactivée, d'éviter que les utilisateurs autres que le créateur du fil ou des modérateurs puissent ajouter d'autres membres au fil en les mentionnant.

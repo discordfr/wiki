@@ -24,23 +24,23 @@ Dans l'onglet "**Activer la communauté**" se trouve un bouton du même nom qui 
 
 La première étape permet d'optionellement obliger les membres du serveur à avoir une adresse e-mail vérifiée sur leur compte Discord.
 Elle permet aussi à Discord d'analyser les contenus médias de tous les membres.
- 
+
 ![Première étape - Activer la Communauté de serveur](https://i.dfr.gg/aRtm.png)
- 
+
 La deuxième étape consiste à créer ou définir un salon pour les règles du serveur (aussi appelée charte d'utilisation) et un second qui accueillera les mises à jour de la communauté.
 Le salon qui héberge les règles aura une icône spéciale :
 
 ![Salon des règles](https://i.dfr.gg/fat1.png)
- 
+
 ![Deuxième étape - Activer la communauté de serveur](https://i.dfr.gg/Mfob.png)
- 
+
 La troisième et dernière étape consiste à définir les notifications du serveur par défaut sur `Mentions seulement` ainsi qu'à désactiver les permissions risquées pour `@everyone` (les permissions risquées sont : Administrateur, Expulser des membres, Bannir des membres, Gérer le serveur, Gérer les salons, Gérer les rôles, Gérer les messages, Gérer les emojis, Création d'emoji, Gérer les événements, Créer des événements, Modérer les membres, Mentionner @everyone et Gérer les messages officiels).
- 
+
 Les serveurs de communauté douvent déclarer application de la [Charte d'utilisation des serveurs communautaires](https://support.discord.com/hc/articles/360035969312).
- 
+
 ![Troisième étape - Activer la communauté de serveur](https://i.dfr.gg/m3AS.png)
- 
-## Fonctionnalitées
+
+## Fonctionnalités
 
 Activer la **Communauté de serveur** permet à votre serveur d'accéder à plusieurs avantages.
 
@@ -61,7 +61,7 @@ Une page s'ouvrira ensuite, avec les analyses du serveur.
 
 ![Analyses du serveur](https://i.dfr.gg/KCxY.png)
 
-### Processus d'accueil 
+### Processus d'accueil
 
 Le processus d'accueil permet aux nouveaux arrivants d'ajuster leur propre expérience sur le serveur suivant la façon dont ils veulent y participer.
 Grâce au processus d'accueil il est possible : d'aider les membres à choisir des salons et des rôles supplémentaires, saluer chaque membre et les aider à participer mais encore choisir les salons que les nouveaux membres verront en premier.
@@ -77,7 +77,7 @@ Un bouton "Y jeter un œil" permet d'activer la fonctionnalité si cela n'a pas 
 ![Activer le processus d'accueil](https://i.dfr.gg/AbrU.png)
 
 Une fois activé, plusieurs paramètres sont disponibles sur la sécurité, sur les salons visibles par défaut, sur les questions de personnalisation ainsi que le guide du serveur.
- 
+
 ![Configurer le processus d'acceuil](https://i.dfr.gg/E7Cb.png)
 
 :::note
@@ -108,14 +108,13 @@ Le mode Découverte permet de rendre un serveur visible à tous les utilisateurs
 
 ![Discovery](https://i.dfr.gg/FX7P.png)
 
-
 Pour apparaître dans Discovery, il faut remplir plusieurs conditions :
 
-- Respecter la [Charte d'Utilisation de la Communauté](https://discord.com/guidelines) ainsi que de maintenir un serveur sécurisé.
-- Avoir un serveur comptant au moins 1000 membres pour être éligible.
-- Avoir un serveur ayant au minimum 8 semaines d'ancienneté.
-- Avoir un serveur remplissant certaines conditions d'activité.
-- Avoir un serveur sans contenu inapproprié.
-- Activer l'authentification à deux facteurs pour tous les membres disposant de pouvoirs de configuration.
+* Respecter la [Charte d'Utilisation de la Communauté](https://discord.com/guidelines) ainsi que de maintenir un serveur sécurisé.
+* Avoir un serveur comptant au moins 1000 membres pour être éligible.
+* Avoir un serveur ayant au minimum 8 semaines d'ancienneté.
+* Avoir un serveur remplissant certaines conditions d'activité.
+* Avoir un serveur sans contenu inapproprié.
+* Activer l'authentification à deux facteurs pour tous les membres disposant de pouvoirs de configuration.
 
 ![Conditions d'activation de la découverte](https://i.dfr.gg/rbxP.png)
