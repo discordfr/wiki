@@ -33,7 +33,7 @@ Une sélection de 3 choix s'offrent alors à l'utilisateur :
   * [Annulation d'écho](#annulation-décho)
   * [Appuyer pour parler](#appuyer-pour-parler)
 
-Quelque soit le profil sélectionné par l'utilisateur, les [paramètres vocaux avancés](#paramètres-vocaux-avancés) font partie de la configuration.
+Quel que soit le profil sélectionné par l'utilisateur, les [paramètres vocaux avancés](#paramètres-vocaux-avancés) font partie de la configuration.
 
 ### Ajuster automatiquement la sensibilité de la détection de la voix {#sensibilité-détection-voix}
 

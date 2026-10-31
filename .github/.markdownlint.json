@@ -433,6 +433,6 @@
 	},
 	"MD060": { "enabled": true, "severity": "warning",
 		"aligned_delimiter": true,
-		"style": "aligned"
+		"style": "compact"
 	}
 }

@@ -58,7 +58,7 @@ Le mode lent permet de limiter le nombre de messages par utilisateur sur une int
 
 ### Autres options
 
-* NSFW : Il y a la possibilité de configurer son salon comme NSFW (Not Safe For Work), qui demande alors à l'utilisateur de confirmer qu'il a bien 18 ans car certaines images/liens/contenus dans le salon peuvent être sexuellement explicites.
+* NSFW : Il y a la possibilité de configurer son salon comme NSFW (Not Safe For Work), qui demande alors à l'utilisateur de confirmer qu'il a bien 18 ans, car certaines images/liens/contenus dans le salon peuvent être sexuellement explicites.
 
 * Permissions de salon :
 

@@ -36,7 +36,7 @@ Les applications Discord peuvent avoir leur propre émojis. Ces derniers peuvent
 
 Pour utiliser un émoji dans un message, il suffit d'écrire :le_nom_de_votre_emoji:.
 
-Un sélecteur d'émojis dans la barre d'envoie de message est disponible.
+Un sélecteur d'émojis dans la barre d'envoi de message est disponible.
 
 ![Sélecteur d'émojis, section émojis par défaut](https://i.dfr.gg/a8eP.png)
 
@@ -47,10 +47,8 @@ Il est aussi possible d'utiliser le [format Markdown de Discord](/wiki/interface
 <a:NAME:ID>
 ```
 
-:::tip Astuce
-
-Ce format peut se récupérer en tapant dans la barre d'envoie de message un anti-slash **\\** puis en plaçant l'émojis, via le sélecteur par exemple.
-
+:::tip
+Ce format peut se récupérer en tapant dans la barre d'envoie de message un anti-slash **\\** puis en plaçant l'émoji, via le sélecteur par exemple.
 :::
 
 ## Réactions

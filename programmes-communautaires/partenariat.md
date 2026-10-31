@@ -45,9 +45,9 @@ Une fois le serveur communautaire activé, il faut se rendre dans l'onglet "Part
 Les conditions suivantes sont nécessaires pour postuler :
 
 * Avoir au moins 500 membres.
-* Avoir au moins 50 personnes actives (communiquant) sur le serveur par semaine.
+* Avoir au moins 50 personnes actives (communicant) sur le serveur par semaine.
 * Avoir au moins 100 visiteurs, qui ne participent pas forcément, mais qui "visitent le serveur".
-* Sur les utilisateurs "visitant" le serveur, il est nécessaire qu'au minimum 20% d'entre-eux ne quittent pas le serveur, et ce chaque semaine sur une durée totale de 8 semaines ; c'est ce qui est appelé la "rétention".
+* Sur les utilisateurs "visitant" le serveur, il est nécessaire qu'au minimum 20% d'entre eux ne quittent pas le serveur, et ce chaque semaine sur une durée totale de 8 semaines ; c'est ce qui est appelé la "rétention".
 
 Les statistiques de serveurs sont disponibles sur le [portail des développeurs](https://discord.com/developers/servers).
 

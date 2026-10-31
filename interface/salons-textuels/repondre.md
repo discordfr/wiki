@@ -29,7 +29,7 @@ Pour utiliser cette fonctionnalité sur pc, il y a deux façons :
 
 Sur mobile, il suffira d’appuyer longuement sur un message et de sélectionner “répondre”.
 
-![Fonctionnalité "répondre" sur mobile au clic long](https://i.dfr.gg/JPa.jpg)
+![Fonctionnalité "répondre" sur mobile au long clic](https://i.dfr.gg/JPa.jpg)
 ![Barre de message marqué comme réponse](https://i.dfr.gg/sPh.jpg)
 
 :::tip

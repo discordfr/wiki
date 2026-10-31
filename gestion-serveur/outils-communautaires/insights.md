@@ -73,7 +73,7 @@ Les critères suivants peuvent y être retrouvés :
 * Le nombre d'utilisateurs pouvant être congédiés.
 
 :::caution
-Cet onglet est uniquement accessible aux serveurs de plus de 500 membres n'ayant pas désactivé le suivi analytique dans leurs paramètres.
+Cet onglet est exclusivement ouvert aux serveurs de plus de 500 membres n'ayant pas désactivé le suivi analytique dans leurs paramètres.
 :::
 
 ### Audience
@@ -85,10 +85,10 @@ On y retrouve la proportion :
 * Des régions du monde/pays dont sont membres les utilisateurs du serveur.
 * De l'appareil utilisé (`Ordinateur uniquement`, `Téléphone uniquement` et `Téléphone et ordinateur`).
 * Du temps depuis lequel ils sont membres du serveur (`< 1 mois`, `1 - 6 mois`, `6 mois - 1 an` et `1 an et +`).
-* D'utilisateurs nouveaux sur Discord (`< 1 mois`).
+* De nouveaux utilisateurs sur Discord (`< 1 mois`).
 
 :::caution
-Cet onglet est uniquement accessible aux serveurs de plus de 500 membres n'ayant pas désactivé le suivi analytique dans leurs paramètres.
+Cet onglet est seulement accessible aux serveurs de plus de 500 membres n'ayant pas désactivé le suivi analytique dans leurs paramètres.
 :::
 
 ### Announcement channels
@@ -102,7 +102,7 @@ On y retrouve notamment :
 * La taille des serveurs suivant le serveur en question (`< 30 membres`, `30 - 200 membres`, `200 - 1000 membres`, `1000 - 10 000 membres`, `10 000 et +` et `N/A` (indéterminé)).
 
 :::note
-Cet onglet est accessible à tous les serveurs communautaires, peu importe leur taille.
+Cet onglet est ouvert à tous les serveurs communautaires, peu importe leur taille.
 :::
 
 ### Welcome screen
@@ -112,7 +112,7 @@ Signifiant "Écran d'accueil", cet onglet affiche des informations sur les membr
 On y retrouve :
 
 * Les personnes ayant vu l'écran d'accueil.
-* La proportion de personnes ayant cliqué sur une option du menu ainsi que celle ayant par la suite envoyé un message.
+* La proportion de personnes ayant cliqué sur une option du menu ainsi que celle qui ont par la suite envoyé un message.
 
 :::note
 Cet onglet est accessible à tous les serveurs communautaires, peu importe leur taille.
@@ -123,5 +123,5 @@ Cet onglet est accessible à tous les serveurs communautaires, peu importe leur 
 Désignant le [programme partenaire de Discord](/wiki/programmes-communautaires/partenariat), cet onglet permet d'accéder soit à l'activité du serveur requise par rapport aux exigences de ce programme communautaire, soit de comparer les statistiques actuelles d'un serveur partenaire par rapport aux demandes de Discord.
 
 :::caution
-Cet onglet est uniquement accessible aux serveurs de plus de 500 membres n'ayant pas désactivé le suivi analytique dans leurs paramètres.
+Cet onglet est uniquement ouvert aux serveurs de plus de 500 membres n'ayant pas désactivé le suivi analytique dans leurs paramètres.
 :::

@@ -68,7 +68,7 @@ Si un intervenant utilise sa caméra ou fait un partage d'écran, la limite dép
 ## Informations complémentaires
 
 * Lors de l'activation d'un Stage Channel, il devient vert et une notification apparaît en haut du serveur pour notifier de la présence d'une présentation.
-* Un sujet doit être ajoutée au salon et sera affichée directement en dessous de son nom pour donner une courte description de la discussion.
+* Un sujet doit être ajouté au salon et sera affichée directement en dessous de son nom pour donner une courte description de la discussion.
 * Jusqu'à 5 personnes en conférence peuvent activer leurs caméras et faire un partage d'écran en simultané.
 * Les membres présents dans une conférence en cours reçoivent un statut l'indiquant.
 

@@ -14,7 +14,7 @@ Si un message est envoyé sur Discord : le token est sollicité pour envoyer l�
 Chaque bot ou compte requiert un token pour être autorisé à fonctionner sur la plateforme. Ils sont générés par Discord et sont composés de moitié à partir de votre identifiant unique Discord. Donc pas de panique si un utilisateur vous partage le début de votre token !
 
 Il est crucial de traiter les tokens avec beaucoup de précautions, car quiconque a accès à un token Discord peut contrôler le bot ou le compte associé.
-En ce qui concerne les bots, les tokens ne doivent jamais être partagés publiquement ou inclus dans du code source accessible par d'autres utilisateurs, car cela pourrait compromettre la sécurité du bot.
+En ce qui concerne les bots, les tokens ne doivent jamais être partagés publiquement ou inclus dans du code source accessible par d'autres utilisateurs, puisque cela pourrait compromettre la sécurité du bot.
 
 ## Comment changer son token ?
 
@@ -33,7 +33,7 @@ Voici une liste non exhaustive des choses à ne surtout pas faire :
 Pour un compte utilisateur,
 
 * Installer un logiciel malveillant, un “jeu” envoyé en messages privés, une pièce téléchargeable envoyée par un utilisateur.
-* Utiliser des scripts pour modifier votre interface Discord ou carrément faire usage d’un client (logiciel) qui n’est pas officiel (BetterDiscord, des plugins, ou autre solutions alternatives) qui peuvent compromettre la sécurité de votre compte.
+* Utiliser des scripts pour modifier votre interface Discord ou carrément faire usage d’un client (logiciel) qui n’est pas officiel (BetterDiscord, des plugins, ou autres solutions alternatives) qui peuvent compromettre la sécurité de votre compte.
 
 Pour les bots,
 
