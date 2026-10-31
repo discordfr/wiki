@@ -14,7 +14,7 @@ Discord offre la possibilité à ses utilisateurs d'utiliser des emojis dans les
 
 ## Les emojis par défaut
 
-Comme bien d'autres plateformes de discussion, des emojis par défaut, de type "unicode" stylisés par la suite, sont présents sur Discord. Ces emojis sont utilisables sur n'importe quel serveur par n'importe qui sans restriction.
+Comme bien d'autres plateformes de discussion, des emojis par défaut, de type "Unicode" stylisés par la suite, sont présents sur Discord. Ces emojis sont utilisables sur n'importe quel serveur par n'importe qui sans restriction.
 
 ## Les emojis personnalisés
 
@@ -36,7 +36,7 @@ Les applications Discord peuvent avoir leur propre émojis. Ces derniers peuvent
 
 Pour utiliser un émoji dans un message, il suffit d'écrire :le_nom_de_votre_emoji:.
 
-Un sélecteur d'émojis dans la barre d'envoie de message est disponible.
+Un sélecteur d'émojis dans la barre d'envoi de message est disponible.
 
 ![Sélecteur d'émojis, section émojis par défaut](https://i.dfr.gg/a8eP.png)
 
@@ -47,10 +47,8 @@ Il est aussi possible d'utiliser le [format Markdown de Discord](/wiki/interface
 <a:NAME:ID>
 ```
 
-:::tip Astuce
-
-Ce format peut se récupérer en tapant dans la barre d'envoie de message un anti-slash **\\** puis en placant l'émojis, via le sélecteur par exemple.
-
+:::tip
+Ce format peut se récupérer en tapant dans la barre d'envoie de message un anti-slash **\\** puis en plaçant l'émoji, via le sélecteur par exemple.
 :::
 
 ## Réactions
@@ -58,7 +56,7 @@ Ce format peut se récupérer en tapant dans la barre d'envoie de message un ant
 Les émojis peuvent aussi être utilisé en réaction sous un message.
 
 Pour l'utiliser en tant que réaction, il faut cliquer sur "Ajouter une réaction", puis sélectionner l'emoji souhaité.
- 
+
 ![Bouton pour une réaction sous un message](https://i.dfr.gg/icm.png)
 
 Pour les utilisateurs de [Nitro](/wiki/contenu-payant/abonnements-nitro) est aussi possible de faire une "super réaction", qui ajoutera une animation à chaque réaction mise sur un message, et mettra la réaction en surbrillance. Ce mode est activable dans le panel de sélection des émojis.

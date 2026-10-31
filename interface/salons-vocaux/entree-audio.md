@@ -21,19 +21,19 @@ Dans les **paramètres utilisateur**, menu "Voix & Vidéo" dans la section "Para
 
 Une sélection de 3 choix s'offrent alors à l'utilisateur :
 
-- **Isolement de la voix**, applique la configuration optimale afin de laisser uniquement la voix transparaître.
+* **Isolement de la voix**, applique la configuration optimale afin de laisser uniquement la voix transparaître.
   Ce profil permet de configurer les paramètres suivant :
-  - [Appuyer pour parler](#appuyer-pour-parler)
-- **Studio**, qui ne définit aucun filtre et laisse tous les bruits passer.
+  * [Appuyer pour parler](#appuyer-pour-parler)
+* **Studio**, qui ne définit aucun filtre et laisse tous les bruits passer.
   Ce profil ne donne pas accès à de configuration supplémentaire.
-- **Personnalisés**, permettant un maximum de personnalisation.
+* **Personnalisés**, permettant un maximum de personnalisation.
   Ce profil permet de configurer les paramètres suivant :
-  - [Ajuster automatiquement la sensibilité de la détection de la voix](#sensibilité-détection-voix)
-  - [Suppression du bruit](#suppression-du-bruit)
-  - [Annulation d'écho](#annulation-décho)
-  - [Appuyer pour parler](#appuyer-pour-parler)
+  * [Ajuster automatiquement la sensibilité de la détection de la voix](#sensibilité-détection-voix)
+  * [Suppression du bruit](#suppression-du-bruit)
+  * [Annulation d'écho](#annulation-décho)
+  * [Appuyer pour parler](#appuyer-pour-parler)
 
-Quelque soit le profil sélectionné par l'utilisateur, les [paramètres vocaux avancés](#paramètres-vocaux-avancés) font partie de la configuration.
+Quel que soit le profil sélectionné par l'utilisateur, les [paramètres vocaux avancés](#paramètres-vocaux-avancés) font partie de la configuration.
 
 ### Ajuster automatiquement la sensibilité de la détection de la voix {#sensibilité-détection-voix}
 
@@ -43,9 +43,9 @@ Sélection manuelle ou détection automatique de la sensibilité, bascule entre 
 
 Sélection de l'algorithme de suppression du bruit, parmi les choix suivants :
 
-- Krisp, l'algorithme fait par [Krisp](#fonctionnement-de-krisp)
-- Standard
-- Aucun, désactive la suppression de bruit par défaut
+* Krisp, l'algorithme fait par [Krisp](#fonctionnement-de-krisp)
+* Standard
+* Aucun, désactive la suppression de bruit par défaut
 
 ### Annulation d'écho
 

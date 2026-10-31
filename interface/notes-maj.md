@@ -15,11 +15,12 @@ Les notes de mises à jour expliquent ce qu'il y a de nouveau sur Discord. Elles
 Elles sont automatiquement affichées lors du démarrage de l'application après certaines mises à jour.
 
 :::note
-- Il n'y a pas de notes à chaque mise à jour.
-- Les notes résument souvent plusieurs mises à jour.
+* Il n'y a pas de notes à chaque mise à jour.
+* Les notes résument souvent plusieurs mises à jour.
 :::
 
-## Où les trouver ?
+## Voir les notes de MAJ
+
 Il est possible de retrouver la dernière note dans les paramètres en cliquant sur « Notes de mise à jour ».
 
 ![Trouver les notes de mise à jour](https://i.dfr.gg/u1w.gif)

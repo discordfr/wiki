@@ -18,9 +18,10 @@ Cette fonctionnalité est située au-dessus des messages privés, dans un onglet
 ## Utilisation de la fonctionnalité
 
 Chaque demande de message peut être traitée individuellement de plusieurs façons :
-- Accepter le MP, qui permet de transférer la demande en message privé classique.
-- Ignorer, qui supprime la conversation avec l'utilisateur.
-- Voir la demande, qui affiche le message dans son intégralité.
+
+* Accepter le MP, qui permet de transférer la demande en message privé classique.
+* Ignorer, qui supprime la conversation avec l'utilisateur.
+* Voir la demande, qui affiche le message dans son intégralité.
 
 :::note
 Après avoir accepté la demande de message d'un utilisateur, il est impossible de recevoir une autre demande de celui-ci.

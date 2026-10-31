@@ -9,9 +9,10 @@ keywords:
 description:  Les serveurs officiellement affiliés à une marque ou personnalité sur Discord
 contributors: [karal, wolfyzdbois]
 ---
+
 Plus d'informations sur la certification sont disponibles [sur l'article officiel du support](https://support.discord.com/hc/fr/articles/360001107231-Pr%C3%A9requis-du-Serveur-Certifi%C3%A9).
 
-*********************
+---
 
 Un serveur certifié est un serveur affilié officiellement à une marque, un créateur de contenu, ou d'intérêt public.
 
@@ -26,17 +27,21 @@ Depuis le 14 juillet 2023, Discord a suspendu la possibilité de postuler afin d
 :::
 
 Pour faire vérifier son serveur il faut respecter plusieurs conditions:
-- Il faut être un **représentant officiel** de la marque/entreprise/personnalité d'intérêt public.
-- Il est nécessaire d'**associer tout compte social** de la marque/entreprise/personnalité d'intérêt public à son profil Discord et au [site de vérification](https://discord.com/verification).
-- La personne demandant la vérification doit utiliser une **adresse mail officielle** afin de montrer qu'elle occupe une fonction officielle.
-:::note 
-Une adresse mail officielle est sous la forme suivante: xxxxxx@sitedelamarque.com
+
+* Il faut être un **représentant officiel** de la marque/entreprise/personnalité d'intérêt public.
+* Il est nécessaire d'**associer tout compte social** de la marque/entreprise/personnalité d'intérêt public à son profil Discord et au [site de vérification](https://discord.com/verification).
+* La personne demandant la vérification doit utiliser une **adresse mail officielle** afin de montrer qu'elle occupe une fonction officielle.
+
+:::note
+Une adresse mail officielle est sous la forme suivante: `xxxxxx@sitedelamarque.com`
 :::
 
 Le serveur se doit d'être:
-- Authentique: le serveur représente une marque, une entreprise ou une personne célèbre qui présente un intérêt public.
-- Reconnaissable: il faut que l'entreprise, la marque ou l'individu soit connu et apprécié.
-- Original: il ne doit pas copier un autre serveur et il doit avoir son propre style, il ne peut y avoir qu'un seul serveur certifié par entreprise/marque.
+
+* Authentique: le serveur représente une marque, une entreprise ou une personne célèbre qui présente un intérêt public.
+* Reconnaissable: il faut que l'entreprise, la marque ou l'individu soit connu et apprécié.
+* Original: il ne doit pas copier un autre serveur et il doit avoir son propre style, il ne peut y avoir qu'un seul serveur certifié par entreprise/marque.
+
 :::note
 Discord peut faire des exceptions dans le cas où la marque possède plusieurs serveurs de régions/langues différentes.
 :::

@@ -12,7 +12,7 @@ short_slug: false
 Discord permet aux utilisateurs d'envoyer des fichiers en pièce jointe dans un message.
 
 Dans le cas d'images, de vidéos ou de fichiers textuels, elles seront affichés et visibles par tous. Les vidéos peuvent également être lu directement sur l'application, via le lecture vidéo intégré.
-Le contenu des autres fichiers n'est pas visible dans l'application. 
+Le contenu des autres fichiers n'est pas visible dans l'application.
 
 L'envoi de fichier passe par le bouton **+** présent à gauche de la barre d'envoi de message sur mobile ou sur ordinateur. Il est nécessaire d'avoir la permission "**Joindre des fichiers**" pour envoyer un fichier dans le salon textuel d'un serveur.
 
@@ -24,7 +24,7 @@ Ces fichiers pourront être téléchargés par les autres utilisateurs.
 
 :::danger ATTENTION !!!
 
-Télécharger un fichier sur Discord peut être **très dangereux**, celui-ci pourrait être porteur d'un virus. Faites très attention à ce que vous téléchargez, y compris provennant d'un ami.
+Télécharger un fichier sur Discord peut être **très dangereux**, celui-ci pourrait être porteur d'un virus. Faites très attention à ce que vous téléchargez, y compris provenant d'un ami.
 
 :::
 
@@ -32,12 +32,11 @@ L'envoi d'images et de vidéos NSFW, c'est-à-dire du contenu dérangeant tel qu
 
 ## Personnalisation du fichier
 
-Il est possible de modifier le nom du fichier avant de l'envoyer ou de le mettre en spoiler (c'est-à-dire visible uniquement en cliquant dessus), grâce à l'icone du crayon présent sur le média. Sur téléphone, il est également possible de modifier l'image, en la retournant ou en la découpant.
+Il est possible de modifier le nom du fichier avant de l'envoyer ou de le mettre en spoiler (autrement dit, visible uniquement en cliquant dessus), grâce à l'icône du crayon présent sur le média. Sur téléphone, il est également possible de modifier l'image, en la retournant ou en la découpant.
 
 ![Interface de modification du nom de l'image sur ordinateur](https://i.dfr.gg/LFNg.png)
 
 ![Interface de modification de l'image sur téléphone](https://i.dfr.gg/W1zi.jpg)
-
 
 ## Limites de taille
 

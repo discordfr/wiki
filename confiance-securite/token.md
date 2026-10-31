@@ -13,12 +13,12 @@ Si un message est envoyé sur Discord : le token est sollicité pour envoyer l�
 
 Chaque bot ou compte requiert un token pour être autorisé à fonctionner sur la plateforme. Ils sont générés par Discord et sont composés de moitié à partir de votre identifiant unique Discord. Donc pas de panique si un utilisateur vous partage le début de votre token !
 
-Il est crucial de traiter les tokens avec beaucoup de précautions, car quiconque a accès à un token Discord peut contrôler le bot ou le compte associé. 
-En ce qui concerne les bots, les tokens ne doivent jamais être partagés publiquement ou inclus dans du code source accessible par d'autres utilisateurs, car cela pourrait compromettre la sécurité du bot. 
+Il est crucial de traiter les tokens avec beaucoup de précautions, car quiconque a accès à un token Discord peut contrôler le bot ou le compte associé.
+En ce qui concerne les bots, les tokens ne doivent jamais être partagés publiquement ou inclus dans du code source accessible par d'autres utilisateurs, puisque cela pourrait compromettre la sécurité du bot.
 
 ## Comment changer son token ?
 
-En cas de compromission d'un token, il est recommandé de le réinitialiser immédiatement pour éviter tout accès non autorisé au bot. 
+En cas de compromission d'un token, il est recommandé de le réinitialiser immédiatement pour éviter tout accès non autorisé au bot.
 Pour changer le token d’un compte il suffit de se rendre dans les paramètres Discord et de changer votre mot de passe.
 Pour changer le token d’un bot, il faut se rendre sur le Portail des Développeurs, sur votre application et réinitialiser le token directement.
 
@@ -31,11 +31,13 @@ Un token ne peut pas proprement être sécurisé, c'est la sécurité de la mach
 Voici une liste non exhaustive des choses à ne surtout pas faire :
 
 Pour un compte utilisateur,
-- Installer un logiciel malveillant, un “jeu” envoyé en messages privés, une pièce téléchargeable envoyée par un utilisateur.
-- Utiliser des scripts pour modifier votre interface Discord ou carrément faire usage d’un client (logiciel) qui n’est pas officiel (BetterDiscord, des plugins, ou autre solutions alternatives) qui peuvent compromettre la sécurité de votre compte.
+
+* Installer un logiciel malveillant, un “jeu” envoyé en messages privés, une pièce téléchargeable envoyée par un utilisateur.
+* Utiliser des scripts pour modifier votre interface Discord ou carrément faire usage d’un client (logiciel) qui n’est pas officiel (BetterDiscord, des plugins, ou autres solutions alternatives) qui peuvent compromettre la sécurité de votre compte.
 
 Pour les bots,
-- Partager le token avec d’autres utilisateurs, 
-- Utiliser des logiciels qui permettent de connecter celui-ci
-- Héberger son bot sur des hébergeurs qui ne sont pas sécurisés, reconnus et qui ne protègent pas les données personnelles.
-- Ne pas mettre clairement le token dans le code.
+
+* Partager le token avec d’autres utilisateurs,
+* Utiliser des logiciels qui permettent de connecter celui-ci
+* Héberger son bot sur des hébergeurs qui ne sont pas sécurisés, reconnus et qui ne protègent pas les données personnelles.
+* Ne pas mettre clairement le token dans le code.

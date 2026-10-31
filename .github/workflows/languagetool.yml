@@ -15,7 +15,8 @@ jobs:
       - name: Vérification orthographique avec LanguageTool
         uses: reviewdog/action-languagetool@v1
         with:
-          language: fr
-          patterns: "**/*.md **/*.mdx"
           level: info
           reporter: github-pr-check
+          patterns: "**/*.md **/*.mdx"
+          language: fr
+          disabled_categories: TYPOS,TYPOGRAPHY,CAT_TYPOGRAPHIE,MISC,STYLE

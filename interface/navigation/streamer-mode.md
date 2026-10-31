@@ -5,11 +5,11 @@ keywords:
   - mode
   - live
   - direct
-description: Mode permettant de cacher des informations personelles et couper certains bruits pendant un stream
+description: Mode permettant de cacher des informations personnelles et couper certains bruits pendant un stream
 contributors: [wolfyzdbois, volcanofr]
 ---
 
-Le **mode Streamer** permet de masquer ses informations personnelles sur la plateforme et supprimer les sons superflux.
+Le **mode Streamer** permet de masquer ses informations personnelles sur la plateforme et supprimer les sons superflu.
 
 ## Fonctionnalités
 

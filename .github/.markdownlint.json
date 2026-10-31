@@ -1,80 +1,77 @@
 {
-	"MD001": { "enabled": true, "severity": "error" },
-	"MD003": { "enabled": true, "severity": "error",
+	"MD001": { "enabled": true, "severity": "warning" },
+	"MD003": { "enabled": true, "severity": "warning",
 		"style": "atx"
 	},
-	"MD004": { "enabled": true, "severity": "error", "style": "asterisk" },
-	"MD005": { "enabled": true, "severity": "error" },
-	"MD007": { "enabled": true, "severity": "error",
+	"MD004": { "enabled": true, "severity": "warning", "style": "asterisk" },
+	"MD005": { "enabled": true, "severity": "warning" },
+	"MD007": { "enabled": true, "severity": "warning",
 		"indent": 2,
 		"start_indented": false
 	},
-	"MD009": { "enabled": true, "severity": "error",
+	"MD009": { "enabled": true, "severity": "warning",
 		"br_spaces": 0,
 		"code_blocks": false,
 		"list_item_empty_lines": true,
 		"strict": true
 	},
-	"MD010": { "enabled": true, "severity": "error",
+	"MD010": { "enabled": true, "severity": "warning",
 		"code_blocks": false,
 		"spaces_per_tab": 2
 	},
-	"MD011": { "enabled": true, "severity": "error" },
-	"MD012": { "enabled": true, "severity": "error",
+	"MD011": { "enabled": true, "severity": "warning" },
+	"MD012": { "enabled": true, "severity": "warning",
 		"maximum": 1
 	},
 	"MD013": { "enabled": false },
 	"MD014": { "enabled": false },
-	"MD018": { "enabled": true, "severity": "error" },
-	"MD019": { "enabled": true, "severity": "error" },
+	"MD018": { "enabled": true, "severity": "warning" },
+	"MD019": { "enabled": true, "severity": "warning" },
 	"MD020": { "enabled": false },
 	"MD021": { "enabled": false },
-	"MD022": { "enabled": true, "severity": "error",
+	"MD022": { "enabled": true, "severity": "warning",
 		"include_front_matter": true,
 		"lines_above": 1,
 		"lines_below": 1
 	},
-	"MD023": { "enabled": true, "severity": "error" },
-	"MD024": { "enabled": true, "severity": "error",
+	"MD023": { "enabled": true, "severity": "warning" },
+	"MD024": { "enabled": true, "severity": "warning",
 		"siblings_only": false
 	},
-	"MD025": { "enabled": true, "severity": "error",
+	"MD025": { "enabled": true, "severity": "warning",
 		"level": 1
 	},
-	"MD026": { "enabled": true, "severity": "error",
+	"MD026": { "enabled": true, "severity": "warning",
 		"punctuation": ".,;:!?。，；：！？·…‥⋯‐‒–—―⸺⸻"
 	},
-	"MD027": { "enabled": true, "severity": "error",
+	"MD027": { "enabled": true, "severity": "warning",
 		"list_items": true
 	},
-	"MD028": { "enabled": true, "severity": "error" },
-	"MD029": { "enabled": true, "severity": "error",
+	"MD028": { "enabled": true, "severity": "warning" },
+	"MD029": { "enabled": true, "severity": "warning",
 		"style": "ordered"
 	},
-	"MD030": { "enabled": true, "severity": "error",
+	"MD030": { "enabled": true, "severity": "warning",
 		"ol_multi": 1,
 		"ol_single": 1,
 		"ul_multi": 1,
 		"ul_single": 1
 	},
-	"MD031": { "enabled": true, "severity": "error",
+	"MD031": { "enabled": true, "severity": "warning",
 		"list_items": true
 	},
-	"MD032": { "enabled": true, "severity": "error" },
-	"MD033": { "enabled": true, "severity": "error",
-		"allowed_elements": ["details", "summary"],
-		"table_allowed_elements": []
-	},
-	"MD034": { "enabled": true, "severity": "error" },
-	"MD035": { "enabled": true, "severity": "error",
+	"MD032": { "enabled": true, "severity": "warning" },
+	"MD033": { "enabled": false },
+	"MD034": { "enabled": true, "severity": "warning" },
+	"MD035": { "enabled": true, "severity": "warning",
 		"style": "---"
 	},
 	"MD036": { "enabled": true, "severity": "warning",
 		"punctuation": ".,;:!?。，；：！？·…‥⋯‐‒–—―⸺⸻"
 	},
-	"MD037": { "enabled": true, "severity": "error" },
-	"MD038": { "enabled": true, "severity": "error" },
-	"MD039": { "enabled": true, "severity": "error" },
+	"MD037": { "enabled": true, "severity": "warning" },
+	"MD038": { "enabled": true, "severity": "warning" },
+	"MD039": { "enabled": true, "severity": "warning" },
 	"MD040": { "enabled": false,
 		"allowed_languages": [
 			"text",
@@ -377,43 +374,43 @@
 			"zig"
 		]
 	},
-	"MD041": { "enabled": true, "severity": "error",
+	"MD041": { "enabled": true, "severity": "warning",
 		"allow_preamble": true,
 		"level": 2
 	},
-	"MD042": { "enabled": true, "severity": "error" },
+	"MD042": { "enabled": true, "severity": "warning" },
 	"MD043": { "enabled": false },
-	"MD044": { "enabled": true, "severity": "error",
+	"MD044": { "enabled": true, "severity": "warning",
 		"code_blocks": true,
 		"html_elements": true,
 		"names": ["Discord"]
 	},
-	"MD045": { "enabled": true, "severity": "error" },
-	"MD046": { "enabled": true, "severity": "error",
+	"MD045": { "enabled": true, "severity": "warning" },
+	"MD046": { "enabled": true, "severity": "warning",
 		"style": "fenced"
 	},
-	"MD047": { "enabled": true, "severity": "error" },
-	"MD048": { "enabled": true, "severity": "error",
+	"MD047": { "enabled": true, "severity": "warning" },
+	"MD048": { "enabled": true, "severity": "warning",
 		"style": "backtick"
 	},
-	"MD049": { "enabled": true, "severity": "error",
+	"MD049": { "enabled": true, "severity": "warning",
 		"style": "underscore"
 	},
-	"MD050": { "enabled": true, "severity": "error",
+	"MD050": { "enabled": true, "severity": "warning",
 		"style": "asterisk"
 	},
 	"MD051": { "enabled": true, "severity": "warning",
 		"ignore_case": false,
 		"ignored_pattern": ""
 	},
-	"MD052": { "enabled": true, "severity": "error",
+	"MD052": { "enabled": true, "severity": "warning",
 		"ignored_labels": [],
 		"shortcut_syntax": false
 	},
-	"MD053": { "enabled": true, "severity": "error",
+	"MD053": { "enabled": true, "severity": "warning",
 		"ignored_definitions": ["//"]
 	},
-	"MD054": { "enabled": true, "severity": "error",
+	"MD054": { "enabled": true, "severity": "warning",
 		"autolink": true,
 		"collapsed": false,
 		"full": false,
@@ -421,11 +418,11 @@
 		"shortcut": false,
 		"url_inline": true
 	},
-	"MD055": { "enabled": true, "severity": "error",
+	"MD055": { "enabled": true, "severity": "warning",
 		"style": "leading_and_trailing"
 	},
-	"MD056": { "enabled": true, "severity": "error" },
-	"MD058": { "enabled": true, "severity": "error" },
+	"MD056": { "enabled": true, "severity": "warning" },
+	"MD058": { "enabled": true, "severity": "warning" },
 	"MD059": { "enabled": true, "severity": "warning",
 		"prohibited_texts": [
 			"click here", "cliquez ici",
@@ -436,6 +433,6 @@
 	},
 	"MD060": { "enabled": true, "severity": "warning",
 		"aligned_delimiter": true,
-		"style": "aligned"
+		"style": "compact"
 	}
 }
