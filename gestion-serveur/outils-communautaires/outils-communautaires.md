@@ -6,23 +6,23 @@ keywords:
 - communauté
 - communautaire
 - programme
-description: Les fonctionnalitées associées aux serveurs ayant activés la communauté
+description: Les fonctionnalités associées aux serveurs ayant activés la communauté
 contributors: [luke, darkooo]
 ---
 
-Les **serveurs communautaires**, qui sont apparus depuis août 2020, ont accès à des fonctionnalitées supplémentaires par rapport aux serveurs "privés" (n'ayant pas activé la communauté).
+Les **serveurs communautaires**, qui sont apparus depuis août 2020, ont accès à des fonctionnalités supplémentaires par rapport aux serveurs "privés" (n'ayant pas activé la communauté).
 Ils ont notamment l'accès à des statistiques, à des fonctionnalités de modération supplémentaires ainsi qu'un processus d'acceuil des nouveaux membres.
 
 ## Activation de la communauté
 
 La communauté de serveur peut être activée par l'**administrateur** de serveur, via les **paramètres du serveur**.
-Dans l'onglet "**Activer la communauté**" se trouve un bouton du même nom qui permet d'accéder à toutes les fonctionnalitées liées.
+Dans l'onglet "**Activer la communauté**" se trouve un bouton du même nom qui permet d'accéder à toutes les fonctionnalités liées.
 
 ![Activation du serveur communautaire](https://i.dfr.gg/Ra86.png)
 
 ### Étapes de préparation
 
-La première étape permet d'optionellement obliger les membres du serveur à avoir une adresse e-mail vérifiée sur leur compte Discord.
+La première étape permet d'optionnellement obliger les membres du serveur à avoir une adresse e-mail vérifiée sur leur compte Discord.
 Elle permet aussi à Discord d'analyser les contenus médias de tous les membres.
 
 ![Première étape - Activer la Communauté de serveur](https://i.dfr.gg/aRtm.png)
@@ -36,7 +36,7 @@ Le salon qui héberge les règles aura une icône spéciale :
 
 La troisième et dernière étape consiste à définir les notifications du serveur par défaut sur `Mentions seulement` ainsi qu'à désactiver les permissions risquées pour `@everyone` (les permissions risquées sont : Administrateur, Expulser des membres, Bannir des membres, Gérer le serveur, Gérer les salons, Gérer les rôles, Gérer les messages, Gérer les emojis, Création d'emoji, Gérer les événements, Créer des événements, Modérer les membres, Mentionner @everyone et Gérer les messages officiels).
 
-Les serveurs de communauté douvent déclarer application de la [Charte d'utilisation des serveurs communautaires](https://support.discord.com/hc/articles/360035969312).
+Les serveurs de communauté doivent déclarer application de la [Charte d'utilisation des serveurs communautaires](https://support.discord.com/hc/articles/360035969312).
 
 ![Troisième étape - Activer la communauté de serveur](https://i.dfr.gg/m3AS.png)
 
@@ -48,7 +48,7 @@ Activer la **Communauté de serveur** permet à votre serveur d'accéder à plus
 
 ### Analyses de serveur
 
-Les analyses de serveur permettent de visualiser le nombre de serveurs recevant les messages annoncés des salons d'annonces ainsi que le nombre de membres visualisant l'écran d'acceuil.
+Les analyses de serveur permettent de visualiser le nombre de serveurs recevant les messages annoncés des salons d'annonces ainsi que le nombre de membres visualisant l'écran d'accueil.
 **Si le serveur a plus de 500 membres**, l'utilisateur peut aussi accéder aux statistiques sur la croissance, sur la participation et sur le public touché.
 
 > En savoir plus : [aller sur la page](/wiki/gestion-serveur/outils-communautaires/insights 'Statistiques de serveur')
@@ -68,7 +68,7 @@ Grâce au processus d'accueil il est possible : d'aider les membres à choisir d
 
 > En savoir plus : [aller sur l'article](/blog/2023/07/05/onboarding-processus-accueil 'Un nouveau processus d'accueil pour les serveurs Discord ?')
 
-![Processus d'acceuil](https://i.dfr.gg/SvLw.png)
+![Processus d'accueil](https://i.dfr.gg/SvLw.png)
 
 Pour activer/configurer ce menu, l'utilisateur doit accéder aux paramètres du serveur, onglet **Processus d'accueil**.
 
@@ -78,7 +78,7 @@ Un bouton "Y jeter un œil" permet d'activer la fonctionnalité si cela n'a pas 
 
 Une fois activé, plusieurs paramètres sont disponibles sur la sécurité, sur les salons visibles par défaut, sur les questions de personnalisation ainsi que le guide du serveur.
 
-![Configurer le processus d'acceuil](https://i.dfr.gg/E7Cb.png)
+![Configurer le processus d'accueil](https://i.dfr.gg/E7Cb.png)
 
 :::note
 Pour utiliser des emojis personnalisés dans le processus d'accueil, le serveur doit avoir débloqué le [niveau 2 des boosts de serveur](/wiki/contenu-payant/boost-serveur#niveau-2).
@@ -87,7 +87,7 @@ Pour utiliser des emojis personnalisés dans le processus d'accueil, le serveur 
 ### Salon d'annonce
 
 Les membres peuvent suivre un salon d'annonce sur leurs propres serveurs.
-Les messages publiés apparaîssent sur tous les salons suivant le salon d'annonce correspondant.
+Les messages publiés apparaissent sur tous les salons suivant le salon d'annonce correspondant.
 
 ![Suivre un salon d'annonce](https://i.dfr.gg/eLp.png)
 

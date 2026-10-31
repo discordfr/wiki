@@ -43,7 +43,7 @@ Il n'est pas possible de configurer le nom, l'icône et la couleur de celui-ci, 
 ## Création d'un rôle
 
 Il existe deux possibilités pour créer un rôle : via le « + » ou le bouton bleu « Création de rôle ».
-Après cela, l'utilsateur créant le rôle est redirigé vers l'interface de personalisation du rôle.
+Après cela, l'utilisateur créant le rôle est redirigé vers l'interface de personnalisation du rôle.
 
 ![Créer un rôle via le "+"](https://i.dfr.gg/Oc7f.png)
 
@@ -70,9 +70,9 @@ En plus des 20 couleurs prédéfinies, une roue de couleurs (color wheel) est di
 ![Sélection personnalisée de couleur](https://i.dfr.gg/BZ8z.png)
 
 Discord ne préviendra pas si une couleur sera illisible dans vos salons écrits.
-Cependant, il est possible de vérifier visuellement la correspondance sur thême clair et sombre.
+Cependant, il est possible de vérifier visuellement la correspondance sur thème clair et sombre.
 
-![Illisibilité de couleur au thême sombre](https://i.dfr.gg/FaQ4.png)
+![Illisibilité de couleur au thème sombre](https://i.dfr.gg/FaQ4.png)
 
 Il est également possible de sélectionner un dégradé de couleur parmi 12 dégradés proposés par défaut, ou en sélectionnant deux couleurs dans la roue des couleurs.
 La couleur Holographique est également disponible, qui donnera un effet arc-en-ciel pastel.
@@ -101,7 +101,7 @@ Si cette option est activée, tout les utilisateurs du serveur pourront mentionn
 Cette fonctionnalité est disponible à partir du niveau 2 de [boost de serveur](/wiki/contenu-payant/boost-serveur).
 :::
 
-Le badge du plus haut rôle du membre parmis ceux ayant un badge personnalisé s'affiche de son nom d'affichage dans les discussions.
+Le badge du plus haut rôle du membre parmi ceux ayant un badge personnalisé s'affiche de son nom d'affichage dans les discussions.
 Sur l'affichage séparé dans la liste des membres, le badge est affiché à gauche du nom du rôle.
 Tous les badges de rôles sont visibles à gauche des noms de rôles correspondants dans le profil des membres.
 
@@ -125,7 +125,7 @@ Le membre pourra ensuite aller dans l'onglet "Rôle lié" dans le menu du serveu
 
 :::tip
 Il est également possible de créer sa propre connexion avec ses propres prérequis pour son serveur.
-La [documentation officielle de Discord Developper Portal](https://discord.com/developers/docs/tutorials/configuring-app-metadata-for-linked-roles) explique comment faire aux développeurs.
+La [documentation officielle de Discord Developer Portal](https://discord.com/developers/docs/tutorials/configuring-app-metadata-for-linked-roles) explique comment faire aux développeurs.
 :::
 
 ## Couronne du propriétaire

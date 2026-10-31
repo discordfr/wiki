@@ -28,7 +28,7 @@ Les auditeurs peuvent uniquement prendre la parole quand un modérateur leur pro
 
 Lorsque tous les intervenants ont coupé leur micro, Discord diffuse automatiquement une musique d'attente aux utilisateurs présents ne l'ayant pas désactivé.
 
-![Interfarce en étant dans un salon de conférence](https://i.dfr.gg/Ynus.png)
+![Interface en étant dans un salon de conférence](https://i.dfr.gg/Ynus.png)
 
 :::note
 Comme dans tous les salons vocaux, la [suppression des bruits de fond](/wiki/interface/salons-vocaux/entree-audio) n'est pas activée par défaut pour les intervenants.

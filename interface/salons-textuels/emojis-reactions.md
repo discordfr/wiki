@@ -14,7 +14,7 @@ Discord offre la possibilité à ses utilisateurs d'utiliser des emojis dans les
 
 ## Les emojis par défaut
 
-Comme bien d'autres plateformes de discussion, des emojis par défaut, de type "unicode" stylisés par la suite, sont présents sur Discord. Ces emojis sont utilisables sur n'importe quel serveur par n'importe qui sans restriction.
+Comme bien d'autres plateformes de discussion, des emojis par défaut, de type "Unicode" stylisés par la suite, sont présents sur Discord. Ces emojis sont utilisables sur n'importe quel serveur par n'importe qui sans restriction.
 
 ## Les emojis personnalisés
 
@@ -49,7 +49,7 @@ Il est aussi possible d'utiliser le [format Markdown de Discord](/wiki/interface
 
 :::tip Astuce
 
-Ce format peut se récupérer en tapant dans la barre d'envoie de message un anti-slash **\\** puis en placant l'émojis, via le sélecteur par exemple.
+Ce format peut se récupérer en tapant dans la barre d'envoie de message un anti-slash **\\** puis en plaçant l'émojis, via le sélecteur par exemple.
 
 :::
 

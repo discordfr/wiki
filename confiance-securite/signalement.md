@@ -7,7 +7,7 @@ keywords:
   - interdit
   - message
   - profil
-  - utilsateur
+  - utilisateur
   - serveur
 description: Le signalement de contenu ou comportement inapproprié sur Discord
 contributors: [wolfyzdbois, antow, volcanofr]
@@ -59,7 +59,7 @@ Si la violation se produit sur un serveur, il est également possible de contact
 
 Un profil peut se faire signaler par un utilisateur cliquant sur le menu à trois points, puis en sélectionnant "Signaler le profil utilisateur".
 Après confirmation du souhait de l'action, Discord propose une sélection multiple d'éléments à signaler (photo de profil, nom d'utilisateur, description et tag de serveur).
-Une fois les choix réalisés, un récapitulatif s'affichera à l'utilateur afin qu'il vérifie les informations.
+Une fois les choix réalisés, un récapitulatif s'affichera à l'utilisateur afin qu'il vérifie les informations.
 
 ![Signalement d'un utilisateur sur ordinateur](http://i.dfr.gg/DaEW.png)
 

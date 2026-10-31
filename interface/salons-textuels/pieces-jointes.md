@@ -24,7 +24,7 @@ Ces fichiers pourront être téléchargés par les autres utilisateurs.
 
 :::danger ATTENTION !!!
 
-Télécharger un fichier sur Discord peut être **très dangereux**, celui-ci pourrait être porteur d'un virus. Faites très attention à ce que vous téléchargez, y compris provennant d'un ami.
+Télécharger un fichier sur Discord peut être **très dangereux**, celui-ci pourrait être porteur d'un virus. Faites très attention à ce que vous téléchargez, y compris provenant d'un ami.
 
 :::
 
@@ -32,7 +32,7 @@ L'envoi d'images et de vidéos NSFW, c'est-à-dire du contenu dérangeant tel qu
 
 ## Personnalisation du fichier
 
-Il est possible de modifier le nom du fichier avant de l'envoyer ou de le mettre en spoiler (c'est-à-dire visible uniquement en cliquant dessus), grâce à l'icone du crayon présent sur le média. Sur téléphone, il est également possible de modifier l'image, en la retournant ou en la découpant.
+Il est possible de modifier le nom du fichier avant de l'envoyer ou de le mettre en spoiler (c'est-à-dire visible uniquement en cliquant dessus), grâce à l'icône du crayon présent sur le média. Sur téléphone, il est également possible de modifier l'image, en la retournant ou en la découpant.
 
 ![Interface de modification du nom de l'image sur ordinateur](https://i.dfr.gg/LFNg.png)
 

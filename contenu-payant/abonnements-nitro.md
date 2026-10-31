@@ -65,7 +65,7 @@ La version évolutive du badge Nitro n’est pas disponible avec un abonnement N
 
 Le badge Nitro évolue automatiquement à chaque nouveau palier d’abonnement atteint. L’apparence affichée sur le profil correspond au dernier palier franchi.
 
-![Capture Badges Evolutifs](https://i.dfr.gg/wHJp.png)
+![Évolution du badge Nitro](https://i.dfr.gg/wHJp.png)
 
 :::note
 En cas d’interruption de l’abonnement Nitro, puis de réabonnement ultérieur, la progression du badge est réinitialisée. Un abonnement continu est nécessaire pour maintenir la progression.

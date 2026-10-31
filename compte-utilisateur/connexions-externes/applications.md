@@ -14,7 +14,7 @@ short_slug: OAuth2
 ---
 
 Les applications sont créées sur le [portail développeurs](https://discord.com/developers/applications) de Discord.
-Elles permettent d'intéragir avec Discord avec un programme informatique.
+Elles permettent d'interagir avec Discord avec un programme informatique.
 
 ## Autoriser une application
 
